@@ -1,0 +1,331 @@
+How the words we teach English language learners changed
+Source: Hacker News
+Category: technology
+URL: https://pudding.cool/2026/07/essential-words
+Published: 2026-08-02T15:41:08+00:00
+Score: 3
+
+Cyberscript
+Source: Hacker News RSS
+Category: technology
+URL: https://cyberscript.dev/
+Published: 2026-08-02T07:58:30+00:00
+
+Article URL: https://cyberscript.dev Comments URL: https://news.ycombinator.com/item?id=49142130 Points: 41 # Comments: 42
+
+esengine / DeepSeek-Reasonix
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/esengine/DeepSeek-Reasonix
+
+DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+
+antirez / ds4
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/antirez/ds4
+
+DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+
+HarbourMasters / Lighthouse
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/HarbourMasters/Lighthouse
+
+NomaDamas / k-skill
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/NomaDamas/k-skill
+
+한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
+
+mvanhorn / last30days-skill
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mvanhorn/last30days-skill
+
+AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+
+Seedance 2.5
+Source: Hacker News
+Category: technology
+URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5
+Published: 2026-08-01T20:45:12+00:00
+Score: 401
+
+Diátaxis
+Source: Hacker News
+Category: technology
+URL: https://diataxis.fr/
+Published: 2026-08-01T20:33:27+00:00
+Score: 437
+
+Holocloth
+Source: Hacker News
+Category: technology
+URL: https://holocloth.vercel.app/
+Published: 2026-07-30T22:59:27+00:00
+Score: 79
+
+Norway Salmon
+Source: Hacker News
+Category: technology
+URL: https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872
+Published: 2026-07-28T01:54:31+00:00
+Score: 31
+
+Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/tom-ilan/cycloidal_gearbox
+Published: 2026-08-02T02:07:09+00:00
+
+Article URL: https://github.com/tom-ilan/cycloidal_gearbox Comments URL: https://news.ycombinator.com/item?id=49140396 Points: 239 # Comments: 77
+
+When random.bytes() runs but doesn't work
+Source: Hacker News RSS
+Category: technology
+URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt
+Published: 2026-08-02T02:08:26+00:00
+
+Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt Comments URL: https://news.ycombinator.com/item?id=49140405 Points: 78 # Comments: 39
+
+Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific
+Source: Hacker News RSS
+Category: technology
+URL: https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific
+Published: 2026-08-02T02:51:15+00:00
+
+Article URL: https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific# Comments URL: https://news.ycombinator.com/item?id=49140599 Points: 86 # Comments: 41
+
+MkLinux and the pimped-out Apple Workgroup Server 9150
+Source: Hacker News RSS
+Category: technology
+URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html
+Published: 2026-08-02T03:12:52+00:00
+
+Article URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html Comments URL: https://news.ycombinator.com/item?id=49140702 Points: 78 # Comments: 7
+
+Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
+Source: Hacker News RSS
+Category: technology
+URL: https://www.wafer.ai/blog/kimi-k3-mi355x
+Published: 2026-08-02T04:21:14+00:00
+
+Article URL: https://www.wafer.ai/blog/kimi-k3-mi355x Comments URL: https://news.ycombinator.com/item?id=49141073 Points: 171 # Comments: 89
+
+ESP32-C3 SuperMini antenna modification
+Source: Hacker News RSS
+Category: technology
+URL: https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification
+Published: 2026-08-02T06:56:38+00:00
+
+Article URL: https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/ Comments URL: https://news.ycombinator.com/item?id=49141828 Points: 27 # Comments: 5
+
+Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/syncular/syncular
+Published: 2026-08-02T09:48:08+00:00
+
+Article URL: https://github.com/syncular/syncular Comments URL: https://news.ycombinator.com/item?id=49142794 Points: 53 # Comments: 20
+
+Rust All Hands 2026 Retrospective
+Source: Hacker News RSS
+Category: technology
+URL: https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective
+Published: 2026-08-02T10:33:26+00:00
+
+Article URL: https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/ Comments URL: https://news.ycombinator.com/item?id=49143096 Points: 26 # Comments: 8
+
+Show HN: Katharos Functional programming and CSP-style concurrency for Python
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/kamalfarahani/katharos
+Published: 2026-08-02T10:45:11+00:00
+
+Article URL: https://github.com/kamalfarahani/katharos Comments URL: https://news.ycombinator.com/item?id=49143179 Points: 19 # Comments: 2
+
+Go 1.27 Interactive Tour
+Source: Hacker News
+Category: technology
+URL: https://victoriametrics.com/blog/go-1-27/index.html
+Published: 2026-08-02T01:35:51+00:00
+Score: 289
+
+TencentCloud / TencentDB-Agent-Memory
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/TencentCloud/TencentDB-Agent-Memory
+
+TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+
+Panniantong / Agent-Reach
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Panniantong/Agent-Reach
+
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+microsoft / generative-ai-for-beginners
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/microsoft/generative-ai-for-beginners
+
+21 Lessons, Get Started Building with Generative AI
+
+different-ai / openwork
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/different-ai/openwork
+
+The open-source alternative to Claude Cowork (powered by opencode)
+
+zhaoxuya520 / reverse-skill
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/zhaoxuya520/reverse-skill
+
+Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+
+codecrafters-io / build-your-own-x
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/codecrafters-io/build-your-own-x
+
+Master programming by recreating your favorite technologies from scratch.
+
+iv-org / invidious
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/iv-org/invidious
+
+Invidious is an alternative front-end to YouTube
+
+lyogavin / airllm
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/lyogavin/airllm
+
+AirLLM 70B inference with single 4GB GPU
+
+usekaneo / kaneo
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/usekaneo/kaneo
+
+🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+
+Folding Paper Globes
+Source: Hacker News
+Category: technology
+URL: https://foldingglobes.com/globes
+Published: 2026-07-29T05:53:00+00:00
+Score: 41
+
+Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge
+Source: Hacker News
+Category: technology
+URL: https://publicdomainreview.org/essay/ars-notoria
+Published: 2026-08-02T10:18:24+00:00
+Score: 73
+
+Fasttracker II clone in C using SDL 2
+Source: Hacker News
+Category: technology
+URL: https://16-bits.org/ft2.php
+Published: 2026-07-29T06:47:22+00:00
+Score: 25
+
+Show HN: Bor – Open-source policy management for Linux desktops
+Source: Hacker News
+Category: technology
+URL: https://getbor.dev/blog/2026-08-02-bor-v080-release
+Published: 2026-08-02T09:06:33+00:00
+Score: 110
+
+US Treasury undertakes historic intervention in yen market
+Source: Hacker News RSS
+Category: technology
+URL: https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8
+Published: 2026-08-02T10:46:28+00:00
+
+Article URL: https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8 Comments URL: https://news.ycombinator.com/item?id=49143188 Points: 104 # Comments: 61
+
+I made a Promise-aware debounce and throttle library for TypeScript
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/nyvexis1/temporize
+Published: 2026-08-02T11:07:56+00:00
+
+Article URL: https://github.com/nyvexis1/temporize Comments URL: https://news.ycombinator.com/item?id=49143304 Points: 9 # Comments: 4
+
+Show HN: Fuse – statically typed functional programming language
+Source: Hacker News RSS
+Category: technology
+URL: https://fuselang.org/
+Published: 2026-08-02T11:23:56+00:00
+
+Hi HN! I've been working on the fuse programming language, it's a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code. Fuse supports ADTs, Generics, Type Methods, Traits, Pattern matching etc. all in a functional style with no mutations. I’ve been developing the language for 5 years, with code written in Scala. I’ve started coding the language from the base of System F that was implemented as part of the book: Types and Programming Languages (tapl). And then extending with concepts such as Bidirectional Type Checking with Higher-Rank Polymorphism. I’ve mainly drawn inspiration from Rust, Haskell, Scala and Python (in terms of syntax). It all started because I wanted a language that has Rust-like concepts such as: ADT, Traits, Impl block syntax, etc. but have the pure functional semantics. I'd would love feedback on the language design and its general usage. Comments URL: https://news.ycombinator.com/item?id=49143412 Points: 42 # Comments: 7
+
+Wikimedia Foundation refuses union recognition, hires union-busting law firm
+Source: Hacker News RSS
+Category: technology
+URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes
+Published: 2026-08-02T11:24:20+00:00
+
+Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes Comments URL: https://news.ycombinator.com/item?id=49143414 Points: 206 # Comments: 184
+
+Meshdiff – visually compare two STL versions in the browser, client-side
+Source: Hacker News RSS
+Category: technology
+URL: https://meshdiff.com/
+Published: 2026-08-02T11:34:41+00:00
+
+Article URL: https://meshdiff.com/ Comments URL: https://news.ycombinator.com/item?id=49143479 Points: 97 # Comments: 11
+
+Great Question (YC W21) Is Hiring Senior Demand Gen Manager
+Source: Hacker News RSS
+Category: technology
+URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager
+Published: 2026-08-02T12:01:00+00:00
+
+Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager Comments URL: https://news.ycombinator.com/item?id=49143683 Points: 0 # Comments: 0
+
+F*: A general-purpose proof-oriented programming language
+Source: Hacker News RSS
+Category: technology
+URL: https://fstar-lang.org/
+Published: 2026-08-02T12:31:16+00:00
+
+Article URL: https://fstar-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49143925 Points: 34 # Comments: 8
+
+Twenty Years of RISC OS Open
+Source: Hacker News RSS
+Category: technology
+URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open
+Published: 2026-08-02T12:36:07+00:00
+
+Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Comments URL: https://news.ycombinator.com/item?id=49143967 Points: 58 # Comments: 9
+
+The Seinfeld Chronicles: Digital Edition
+Source: Hacker News RSS
+Category: technology
+URL: https://seinfeld.visualisingdata.com/
+Published: 2026-08-02T14:17:43+00:00
+
+Article URL: https://seinfeld.visualisingdata.com/ Comments URL: https://news.ycombinator.com/item?id=49144946 Points: 12 # Comments: 2
+
+microsoft / AI-For-Beginners
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/microsoft/AI-For-Beginners
+
+12 Weeks, 24 Lessons, AI for All!
+
+Ursula K. Le Guin: A Rant About "Technology" (2005)
+Source: Hacker News
+Category: technology
+URL: https://www.ursulakleguin.com/a-rant-about-technology
+Published: 2026-08-02T14:51:18+00:00
+Score: 33

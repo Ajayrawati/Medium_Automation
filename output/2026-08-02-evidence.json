@@ -1,0 +1,81 @@
+{
+  "topic": "Https Article Url",
+  "topic_key": "https-article-url",
+  "confidence": 87.76,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 91.32,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.76,
+  "evidence": [
+    {
+      "title": "A Rant About \u201cTechnology\u201d (2005)",
+      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "publisher": "www.ursulakleguin.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-02T16:06:00.675558+00:00"
+    },
+    {
+      "title": "Twenty Years of RISC OS Open",
+      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+      "publisher": "www.riscosopen.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-02T16:06:05.065445+00:00"
+    },
+    {
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "url": "https://fstar-lang.org/",
+      "publisher": "fstar-lang.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-02T16:06:06.334249+00:00"
+    },
+    {
+      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+      "publisher": "www.ycombinator.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-02T16:06:07.689262+00:00"
+    },
+    {
+      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
+      "url": "https://meshdiff.com/",
+      "publisher": "meshdiff.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-02T16:06:08.079360+00:00"
+    },
+    {
+      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+      "publisher": "en.wikipedia.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-02T16:06:08.502232+00:00"
+    }
+  ]
+}
