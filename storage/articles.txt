@@ -1,18 +1,3 @@
-How the words we teach English language learners changed
-Source: Hacker News
-Category: technology
-URL: https://pudding.cool/2026/07/essential-words
-Published: 2026-08-02T15:41:08+00:00
-Score: 3
-
-Cyberscript
-Source: Hacker News RSS
-Category: technology
-URL: https://cyberscript.dev/
-Published: 2026-08-02T07:58:30+00:00
-
-Article URL: https://cyberscript.dev Comments URL: https://news.ycombinator.com/item?id=49142130 Points: 41 # Comments: 42
-
 esengine / DeepSeek-Reasonix
 Source: GitHub Trending
 Category: technology
@@ -45,113 +30,6 @@ Category: technology
 URL: https://github.com/mvanhorn/last30days-skill
 
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-
-Seedance 2.5
-Source: Hacker News
-Category: technology
-URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5
-Published: 2026-08-01T20:45:12+00:00
-Score: 401
-
-Diátaxis
-Source: Hacker News
-Category: technology
-URL: https://diataxis.fr/
-Published: 2026-08-01T20:33:27+00:00
-Score: 437
-
-Holocloth
-Source: Hacker News
-Category: technology
-URL: https://holocloth.vercel.app/
-Published: 2026-07-30T22:59:27+00:00
-Score: 79
-
-Norway Salmon
-Source: Hacker News
-Category: technology
-URL: https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872
-Published: 2026-07-28T01:54:31+00:00
-Score: 31
-
-Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/tom-ilan/cycloidal_gearbox
-Published: 2026-08-02T02:07:09+00:00
-
-Article URL: https://github.com/tom-ilan/cycloidal_gearbox Comments URL: https://news.ycombinator.com/item?id=49140396 Points: 239 # Comments: 77
-
-When random.bytes() runs but doesn't work
-Source: Hacker News RSS
-Category: technology
-URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt
-Published: 2026-08-02T02:08:26+00:00
-
-Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt Comments URL: https://news.ycombinator.com/item?id=49140405 Points: 78 # Comments: 39
-
-Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific
-Source: Hacker News RSS
-Category: technology
-URL: https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific
-Published: 2026-08-02T02:51:15+00:00
-
-Article URL: https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific# Comments URL: https://news.ycombinator.com/item?id=49140599 Points: 86 # Comments: 41
-
-MkLinux and the pimped-out Apple Workgroup Server 9150
-Source: Hacker News RSS
-Category: technology
-URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html
-Published: 2026-08-02T03:12:52+00:00
-
-Article URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html Comments URL: https://news.ycombinator.com/item?id=49140702 Points: 78 # Comments: 7
-
-Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
-Source: Hacker News RSS
-Category: technology
-URL: https://www.wafer.ai/blog/kimi-k3-mi355x
-Published: 2026-08-02T04:21:14+00:00
-
-Article URL: https://www.wafer.ai/blog/kimi-k3-mi355x Comments URL: https://news.ycombinator.com/item?id=49141073 Points: 171 # Comments: 89
-
-ESP32-C3 SuperMini antenna modification
-Source: Hacker News RSS
-Category: technology
-URL: https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification
-Published: 2026-08-02T06:56:38+00:00
-
-Article URL: https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/ Comments URL: https://news.ycombinator.com/item?id=49141828 Points: 27 # Comments: 5
-
-Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/syncular/syncular
-Published: 2026-08-02T09:48:08+00:00
-
-Article URL: https://github.com/syncular/syncular Comments URL: https://news.ycombinator.com/item?id=49142794 Points: 53 # Comments: 20
-
-Rust All Hands 2026 Retrospective
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective
-Published: 2026-08-02T10:33:26+00:00
-
-Article URL: https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/ Comments URL: https://news.ycombinator.com/item?id=49143096 Points: 26 # Comments: 8
-
-Show HN: Katharos Functional programming and CSP-style concurrency for Python
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/kamalfarahani/katharos
-Published: 2026-08-02T10:45:11+00:00
-
-Article URL: https://github.com/kamalfarahani/katharos Comments URL: https://news.ycombinator.com/item?id=49143179 Points: 19 # Comments: 2
-
-Go 1.27 Interactive Tour
-Source: Hacker News
-Category: technology
-URL: https://victoriametrics.com/blog/go-1-27/index.html
-Published: 2026-08-02T01:35:51+00:00
-Score: 289
 
 TencentCloud / TencentDB-Agent-Memory
 Source: GitHub Trending
@@ -216,106 +94,6 @@ URL: https://github.com/usekaneo/kaneo
 
 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 
-Folding Paper Globes
-Source: Hacker News
-Category: technology
-URL: https://foldingglobes.com/globes
-Published: 2026-07-29T05:53:00+00:00
-Score: 41
-
-Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge
-Source: Hacker News
-Category: technology
-URL: https://publicdomainreview.org/essay/ars-notoria
-Published: 2026-08-02T10:18:24+00:00
-Score: 73
-
-Fasttracker II clone in C using SDL 2
-Source: Hacker News
-Category: technology
-URL: https://16-bits.org/ft2.php
-Published: 2026-07-29T06:47:22+00:00
-Score: 25
-
-Show HN: Bor – Open-source policy management for Linux desktops
-Source: Hacker News
-Category: technology
-URL: https://getbor.dev/blog/2026-08-02-bor-v080-release
-Published: 2026-08-02T09:06:33+00:00
-Score: 110
-
-US Treasury undertakes historic intervention in yen market
-Source: Hacker News RSS
-Category: technology
-URL: https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8
-Published: 2026-08-02T10:46:28+00:00
-
-Article URL: https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8 Comments URL: https://news.ycombinator.com/item?id=49143188 Points: 104 # Comments: 61
-
-I made a Promise-aware debounce and throttle library for TypeScript
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/nyvexis1/temporize
-Published: 2026-08-02T11:07:56+00:00
-
-Article URL: https://github.com/nyvexis1/temporize Comments URL: https://news.ycombinator.com/item?id=49143304 Points: 9 # Comments: 4
-
-Show HN: Fuse – statically typed functional programming language
-Source: Hacker News RSS
-Category: technology
-URL: https://fuselang.org/
-Published: 2026-08-02T11:23:56+00:00
-
-Hi HN! I've been working on the fuse programming language, it's a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code. Fuse supports ADTs, Generics, Type Methods, Traits, Pattern matching etc. all in a functional style with no mutations. I’ve been developing the language for 5 years, with code written in Scala. I’ve started coding the language from the base of System F that was implemented as part of the book: Types and Programming Languages (tapl). And then extending with concepts such as Bidirectional Type Checking with Higher-Rank Polymorphism. I’ve mainly drawn inspiration from Rust, Haskell, Scala and Python (in terms of syntax). It all started because I wanted a language that has Rust-like concepts such as: ADT, Traits, Impl block syntax, etc. but have the pure functional semantics. I'd would love feedback on the language design and its general usage. Comments URL: https://news.ycombinator.com/item?id=49143412 Points: 42 # Comments: 7
-
-Wikimedia Foundation refuses union recognition, hires union-busting law firm
-Source: Hacker News RSS
-Category: technology
-URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes
-Published: 2026-08-02T11:24:20+00:00
-
-Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes Comments URL: https://news.ycombinator.com/item?id=49143414 Points: 206 # Comments: 184
-
-Meshdiff – visually compare two STL versions in the browser, client-side
-Source: Hacker News RSS
-Category: technology
-URL: https://meshdiff.com/
-Published: 2026-08-02T11:34:41+00:00
-
-Article URL: https://meshdiff.com/ Comments URL: https://news.ycombinator.com/item?id=49143479 Points: 97 # Comments: 11
-
-Great Question (YC W21) Is Hiring Senior Demand Gen Manager
-Source: Hacker News RSS
-Category: technology
-URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager
-Published: 2026-08-02T12:01:00+00:00
-
-Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager Comments URL: https://news.ycombinator.com/item?id=49143683 Points: 0 # Comments: 0
-
-F*: A general-purpose proof-oriented programming language
-Source: Hacker News RSS
-Category: technology
-URL: https://fstar-lang.org/
-Published: 2026-08-02T12:31:16+00:00
-
-Article URL: https://fstar-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49143925 Points: 34 # Comments: 8
-
-Twenty Years of RISC OS Open
-Source: Hacker News RSS
-Category: technology
-URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open
-Published: 2026-08-02T12:36:07+00:00
-
-Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Comments URL: https://news.ycombinator.com/item?id=49143967 Points: 58 # Comments: 9
-
-The Seinfeld Chronicles: Digital Edition
-Source: Hacker News RSS
-Category: technology
-URL: https://seinfeld.visualisingdata.com/
-Published: 2026-08-02T14:17:43+00:00
-
-Article URL: https://seinfeld.visualisingdata.com/ Comments URL: https://news.ycombinator.com/item?id=49144946 Points: 12 # Comments: 2
-
 microsoft / AI-For-Beginners
 Source: GitHub Trending
 Category: technology
@@ -323,9 +101,197 @@ URL: https://github.com/microsoft/AI-For-Beginners
 
 12 Weeks, 24 Lessons, AI for All!
 
-Ursula K. Le Guin: A Rant About "Technology" (2005)
+Autoregressive Language Model on the 6502 Processor
 Source: Hacker News
 Category: technology
-URL: https://www.ursulakleguin.com/a-rant-about-technology
-Published: 2026-08-02T14:51:18+00:00
-Score: 33
+URL: https://mattbeton.com/blog/bitnet-6502.html
+Published: 2026-07-31T13:08:30+00:00
+Score: 110
+
+How do you rewrite C/C++ projects to Rust?
+Source: Hacker News
+Category: technology
+URL: https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration
+Published: 2026-07-29T01:12:09+00:00
+Score: 14
+
+Why we write our own C and C++ inference engines
+Source: Hacker News
+Category: technology
+URL: https://localai.io/blog/why-we-write-our-own-engines
+Published: 2026-07-31T16:17:04+00:00
+Score: 57
+
+Karpathy’s Pelican
+Source: Hacker News
+Category: technology
+URL: https://twitter.com/karpathy/status/2083749667410727319
+Published: 2026-08-02T04:05:56+00:00
+Score: 571
+
+Prevent cognitive debt by manually retyping LLM-generated code
+Source: Hacker News
+Category: technology
+URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code
+Published: 2026-08-03T09:32:07+00:00
+Score: 11
+
+Show HN: ssh ssh.place
+Source: Hacker News RSS
+Category: technology
+URL: https://ssh.place/
+Published: 2026-08-03T00:23:21+00:00
+
+Article URL: https://ssh.place Comments URL: https://news.ycombinator.com/item?id=49149805 Points: 114 # Comments: 69
+
+CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/johnsonjh/cpm386
+Published: 2026-08-03T00:38:10+00:00
+
+Article URL: https://github.com/johnsonjh/cpm386 Comments URL: https://news.ycombinator.com/item?id=49149898 Points: 68 # Comments: 30
+
+Show HN: Isopolis – Isometric pixel map of SF
+Source: Hacker News RSS
+Category: technology
+URL: https://sf.isopolis.city/
+Published: 2026-08-03T00:46:38+00:00
+
+Article URL: https://sf.isopolis.city/ Comments URL: https://news.ycombinator.com/item?id=49149966 Points: 218 # Comments: 49
+
+RFC 9851: TLS 1.2 is in Feature Freeze
+Source: Hacker News RSS
+Category: technology
+URL: https://www.rfc-editor.org/rfc/rfc9851.html
+Published: 2026-08-03T01:23:26+00:00
+
+Article URL: https://www.rfc-editor.org/rfc/rfc9851.html Comments URL: https://news.ycombinator.com/item?id=49150181 Points: 36 # Comments: 16
+
+Qwen3.8-Max: A New Bar for Coding and Cowork
+Source: Hacker News RSS
+Category: technology
+URL: https://qwen.ai/blog?id=qwen3.8
+Published: 2026-08-03T02:16:09+00:00
+
+Article URL: https://qwen.ai/blog?id=qwen3.8 Comments URL: https://news.ycombinator.com/item?id=49150470 Points: 561 # Comments: 281
+
+AI migrated legacy COBOL programs to Java, bugs included
+Source: Hacker News RSS
+Category: technology
+URL: https://arxiv.org/abs/2607.28271
+Published: 2026-08-03T03:06:12+00:00
+
+Article URL: https://arxiv.org/abs/2607.28271 Comments URL: https://news.ycombinator.com/item?id=49150773 Points: 64 # Comments: 49
+
+More German than many Germans
+Source: Hacker News RSS
+Category: technology
+URL: https://mertbulan.com/more-german-than-many-germans
+Published: 2026-08-03T06:00:14+00:00
+
+Article URL: https://mertbulan.com/more-german-than-many-germans/ Comments URL: https://news.ycombinator.com/item?id=49151734 Points: 264 # Comments: 182
+
+Situational Awareness and the Impending Stock Market Volatility
+Source: Hacker News RSS
+Category: technology
+URL: https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture
+Published: 2026-08-03T06:17:53+00:00
+
+Article URL: https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/ Comments URL: https://news.ycombinator.com/item?id=49151871 Points: 9 # Comments: 4
+
+Don't be a meat proxy
+Source: Hacker News RSS
+Category: technology
+URL: https://gruhn.me/blog/2026-08-03
+Published: 2026-08-03T06:28:01+00:00
+
+Article URL: https://gruhn.me/blog/2026-08-03/ Comments URL: https://news.ycombinator.com/item?id=49151933 Points: 542 # Comments: 235
+
+Rust project goals: Immobile types and guaranteed destructors
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md
+Published: 2026-08-03T06:42:00+00:00
+
+Article URL: https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md Comments URL: https://news.ycombinator.com/item?id=49152023 Points: 69 # Comments: 15
+
+The AI Productivity Gap
+Source: Hacker News RSS
+Category: technology
+URL: https://bjorg.bjornroche.com/management/ai-productivity-gap
+Published: 2026-08-03T07:07:20+00:00
+
+Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 31 # Comments: 34
+
+The Shape of Things to Come
+Source: Hacker News RSS
+Category: technology
+URL: https://yegge.ai/essays/the-shape-of-things-to-come
+Published: 2026-08-03T07:22:27+00:00
+
+Article URL: https://yegge.ai/essays/the-shape-of-things-to-come/ Comments URL: https://news.ycombinator.com/item?id=49152316 Points: 14 # Comments: 8
+
+Octane – React's programming model, compiled
+Source: Hacker News RSS
+Category: technology
+URL: https://octanejs.dev/
+Published: 2026-08-03T08:04:04+00:00
+
+Article URL: https://octanejs.dev Comments URL: https://news.ycombinator.com/item?id=49152640 Points: 16 # Comments: 4
+
+Bonsai: Janestreet's UI Library
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/janestreet/bonsai
+Published: 2026-08-03T08:29:57+00:00
+
+Article URL: https://github.com/janestreet/bonsai Comments URL: https://news.ycombinator.com/item?id=49152842 Points: 31 # Comments: 6
+
+Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge
+Source: Hacker News RSS
+Category: technology
+URL: https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration
+Published: 2026-08-03T08:34:24+00:00
+
+Article URL: https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration Comments URL: https://news.ycombinator.com/item?id=49152871 Points: 5 # Comments: 0
+
+The true power of regular expressions (2012)
+Source: Hacker News RSS
+Category: technology
+URL: https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html
+Published: 2026-08-03T08:47:23+00:00
+
+Article URL: https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html Comments URL: https://news.ycombinator.com/item?id=49152973 Points: 3 # Comments: 0
+
+PISIGuard: Protect your personal and sensitive info when you chat with AI
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/mohamed--abdel-maksoud/pisiguard
+Published: 2026-08-03T08:54:00+00:00
+
+Article URL: https://github.com/mohamed--abdel-maksoud/pisiguard Comments URL: https://news.ycombinator.com/item?id=49153029 Points: 4 # Comments: 2
+
+Less Coffee, Better Sleep
+Source: Hacker News RSS
+Category: technology
+URL: https://www.marginalia.nu/log/a_109_sleep2
+Published: 2026-08-03T09:10:07+00:00
+
+Article URL: https://www.marginalia.nu/log/a_109_sleep2/ Comments URL: https://news.ycombinator.com/item?id=49153158 Points: 4 # Comments: 1
+
+MPs demand answers on Fujitsu's inclusion in lucrative frameworks
+Source: Hacker News RSS
+Category: technology
+URL: https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks
+Published: 2026-08-03T09:25:15+00:00
+
+Article URL: https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks Comments URL: https://news.ycombinator.com/item?id=49153308 Points: 9 # Comments: 0
+
+What DMARC Protects You From, and What It Does Not
+Source: Hacker News RSS
+Category: technology
+URL: https://senderledger.com/articles/what-dmarc-actually-protects-you-from
+Published: 2026-08-03T09:29:46+00:00
+
+Article URL: https://senderledger.com/articles/what-dmarc-actually-protects-you-from Comments URL: https://news.ycombinator.com/item?id=49153361 Points: 4 # Comments: 0

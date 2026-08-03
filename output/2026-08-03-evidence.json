@@ -1,0 +1,81 @@
+{
+  "topic": "Url News.ycombinator.com Item",
+  "topic_key": "url-news.ycombinator.com-item",
+  "confidence": 87.85,
+  "score_breakdown": {
+    "source_quality": 65.24,
+    "corroboration": 100.0,
+    "recency": 91.4,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.85,
+  "evidence": [
+    {
+      "title": "What DMARC Protects You From, and What It Does Not",
+      "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+      "publisher": "senderledger.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-03T10:07:54.100611+00:00"
+    },
+    {
+      "title": "MPs demand answers on Fujitsu's inclusion in lucrative frameworks",
+      "url": "https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks",
+      "publisher": "www.computerweekly.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-03T10:07:54.443529+00:00"
+    },
+    {
+      "title": "Less Coffee, Better Sleep",
+      "url": "https://www.marginalia.nu/log/a_109_sleep2/",
+      "publisher": "www.marginalia.nu",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-03T10:07:55.348609+00:00"
+    },
+    {
+      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-03T10:07:56.039687+00:00"
+    },
+    {
+      "title": "The true power of regular expressions (2012)",
+      "url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+      "publisher": "www.npopov.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-03T10:07:56.168084+00:00"
+    },
+    {
+      "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+      "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+      "publisher": "arcbox.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-03T10:07:56.516206+00:00"
+    }
+  ]
+}
