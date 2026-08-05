@@ -1,16 +1,37 @@
-jamiepine / voicebox
+EveryInc / compound-engineering-plugin
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/jamiepine/voicebox
+URL: https://github.com/EveryInc/compound-engineering-plugin
 
-The open-source AI voice studio. Clone, dictate, create.
+Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
-usekaneo / kaneo
+esengine / DeepSeek-Reasonix
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/usekaneo/kaneo
+URL: https://github.com/esengine/DeepSeek-Reasonix
 
-🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+
+browser-use / video-use
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/browser-use/video-use
+
+Edit videos with coding agents
+
+tailwindlabs / tailwindcss
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/tailwindlabs/tailwindcss
+
+A utility-first CSS framework for rapid UI development.
+
+angular / angular
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/angular/angular
+
+Deliver web apps with confidence 🚀
 
 livekit / agents
 Source: GitHub Trending
@@ -19,47 +40,47 @@ URL: https://github.com/livekit/agents
 
 A framework for building realtime voice AI agents 🤖🎙️📹
 
-iv-org / invidious
+usekaneo / kaneo
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/iv-org/invidious
+URL: https://github.com/usekaneo/kaneo
 
-Invidious is an alternative front-end to YouTube
+🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 
-Alishahryar1 / free-claude-code
+denoland / deno
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Alishahryar1/free-claude-code
+URL: https://github.com/denoland/deno
 
-Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
+A modern runtime for JavaScript and TypeScript.
 
-Panniantong / Agent-Reach
+gabime / spdlog
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Panniantong/Agent-Reach
+URL: https://github.com/gabime/spdlog
 
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+Fast C++ logging library.
 
-shiyu-coder / Kronos
+webpack / webpack
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/shiyu-coder/Kronos
+URL: https://github.com/webpack/webpack
 
-Kronos: A Foundation Model for the Language of Financial Markets
+A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 
-antirez / ds4
+lyogavin / airllm
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/antirez/ds4
+URL: https://github.com/lyogavin/airllm
 
-DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+AirLLM 70B inference with single 4GB GPU
 
-donnemartin / system-design-primer
+cypress-io / cypress
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/donnemartin/system-design-primer
+URL: https://github.com/cypress-io/cypress
 
-Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+Fast, easy and reliable testing for anything that runs in a browser.
 
 microsoft / generative-ai-for-beginners
 Source: GitHub Trending
@@ -68,26 +89,19 @@ URL: https://github.com/microsoft/generative-ai-for-beginners
 
 21 Lessons, Get Started Building with Generative AI
 
-microsoft / AI-For-Beginners
+obra / superpowers
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/microsoft/AI-For-Beginners
+URL: https://github.com/obra/superpowers
 
-12 Weeks, 24 Lessons, AI for All!
+An agentic skills framework & software development methodology that works.
 
-TencentCloud / TencentDB-Agent-Memory
+uber / ADR
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/TencentCloud/TencentDB-Agent-Memory
+URL: https://github.com/uber/ADR
 
-TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-
-esengine / DeepSeek-Reasonix
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/esengine/DeepSeek-Reasonix
-
-DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 
 firecrawl / pdf-inspector
 Source: GitHub Trending
@@ -103,190 +117,218 @@ URL: https://github.com/zhaoxuya520/reverse-skill
 
 Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
-lyogavin / airllm
+TencentCloud / TencentDB-Agent-Memory
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/lyogavin/airllm
+URL: https://github.com/TencentCloud/TencentDB-Agent-Memory
 
-AirLLM 70B inference with single 4GB GPU
+TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
 
-Beauty in my backyard
+Video2NAND – Abusing video codecs for great computational power
 Source: Hacker News
 Category: technology
-URL: https://worksinprogress.co/issue/beauty-in-my-backyard
-Published: 2026-07-31T06:25:48+00:00
-Score: 19
-
-That time when I failed the Microsoft interview
-Source: Hacker News
-Category: technology
-URL: https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview
-Published: 2026-07-29T10:02:50+00:00
-Score: 53
-
-Amazonian civilization had estimated 3M people in 3% of forest area
-Source: Hacker News
-Category: technology
-URL: https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization
-Published: 2026-07-29T16:07:46+00:00
-Score: 145
-
-Bonsai: Janestreet's UI Library
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/janestreet/bonsai
-Published: 2026-08-03T08:29:57+00:00
-
-Article URL: https://github.com/janestreet/bonsai Comments URL: https://news.ycombinator.com/item?id=49152842 Points: 348 # Comments: 145
-
-Prevent cognitive debt by manually retyping LLM-generated code
-Source: Hacker News RSS
-Category: technology
-URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code
-Published: 2026-08-03T09:32:07+00:00
-
-Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 474 # Comments: 382
-
-MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui
-Published: 2026-08-03T13:34:43+00:00
-
-Article URL: https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui Comments URL: https://news.ycombinator.com/item?id=49155629 Points: 293 # Comments: 85
-
-Andy Pavlo joins ClickHouse to establish ClickHouse Labs
-Source: Hacker News RSS
-Category: technology
-URL: https://clickhouse.com/blog/andy-pavlo-joins-clickhouse
-Published: 2026-08-03T14:09:00+00:00
-
-Article URL: https://clickhouse.com/blog/andy-pavlo-joins-clickhouse Comments URL: https://news.ycombinator.com/item?id=49156011 Points: 309 # Comments: 65
-
-Devtools must be open source
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.exe.dev/devtools-must-be-open-source
-Published: 2026-08-03T14:15:47+00:00
-
-Article URL: https://blog.exe.dev/devtools-must-be-open-source Comments URL: https://news.ycombinator.com/item?id=49156111 Points: 595 # Comments: 199
-
-Ask HN: Who wants to be hired? (August 2026)
-Source: Hacker News RSS
-Category: technology
-URL: https://news.ycombinator.com/item?id=49156682
-Published: 2026-08-03T15:00:54+00:00
-
-Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here. Readers: please only email these addresses to discuss work opportunities. Searchers: try https://nthesis.ai/public/hn-wants-to-be-hired , https://www.wantstobehired.com . Comments URL: https://news.ycombinator.com/item?id=49156682 Points: 112 # Comments: 263
-
-Ask HN: Who is hiring? (August 2026)
-Source: Hacker News RSS
-Category: technology
-URL: https://news.ycombinator.com/item?id=49156683
-Published: 2026-08-03T15:00:54+00:00
-
-Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a household name, explain what your company does. Please only post if you are actively filling a position and are committed to replying to applicants. Commenters: please don't reply to job posts to complain about something. It's off topic here. Readers: please only email if you are personally interested in the job. Searchers: try https://nthesis.ai/public/hn-who-is-hiring , https://dheerajck.github.io/hnwhoishiring/ , http://nchelluri.github.io/hnjobs/ , https://hnjobs.emilburzo.com . Don't miss this other fine thread: Who wants to be hired? https://news.ycombinator.com/item?id=49156682 Comments URL: https://news.ycombinator.com/item?id=49156683 Points: 171 # Comments: 154
-
-Twenty Years of Pandoc
-Source: Hacker News RSS
-Category: technology
-URL: https://pandoc.org/twenty-years-of-pandoc.html
-Published: 2026-08-03T15:04:53+00:00
-
-Article URL: https://pandoc.org/twenty-years-of-pandoc.html Comments URL: https://news.ycombinator.com/item?id=49156750 Points: 240 # Comments: 29
-
-Ten advances in mathematics and theoretical computer science
-Source: Hacker News RSS
-Category: technology
-URL: https://openai.com/index/ten-advances-in-mathematics
-Published: 2026-08-03T16:27:12+00:00
-
-Article URL: https://openai.com/index/ten-advances-in-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49157930 Points: 533 # Comments: 814
-
-Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents
-Source: Hacker News RSS
-Category: technology
-URL: https://hoplite.sh/
-Published: 2026-08-03T16:32:06+00:00
-
-Hi HN, we’re Bence and Ryan, founders of Hoplite ( https://hoplite.sh ). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incredibly easy to QA features. During onboarding, we port over your local setup - sessions, memories, MCP servers, and get your projects ready to run in the cloud. Here’s a demo: https://youtu.be/bnyktZ_9pjE We got here after pivoting away from the idea we applied to YC with; AI for retail investing. It ultimately wasn’t a product that we ourselves would use, nor served a customer base that we felt connected to. In reflecting on what we really wanted to do, we realised that we loved talking to founders and developers, and were really opinionated about the specific area of cloud agents. We tried out all the existing solutions, and didn’t find one that A) took good advantage of being in the cloud, and B) was performant and felt good to use. We’re building a product that we feel reflects what mainstream development will look like in 6-12 months. As models improve, developers will end up reviewing less and less code, and will instead focus on reviewing the product output. That means evaluating new user flows, visually verifying that new features look good, that the API works as expected, that the CLI works on Windows, etc. And doing it while running hundreds of agents concurrently. On the agent side, we’ve created a custom harness. We spent a lot of time deciding on whether we should use an off the shelf solution like Codex/Claude Code, but ultimately wanted the independence and freedom that came with building it in house. It also means that we can test out completely new features without relying on Anthropic and OpenAI to catch up. Everything is hosted on AWS, with the exception of: Temporal for durable workflows, Modal for sandboxes, and Planetscale for our database. Our infra decisions were driven by a strong belief that agents are becoming a tier 0 piece of infrastructure, and they need the reliability and security to match that. You can try it now for free with the code ‘HACKERNEWS’ - we’ve included $100 in free credits, plus you can connect your Codex subscription and use OpenAI models via it. You can see some more details around our pricing at https://hoplite.sh/pricing . At the moment we’re focusing on optimising two key experiences: onboarding and previews, and would love to hear your feedback on them. And if you find that the agent's performance in certain tasks doesn’t match your expectations, please let us know! Comments URL: https://news.ycombinator.com/item?id=49157997 Points: 70 # Comments: 55
-
-Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/leonickson1/Swiftlet
-Published: 2026-08-03T16:54:15+00:00
-
-Article URL: https://github.com/leonickson1/Swiftlet Comments URL: https://news.ycombinator.com/item?id=49158333 Points: 162 # Comments: 67
-
-Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years
-Source: Hacker News RSS
-Category: technology
-URL: https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase
-Published: 2026-08-03T17:02:10+00:00
-
-Article URL: https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase Comments URL: https://news.ycombinator.com/item?id=49158474 Points: 160 # Comments: 40
-
-Smaller, faster, safer: running Kimi and GLM at scale
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.cloudflare.com/smaller-faster-safer-models
-Published: 2026-08-03T17:08:46+00:00
-
-Article URL: https://blog.cloudflare.com/smaller-faster-safer-models/ Comments URL: https://news.ycombinator.com/item?id=49158581 Points: 211 # Comments: 52
-
-LLMs reward expertise
-Source: Hacker News RSS
-Category: technology
-URL: https://www.seangoedecke.com/llms-reward-expertise
-Published: 2026-08-03T21:13:53+00:00
-
-Article URL: https://www.seangoedecke.com/llms-reward-expertise/ Comments URL: https://news.ycombinator.com/item?id=49161518 Points: 897 # Comments: 368
-
-Windows XP 2002 for the Itanium: Unbridled rage
-Source: Hacker News RSS
-Category: technology
-URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage
-Published: 2026-08-03T22:04:49+00:00
-
-Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/ Comments URL: https://news.ycombinator.com/item?id=49162086 Points: 102 # Comments: 53
+URL: https://sharedobject.blog/posts/vp8-combinatorial-logic
+Published: 2026-08-02T14:29:01+00:00
+Score: 61
 
 There Will Come Soft Rains (1950) [pdf]
-Source: Hacker News RSS
+Source: Hacker News
 Category: technology
 URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf
 Published: 2026-08-03T23:24:53+00:00
+Score: 379
 
-Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf Comments URL: https://news.ycombinator.com/item?id=49162653 Points: 148 # Comments: 56
+Rio-vt and librio: Rio's terminal engine, now embeddable
+Source: Hacker News
+Category: technology
+URL: https://rioterm.com/blog/2026/07/27/rio-vt-and-librio
+Published: 2026-07-28T14:15:49+00:00
+Score: 32
 
-Why did we wait so long for the bicycle? (2019)
+Show HN: Simple algorithm and color space to generate diverse skin tones
+Source: Hacker News
+Category: technology
+URL: https://toneyalexander.github.io/inclusive-color-space
+Published: 2026-08-04T15:16:22+00:00
+Score: 523
+
+The Pneumatics of Hero of Alexandria
+Source: Hacker News
+Category: technology
+URL: https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html
+Published: 2026-07-31T15:22:35+00:00
+Score: 26
+
+“Gravity is worth asking about”
+Source: Hacker News
+Category: technology
+URL: https://unsung.aresluna.org/gravity-is-worth-asking-about
+Published: 2026-07-30T03:57:33+00:00
+Score: 47
+
+Stateless MCP has recaptured my interest
+Source: Hacker News
+Category: technology
+URL: https://simonwillison.net/2026/Jul/31/stateless-mcp
+Published: 2026-08-01T05:51:36+00:00
+Score: 174
+
+When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle
-Published: 2026-08-03T23:44:19+00:00
+URL: https://arxiv.org/abs/2602.16763
+Published: 2026-08-04T16:10:39+00:00
 
-Article URL: https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle Comments URL: https://news.ycombinator.com/item?id=49162787 Points: 40 # Comments: 37
+Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 97 # Comments: 96
 
-Apple is getting this wrong
+Mistral's Shieldstral: 3B open-weights model for multimodal moderation
 Source: Hacker News RSS
 Category: technology
-URL: https://openai.com/index/apple-is-getting-this-wrong
-Published: 2026-08-04T05:32:13+00:00
+URL: https://mistral.ai/news/shieldstral
+Published: 2026-08-04T16:36:05+00:00
 
-Article URL: https://openai.com/index/apple-is-getting-this-wrong/ Comments URL: https://news.ycombinator.com/item?id=49164649 Points: 171 # Comments: 161
+Article URL: https://mistral.ai/news/shieldstral/ Comments URL: https://news.ycombinator.com/item?id=49171268 Points: 402 # Comments: 101
 
-Harness Engineering for Self-Improvement
+Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead
 Source: Hacker News RSS
 Category: technology
-URL: https://lilianweng.github.io/posts/2026-07-04-harness
-Published: 2026-08-04T06:17:54+00:00
+URL: https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead
+Published: 2026-08-04T17:00:12+00:00
 
-Article URL: https://lilianweng.github.io/posts/2026-07-04-harness/ Comments URL: https://news.ycombinator.com/item?id=49164896 Points: 9 # Comments: 0
+Article URL: https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead Comments URL: https://news.ycombinator.com/item?id=49171650 Points: 0 # Comments: 0
 
-CollectWise (YC F24) Is Hiring
+Waymo in Dallas
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer
-Published: 2026-08-04T07:01:26+00:00
+URL: https://waymo.com/blog/shorts/dallas-open-to-all
+Published: 2026-08-04T18:29:41+00:00
 
-Article URL: https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer Comments URL: https://news.ycombinator.com/item?id=49165170 Points: 0 # Comments: 0
+Article URL: https://waymo.com/blog/shorts/dallas-open-to-all/ Comments URL: https://news.ycombinator.com/item?id=49172836 Points: 289 # Comments: 512
+
+In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years
+Source: Hacker News RSS
+Category: technology
+URL: https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years
+Published: 2026-08-04T18:51:38+00:00
+
+Article URL: https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/ Comments URL: https://news.ycombinator.com/item?id=49173165 Points: 1327 # Comments: 76
+
+Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone
+Source: Hacker News RSS
+Category: technology
+URL: https://deepgrove.ai/maple-preview
+Published: 2026-08-04T19:44:55+00:00
+
+Article URL: https://deepgrove.ai/maple-preview Comments URL: https://news.ycombinator.com/item?id=49173984 Points: 110 # Comments: 31
+
+I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel
+Source: Hacker News RSS
+Category: technology
+URL: https://twitter.com/gwern/status/2084739205071343837
+Published: 2026-08-04T20:48:17+00:00
+
+https://twitter.com/willdepue/status/2084750925013434768 , https://xcancel.com/willdepue/status/2084750925013434768 https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=49174900 Points: 274 # Comments: 182
+
+AI fuels more than half of cybercrime in Africa as scams surge – Interpol
+Source: Hacker News RSS
+Category: technology
+URL: https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol
+Published: 2026-08-04T22:01:41+00:00
+
+https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 227 # Comments: 178
+
+DuckDB – Data power tools for your laptop, now in Clojure (2023)
+Source: Hacker News RSS
+Category: technology
+URL: https://techascent.com/blog/just-ducking-around.html
+Published: 2026-08-04T22:09:43+00:00
+
+Article URL: https://techascent.com/blog/just-ducking-around.html Comments URL: https://news.ycombinator.com/item?id=49175924 Points: 98 # Comments: 15
+
+Pi's Minimalism Is Its Advantage
+Source: Hacker News RSS
+Category: technology
+URL: https://earendil.com/posts/pi-autoresearch-and-databricks
+Published: 2026-08-04T22:22:12+00:00
+
+Article URL: https://earendil.com/posts/pi-autoresearch-and-databricks/ Comments URL: https://news.ycombinator.com/item?id=49176038 Points: 340 # Comments: 131
+
+We finally learned to center a div, then browsers added sidebars
+Source: Hacker News RSS
+Category: technology
+URL: https://seg6.space/posts/center-div
+Published: 2026-08-04T22:24:00+00:00
+
+Article URL: https://seg6.space/posts/center-div/ Comments URL: https://news.ycombinator.com/item?id=49176055 Points: 126 # Comments: 104
+
+Show HN: SIMD Viterbi Decoder in Rust
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/brian-armstrong/fec
+Published: 2026-08-04T22:37:05+00:00
+
+I wrote libcorrect in C in 2016 and wanted to revisit it in Rust. Instead of doing just a direct conversion, I went down the rabbit hole of making Rust's std::simd work for me. I ended up with a templated, generic Viterbi decoder for convolutional codes that dispatches the decode at runtime depending on which instruction sets are available. For small rates and orders, the entire decode lives in registers. Larger codes work through memory but take advantage of some acceleration structures. I also spent some time building a tool to find optimal (max d_free) conv codes for a given rate and order. Of course, there are better mechanisms available today, but I'm happy to talk through anything I learned in the process. Comments URL: https://news.ycombinator.com/item?id=49176212 Points: 45 # Comments: 4
+
+libexpat now funded by the City of Munich for up to 6 months
+Source: Hacker News RSS
+Category: technology
+URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical
+Published: 2026-08-04T23:18:12+00:00
+
+Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ Comments URL: https://news.ycombinator.com/item?id=49176606 Points: 263 # Comments: 55
+
+IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay
+Source: Hacker News RSS
+Category: technology
+URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak
+Published: 2026-08-04T23:31:46+00:00
+
+Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Points: 101 # Comments: 15
+
+Eight Myths on Software Engineering and GenAI
+Source: Hacker News RSS
+Category: technology
+URL: https://queue.acm.org/detail.cfm?id=3807963
+Published: 2026-08-04T23:50:52+00:00
+
+Article URL: https://queue.acm.org/detail.cfm?id=3807963 Comments URL: https://news.ycombinator.com/item?id=49176830 Points: 204 # Comments: 166
+
+Flowise is shutting down
+Source: Hacker News RSS
+Category: technology
+URL: https://flowiseai.com/sunset
+Published: 2026-08-05T00:02:40+00:00
+
+Article URL: https://flowiseai.com/sunset Comments URL: https://news.ycombinator.com/item?id=49176920 Points: 47 # Comments: 31
+
+Bugtraq is back
+Source: Hacker News RSS
+Category: technology
+URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E
+Published: 2026-08-05T00:05:49+00:00
+
+Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 43 # Comments: 9
+
+Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
+Source: Hacker News RSS
+Category: technology
+URL: https://arxiv.org/abs/2603.04221
+Published: 2026-08-05T00:10:37+00:00
+
+Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 84 # Comments: 67
+
+An SLM trained on $8 ESP32-S3
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/Carloscodix/qapla
+Published: 2026-08-05T04:07:27+00:00
+
+Article URL: https://github.com/Carloscodix/qapla Comments URL: https://news.ycombinator.com/item?id=49178464 Points: 25 # Comments: 7
+
+Zero-Mem: Zero-Token Memory Operations for LLM Agents
+Source: Hacker News RSS
+Category: technology
+URL: https://arxiv.org/abs/2607.29377
+Published: 2026-08-05T04:36:44+00:00
+
+Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 30 # Comments: 7
