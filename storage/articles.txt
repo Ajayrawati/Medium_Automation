@@ -1,100 +1,9 @@
-EveryInc / compound-engineering-plugin
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/EveryInc/compound-engineering-plugin
-
-Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
-
-esengine / DeepSeek-Reasonix
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/esengine/DeepSeek-Reasonix
-
-DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-
-browser-use / video-use
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/browser-use/video-use
-
-Edit videos with coding agents
-
-tailwindlabs / tailwindcss
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/tailwindlabs/tailwindcss
-
-A utility-first CSS framework for rapid UI development.
-
-angular / angular
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/angular/angular
-
-Deliver web apps with confidence 🚀
-
-livekit / agents
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/livekit/agents
-
-A framework for building realtime voice AI agents 🤖🎙️📹
-
-usekaneo / kaneo
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/usekaneo/kaneo
-
-🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
-
-denoland / deno
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/denoland/deno
-
-A modern runtime for JavaScript and TypeScript.
-
-gabime / spdlog
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/gabime/spdlog
-
-Fast C++ logging library.
-
-webpack / webpack
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/webpack/webpack
-
-A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-
 lyogavin / airllm
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/lyogavin/airllm
 
 AirLLM 70B inference with single 4GB GPU
-
-cypress-io / cypress
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cypress-io/cypress
-
-Fast, easy and reliable testing for anything that runs in a browser.
-
-microsoft / generative-ai-for-beginners
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/microsoft/generative-ai-for-beginners
-
-21 Lessons, Get Started Building with Generative AI
-
-obra / superpowers
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/obra/superpowers
-
-An agentic skills framework & software development methodology that works.
 
 uber / ADR
 Source: GitHub Trending
@@ -103,6 +12,48 @@ URL: https://github.com/uber/ADR
 
 ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 
+tailwindlabs / tailwindcss
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/tailwindlabs/tailwindcss
+
+A utility-first CSS framework for rapid UI development.
+
+vercel / next.js
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/vercel/next.js
+
+The React Framework
+
+roboflow / supervision
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/roboflow/supervision
+
+We write your reusable computer vision tools. 💜
+
+obra / superpowers
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/obra/superpowers
+
+An agentic skills framework & software development methodology that works.
+
+addyosmani / agent-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/addyosmani/agent-skills
+
+Production-grade engineering skills for AI coding agents.
+
+esengine / DeepSeek-Reasonix
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/esengine/DeepSeek-Reasonix
+
+DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+
 firecrawl / pdf-inspector
 Source: GitHub Trending
 Category: technology
@@ -110,12 +61,12 @@ URL: https://github.com/firecrawl/pdf-inspector
 
 Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 
-zhaoxuya520 / reverse-skill
+donnemartin / system-design-primer
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/zhaoxuya520/reverse-skill
+URL: https://github.com/donnemartin/system-design-primer
 
-Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 TencentCloud / TencentDB-Agent-Memory
 Source: GitHub Trending
@@ -124,211 +75,211 @@ URL: https://github.com/TencentCloud/TencentDB-Agent-Memory
 
 TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
 
-Video2NAND – Abusing video codecs for great computational power
-Source: Hacker News
+huangruiteng / loopx
+Source: GitHub Trending
 Category: technology
-URL: https://sharedobject.blog/posts/vp8-combinatorial-logic
-Published: 2026-08-02T14:29:01+00:00
-Score: 61
+URL: https://github.com/huangruiteng/loopx
 
-There Will Come Soft Rains (1950) [pdf]
-Source: Hacker News
-Category: technology
-URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf
-Published: 2026-08-03T23:24:53+00:00
-Score: 379
+Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
 
-Rio-vt and librio: Rio's terminal engine, now embeddable
-Source: Hacker News
+cloudflare / computer
+Source: GitHub Trending
 Category: technology
-URL: https://rioterm.com/blog/2026/07/27/rio-vt-and-librio
-Published: 2026-07-28T14:15:49+00:00
-Score: 32
+URL: https://github.com/cloudflare/computer
 
-Show HN: Simple algorithm and color space to generate diverse skin tones
-Source: Hacker News
-Category: technology
-URL: https://toneyalexander.github.io/inclusive-color-space
-Published: 2026-08-04T15:16:22+00:00
-Score: 523
+Give your agent a computer 👾
 
-The Pneumatics of Hero of Alexandria
+Morioka Shoten
 Source: Hacker News
 Category: technology
-URL: https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html
-Published: 2026-07-31T15:22:35+00:00
+URL: https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten
+Published: 2026-07-31T23:14:08+00:00
+Score: 8
+
+Decimen Optical Transfer: fountain-coded QR file transfer
+Source: Hacker News
+Category: technology
+URL: https://github.com/bashalarmistalt/decimen-optical-transfer
+Published: 2026-08-03T16:17:03+00:00
+Score: 22
+
+Quantego: A Family of Lego Models of IBM Quantum Computers
+Source: Hacker News
+Category: technology
+URL: https://quantego.org/
+Published: 2026-07-30T16:35:08+00:00
 Score: 26
 
-“Gravity is worth asking about”
+Branchless Rust: Making a Filter 4x Faster by Removing an If
 Source: Hacker News
 Category: technology
-URL: https://unsung.aresluna.org/gravity-is-worth-asking-about
-Published: 2026-07-30T03:57:33+00:00
-Score: 47
+URL: https://www.greyblake.com/blog/branchless-rust
+Published: 2026-08-03T06:37:05+00:00
+Score: 169
 
-Stateless MCP has recaptured my interest
+How to Make a Nintendo 64 Game in 2026
 Source: Hacker News
 Category: technology
-URL: https://simonwillison.net/2026/Jul/31/stateless-mcp
-Published: 2026-08-01T05:51:36+00:00
-Score: 174
+URL: https://phoboslab.org/log/2026/08/xibalba64-making-of
+Published: 2026-08-04T13:24:03+00:00
+Score: 56
 
-When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
+Cloudflare OS: an open platform for agents, apps, and work
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2602.16763
-Published: 2026-08-04T16:10:39+00:00
+URL: https://blog.cloudflare.com/cloudflare-os
+Published: 2026-08-05T13:58:53+00:00
 
-Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 97 # Comments: 96
+Article URL: https://blog.cloudflare.com/cloudflare-os/ Comments URL: https://news.ycombinator.com/item?id=49182996 Points: 551 # Comments: 263
 
-Mistral's Shieldstral: 3B open-weights model for multimodal moderation
+Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs
 Source: Hacker News RSS
 Category: technology
-URL: https://mistral.ai/news/shieldstral
-Published: 2026-08-04T16:36:05+00:00
+URL: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum
+Published: 2026-08-05T16:05:31+00:00
 
-Article URL: https://mistral.ai/news/shieldstral/ Comments URL: https://news.ycombinator.com/item?id=49171268 Points: 402 # Comments: 101
+https://www.axios.com/2026/08/05/google-deepmind-demis-hassa... https://www.reuters.com/business/google-shakes-up-ai-leaders... https://www.discoveryloop.com/ , https://news.ycombinator.com/item?id=49184960 https://twitter.com/JeffDean/status/2085034604172603724 , https://xcancel.com/JeffDean/status/2085034604172603724 Comments URL: https://news.ycombinator.com/item?id=49184755 Points: 650 # Comments: 702
 
-Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead
+Discovery Loop
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead
-Published: 2026-08-04T17:00:12+00:00
+URL: https://www.discoveryloop.com/
+Published: 2026-08-05T16:19:44+00:00
 
-Article URL: https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead Comments URL: https://news.ycombinator.com/item?id=49171650 Points: 0 # Comments: 0
+Article URL: https://www.discoveryloop.com/ Comments URL: https://news.ycombinator.com/item?id=49184960 Points: 742 # Comments: 463
 
-Waymo in Dallas
+Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod
 Source: Hacker News RSS
 Category: technology
-URL: https://waymo.com/blog/shorts/dallas-open-to-all
-Published: 2026-08-04T18:29:41+00:00
+URL: https://www.hyperprobe.co/
+Published: 2026-08-05T16:47:15+00:00
 
-Article URL: https://waymo.com/blog/shorts/dallas-open-to-all/ Comments URL: https://news.ycombinator.com/item?id=49172836 Points: 289 # Comments: 512
+Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production. When prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs don’t have. All this saves time and effort for engineers who’d otherwise dig through logs and traces or redeploy with console.logs or print statements until they find the root cause. Here is the link to the video that explains this: https://www.youtube.com/watch?v=ivV7I--ta5c Agents write most of our code now. This shrinks the useful context engineers need to debug AI written code, a problem not helped by the limited telemetry added in the same code by AI. So when something breaks in prod, the first instinct for an engineer is to open logs or throw them to your agents. But if the line you are looking for is not there, agents will start guessing the root cause on non-existent data, forcing you to add a log, and redeploy. This analysis-inference loop of agents with existing data does not come cheap, burning a lot of tokens. And the add log, redeploy cycle is so slow and painful that it makes engineers hate on-call. Our approach lets agents capture telemetry on-demand at the exact moment and point of failure, killing the log-redeploy cycle and getting the most accurate RCA while burning fewer tokens. The obvious problem is making it work on a running service. You can't pause a live service the way you'd pause a debugger on your laptop. Getting the value out of a running process safely, without pausing a thread or slowing the host is the challenge.We are making this happen. Before this I ran engineering at a 100 member team. Then Karan and I spent three years on HyperTest which was a testing tool. At HyperTest, we turned production traffic into integration tests using OpenTelemetry. That was production instrumentation too. The hard parts of pulling real runtime state out of a running service without breaking it, were the hard parts we learnt to put together. We learnt some other lessons the hard way too. HyperTest tried to prevent bugs with better tests, and adoption was a fight every time. Calls kept getting cancelled because teams were firefighting production. Testing was hygiene. Broken prod was hair on fire. This made us see where priorities lie. This seeded the idea of building a truly autonomous on-call agent i.e. one that takes an alert, probes, diagnoses and fixes it in a few minutes. But this is how it works as of now: You talk to your coding agent the way you already do. Tell it what's wrong: "checkout returns 200 but some users are seeing their order fail, find out why." It locates the line in your local code, connects to us over MCP, and drops a probe on that line in the running service. The probe is read-only and sits dormant until real traffic hits. When hit, it captures the local variables at every frame of the call stack at that exact moment. It hands them to the agent, which diagnoses with real data. There are two pieces. An SDK that runs inside your service, and an MCP server your coding agent talks to. The SDK is what makes setting probes (virtual breakpoints, log or metric) possible without a redeploy. In Node and Python it hooks in-process. In Java it attaches as a JVM agent, instrumenting at the bytecode level. Either way the service keeps running and serving traffic. Nothing pauses. When your agent wants to look at a line, it calls the MCP server, which tells the SDK to place a probe there. When a request hits the line, the SDK captures what the probe asked for, sanitizes it in-process, and streams it back to the agent via the MCP. This can run inside prod, so a probe can read any value sitting in that variable. We ensure redaction happens in-process, inside your own container's memory. This is before anything goes on the wire. Keys like password, token, authorization, ssn and credit card are redacted by default and you add your own. Also the probes read but never write, and if you want no captured state to ever leave your network you can self host the server, broker, and even the database in your infra. On overhead: when idle, the SDK adds negligible memory and effectively nothing to throughput and response time. Probes only cost anything while actively capturing. Also captures are bounded. A separate monitor watches in real time and pulls every active probe if overhead ever spikes. Every log-and-trace tool hands the agent data that already exists and asks it to reason backward to what probably happened. We think it is more useful to give agents eyes and ears into the running code, so they capture what they need when they need it, right at the point of failure. This seems like the simplest and fastest way to debug prod incidents. We’d love the community to try this in any environment to debug any known or unknown issue by just chatting with your coding agent. And let us know what more features you need to make this a truly autonomous on-call agent Supported platforms: NodeJs, Java, Python. Comments URL: https://news.ycombinator.com/item?id=49185389 Points: 56 # Comments: 41
 
-In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years
+Celld: Self-hosted, distributed Durable Objects
 Source: Hacker News RSS
 Category: technology
-URL: https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years
-Published: 2026-08-04T18:51:38+00:00
+URL: https://github.com/denoland/celld
+Published: 2026-08-05T16:50:06+00:00
 
-Article URL: https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/ Comments URL: https://news.ycombinator.com/item?id=49173165 Points: 1327 # Comments: 76
+Article URL: https://github.com/denoland/celld Comments URL: https://news.ycombinator.com/item?id=49185430 Points: 207 # Comments: 34
 
-Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone
+Atlassian Rovo Exfiltrates Data, Bypassing Controls
 Source: Hacker News RSS
 Category: technology
-URL: https://deepgrove.ai/maple-preview
-Published: 2026-08-04T19:44:55+00:00
+URL: https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data
+Published: 2026-08-05T17:23:25+00:00
 
-Article URL: https://deepgrove.ai/maple-preview Comments URL: https://news.ycombinator.com/item?id=49173984 Points: 110 # Comments: 31
+Article URL: https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data Comments URL: https://news.ycombinator.com/item?id=49185983 Points: 222 # Comments: 92
 
-I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel
+Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)
 Source: Hacker News RSS
 Category: technology
-URL: https://twitter.com/gwern/status/2084739205071343837
-Published: 2026-08-04T20:48:17+00:00
+URL: https://arxiv.org/abs/2510.01395
+Published: 2026-08-05T18:17:03+00:00
 
-https://twitter.com/willdepue/status/2084750925013434768 , https://xcancel.com/willdepue/status/2084750925013434768 https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=49174900 Points: 274 # Comments: 182
+Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 119 # Comments: 65
 
-AI fuels more than half of cybercrime in Africa as scams surge – Interpol
+Beating GPT-5.6 Sol on retrieval with 100x cheaper open models
 Source: Hacker News RSS
 Category: technology
-URL: https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol
-Published: 2026-08-04T22:01:41+00:00
+URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency
+Published: 2026-08-05T18:18:56+00:00
 
-https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 227 # Comments: 178
+Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 313 # Comments: 76
 
-DuckDB – Data power tools for your laptop, now in Clojure (2023)
+Born Against, or why hobby programming communities are against LLM usage
 Source: Hacker News RSS
 Category: technology
-URL: https://techascent.com/blog/just-ducking-around.html
-Published: 2026-08-04T22:09:43+00:00
+URL: https://blog.fogus.me/llm/born-against.html
+Published: 2026-08-05T18:37:49+00:00
 
-Article URL: https://techascent.com/blog/just-ducking-around.html Comments URL: https://news.ycombinator.com/item?id=49175924 Points: 98 # Comments: 15
+Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 253 # Comments: 231
 
-Pi's Minimalism Is Its Advantage
+Zed DeltaDB
 Source: Hacker News RSS
 Category: technology
-URL: https://earendil.com/posts/pi-autoresearch-and-databricks
-Published: 2026-08-04T22:22:12+00:00
+URL: https://zed.dev/deltadb
+Published: 2026-08-05T18:52:54+00:00
 
-Article URL: https://earendil.com/posts/pi-autoresearch-and-databricks/ Comments URL: https://news.ycombinator.com/item?id=49176038 Points: 340 # Comments: 131
+Article URL: https://zed.dev/deltadb Comments URL: https://news.ycombinator.com/item?id=49187256 Points: 414 # Comments: 217
 
-We finally learned to center a div, then browsers added sidebars
+Muse Code and Muse Spark 1.2
 Source: Hacker News RSS
 Category: technology
-URL: https://seg6.space/posts/center-div
-Published: 2026-08-04T22:24:00+00:00
+URL: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2
+Published: 2026-08-05T19:15:52+00:00
 
-Article URL: https://seg6.space/posts/center-div/ Comments URL: https://news.ycombinator.com/item?id=49176055 Points: 126 # Comments: 104
+Article URL: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2 Comments URL: https://news.ycombinator.com/item?id=49187575 Points: 257 # Comments: 153
 
-Show HN: SIMD Viterbi Decoder in Rust
+I'm switching my phone from Android to Linux
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/brian-armstrong/fec
-Published: 2026-08-04T22:37:05+00:00
+URL: https://runarcn.no/android-to-linux
+Published: 2026-08-05T19:50:13+00:00
 
-I wrote libcorrect in C in 2016 and wanted to revisit it in Rust. Instead of doing just a direct conversion, I went down the rabbit hole of making Rust's std::simd work for me. I ended up with a templated, generic Viterbi decoder for convolutional codes that dispatches the decode at runtime depending on which instruction sets are available. For small rates and orders, the entire decode lives in registers. Larger codes work through memory but take advantage of some acceleration structures. I also spent some time building a tool to find optimal (max d_free) conv codes for a given rate and order. Of course, there are better mechanisms available today, but I'm happy to talk through anything I learned in the process. Comments URL: https://news.ycombinator.com/item?id=49176212 Points: 45 # Comments: 4
+Article URL: https://runarcn.no/android-to-linux/ Comments URL: https://news.ycombinator.com/item?id=49188022 Points: 320 # Comments: 310
 
-libexpat now funded by the City of Munich for up to 6 months
+Prime Agent: A self-improving RLM agent
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical
-Published: 2026-08-04T23:18:12+00:00
+URL: https://www.primeintellect.ai/blog/prime-agent
+Published: 2026-08-05T21:11:57+00:00
 
-Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ Comments URL: https://news.ycombinator.com/item?id=49176606 Points: 263 # Comments: 55
+Article URL: https://www.primeintellect.ai/blog/prime-agent Comments URL: https://news.ycombinator.com/item?id=49189075 Points: 179 # Comments: 34
 
-IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay
+NVIDIA’s Vera Whitepaper Has a Thread Loose
 Source: Hacker News RSS
 Category: technology
-URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak
-Published: 2026-08-04T23:31:46+00:00
+URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread
+Published: 2026-08-05T21:24:45+00:00
 
-Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Points: 101 # Comments: 15
+Article URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread Comments URL: https://news.ycombinator.com/item?id=49189234 Points: 126 # Comments: 23
 
-Eight Myths on Software Engineering and GenAI
+The title cards in Blade Runner are amazing
 Source: Hacker News RSS
 Category: technology
-URL: https://queue.acm.org/detail.cfm?id=3807963
-Published: 2026-08-04T23:50:52+00:00
+URL: https://randsinrepose.com/archives/blade-runner-title-cards
+Published: 2026-08-05T21:29:23+00:00
 
-Article URL: https://queue.acm.org/detail.cfm?id=3807963 Comments URL: https://news.ycombinator.com/item?id=49176830 Points: 204 # Comments: 166
+Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/ Comments URL: https://news.ycombinator.com/item?id=49189287 Points: 256 # Comments: 118
 
-Flowise is shutting down
+Nashville uses eminent domain to block data center near zoo
 Source: Hacker News RSS
 Category: technology
-URL: https://flowiseai.com/sunset
-Published: 2026-08-05T00:02:40+00:00
+URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project
+Published: 2026-08-06T02:15:14+00:00
 
-Article URL: https://flowiseai.com/sunset Comments URL: https://news.ycombinator.com/item?id=49176920 Points: 47 # Comments: 31
+Article URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project Comments URL: https://news.ycombinator.com/item?id=49191624 Points: 229 # Comments: 277
 
-Bugtraq is back
+Show HN: Wallfacer – A terminal session manager for Claude Code, and more
 Source: Hacker News RSS
 Category: technology
-URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E
-Published: 2026-08-05T00:05:49+00:00
+URL: https://github.com/pradipta/wallfacer
+Published: 2026-08-06T03:52:56+00:00
 
-Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 43 # Comments: 9
+Article URL: https://github.com/pradipta/wallfacer Comments URL: https://news.ycombinator.com/item?id=49192219 Points: 20 # Comments: 11
 
-Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
+Crime Pays but Botany Doesn't
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2603.04221
-Published: 2026-08-05T00:10:37+00:00
+URL: https://www.crimepaysbutbotanydoesnt.com/reading-list
+Published: 2026-08-06T04:46:35+00:00
 
-Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 84 # Comments: 67
+Article URL: https://www.crimepaysbutbotanydoesnt.com/reading-list Comments URL: https://news.ycombinator.com/item?id=49192566 Points: 151 # Comments: 62
 
-An SLM trained on $8 ESP32-S3
+Let's all meet up in the Y2K
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/Carloscodix/qapla
-Published: 2026-08-05T04:07:27+00:00
+URL: https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k
+Published: 2026-08-06T06:43:38+00:00
 
-Article URL: https://github.com/Carloscodix/qapla Comments URL: https://news.ycombinator.com/item?id=49178464 Points: 25 # Comments: 7
+Article URL: https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/ Comments URL: https://news.ycombinator.com/item?id=49193314 Points: 27 # Comments: 9
 
-Zero-Mem: Zero-Token Memory Operations for LLM Agents
+What I love about Django
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2607.29377
-Published: 2026-08-05T04:36:44+00:00
+URL: https://buttondown.com/blog/what-i-love-about-django
+Published: 2026-08-06T07:34:06+00:00
 
-Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 30 # Comments: 7
+Article URL: https://buttondown.com/blog/what-i-love-about-django Comments URL: https://news.ycombinator.com/item?id=49193673 Points: 36 # Comments: 7

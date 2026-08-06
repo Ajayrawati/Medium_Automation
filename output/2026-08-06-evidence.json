@@ -1,0 +1,81 @@
+{
+  "topic": "Url Points Comments",
+  "topic_key": "url-points-comments",
+  "confidence": 86.3,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 84.0,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.3,
+  "evidence": [
+    {
+      "title": "What I love about Django",
+      "url": "https://buttondown.com/blog/what-i-love-about-django",
+      "publisher": "buttondown.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-06T09:08:37.934636+00:00"
+    },
+    {
+      "title": "Let's all meet up in the Y2K",
+      "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+      "publisher": "blog.gingerbeardman.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-06T09:08:38.265243+00:00"
+    },
+    {
+      "title": "Crime Pays but Botany Doesn't",
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "publisher": "www.crimepaysbutbotanydoesnt.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-06T09:08:38.635193+00:00"
+    },
+    {
+      "title": "Show HN: Wallfacer \u2013 A terminal session manager for Claude Code, and more",
+      "url": "https://github.com/pradipta/wallfacer",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-06T09:08:39.222786+00:00"
+    },
+    {
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "publisher": "www.costar.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-06T09:08:39.432131+00:00"
+    },
+    {
+      "title": "The title cards in Blade Runner are amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "publisher": "randsinrepose.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-06T09:08:39.645483+00:00"
+    }
+  ]
+}
