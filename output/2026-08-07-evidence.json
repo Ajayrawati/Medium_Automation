@@ -1,0 +1,81 @@
+{
+  "topic": "Https Item News.ycombinator.com",
+  "topic_key": "https-item-news.ycombinator.com",
+  "confidence": 83.05,
+  "score_breakdown": {
+    "source_quality": 64.23,
+    "corroboration": 100.0,
+    "recency": 68.91,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 93.05,
+  "evidence": [
+    {
+      "title": "Retired man plants trees on forgotten land, now it's Sao Paulo's largest park",
+      "url": "https://thursd.com/articles/helio-da-silva-sao-paulo-tiquatira-linear-park",
+      "publisher": "thursd.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-07T07:43:54.438119+00:00"
+    },
+    {
+      "title": "Why Estonians invite strangers into their back gardens each summer",
+      "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
+      "publisher": "www.bbc.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-07T07:43:54.637867+00:00"
+    },
+    {
+      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron\u2013sulfur clusters",
+      "url": "https://zenodo.org/records/21359923",
+      "publisher": "zenodo.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-07T07:43:55.520691+00:00"
+    },
+    {
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "publisher": "www.troyhunt.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-07T07:43:55.675312+00:00"
+    },
+    {
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "publisher": "www.aleksagordic.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-07T07:43:55.981023+00:00"
+    },
+    {
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "publisher": "www.sciencedaily.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-07T07:43:56.160169+00:00"
+    }
+  ]
+}
