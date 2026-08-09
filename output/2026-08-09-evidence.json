@@ -1,0 +1,81 @@
+{
+  "topic": "Url News.ycombinator.com Https",
+  "topic_key": "url-news.ycombinator.com-https",
+  "confidence": 86.13,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 83.16,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.13,
+  "evidence": [
+    {
+      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+      "url": "https://github.com/jmarshall23/msword",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-09T07:18:38.042435+00:00"
+    },
+    {
+      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+      "url": "http://longbets.org/601/",
+      "publisher": "longbets.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-09T07:18:38.523993+00:00"
+    },
+    {
+      "title": "Illinois just told every operating system to start reporting your kid's age",
+      "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+      "publisher": "itsfoss.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-09T07:18:38.647710+00:00"
+    },
+    {
+      "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+      "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+      "publisher": "daringfireball.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-09T07:18:38.853621+00:00"
+    },
+    {
+      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "url": "https://marketnow.site/",
+      "publisher": "marketnow.site",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-09T07:18:38.944888+00:00"
+    },
+    {
+      "title": "Incentives are for losers",
+      "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+      "publisher": "www.experimental-history.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-09T07:18:39.340419+00:00"
+    }
+  ]
+}
