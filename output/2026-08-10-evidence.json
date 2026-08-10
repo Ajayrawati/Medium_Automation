@@ -1,0 +1,81 @@
+{
+  "topic": "Https Comments Item",
+  "topic_key": "https-comments-item",
+  "confidence": 85.05,
+  "score_breakdown": {
+    "source_quality": 65.22,
+    "corroboration": 100.0,
+    "recency": 77.41,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.05,
+  "evidence": [
+    {
+      "title": "Show HN: I made alchemical-cosmological PCB badges",
+      "url": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
+      "publisher": "github.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-10T08:06:12.933182+00:00"
+    },
+    {
+      "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "publisher": "www.docker.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-10T08:06:13.163703+00:00"
+    },
+    {
+      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+      "publisher": "www.economist.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-10T08:06:13.235561+00:00"
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "publisher": "claude.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-10T08:06:13.437844+00:00"
+    },
+    {
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "publisher": "www.whodunnitai.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-10T08:06:13.785966+00:00"
+    },
+    {
+      "title": "Turn satellite imagery into a paper globe you fold yourself",
+      "url": "https://foldingglobes.com/",
+      "publisher": "foldingglobes.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-10T08:06:13.943080+00:00"
+    }
+  ]
+}
