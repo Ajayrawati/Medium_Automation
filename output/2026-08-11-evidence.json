@@ -1,0 +1,81 @@
+{
+  "topic": "Item Comments Url",
+  "topic_key": "item-comments-url",
+  "confidence": 86.69,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 85.96,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.69,
+  "evidence": [
+    {
+      "title": "Show HN: Mcptoon \u2013 Token-efficient MCP CLI client",
+      "url": "https://github.com/activeing123/mcptoon",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-11T07:39:36.927123+00:00"
+    },
+    {
+      "title": "Hyperspace",
+      "url": "https://hypercritical.co/hyperspace/",
+      "publisher": "hypercritical.co",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-11T07:39:37.059176+00:00"
+    },
+    {
+      "title": "Recycle \u2013 Floppydisks",
+      "url": "https://www.floppydisk.com/recycle",
+      "publisher": "www.floppydisk.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-11T07:39:37.265898+00:00"
+    },
+    {
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "publisher": "code.call-cc.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-11T07:39:37.928575+00:00"
+    },
+    {
+      "title": "The UK's war on anonymity has come to America",
+      "url": "https://www.effort.news/uk-lobby",
+      "publisher": "www.effort.news",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-11T07:39:38.356796+00:00"
+    },
+    {
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "publisher": "everycube.alen.is",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-11T07:39:38.614487+00:00"
+    }
+  ]
+}

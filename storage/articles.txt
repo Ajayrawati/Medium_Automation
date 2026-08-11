@@ -1,14 +1,9 @@
-pingdotgg / t3code
+opa334 / Dopamine
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/pingdotgg/t3code
+URL: https://github.com/opa334/Dopamine
 
-harveyai / harvey-labs
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/harveyai/harvey-labs
-
-A benchmark built to evaluate and improve agent capabilities for supporting legal work.
+Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 
 Comfy-Org / ComfyUI
 Source: GitHub Trending
@@ -17,52 +12,10 @@ URL: https://github.com/Comfy-Org/ComfyUI
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
-google / skills
+pingdotgg / t3code
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/google/skills
-
-Agent Skills for Google products and technologies
-
-goauthentik / authentik
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/goauthentik/authentik
-
-The authentication glue you need.
-
-ZhuLinsen / daily_stock_analysis
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ZhuLinsen/daily_stock_analysis
-
-LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-
-addyosmani / agent-skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/addyosmani/agent-skills
-
-Production-grade engineering skills for AI coding agents.
-
-google-deepmind / weathernext
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/google-deepmind/weathernext
-
-pranshuparmar / witr
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/pranshuparmar/witr
-
-Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
-
-msitarzewski / agency-agents
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/msitarzewski/agency-agents
-
-A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+URL: https://github.com/pingdotgg/t3code
 
 vitali87 / code-graph-rag
 Source: GitHub Trending
@@ -71,6 +24,46 @@ URL: https://github.com/vitali87/code-graph-rag
 
 The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
 
+google-deepmind / weathernext
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/google-deepmind/weathernext
+
+TauricResearch / TradingAgents
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/TauricResearch/TradingAgents
+
+TradingAgents: Multi-Agents LLM Financial Trading Framework
+
+firecrawl / firecrawl
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/firecrawl/firecrawl
+
+The context API to search, scrape, and interact with the web at scale. 🔥
+
+danielmiessler / LifeOS
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/danielmiessler/LifeOS
+
+⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
+
+ruvnet / RuView
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ruvnet/RuView
+
+π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+
+LadybirdBrowser / ladybird
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/LadybirdBrowser/ladybird
+
+Truly independent web browser
+
 PrimeIntellect-ai / prime-agent
 Source: GitHub Trending
 Category: technology
@@ -78,204 +71,246 @@ URL: https://github.com/PrimeIntellect-ai/prime-agent
 
 A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 
-Picophysics: Single file physics for games on platforms like N64, PSX, DC
+paperclipai / paperclip
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/paperclipai/paperclip
+
+The open-source app everyone uses to manage agents at work
+
+addyosmani / agent-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/addyosmani/agent-skills
+
+Production-grade engineering skills for AI coding agents.
+
+NanmiCoder / MediaCrawler
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/NanmiCoder/MediaCrawler
+
+小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+
+msitarzewski / agency-agents
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/msitarzewski/agency-agents
+
+A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+
+semantica-agi / semantica
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/semantica-agi/semantica
+
+Graph-Native Infrastructure for Context and Accountable AI Systems
+
+Publishing Schematics Before “Open Source” Was a Word
 Source: Hacker News
 Category: technology
-URL: https://gitlab.com/Kazade/picophysics
-Published: 2026-08-05T12:52:00+00:00
-Score: 49
+URL: https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704
+Published: 2026-08-07T15:59:08+00:00
+Score: 83
 
-Show HN: I made alchemical-cosmological PCB badges
+Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows
 Source: Hacker News
 Category: technology
-URL: https://github.com/KaiPereira/Alchemical-Cosmological-Badges
-Published: 2026-08-05T16:15:51+00:00
-Score: 6
+URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
+Published: 2026-08-10T10:10:02+00:00
+Score: 1098
 
-Slap ROM Patcher
+Faster floating point math with Rust's new API
 Source: Hacker News
 Category: technology
-URL: https://nyuu.page/projects/slap
-Published: 2026-08-07T04:54:52+00:00
-Score: 12
+URL: https://pythonspeed.com/articles/faster-float-math-rust
+Published: 2026-08-06T13:43:12+00:00
+Score: 19
 
-ATProto for Distributed Systems Engineers
+Sonic Pi v5
 Source: Hacker News
 Category: technology
-URL: https://atproto.com/articles/atproto-for-distsys-engineers
-Published: 2026-08-06T21:35:37+00:00
-Score: 68
+URL: https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392
+Published: 2026-08-07T10:26:34+00:00
+Score: 361
 
-Nearest Pint
+Stowaway – Take the window seat on any plane or satellite overhead
 Source: Hacker News
 Category: technology
-URL: https://knowwhereconsulting.co.uk/maps/pubs
-Published: 2026-08-04T19:47:10+00:00
-Score: 23
+URL: https://stowaway.live/
+Published: 2026-08-07T13:15:10+00:00
+Score: 237
 
-An Interesting Fourier Transform – 1/F Noise
+The “mechanical miracle” that ruined Mark Twain’s life
 Source: Hacker News
 Category: technology
-URL: https://www.dsprelated.com/showarticle/40.php
-Published: 2026-08-07T01:56:10+00:00
-Score: 20
+URL: https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined
+Published: 2026-08-05T15:22:23+00:00
+Score: 119
 
-Everything you do is being recorded
+LFM2.5 2.6B model competitive with 4x larger models
+Source: Hacker News
+Category: technology
+URL: https://huggingface.co/LiquidAI/LFM2.5-2.6B
+Published: 2026-08-04T18:47:25+00:00
+Score: 48
+
+Humanising LLM Outputs Is Dumb
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203
-Published: 2026-08-09T11:30:48+00:00
+URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb
+Published: 2026-08-10T13:35:40+00:00
 
-https://www.theatlantic.com/technology/2026/05/ai-wearable-s... https://archive.is/JxaZ7 Comments URL: https://news.ycombinator.com/item?id=49230477 Points: 280 # Comments: 227
+Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 198 # Comments: 129
 
-Cool URIs Don't Change (1998)
+Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
 Source: Hacker News RSS
 Category: technology
-URL: https://www.w3.org/Provider/Style/URI
-Published: 2026-08-09T14:32:53+00:00
+URL: https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878
+Published: 2026-08-10T14:06:22+00:00
 
-Article URL: https://www.w3.org/Provider/Style/URI Comments URL: https://news.ycombinator.com/item?id=49231809 Points: 228 # Comments: 56
+https://archive.is/20LOJ https://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 480 # Comments: 437
 
-Windows 11's built-in Weather app wastes more than 1 GB of RAM
+Show HN: Open-Source Greptile Alternative
 Source: Hacker News RSS
 Category: technology
-URL: https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html
-Published: 2026-08-09T15:11:20+00:00
+URL: https://github.com/Juror-AI/juror
+Published: 2026-08-10T14:17:13+00:00
 
-Article URL: https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html Comments URL: https://news.ycombinator.com/item?id=49232138 Points: 495 # Comments: 411
+Article URL: https://github.com/Juror-AI/juror Comments URL: https://news.ycombinator.com/item?id=49244029 Points: 6 # Comments: 1
 
-Taxi drivers rarely die of Alzheimer's
+Mars Bar from 1991 found – and it's 20g bigger than today's
 Source: Hacker News RSS
 Category: technology
-URL: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650
-Published: 2026-08-09T15:21:46+00:00
+URL: https://www.bbc.com/news/articles/c1j1kjy7gewo
+Published: 2026-08-10T15:32:04+00:00
 
-Article URL: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650 Comments URL: https://news.ycombinator.com/item?id=49232253 Points: 273 # Comments: 187
+Article URL: https://www.bbc.com/news/articles/c1j1kjy7gewo Comments URL: https://news.ycombinator.com/item?id=49245023 Points: 332 # Comments: 488
 
-Ask HN: What are you working on? (August 2026)
+Show HN: Ante, a coding agent in a single binary that runs offline
 Source: Hacker News RSS
 Category: technology
-URL: https://news.ycombinator.com/item?id=49233423
-Published: 2026-08-09T17:23:22+00:00
+URL: https://github.com/AntigmaLabs/ante
+Published: 2026-08-10T15:59:23+00:00
 
-What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49233423 Points: 234 # Comments: 808
+Article URL: https://github.com/AntigmaLabs/ante Comments URL: https://news.ycombinator.com/item?id=49245437 Points: 128 # Comments: 77
 
-OpenChamber: An Agentic Development Environment
+Exploiting System Management Mode with a very long interrupt
 Source: Hacker News RSS
 Category: technology
-URL: https://openchamber.dev/
-Published: 2026-08-09T17:27:16+00:00
+URL: https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii
+Published: 2026-08-10T16:03:14+00:00
 
-Article URL: https://openchamber.dev/ Comments URL: https://news.ycombinator.com/item?id=49233448 Points: 134 # Comments: 73
+Article URL: https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii Comments URL: https://news.ycombinator.com/item?id=49245491 Points: 153 # Comments: 56
 
-I made tinnitus my friend, then it disappeared [video]
+What's the best programming language for coding agents?
 Source: Hacker News RSS
 Category: technology
-URL: https://mynoise.net/vlog.php?ep=20260803
-Published: 2026-08-09T18:41:35+00:00
+URL: http://danluu.com/pl-tokens
+Published: 2026-08-10T16:28:58+00:00
 
-Article URL: https://mynoise.net/vlog.php?ep=20260803 Comments URL: https://news.ycombinator.com/item?id=49234271 Points: 119 # Comments: 88
+Related: Which programming languages are most token-efficient? - https://news.ycombinator.com/item?id=46582728 - Jan 2026 (91 comments) Comments URL: https://news.ycombinator.com/item?id=49245936 Points: 153 # Comments: 102
 
-How I use LLMs to learn complex topics
+Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots
 Source: Hacker News RSS
 Category: technology
-URL: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn
-Published: 2026-08-09T19:16:49+00:00
+URL: https://cactuscompute.com/needle
+Published: 2026-08-10T17:22:07+00:00
 
-Article URL: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/ Comments URL: https://news.ycombinator.com/item?id=49234675 Points: 602 # Comments: 352
+Hey HN, Henry from Cactus here! We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2. The whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens/sec decode speed on a Raspberry Pi 5, sits between 400-1,500 tokens/sec on VR devices like Meta Quest 3S and Apple Vision Pro, and ranges 300-700 on sub-$200 phones such as the Samsung A-Series. On the tool call and mobile device use benchmarks, Needle 2 trades wins with closest small models like LFM2.5 230M and Apple Foundation Model, at 5x to 70x smaller, both at f16 vs Needle 2 at 2bit. Needle is based on Simple Attention Networks from our paper ( https://arxiv.org/abs/2607.18363 ). Edge AI has lately meant Macs and PCs, but that is just 1.5 billion of over 21 billion connected IoT devices in the world today, and in emerging markets most phones ship under $200, no NPU, cheap GPUs. These include budget phones, Raspberry Pis, microcontrollers, wearables, small robots like Reachy Mini, and connected home devices. A conventional transformer of Needle's width and depth spends 164 MFLOPs per token, and even one squeezed down to Needle's parameter count spends 87, Needle spends 70. Even on a high-end phone, an always-on assistant lives inside a power budget; every MFLOP is milliwatt-hours, and Needle spends 7x to 85x fewer of them per token than the smallest performant LLMs. More about the architecture in the link. When we structure intelligence for consumer devices as functions with typed parameters, the only hard part is mapping a messy sentence onto them; which function, with which values. Our research found that when framed that way, the problem needs no world knowledge and no open-ended prose, which is why 45M parameters suffice. Needle 2 expands to structured extraction where the schema can be passed in-place of tools and the model returns structured output. You can use Needle as a text-classification model with an enum field, as a summarization model by providing a schema that extracts key fields, everything but free-range decode. Every product has its own tool vocabulary and fine-tuning needle helps it achieve frontier-level performance on custom tasks, so using the python package ( https://github.com/cactus-compute/needle ), Needle can be fine-tuned Needle on a Mac/PC in minutes to a few hours, with automated data-generation pipeline, just pass a couple samples. Nonetheless, every response carries a learned confidence score based our Cactus Hybrid technique. If above your threshold, act, below it, escalate to the cloud or bigger model. Combining Needle 2 with a private DeepSeek-v4-Flash deployment works particularly well for enterprise-level tasks at barely any cost, we can help with this setup. We have put a lot of thoughts into Needle 2 but might still be missing quite a lot, please use the playground in the provided link to test Needle and share your thoughts, always appreciated! Comments URL: https://news.ycombinator.com/item?id=49246804 Points: 296 # Comments: 108
 
-The tragedy of the commons, AI edition
+Learning more about Claude's mathematical capabilities
 Source: Hacker News RSS
 Category: technology
-URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition
-Published: 2026-08-09T19:43:52+00:00
+URL: https://www.anthropic.com/research/riemann-zeta
+Published: 2026-08-10T17:41:13+00:00
 
-Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 113 # Comments: 67
+Article URL: https://www.anthropic.com/research/riemann-zeta Comments URL: https://news.ycombinator.com/item?id=49247070 Points: 182 # Comments: 122
 
-New Zealand lost its music media, and what we're building to replace it
+Rust SIMD on the GPU
 Source: Hacker News RSS
 Category: technology
-URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media
-Published: 2026-08-09T20:42:29+00:00
+URL: https://www.vectorware.com/blog/simd-on-gpu
+Published: 2026-08-10T18:12:49+00:00
 
-Article URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media Comments URL: https://news.ycombinator.com/item?id=49235641 Points: 109 # Comments: 66
+Article URL: https://www.vectorware.com/blog/simd-on-gpu/ Comments URL: https://news.ycombinator.com/item?id=49247477 Points: 171 # Comments: 84
 
-Tuxedo No. 2 – Cocktail recipes
+Confessions of a Long-Distance Sailor
 Source: Hacker News RSS
 Category: technology
-URL: https://tuxedono2.com/
-Published: 2026-08-09T20:48:46+00:00
+URL: https://arachnoid.com/lutusp/sailbook.html
+Published: 2026-08-10T20:52:55+00:00
 
-Article URL: https://tuxedono2.com Comments URL: https://news.ycombinator.com/item?id=49235697 Points: 83 # Comments: 22
+Article URL: https://arachnoid.com/lutusp/sailbook.html Comments URL: https://news.ycombinator.com/item?id=49249555 Points: 98 # Comments: 28
 
-The Ambition Project
+How Claude marks AI-generated content
 Source: Hacker News RSS
 Category: technology
-URL: https://www.betonit.ai/p/the-ambition-project
-Published: 2026-08-09T23:36:05+00:00
+URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content
+Published: 2026-08-10T21:36:56+00:00
 
-Article URL: https://www.betonit.ai/p/the-ambition-project Comments URL: https://news.ycombinator.com/item?id=49237407 Points: 35 # Comments: 1
+Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 120 # Comments: 93
 
-How We Pushed CDC into Postgres
+As AI eats the web, the internet’s collective memory is disappearing
 Source: Hacker News RSS
 Category: technology
-URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring
-Published: 2026-08-10T01:01:34+00:00
+URL: https://thewalrus.ca/google-search-is-dying
+Published: 2026-08-10T22:36:30+00:00
 
-Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/ Comments URL: https://news.ycombinator.com/item?id=49238050 Points: 83 # Comments: 7
+Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 170 # Comments: 152
 
-What Happened to HackerOne?
+Show HN: Scroll through all 43252003274489856000 Rubik's Cube states
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone
-Published: 2026-08-10T02:23:17+00:00
+URL: https://everycube.alen.is/
+Published: 2026-08-10T23:16:25+00:00
 
-Article URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/ Comments URL: https://news.ycombinator.com/item?id=49238561 Points: 181 # Comments: 72
+Article URL: https://everycube.alen.is/ Comments URL: https://news.ycombinator.com/item?id=49251179 Points: 166 # Comments: 53
 
-Turn satellite imagery into a paper globe you fold yourself
+The UK's war on anonymity has come to America
 Source: Hacker News RSS
 Category: technology
-URL: https://foldingglobes.com/
-Published: 2026-08-10T02:57:38+00:00
+URL: https://www.effort.news/uk-lobby
+Published: 2026-08-10T23:45:50+00:00
 
-Article URL: https://foldingglobes.com/ Comments URL: https://news.ycombinator.com/item?id=49238735 Points: 45 # Comments: 10
+Article URL: https://www.effort.news/uk-lobby Comments URL: https://news.ycombinator.com/item?id=49251411 Points: 448 # Comments: 331
 
-Run Android ARM64 VR APKs on Apple Vision Pro
+Chicken Scheme 6.0
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/shinyquagsire23/Klepton
-Published: 2026-08-10T03:12:48+00:00
+URL: https://code.call-cc.org/releases/6.0.0/NEWS
+Published: 2026-08-11T00:24:15+00:00
 
-Article URL: https://github.com/shinyquagsire23/Klepton Comments URL: https://news.ycombinator.com/item?id=49238818 Points: 51 # Comments: 5
+Article URL: https://code.call-cc.org/releases/6.0.0/NEWS Comments URL: https://news.ycombinator.com/item?id=49251702 Points: 158 # Comments: 17
 
-Show HN: Voice driven murder mystery, Interview AI suspects with your voice
+H3-metal – Native MiniMax-H3 inference for Apple Silicon
 Source: Hacker News RSS
 Category: technology
-URL: https://www.whodunnitai.com/
-Published: 2026-08-10T03:18:40+00:00
+URL: https://github.com/antirez/h3.c
+Published: 2026-08-11T01:22:09+00:00
 
-Hey HN! I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it. I recently had the desire to check out the tech again, and know many of you will be interested. Interviews are speech to speech with OpenAI's gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I have also added a 30 minute timer because well, I really don't want to go broke while I sleep tonight. Each suspect has a tool they call when you make a direct accusation. It captures who you accused and a faithful list of the evidence you actually stated. A separate gpt-5-mini judge then decides which of the case's required evidence facts you genuinely presented. Paraphrasing counts, vague suspicion and fishing don't. The rest is Next.js, MongoDB, and Clerk. Let me know whether the suspects hold up under a real interrogation. Comments URL: https://news.ycombinator.com/item?id=49238851 Points: 59 # Comments: 18
+Article URL: https://github.com/antirez/h3.c Comments URL: https://news.ycombinator.com/item?id=49252179 Points: 206 # Comments: 29
 
-Auto mode is now the default in Claude Code
+Recycle – Floppydisks
 Source: Hacker News RSS
 Category: technology
-URL: https://claude.com/blog/auto-mode-default-in-claude-code
-Published: 2026-08-10T03:50:00+00:00
+URL: https://www.floppydisk.com/recycle
+Published: 2026-08-11T02:01:01+00:00
 
-Article URL: https://claude.com/blog/auto-mode-default-in-claude-code Comments URL: https://news.ycombinator.com/item?id=49239021 Points: 168 # Comments: 152
+Article URL: https://www.floppydisk.com/recycle Comments URL: https://news.ycombinator.com/item?id=49252462 Points: 51 # Comments: 20
 
-The Philippines' big offshoring industry is growing despite AI
+Hyperspace
 Source: Hacker News RSS
 Category: technology
-URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai
-Published: 2026-08-10T04:35:24+00:00
+URL: https://hypercritical.co/hyperspace
+Published: 2026-08-11T02:04:35+00:00
 
-Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 26 # Comments: 27
+Article URL: https://hypercritical.co/hyperspace/ Comments URL: https://news.ycombinator.com/item?id=49252493 Points: 63 # Comments: 42
 
-Docker Sandboxes – Disposable, isolated sandboxes for AI agents
+Show HN: Mcptoon – Token-efficient MCP CLI client
 Source: Hacker News RSS
 Category: technology
-URL: https://www.docker.com/products/docker-sandboxes
-Published: 2026-08-10T06:02:38+00:00
+URL: https://github.com/activeing123/mcptoon
+Published: 2026-08-11T05:26:58+00:00
 
-Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 101 # Comments: 57
+Article URL: https://github.com/activeing123/mcptoon Comments URL: https://news.ycombinator.com/item?id=49253721 Points: 29 # Comments: 17
