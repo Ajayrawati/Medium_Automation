@@ -1,0 +1,81 @@
+{
+  "topic": "Points Url Https",
+  "topic_key": "points-url-https",
+  "confidence": 86.44,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 84.69,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.44,
+  "evidence": [
+    {
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "url": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
+      "publisher": "www.bbc.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-12T07:54:44.490440+00:00"
+    },
+    {
+      "title": "LinkedIn CringeBot 3000",
+      "url": "https://www.cringebot3000.com/",
+      "publisher": "www.cringebot3000.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-12T07:54:44.556145+00:00"
+    },
+    {
+      "title": "llama.cpp",
+      "url": "https://llama.app",
+      "publisher": "llama.app",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-12T07:54:44.971217+00:00"
+    },
+    {
+      "title": "Dropbox is an obvious PE Target?",
+      "url": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
+      "publisher": "s-1.vercel.app",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-12T07:54:45.025964+00:00"
+    },
+    {
+      "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+      "url": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
+      "publisher": "dronexl.co",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-12T07:54:45.126732+00:00"
+    },
+    {
+      "title": "The Human Is the Loop",
+      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+      "publisher": "brentfitzgerald.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-12T07:54:45.258237+00:00"
+    }
+  ]
+}
