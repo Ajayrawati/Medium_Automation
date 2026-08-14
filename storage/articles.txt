@@ -1,16 +1,16 @@
-cactus-compute / needle
+infiniflow / ragflow
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/cactus-compute/needle
+URL: https://github.com/infiniflow/ragflow
 
-14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
-embabel / embabel-agent
+lightningpixel / modly
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/embabel/embabel-agent
+URL: https://github.com/lightningpixel/modly
 
-Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
+Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
 
 Lightricks / LTX-2
 Source: GitHub Trending
@@ -19,12 +19,40 @@ URL: https://github.com/Lightricks/LTX-2
 
 Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 
-localsend / localsend
+msitarzewski / agency-agents
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/localsend/localsend
+URL: https://github.com/msitarzewski/agency-agents
 
-An open-source cross-platform alternative to AirDrop
+A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+
+3b1b / manim
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/3b1b/manim
+
+Animation engine for explanatory math videos
+
+kepano / obsidian-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/kepano/obsidian-skills
+
+Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+
+holaboss-ai / holaOS
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/holaboss-ai/holaOS
+
+Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
+
+NVIDIA-NeMo / Switchyard
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/NVIDIA-NeMo/Switchyard
+
+Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
 
 smicallef / spiderfoot
 Source: GitHub Trending
@@ -33,73 +61,12 @@ URL: https://github.com/smicallef/spiderfoot
 
 SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 
-ZuodaoTech / everyone-can-use-english
+megadose / holehe
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/ZuodaoTech/everyone-can-use-english
+URL: https://github.com/megadose/holehe
 
-人人都能用英语
-
-NVIDIA-NeMo / Switchyard
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/NVIDIA-NeMo/Switchyard
-
-paperclipai / paperclip
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/paperclipai/paperclip
-
-The open-source app everyone uses to manage agents at work
-
-infiniflow / ragflow
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/infiniflow/ragflow
-
-RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-
-hugohe3 / ppt-master
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/hugohe3/ppt-master
-
-AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-
-NanmiCoder / MediaCrawler
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/NanmiCoder/MediaCrawler
-
-小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-
-shiyu-coder / Kronos
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/shiyu-coder/Kronos
-
-Kronos: A Foundation Model for the Language of Financial Markets
-
-msitarzewski / agency-agents
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/msitarzewski/agency-agents
-
-A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-
-stablyai / orca
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/stablyai/orca
-
-Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-
-semantica-agi / semantica
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/semantica-agi/semantica
-
-Graph-Native Infrastructure for Context and Accountable AI Systems
+holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 
 macro-inc / macro
 Source: GitHub Trending
@@ -108,6 +75,41 @@ URL: https://github.com/macro-inc/macro
 
 Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 
+unslothai / unsloth
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/unslothai/unsloth
+
+Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+
+altic-dev / FluidVoice
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/altic-dev/FluidVoice
+
+Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
+
+cactus-compute / needle
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cactus-compute/needle
+
+14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+
+anthropics / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/skills
+
+Public repository for Agent Skills
+
+semantica-agi / semantica
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/semantica-agi/semantica
+
+Graph-Native Infrastructure for Context and Accountable AI Systems
+
 cathrynlavery / diagram-design
 Source: GitHub Trending
 Category: technology
@@ -115,218 +117,197 @@ URL: https://github.com/cathrynlavery/diagram-design
 
 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 
-From rubber boots to Copa: When MicroProse Soccer revolutionized football
+Credibility is the barrier to entry in silicon
 Source: Hacker News
 Category: technology
-URL: https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen
-Published: 2026-08-10T03:15:54+00:00
-Score: 18
+URL: https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry
+Published: 2026-08-10T11:32:55+00:00
+Score: 19
 
-The Punched Card Tabulator
+Nine PBS sues Iron Mountain over blocked access to archival data
 Source: Hacker News
 Category: technology
-URL: https://www.ibm.com/history/punched-card-tabulator
-Published: 2026-08-07T15:01:58+00:00
-Score: 3
+URL: https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data
+Published: 2026-08-13T13:14:12+00:00
+Score: 299
 
-Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials
+The Library of Ashurbanipal (2025)
 Source: Hacker News
 Category: technology
-URL: https://discoveredmaterials.com/research
-Published: 2026-08-12T07:51:20+00:00
-Score: 133
+URL: https://www.historytoday.com/archive/feature/library-ashurbanipal
+Published: 2026-08-10T19:49:35+00:00
+Score: 24
 
-uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook
+Show HN: C# Game Engine with its own scripting language and IDE
 Source: Hacker News
 Category: technology
-URL: https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html
-Published: 2026-08-12T11:28:27+00:00
-Score: 439
+URL: https://github.com/ArcadeMakerSources/ArcadeMaker
+Published: 2026-08-11T13:34:54+00:00
+Score: 16
 
-Why Target Common Lisp for Code Generation?
+DeepSeek Harness developer preview
 Source: Hacker News
 Category: technology
-URL: http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html
-Published: 2026-08-12T08:40:53+00:00
-Score: 88
+URL: https://deepseek.com/harness/en
+Published: 2026-08-13T12:58:02+00:00
+Score: 638
 
-2026 Eclipse Webcams
-Source: Hacker News
-Category: technology
-URL: https://jonty.github.io/2026_eclipse_webcams
-Published: 2026-08-12T11:53:01+00:00
-Score: 477
-
-Antiqua–Fraktur dispute
-Source: Hacker News
-Category: technology
-URL: https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute
-Published: 2026-08-10T12:22:53+00:00
-Score: 71
-
-Mushroom behind 'tiny people' hallucinations identified
-Source: Hacker News
-Category: technology
-URL: https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html
-Published: 2026-08-08T01:20:20+00:00
-Score: 92
-
-Tim King, AmigaDOS developer, has died
+Spaghettifying DRAM
 Source: Hacker News RSS
 Category: technology
-URL: https://amiga-news.de/en/news/AN-2026-08-00070-EN.html
-Published: 2026-08-12T14:09:11+00:00
+URL: https://github.com/xoreaxeaxeax/skitter-creek-bath-salts
+Published: 2026-08-13T14:17:13+00:00
 
-Article URL: https://amiga-news.de/en/news/AN-2026-08-00070-EN.html Comments URL: https://news.ycombinator.com/item?id=49272655 Points: 264 # Comments: 32
+Article URL: https://github.com/xoreaxeaxeax/skitter-creek-bath-salts Comments URL: https://news.ycombinator.com/item?id=49286341 Points: 591 # Comments: 153
 
-We tracked down the 16-year-old WAL-reset SQLite bug
+Kubernetes on Oxide: How customer needs shaped our integrations
 Source: Hacker News RSS
 Category: technology
-URL: https://tailscale.com/blog/sqlite-wal-reset-bug
-Published: 2026-08-12T14:22:30+00:00
+URL: https://oxide.computer/blog/kubernetes-on-oxide
+Published: 2026-08-13T14:26:41+00:00
 
-Article URL: https://tailscale.com/blog/sqlite-wal-reset-bug Comments URL: https://news.ycombinator.com/item?id=49272832 Points: 992 # Comments: 188
+Article URL: https://oxide.computer/blog/kubernetes-on-oxide Comments URL: https://news.ycombinator.com/item?id=49286485 Points: 183 # Comments: 78
 
-GiveCampus (YC S15) Is Hiring Engineering Managers
+Mistral OCR 4.1
 Source: Hacker News RSS
 Category: technology
-URL: https://job-boards.greenhouse.io/givecampus/jobs/4112793009
-Published: 2026-08-12T14:55:27+00:00
+URL: https://docs.mistral.ai/models/ocr-4-1
+Published: 2026-08-13T17:05:12+00:00
 
-Article URL: https://job-boards.greenhouse.io/givecampus/jobs/4112793009 Comments URL: https://news.ycombinator.com/item?id=49273395 Points: 0 # Comments: 0
+Article URL: https://docs.mistral.ai/models/ocr-4-1 Comments URL: https://news.ycombinator.com/item?id=49288889 Points: 319 # Comments: 129
 
-Qwen3.8-2.4T
+Gemini 3.7 Flash
 Source: Hacker News RSS
 Category: technology
-URL: https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B
-Published: 2026-08-12T15:01:17+00:00
+URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash
+Published: 2026-08-13T17:23:22+00:00
 
-https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8 Comments URL: https://news.ycombinator.com/item?id=49273478 Points: 593 # Comments: 137
+https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas... Comments URL: https://news.ycombinator.com/item?id=49289112 Points: 784 # Comments: 409
 
-Grok 4.6
+Donkey.bas is 45 Years Old – 131 line of Glory
 Source: Hacker News RSS
 Category: technology
-URL: https://x.ai/news/grok-4-6
-Published: 2026-08-12T15:32:50+00:00
+URL: https://donkeybas.com/
+Published: 2026-08-13T17:45:50+00:00
 
-https://artificialanalysis.ai/articles/grok-4-6-benchmarks-a... Comments URL: https://news.ycombinator.com/item?id=49274027 Points: 520 # Comments: 469
+Article URL: https://donkeybas.com/ Comments URL: https://news.ycombinator.com/item?id=49289465 Points: 225 # Comments: 104
 
-DeepSeek V4 Pro 0813
+Choose Boring Technology (2015)
 Source: Hacker News RSS
 Category: technology
-URL: https://openrouter.ai/deepseek/deepseek-v4-pro-0813
-Published: 2026-08-12T16:04:50+00:00
+URL: https://mcfunley.com/choose-boring-technology
+Published: 2026-08-13T17:48:13+00:00
 
-https://api-docs.deepseek.com/ https://artificialanalysis.ai/models/deepseek-v4-pro https://twitter.com/ChrisGPT/status/2087572834650407024 , https://xcancel.com/ChrisGPT/status/2087572834650407024 Comments URL: https://news.ycombinator.com/item?id=49274600 Points: 887 # Comments: 358
+Article URL: https://mcfunley.com/choose-boring-technology Comments URL: https://news.ycombinator.com/item?id=49289512 Points: 326 # Comments: 163
 
-Pixel Watch 5
+Where did the old web go? We followed 657,607 links to find out
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5
-Published: 2026-08-12T16:14:37+00:00
+URL: https://0.mk/blog/link-rot
+Published: 2026-08-13T17:49:18+00:00
 
-Article URL: https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/ Comments URL: https://news.ycombinator.com/item?id=49274757 Points: 137 # Comments: 261
+Article URL: https://0.mk/blog/link-rot Comments URL: https://news.ycombinator.com/item?id=49289532 Points: 171 # Comments: 153
 
-Lovable raises $400M Series C
+How Compaction Works in Pi
 Source: Hacker News RSS
 Category: technology
-URL: https://lovable.dev/blog/series-c
-Published: 2026-08-12T16:20:34+00:00
+URL: https://earendil.com/posts/compaction-in-pi
+Published: 2026-08-13T17:57:50+00:00
 
-Article URL: https://lovable.dev/blog/series-c Comments URL: https://news.ycombinator.com/item?id=49274858 Points: 133 # Comments: 128
+Article URL: https://earendil.com/posts/compaction-in-pi/ Comments URL: https://news.ycombinator.com/item?id=49289654 Points: 150 # Comments: 59
 
-HTML over WebSockets: real-time SPAs with barely any JavaScript
+Accelerating GPT-5.6 Sol Ultrafast
 Source: Hacker News RSS
 Category: technology
-URL: https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript
-Published: 2026-08-12T16:51:25+00:00
+URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai
+Published: 2026-08-13T18:10:02+00:00
 
-Article URL: https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/ Comments URL: https://news.ycombinator.com/item?id=49275335 Points: 185 # Comments: 127
+Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 556 # Comments: 231
 
-Reflex (YC W23) Is hiring Growth and GTM Roles
+Hello, me. It's been a while
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer
-Published: 2026-08-12T17:00:21+00:00
+URL: https://themech.net/2026/08/hello-me-its-been-a-while
+Published: 2026-08-13T18:37:18+00:00
 
-Article URL: https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer Comments URL: https://news.ycombinator.com/item?id=49275465 Points: 0 # Comments: 0
+Article URL: https://themech.net/2026/08/hello-me-its-been-a-while/ Comments URL: https://news.ycombinator.com/item?id=49290166 Points: 171 # Comments: 77
 
-Delta
+Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes
 Source: Hacker News RSS
 Category: technology
-URL: https://zed.dev/blog/introducing-delta
-Published: 2026-08-12T18:19:59+00:00
+URL: https://github.com/systemd/systemd/issues/40262
+Published: 2026-08-13T18:41:01+00:00
 
-Article URL: https://zed.dev/blog/introducing-delta Comments URL: https://news.ycombinator.com/item?id=49276574 Points: 517 # Comments: 180
+Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 201 # Comments: 126
 
-Breaking the WAL
+Understanding is the new bottleneck
 Source: Hacker News RSS
 Category: technology
-URL: https://antithesis.com/blog/2026/wal-reset-bug
-Published: 2026-08-12T20:00:16+00:00
+URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck
+Published: 2026-08-13T18:47:19+00:00
 
-Article URL: https://antithesis.com/blog/2026/wal-reset-bug/ Comments URL: https://news.ycombinator.com/item?id=49277799 Points: 94 # Comments: 42
+Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 298 # Comments: 160
 
-Thanks to social media, canned sardines are a scarcity on the supermarket shelf
+How Organizations Use AI: Evidence from ChatGPT [pdf]
 Source: Hacker News RSS
 Category: technology
-URL: https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now
-Published: 2026-08-12T21:45:29+00:00
+URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
+Published: 2026-08-13T19:25:38+00:00
 
-Article URL: https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/ Comments URL: https://news.ycombinator.com/item?id=49279013 Points: 110 # Comments: 129
+Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 100 # Comments: 56
 
-Principia Mathematica is modern and insightful
+How Gödel's Proof Works (2020)
 Source: Hacker News RSS
 Category: technology
-URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html
-Published: 2026-08-12T23:26:21+00:00
+URL: https://www.quantamagazine.org/how-godels-proof-works-20200714
+Published: 2026-08-13T19:44:46+00:00
 
-Article URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html Comments URL: https://news.ycombinator.com/item?id=49279928 Points: 135 # Comments: 65
+Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/ Comments URL: https://news.ycombinator.com/item?id=49290969 Points: 99 # Comments: 42
 
-Build Wide, Ship Narrow
+NP-overrated
 Source: Hacker News RSS
 Category: technology
-URL: https://adapt.com/blog/build-wide-ship-narrow
-Published: 2026-08-12T23:43:48+00:00
+URL: https://gruhn.me/blog/2026-08-13
+Published: 2026-08-13T20:14:17+00:00
 
-Article URL: https://adapt.com/blog/build-wide-ship-narrow Comments URL: https://news.ycombinator.com/item?id=49280047 Points: 79 # Comments: 22
+Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 197 # Comments: 131
 
-Flutter 3.47
+Blog about things you don't understand yet
 Source: Hacker News RSS
 Category: technology
-URL: https://flutter.dev/blog/whats-new-in-flutter-3-47
-Published: 2026-08-12T23:46:00+00:00
+URL: https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet
+Published: 2026-08-13T23:39:33+00:00
 
-Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47 Comments URL: https://news.ycombinator.com/item?id=49280061 Points: 78 # Comments: 72
+Article URL: https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/ Comments URL: https://news.ycombinator.com/item?id=49293087 Points: 85 # Comments: 29
 
-Happy 45th Birthday to the IBM PC and Model F/XT
+Bluesky Protocol Services
 Source: Hacker News RSS
 Category: technology
-URL: https://sharktastica.co.uk/articles/pc-fxt-45
-Published: 2026-08-12T23:50:33+00:00
+URL: https://atproto.com/blog/introducing-bluesky-protocol-services
+Published: 2026-08-14T00:14:28+00:00
 
-Article URL: https://sharktastica.co.uk/articles/pc-fxt-45 Comments URL: https://news.ycombinator.com/item?id=49280103 Points: 77 # Comments: 20
+Article URL: https://atproto.com/blog/introducing-bluesky-protocol-services Comments URL: https://news.ycombinator.com/item?id=49293324 Points: 152 # Comments: 28
 
-Show HN: Ballet – Workflow automation that writes integrations against any API
+GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ballet.dev/
-Published: 2026-08-13T00:01:43+00:00
+URL: https://z.ai/blog/glm-5.3
+Published: 2026-08-14T05:19:59+00:00
 
-Article URL: https://www.ballet.dev/ Comments URL: https://news.ycombinator.com/item?id=49280184 Points: 29 # Comments: 8
+Article URL: https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49294997 Points: 300 # Comments: 107
 
-Celld: Self-hosted, distributed Durable Objects
+Ruby 4.0 Universal RCE Deserialization Gadget Chain
 Source: Hacker News RSS
 Category: technology
-URL: https://celld.dev/
-Published: 2026-08-13T04:37:31+00:00
+URL: https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain
+Published: 2026-08-14T06:09:04+00:00
 
-Article URL: https://celld.dev/ Comments URL: https://news.ycombinator.com/item?id=49281839 Points: 17 # Comments: 1
+Article URL: https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain Comments URL: https://news.ycombinator.com/item?id=49295238 Points: 4 # Comments: 0
 
-ChatGPT Desktop (Codex Desktop) for Linux
+Why Books Don't Work: Constructivism over Transmissionism (2021)
 Source: Hacker News RSS
 Category: technology
-URL: https://openai.com/codex
-Published: 2026-08-13T04:53:41+00:00
+URL: https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism
+Published: 2026-08-14T07:31:01+00:00
 
-Article URL: https://openai.com/codex/ Comments URL: https://news.ycombinator.com/item?id=49281916 Points: 36 # Comments: 17
+Article URL: https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/ Comments URL: https://news.ycombinator.com/item?id=49295666 Points: 4 # Comments: 1
