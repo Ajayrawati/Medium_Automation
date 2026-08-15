@@ -1,0 +1,81 @@
+{
+  "topic": "Comments Url Https",
+  "topic_key": "comments-url-https",
+  "confidence": 86.12,
+  "score_breakdown": {
+    "source_quality": 65.45,
+    "corroboration": 100.0,
+    "recency": 82.41,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.12,
+  "evidence": [
+    {
+      "title": "\"That's not SoC 2 compliant\"",
+      "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+      "publisher": "ampcode.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-15T06:59:33.652045+00:00"
+    },
+    {
+      "title": "Ask HN: How do you keep up with HN these days?",
+      "url": "https://news.ycombinator.com/item?id=49308059",
+      "publisher": "news.ycombinator.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-15T06:59:33.911088+00:00"
+    },
+    {
+      "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "publisher": "chenxiachan.github.io",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-15T06:59:34.010300+00:00"
+    },
+    {
+      "title": "The other Sean Byrne doesn't exist",
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "publisher": "conic.al",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-15T06:59:34.160250+00:00"
+    },
+    {
+      "title": "The End of Mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
+      "publisher": "www.daniellitt.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-15T06:59:34.407663+00:00"
+    },
+    {
+      "title": "Show HN: Deltix \u2013 AI Driven Testing",
+      "url": "https://app.deltix.ai",
+      "publisher": "app.deltix.ai",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-15T06:59:34.605966+00:00"
+    }
+  ]
+}
