@@ -1,78 +1,3 @@
-ToolJet / ToolJet
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ToolJet/ToolJet
-
-ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-
-unslothai / unsloth
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/unslothai/unsloth
-
-Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
-
-OpenCut-app / OpenCut
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/OpenCut-app/OpenCut
-
-The open-source CapCut alternative
-
-rustdesk / rustdesk
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/rustdesk/rustdesk
-
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-semantica-agi / semantica
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/semantica-agi/semantica
-
-Graph-Native Infrastructure for Context and Accountable AI Systems
-
-deepseek-ai / awesome-deepseek-agent
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/deepseek-ai/awesome-deepseek-agent
-
-cursor / plugins
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cursor/plugins
-
-Cursor plugin specification and official plugins
-
-infiniflow / ragflow
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/infiniflow/ragflow
-
-RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-
-lightningpixel / modly
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/lightningpixel/modly
-
-Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
-
-github / spec-kit
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/github/spec-kit
-
-💫 Toolkit to help you get started with Spec-Driven Development
-
-holaboss-ai / holaOS
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/holaboss-ai/holaOS
-
-Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
-
 citrolabs / ego-lite
 Source: GitHub Trending
 Category: technology
@@ -80,19 +5,26 @@ URL: https://github.com/citrolabs/ego-lite
 
 The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
-smicallef / spiderfoot
+HKUDS / CLI-Anything
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/smicallef/spiderfoot
+URL: https://github.com/HKUDS/CLI-Anything
 
-SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
-macro-inc / macro
+ToolJet / ToolJet
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/macro-inc/macro
+URL: https://github.com/ToolJet/ToolJet
 
-Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+
+altic-dev / FluidVoice
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/altic-dev/FluidVoice
+
+Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp
 
 megadose / holehe
 Source: GitHub Trending
@@ -101,12 +33,47 @@ URL: https://github.com/megadose/holehe
 
 holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 
+github / spec-kit
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/github/spec-kit
+
+💫 Toolkit to help you get started with Spec-Driven Development
+
+MakazhanAlpamys / Soup
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/MakazhanAlpamys/Soup
+
+Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+
+public-apis / public-apis
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/public-apis/public-apis
+
+A collective list of free APIs
+
+unslothai / unsloth
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/unslothai/unsloth
+
+Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+
 cactus-compute / needle
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/cactus-compute/needle
 
 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+
+cursor / plugins
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cursor/plugins
+
+Cursor plugin specification and official plugins
 
 cathrynlavery / diagram-design
 Source: GitHub Trending
@@ -115,190 +82,218 @@ URL: https://github.com/cathrynlavery/diagram-design
 
 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 
-This Hi-Fi Tape Recorder Changed Radio Forever
+cordiverse / cordis
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cordiverse/cordis
+
+Meta-Framework of Spatiotemporal Composability
+
+A spectre is haunting Unicode
 Source: Hacker News
 Category: technology
-URL: https://spectrum.ieee.org/magnetophon-laugh-track
-Published: 2026-08-11T19:23:33+00:00
-Score: 37
+URL: https://www.dampfkraft.com/ghost-characters.html
+Published: 2026-08-15T14:34:04+00:00
+Score: 207
 
-Unearthing a 31 year old Easter egg in Ecco the Dolphin
+A fortuitous decade as an indie software developer
 Source: Hacker News
 Category: technology
-URL: https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c
-Published: 2026-08-12T14:19:05+00:00
-Score: 68
+URL: https://lapcatsoftware.com/articles/2026/8/3.html
+Published: 2026-08-10T15:20:25+00:00
+Score: 66
 
-Show HN: Silent Shark – tactical map-based WWII submarine sim
+Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite
 Source: Hacker News
 Category: technology
-URL: https://silentshark.app/
-Published: 2026-08-12T19:37:12+00:00
-Score: 5
+URL: https://notebook.link/blog/numba-in-the-browser
+Published: 2026-08-12T08:44:23+00:00
+Score: 25
 
-Coin-sized device can hack a Boeing 737
+RISC-V: They Should Have Known Better
 Source: Hacker News
 Category: technology
-URL: https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737
-Published: 2026-08-13T07:57:40+00:00
-Score: 42
+URL: https://dmitry.gr/?r=06.+Thoughts&proj=12.+RV
+Published: 2026-08-14T12:50:56+00:00
+Score: 281
 
-I turned my RSS feeds into an e-ink newspaper to stop reading on my phone
+At-home test for infected ticks could improve Lyme Disease diagnosis
+Source: Hacker News
+Category: technology
+URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235
+Published: 2026-08-15T14:04:49+00:00
+Score: 248
+
+Asynchronous I/O in DuckDB: Work, Thread, Work
+Source: Hacker News
+Category: technology
+URL: https://duckdb.org/2026/07/31/asynchronous-io
+Published: 2026-08-10T13:01:18+00:00
+Score: 119
+
+Asus Bike Booster
+Source: Hacker News
+Category: technology
+URL: https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster
+Published: 2026-08-12T06:33:12+00:00
+Score: 304
+
+Semaglutide linked to lower predicted dementia risk
 Source: Hacker News RSS
 Category: technology
-URL: https://heyjonny.dev/posts/rss-to-eink-newspaper
-Published: 2026-08-14T14:21:18+00:00
+URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432
+Published: 2026-08-15T15:58:53+00:00
 
-Article URL: https://heyjonny.dev/posts/rss-to-eink-newspaper/ Comments URL: https://news.ycombinator.com/item?id=49299081 Points: 173 # Comments: 69
+Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 402 # Comments: 280
 
-Qwen 3.8 27B
+AI has access to a vastly larger working memory than the human brain
 Source: Hacker News RSS
 Category: technology
-URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8
-Published: 2026-08-14T15:00:00+00:00
+URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
+Published: 2026-08-15T18:13:02+00:00
 
-Article URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8 Comments URL: https://news.ycombinator.com/item?id=49299605 Points: 1057 # Comments: 666
+Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 469 # Comments: 405
 
-Introducing Toast 1
+Voltair (YC W26) Is Hiring a Test Flight Engineer
 Source: Hacker News RSS
 Category: technology
-URL: https://www.mixedbread.com/blog/toast-1
-Published: 2026-08-14T15:07:57+00:00
+URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer
+Published: 2026-08-15T18:33:25+00:00
 
-Article URL: https://www.mixedbread.com/blog/toast-1 Comments URL: https://news.ycombinator.com/item?id=49299746 Points: 194 # Comments: 60
+Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0
 
-Google is making private AI practical with homomorphic encryption
+Tess's Android Wayland Compositor
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption
-Published: 2026-08-14T15:43:10+00:00
+URL: https://github.com/wmww/tawc
+Published: 2026-08-15T18:34:26+00:00
 
-Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 355 # Comments: 210
+Article URL: https://github.com/wmww/tawc Comments URL: https://news.ycombinator.com/item?id=49313068 Points: 61 # Comments: 9
 
-AI by Hand
+AI in drug discovery – what it is, where we stand and the path forward
 Source: Hacker News RSS
 Category: technology
-URL: https://www.byhand.ai/
-Published: 2026-08-14T15:58:59+00:00
+URL: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
+Published: 2026-08-15T19:12:53+00:00
 
-Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 275 # Comments: 20
+https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 128 # Comments: 64
 
-RustDesk now supports true unattended remote access on Wayland
+Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter
 Source: Hacker News RSS
 Category: technology
-URL: https://rustdesk.com/blog/unattended-remote-access-wayland
-Published: 2026-08-14T16:12:52+00:00
+URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa
+Published: 2026-08-15T19:20:51+00:00
 
-Article URL: https://rustdesk.com/blog/unattended-remote-access-wayland/ Comments URL: https://news.ycombinator.com/item?id=49300759 Points: 264 # Comments: 112
+Article URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/ Comments URL: https://news.ycombinator.com/item?id=49313428 Points: 175 # Comments: 96
 
-Maximizing the value of your Claude Code sessions
+Cultivating a state of mind where new ideas are born (2023)
 Source: Hacker News RSS
 Category: technology
-URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions
-Published: 2026-08-14T16:15:21+00:00
+URL: https://www.henrikkarlsson.xyz/p/good-ideas
+Published: 2026-08-15T20:54:11+00:00
 
-Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800 Points: 187 # Comments: 115
+Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 141 # Comments: 32
 
-Racket v9.3
+Abdominal fat predicts heart disease risk better than BMI
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.racket-lang.org/2026/08/racket-v9-3.html
-Published: 2026-08-14T18:14:48+00:00
+URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi
+Published: 2026-08-15T21:14:34+00:00
 
-Article URL: https://blog.racket-lang.org/2026/08/racket-v9-3.html Comments URL: https://news.ycombinator.com/item?id=49302562 Points: 70 # Comments: 2
+https://pmc.ncbi.nlm.nih.gov/articles/PMC13470613/ Comments URL: https://news.ycombinator.com/item?id=49314403 Points: 227 # Comments: 167
 
-Firefox is now the last major browser that still supports uBlock Origin
+Tracking down a Zsh history data loss bug
 Source: Hacker News RSS
 Category: technology
-URL: https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html
-Published: 2026-08-14T19:03:20+00:00
+URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug
+Published: 2026-08-15T21:39:09+00:00
 
-Article URL: https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html Comments URL: https://news.ycombinator.com/item?id=49303202 Points: 783 # Comments: 302
+Article URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/ Comments URL: https://news.ycombinator.com/item?id=49314579 Points: 60 # Comments: 21
 
-Going Dark, and the era of law enforcement hacking
+SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark
-Published: 2026-08-14T20:52:44+00:00
+URL: https://sugartrack-beta.vercel.app/
+Published: 2026-08-15T22:28:14+00:00
 
-Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/ Comments URL: https://news.ycombinator.com/item?id=49304447 Points: 298 # Comments: 140
+Article URL: https://sugartrack-beta.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49314884 Points: 40 # Comments: 15
 
-eigendrum
+Software Engineering fundamentals matter more
 Source: Hacker News RSS
 Category: technology
-URL: https://eigendrum.com/
-Published: 2026-08-14T22:15:12+00:00
+URL: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever
+Published: 2026-08-15T22:31:09+00:00
 
-Article URL: https://eigendrum.com/#p=circle Comments URL: https://news.ycombinator.com/item?id=49305250 Points: 117 # Comments: 23
+Article URL: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/ Comments URL: https://news.ycombinator.com/item?id=49314902 Points: 82 # Comments: 22
 
-Simplifying and Refactoring Introductory Calculus (2018)
+AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/1811.03459
-Published: 2026-08-15T00:15:23+00:00
+URL: https://arxiv.org/abs/2608.13122
+Published: 2026-08-15T22:41:51+00:00
 
-Article URL: https://arxiv.org/abs/1811.03459 Comments URL: https://news.ycombinator.com/item?id=49306196 Points: 74 # Comments: 27
+Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 21 # Comments: 2
 
-The Ploopy A+ Trackball Is Here
+Tea5767-Radio-Tuner
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.ploopy.co/the-aplus-is-finally-here-499
-Published: 2026-08-15T00:55:31+00:00
+URL: https://github.com/turtushig22-blip/tea5767-radio-tuner
+Published: 2026-08-15T23:54:35+00:00
 
-Article URL: https://blog.ploopy.co/the-aplus-is-finally-here-499 Comments URL: https://news.ycombinator.com/item?id=49306443 Points: 92 # Comments: 40
+Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner Comments URL: https://news.ycombinator.com/item?id=49315456 Points: 35 # Comments: 2
 
-Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
+Big Pickle on SWE Atlas – Codebase QnA
 Source: Hacker News RSS
 Category: technology
-URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive
-Published: 2026-08-15T01:14:05+00:00
+URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas
+Published: 2026-08-16T00:10:48+00:00
 
-Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive Comments URL: https://news.ycombinator.com/item?id=49306577 Points: 173 # Comments: 36
+Article URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas Comments URL: https://news.ycombinator.com/item?id=49315563 Points: 4 # Comments: 0
 
-Show HN: Deltix – AI Driven Testing
+Show HN: Mic Drop, a real-time multiplayer karaoke game
 Source: Hacker News RSS
 Category: technology
-URL: https://app.deltix.ai/
-Published: 2026-08-15T02:42:14+00:00
+URL: https://www.micdrop.gg/
+Published: 2026-08-16T00:46:29+00:00
 
-Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 23 # Comments: 7
+Article URL: https://www.micdrop.gg/ Comments URL: https://news.ycombinator.com/item?id=49315742 Points: 45 # Comments: 17
 
-The End of Mathematics
+Guiding Ships with Moire Patterns
 Source: Hacker News RSS
 Category: technology
-URL: https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics
-Published: 2026-08-15T03:37:00+00:00
+URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns
+Published: 2026-08-16T01:26:44+00:00
 
-Article URL: https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics Comments URL: https://news.ycombinator.com/item?id=49307383 Points: 21 # Comments: 8
+Article URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/ Comments URL: https://news.ycombinator.com/item?id=49315995 Points: 30 # Comments: 7
 
-The other Sean Byrne doesn't exist
+Patterns and problems in emerging multi-agent systems
 Source: Hacker News RSS
 Category: technology
-URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist
-Published: 2026-08-15T04:18:44+00:00
+URL: https://www.anthropic.com/research/multiagent-systems
+Published: 2026-08-16T02:12:53+00:00
 
-Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 45 # Comments: 13
+Article URL: https://www.anthropic.com/research/multiagent-systems Comments URL: https://news.ycombinator.com/item?id=49316271 Points: 45 # Comments: 13
 
-Show HN: ThoughtDAG – An editable context graph for LLM conversations
+Zapping Rocks Unlocks Stimulated Geologic Hydrogen
 Source: Hacker News RSS
 Category: technology
-URL: https://chenxiachan.github.io/thoughtdag
-Published: 2026-08-15T04:42:07+00:00
+URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen
+Published: 2026-08-16T02:36:10+00:00
 
-Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 9 # Comments: 0
+Article URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen Comments URL: https://news.ycombinator.com/item?id=49316395 Points: 12 # Comments: 3
 
-Ask HN: How do you keep up with HN these days?
+Government sponsored study on alcohol doesn't stand up to scrutiny
 Source: Hacker News RSS
 Category: technology
-URL: https://news.ycombinator.com/item?id=49308059
-Published: 2026-08-15T05:59:12+00:00
+URL: https://nntaleb.substack.com/p/have-another-drink
+Published: 2026-08-16T03:23:34+00:00
 
-In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder. How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more. Comments URL: https://news.ycombinator.com/item?id=49308059 Points: 23 # Comments: 27
+Article URL: https://nntaleb.substack.com/p/have-another-drink Comments URL: https://news.ycombinator.com/item?id=49316611 Points: 31 # Comments: 11
 
-"That's not SoC 2 compliant"
+Targeted marine cloud brightening weakens subsequent El Niño
 Source: Hacker News RSS
 Category: technology
-URL: https://ampcode.com/notes/thats-not-soc-2-compliant
-Published: 2026-08-15T06:01:19+00:00
+URL: https://www.science.org/doi/10.1126/sciadv.adx3012
+Published: 2026-08-16T03:40:05+00:00
 
-Article URL: https://ampcode.com/notes/thats-not-soc-2-compliant Comments URL: https://news.ycombinator.com/item?id=49308073 Points: 25 # Comments: 12
+Article URL: https://www.science.org/doi/10.1126/sciadv.adx3012 Comments URL: https://news.ycombinator.com/item?id=49316685 Points: 15 # Comments: 0

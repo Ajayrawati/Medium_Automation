@@ -1,0 +1,81 @@
+{
+  "topic": "Https Comments News.ycombinator.com",
+  "topic_key": "https-comments-news.ycombinator.com",
+  "confidence": 86.51,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 85.07,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.51,
+  "evidence": [
+    {
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "publisher": "www.smithsonianmag.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-16T07:01:00.928786+00:00"
+    },
+    {
+      "title": "Targeted marine cloud brightening weakens subsequent El Ni\u00f1o",
+      "url": "https://www.science.org/doi/10.1126/sciadv.adx3012",
+      "publisher": "www.science.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-16T07:01:01.200397+00:00"
+    },
+    {
+      "title": "Government sponsored study on alcohol doesn't stand up to scrutiny",
+      "url": "https://nntaleb.substack.com/p/have-another-drink",
+      "publisher": "nntaleb.substack.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-16T07:01:01.241367+00:00"
+    },
+    {
+      "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+      "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+      "publisher": "spectrum.ieee.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-16T07:01:01.399305+00:00"
+    },
+    {
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "publisher": "www.anthropic.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-16T07:01:01.554942+00:00"
+    },
+    {
+      "title": "Guiding Ships with Moire Patterns",
+      "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+      "publisher": "tinkerings.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-16T07:01:01.801347+00:00"
+    }
+  ]
+}
