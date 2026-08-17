@@ -1,0 +1,81 @@
+{
+  "topic": "Article News.ycombinator.com Url",
+  "topic_key": "article-news.ycombinator.com-url",
+  "confidence": 87.18,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 88.39,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.18,
+  "evidence": [
+    {
+      "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+      "url": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
+      "publisher": "newsletter.semianalysis.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-17T07:17:46.478308+00:00"
+    },
+    {
+      "title": "Linear Algebra Done Right \u2013 Sheldon Axler",
+      "url": "https://linear.axler.net/",
+      "publisher": "linear.axler.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-17T07:17:46.875876+00:00"
+    },
+    {
+      "title": "GIMP Development Update",
+      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+      "publisher": "www.gimp.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-17T07:17:47.118554+00:00"
+    },
+    {
+      "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
+      "url": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
+      "publisher": "infoscience.epfl.ch",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-17T07:17:47.341552+00:00"
+    },
+    {
+      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+      "publisher": "meanhamster.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-17T07:17:47.480031+00:00"
+    },
+    {
+      "title": "Prolly: A content-addressed ordered map built on prolly trees",
+      "url": "https://github.com/crabbuild/prolly",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-17T07:17:48.627847+00:00"
+    }
+  ]
+}

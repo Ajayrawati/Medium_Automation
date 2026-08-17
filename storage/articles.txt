@@ -1,16 +1,9 @@
-citrolabs / ego-lite
+cactus-compute / needle
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/citrolabs/ego-lite
+URL: https://github.com/cactus-compute/needle
 
-The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-
-HKUDS / CLI-Anything
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/HKUDS/CLI-Anything
-
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 
 ToolJet / ToolJet
 Source: GitHub Trending
@@ -19,40 +12,19 @@ URL: https://github.com/ToolJet/ToolJet
 
 ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 
-altic-dev / FluidVoice
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/altic-dev/FluidVoice
-
-Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp
-
-megadose / holehe
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/megadose/holehe
-
-holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-
-github / spec-kit
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/github/spec-kit
-
-💫 Toolkit to help you get started with Spec-Driven Development
-
-MakazhanAlpamys / Soup
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/MakazhanAlpamys/Soup
-
-Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
-
 public-apis / public-apis
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/public-apis/public-apis
 
 A collective list of free APIs
+
+OpenCut-app / OpenCut
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/OpenCut-app/OpenCut
+
+The open-source CapCut alternative
 
 unslothai / unsloth
 Source: GitHub Trending
@@ -61,26 +33,12 @@ URL: https://github.com/unslothai/unsloth
 
 Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 
-cactus-compute / needle
+basecamp / omarchy
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/cactus-compute/needle
+URL: https://github.com/basecamp/omarchy
 
-14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-
-cursor / plugins
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cursor/plugins
-
-Cursor plugin specification and official plugins
-
-cathrynlavery / diagram-design
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cathrynlavery/diagram-design
-
-29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+Beautiful, Modern & Opinionated Linux
 
 cordiverse / cordis
 Source: GitHub Trending
@@ -89,211 +47,211 @@ URL: https://github.com/cordiverse/cordis
 
 Meta-Framework of Spatiotemporal Composability
 
-A spectre is haunting Unicode
+Dancing with friends and enemies: boids' swarm intelligence (2012)
 Source: Hacker News
 Category: technology
-URL: https://www.dampfkraft.com/ghost-characters.html
-Published: 2026-08-15T14:34:04+00:00
-Score: 207
+URL: https://community.wolfram.com/groups/-/m/t/122095
+Published: 2026-08-11T12:40:31+00:00
+Score: 38
 
-A fortuitous decade as an indie software developer
+Design 3D-printable parts by talking
 Source: Hacker News
 Category: technology
-URL: https://lapcatsoftware.com/articles/2026/8/3.html
-Published: 2026-08-10T15:20:25+00:00
-Score: 66
+URL: https://nurb.dev/
+Published: 2026-08-14T14:09:32+00:00
+Score: 8
 
-Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite
+Show HN: Vocal Slice – Cut audio by selecting text, fully on-device
 Source: Hacker News
 Category: technology
-URL: https://notebook.link/blog/numba-in-the-browser
-Published: 2026-08-12T08:44:23+00:00
-Score: 25
+URL: https://vocalslice.com/
+Published: 2026-08-10T15:32:03+00:00
+Score: 14
 
-RISC-V: They Should Have Known Better
+SIMD in the 90s: Programming Intel's Pentium MMX
 Source: Hacker News
 Category: technology
-URL: https://dmitry.gr/?r=06.+Thoughts&proj=12.+RV
-Published: 2026-08-14T12:50:56+00:00
-Score: 281
+URL: https://pikuma.com/blog/programming-intel-pentium-mmx-simd
+Published: 2026-08-13T12:44:05+00:00
+Score: 109
 
-At-home test for infected ticks could improve Lyme Disease diagnosis
+Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)
 Source: Hacker News
 Category: technology
-URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235
-Published: 2026-08-15T14:04:49+00:00
-Score: 248
+URL: https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite
+Published: 2026-08-09T13:50:21+00:00
+Score: 47
 
-Asynchronous I/O in DuckDB: Work, Thread, Work
+Low-Tech Ceramic Water Filter
 Source: Hacker News
 Category: technology
-URL: https://duckdb.org/2026/07/31/asynchronous-io
-Published: 2026-08-10T13:01:18+00:00
-Score: 119
+URL: https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en
+Published: 2026-08-11T15:36:27+00:00
+Score: 157
 
-Asus Bike Booster
+Claude: System Prompts
 Source: Hacker News
 Category: technology
-URL: https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster
-Published: 2026-08-12T06:33:12+00:00
-Score: 304
+URL: https://platform.claude.com/docs/en/release-notes/system-prompts
+Published: 2026-08-16T12:48:21+00:00
+Score: 628
 
-Semaglutide linked to lower predicted dementia risk
+The AI Credit Resale Economy
 Source: Hacker News RSS
 Category: technology
-URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432
-Published: 2026-08-15T15:58:53+00:00
+URL: https://vectoral.com/blog/who-are-the-token-brokers
+Published: 2026-08-16T14:44:55+00:00
 
-Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 402 # Comments: 280
+Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 268 # Comments: 113
 
-AI has access to a vastly larger working memory than the human brain
+A third world engineer responds to “RISC-V: They should have known better”
 Source: Hacker News RSS
 Category: technology
-URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
-Published: 2026-08-15T18:13:02+00:00
+URL: https://rvembedded.com/blog_post/12
+Published: 2026-08-16T17:01:07+00:00
 
-Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 469 # Comments: 405
+Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 462 # Comments: 238
 
-Voltair (YC W26) Is Hiring a Test Flight Engineer
+Tell HN: Cloudflare silently injects its analytics when you switch nameservers
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer
-Published: 2026-08-15T18:33:25+00:00
+URL: https://news.ycombinator.com/item?id=49322107
+Published: 2026-08-16T17:49:46+00:00
 
-Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0
+A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and then disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this. Comments URL: https://news.ycombinator.com/item?id=49322107 Points: 425 # Comments: 107
 
-Tess's Android Wayland Compositor
+MathCode, Mathematical Coding Agent
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/wmww/tawc
-Published: 2026-08-15T18:34:26+00:00
+URL: https://math-ai-org.github.io/mathcode
+Published: 2026-08-16T18:17:10+00:00
 
-Article URL: https://github.com/wmww/tawc Comments URL: https://news.ycombinator.com/item?id=49313068 Points: 61 # Comments: 9
+Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 85 # Comments: 26
 
-AI in drug discovery – what it is, where we stand and the path forward
+Protobuf has LSP support. You're welcome
 Source: Hacker News RSS
 Category: technology
-URL: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
-Published: 2026-08-15T19:12:53+00:00
+URL: https://buf.build/blog/protobuf-lsp
+Published: 2026-08-16T18:48:27+00:00
 
-https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 128 # Comments: 64
+Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 141 # Comments: 92
 
-Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter
+Red queen hypothesis – A new way forward for self-improving AI
 Source: Hacker News RSS
 Category: technology
-URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa
-Published: 2026-08-15T19:20:51+00:00
+URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai
+Published: 2026-08-16T20:01:13+00:00
 
-Article URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/ Comments URL: https://news.ycombinator.com/item?id=49313428 Points: 175 # Comments: 96
+Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 42 # Comments: 7
 
-Cultivating a state of mind where new ideas are born (2023)
+An open-source, candle-only crypto pump detector–looking for ML contributors
 Source: Hacker News RSS
 Category: technology
-URL: https://www.henrikkarlsson.xyz/p/good-ideas
-Published: 2026-08-15T20:54:11+00:00
+URL: https://github.com/aleks-ent/pump-dump-crypto-screener
+Published: 2026-08-16T20:16:30+00:00
 
-Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 141 # Comments: 32
+Article URL: https://github.com/aleks-ent/pump-dump-crypto-screener Comments URL: https://news.ycombinator.com/item?id=49323256 Points: 3 # Comments: 0
 
-Abdominal fat predicts heart disease risk better than BMI
+Stripe will reportedly acquire OpenRouter for $7B+
 Source: Hacker News RSS
 Category: technology
-URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi
-Published: 2026-08-15T21:14:34+00:00
+URL: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b
+Published: 2026-08-16T20:31:16+00:00
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC13470613/ Comments URL: https://news.ycombinator.com/item?id=49314403 Points: 227 # Comments: 167
+Article URL: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/ Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 298 # Comments: 198
 
-Tracking down a Zsh history data loss bug
+Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
 Source: Hacker News RSS
 Category: technology
-URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug
-Published: 2026-08-15T21:39:09+00:00
+URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14
+Published: 2026-08-16T21:07:10+00:00
 
-Article URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/ Comments URL: https://news.ycombinator.com/item?id=49314579 Points: 60 # Comments: 21
+Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 192 # Comments: 86
 
-SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)
+Qwen 3.8 27B is excellent, but it defaults to overthinking things
 Source: Hacker News RSS
 Category: technology
-URL: https://sugartrack-beta.vercel.app/
-Published: 2026-08-15T22:28:14+00:00
+URL: https://simonwillison.net/2026/Aug/16/qwen-38-27b
+Published: 2026-08-16T23:45:09+00:00
 
-Article URL: https://sugartrack-beta.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49314884 Points: 40 # Comments: 15
+Article URL: https://simonwillison.net/2026/Aug/16/qwen-38-27b/ Comments URL: https://news.ycombinator.com/item?id=49324985 Points: 328 # Comments: 132
 
-Software Engineering fundamentals matter more
+Reticulum – Decentralized Mesh Network
 Source: Hacker News RSS
 Category: technology
-URL: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever
-Published: 2026-08-15T22:31:09+00:00
+URL: https://reticulum.network/
+Published: 2026-08-16T23:59:10+00:00
 
-Article URL: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/ Comments URL: https://news.ycombinator.com/item?id=49314902 Points: 82 # Comments: 22
+Article URL: https://reticulum.network/ Comments URL: https://news.ycombinator.com/item?id=49325061 Points: 90 # Comments: 22
 
-AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code
+The Life and Death of Direct File [pdf]
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2608.13122
-Published: 2026-08-15T22:41:51+00:00
+URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf
+Published: 2026-08-17T00:17:57+00:00
 
-Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 21 # Comments: 2
+Article URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf Comments URL: https://news.ycombinator.com/item?id=49325185 Points: 172 # Comments: 80
 
-Tea5767-Radio-Tuner
+Applying a photosynthetic process to treat “dry eye”
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/turtushig22-blip/tea5767-radio-tuner
-Published: 2026-08-15T23:54:35+00:00
+URL: https://www.science.org/content/blog-post/taking-tip-plants-eyes
+Published: 2026-08-17T00:35:29+00:00
 
-Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner Comments URL: https://news.ycombinator.com/item?id=49315456 Points: 35 # Comments: 2
+Article URL: https://www.science.org/content/blog-post/taking-tip-plants-eyes Comments URL: https://news.ycombinator.com/item?id=49325304 Points: 36 # Comments: 7
 
-Big Pickle on SWE Atlas – Codebase QnA
+Rhombus 1.1 is now available
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas
-Published: 2026-08-16T00:10:48+00:00
+URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html
+Published: 2026-08-17T00:48:21+00:00
 
-Article URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas Comments URL: https://news.ycombinator.com/item?id=49315563 Points: 4 # Comments: 0
+Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html Comments URL: https://news.ycombinator.com/item?id=49325384 Points: 60 # Comments: 21
 
-Show HN: Mic Drop, a real-time multiplayer karaoke game
+Prolly: A content-addressed ordered map built on prolly trees
 Source: Hacker News RSS
 Category: technology
-URL: https://www.micdrop.gg/
-Published: 2026-08-16T00:46:29+00:00
+URL: https://github.com/crabbuild/prolly
+Published: 2026-08-17T01:00:45+00:00
 
-Article URL: https://www.micdrop.gg/ Comments URL: https://news.ycombinator.com/item?id=49315742 Points: 45 # Comments: 17
+Article URL: https://github.com/crabbuild/prolly Comments URL: https://news.ycombinator.com/item?id=49325458 Points: 31 # Comments: 1
 
-Guiding Ships with Moire Patterns
+AGI-64 Brings Sierra Adventures to the Commodore 64
 Source: Hacker News RSS
 Category: technology
-URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns
-Published: 2026-08-16T01:26:44+00:00
+URL: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64
+Published: 2026-08-17T01:45:36+00:00
 
-Article URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/ Comments URL: https://news.ycombinator.com/item?id=49315995 Points: 30 # Comments: 7
+Article URL: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64 Comments URL: https://news.ycombinator.com/item?id=49325714 Points: 64 # Comments: 9
 
-Patterns and problems in emerging multi-agent systems
+Strong gravitational lensing and microlensing of supernovae (2024)
 Source: Hacker News RSS
 Category: technology
-URL: https://www.anthropic.com/research/multiagent-systems
-Published: 2026-08-16T02:12:53+00:00
+URL: https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5
+Published: 2026-08-17T02:55:20+00:00
 
-Article URL: https://www.anthropic.com/research/multiagent-systems Comments URL: https://news.ycombinator.com/item?id=49316271 Points: 45 # Comments: 13
+Article URL: https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5 Comments URL: https://news.ycombinator.com/item?id=49326071 Points: 9 # Comments: 1
 
-Zapping Rocks Unlocks Stimulated Geologic Hydrogen
+GIMP Development Update
 Source: Hacker News RSS
 Category: technology
-URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen
-Published: 2026-08-16T02:36:10+00:00
+URL: https://www.gimp.org/news/2026/08/16/dev-update-august-2026
+Published: 2026-08-17T03:08:47+00:00
 
-Article URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen Comments URL: https://news.ycombinator.com/item?id=49316395 Points: 12 # Comments: 3
+Article URL: https://www.gimp.org/news/2026/08/16/dev-update-august-2026/ Comments URL: https://news.ycombinator.com/item?id=49326156 Points: 13 # Comments: 0
 
-Government sponsored study on alcohol doesn't stand up to scrutiny
+Linear Algebra Done Right – Sheldon Axler
 Source: Hacker News RSS
 Category: technology
-URL: https://nntaleb.substack.com/p/have-another-drink
-Published: 2026-08-16T03:23:34+00:00
+URL: https://linear.axler.net/
+Published: 2026-08-17T05:21:34+00:00
 
-Article URL: https://nntaleb.substack.com/p/have-another-drink Comments URL: https://news.ycombinator.com/item?id=49316611 Points: 31 # Comments: 11
+Article URL: https://linear.axler.net/ Comments URL: https://news.ycombinator.com/item?id=49326816 Points: 13 # Comments: 4
 
-Targeted marine cloud brightening weakens subsequent El Niño
+$12B of US ratepayers' money wasted on a modeling mistake in PJM
 Source: Hacker News RSS
 Category: technology
-URL: https://www.science.org/doi/10.1126/sciadv.adx3012
-Published: 2026-08-16T03:40:05+00:00
+URL: https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted
+Published: 2026-08-17T05:22:49+00:00
 
-Article URL: https://www.science.org/doi/10.1126/sciadv.adx3012 Comments URL: https://news.ycombinator.com/item?id=49316685 Points: 15 # Comments: 0
+Article URL: https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted Comments URL: https://news.ycombinator.com/item?id=49326825 Points: 23 # Comments: 5
