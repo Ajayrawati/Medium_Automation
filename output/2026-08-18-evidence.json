@@ -1,0 +1,81 @@
+{
+  "topic": "Item Https News.ycombinator.com",
+  "topic_key": "item-https-news.ycombinator.com",
+  "confidence": 86.16,
+  "score_breakdown": {
+    "source_quality": 64.74,
+    "corroboration": 100.0,
+    "recency": 83.68,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.16,
+  "evidence": [
+    {
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "publisher": "blog.roboflow.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-18T07:06:06.864258+00:00"
+    },
+    {
+      "title": "The Benchmarkpocalypse",
+      "url": "https://danluu.com/benchpocalypse/",
+      "publisher": "danluu.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-18T07:06:06.948317+00:00"
+    },
+    {
+      "title": "Repair Cafe \u2013 Fix Your Broken Items",
+      "url": "https://www.repaircafe.org/",
+      "publisher": "www.repaircafe.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-18T07:06:08.965843+00:00"
+    },
+    {
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "publisher": "timmarinin.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-18T07:06:09.616098+00:00"
+    },
+    {
+      "title": "scScript for Linux",
+      "url": "https://scapplications.com/",
+      "publisher": "scapplications.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-18T07:06:09.759704+00:00"
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "publisher": "fabiensanglard.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-18T07:06:10.115940+00:00"
+    }
+  ]
+}
