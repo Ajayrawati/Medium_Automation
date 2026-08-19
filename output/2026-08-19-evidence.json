@@ -1,0 +1,81 @@
+{
+  "topic": "Url News.ycombinator.com Points",
+  "topic_key": "url-news.ycombinator.com-points",
+  "confidence": 86.31,
+  "score_breakdown": {
+    "source_quality": 64.76,
+    "corroboration": 100.0,
+    "recency": 84.43,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.31,
+  "evidence": [
+    {
+      "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
+      "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
+      "publisher": "www.xda-developers.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-19T07:07:44.704868+00:00"
+    },
+    {
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "publisher": "terrytao.wordpress.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-19T07:07:44.792912+00:00"
+    },
+    {
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "publisher": "www.economist.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-19T07:07:44.859037+00:00"
+    },
+    {
+      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+      "url": "https://github.com/katiahayati/lucasartsifier/",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-19T07:07:44.951227+00:00"
+    },
+    {
+      "title": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "publisher": "openlogi.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-19T07:07:45.040474+00:00"
+    },
+    {
+      "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
+      "url": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
+      "publisher": "www.koh-antique.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-19T07:07:45.200010+00:00"
+    }
+  ]
+}
