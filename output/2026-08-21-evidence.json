@@ -1,0 +1,81 @@
+{
+  "topic": "Item Url Https",
+  "topic_key": "item-url-https",
+  "confidence": 86.48,
+  "score_breakdown": {
+    "source_quality": 65.26,
+    "corroboration": 100.0,
+    "recency": 84.51,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.48,
+  "evidence": [
+    {
+      "title": "Show HN: Argentic \u2013 An L402 Lightning toll booth for AI scraping agents",
+      "url": "https://Argentic.network",
+      "publisher": "Argentic.network",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-21T07:09:43.830766+00:00"
+    },
+    {
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+      "publisher": "philipdick.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-21T07:09:58.931555+00:00"
+    },
+    {
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "publisher": "www.xda-developers.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-21T07:09:59.368789+00:00"
+    },
+    {
+      "title": "Seed: Minimal, self-modifying agent harness",
+      "url": "https://github.com/vivekhaldar/seed",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-21T07:09:59.830714+00:00"
+    },
+    {
+      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "publisher": "annas-archive.gl",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-21T07:10:05.293235+00:00"
+    },
+    {
+      "title": "There's no such thing as a small software team anymore",
+      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+      "publisher": "jacob.gold",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-21T07:10:05.749320+00:00"
+    }
+  ]
+}
