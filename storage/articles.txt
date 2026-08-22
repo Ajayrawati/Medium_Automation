@@ -1,114 +1,51 @@
-RyanCodrai / turbovec
+microsoft / onnxruntime
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/RyanCodrai/turbovec
+URL: https://github.com/microsoft/onnxruntime
 
-A vector index built on TurboQuant, written in Rust with Python bindings
+ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 
-Tencent / AI-Infra-Guard
+elder-plinius / OBLITERATUS
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Tencent/AI-Infra-Guard
+URL: https://github.com/elder-plinius/OBLITERATUS
 
-A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
+OBLITERATE THE CHAINS THAT BIND YOU
 
-makeplane / plane
+protocolbuffers / protobuf
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/makeplane/plane
+URL: https://github.com/protocolbuffers/protobuf
 
-🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+Protocol Buffers - Google's data interchange format
 
-JuliusBrussee / caveman
+apache / maka
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/JuliusBrussee/caveman
+URL: https://github.com/apache/maka
 
-🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
 
-volcengine / OpenViking
+ruvnet / ruflo
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/volcengine/OpenViking
+URL: https://github.com/ruvnet/ruflo
 
-Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
-mahlernim / google-timeline-visualizer
+TryGhost / Ghost
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/mahlernim/google-timeline-visualizer
+URL: https://github.com/TryGhost/Ghost
 
-Visualize your year in travel using your Google Location History (Timeline) data
+Independent technology for modern publishing, memberships, subscriptions and newsletters.
 
-PostHog / posthog
+affaan-m / ECC
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/PostHog/posthog
+URL: https://github.com/affaan-m/ECC
 
-🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-
-chaitanyagiri / munder-difflin
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/chaitanyagiri/munder-difflin
-
-local multi-agent harness
-
-agent-substrate / substrate
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/agent-substrate/substrate
-
-Agent Substrate: the core system
-
-harry0703 / MoneyPrinterTurbo
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/harry0703/MoneyPrinterTurbo
-
-利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-
-akitaonrails / ai-memory
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/akitaonrails/ai-memory
-
-Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-
-santifer / career-ops
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/santifer/career-ops
-
-Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
-
-cursor / plugins
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cursor/plugins
-
-Cursor plugin specification and official plugins
-
-obra / superpowers
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/obra/superpowers
-
-An agentic skills framework & software development methodology that works.
-
-AprilNEA / OpenLogi
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/AprilNEA/OpenLogi
-
-⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-
-mattpocock / skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/mattpocock/skills
-
-Skills for Real Engineers. Straight from my .agents directory.
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 modular / modular
 Source: GitHub Trending
@@ -117,211 +54,267 @@ URL: https://github.com/modular/modular
 
 The Modular Platform (includes MAX & Mojo)
 
-CIA funding helped keep NeXT afloat in the 80s
+cursor / plugins
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cursor/plugins
+
+Cursor plugin specification and official plugins
+
+santifer / career-ops
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/santifer/career-ops
+
+Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+
+obra / superpowers
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/obra/superpowers
+
+An agentic skills framework & software development methodology that works.
+
+microsoft / TypeScript
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/microsoft/TypeScript
+
+TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
+PostHog / posthog
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/PostHog/posthog
+
+🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+
+AprilNEA / OpenLogi
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/AprilNEA/OpenLogi
+
+⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+
+harry0703 / MoneyPrinterTurbo
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/harry0703/MoneyPrinterTurbo
+
+利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+
+mahlernim / google-timeline-visualizer
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mahlernim/google-timeline-visualizer
+
+Visualize your year in travel using your Google Location History (Timeline) data
+
+mattpocock / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mattpocock/skills
+
+Skills for Real Engineers. Straight from my .agents directory.
+
+Early-life stress leaves a 'scar' inside brain cells in mice
 Source: Hacker News
 Category: technology
-URL: https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink
-Published: 2026-08-20T00:15:01+00:00
-Score: 391
+URL: https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells
+Published: 2026-08-20T21:08:36+00:00
+Score: 78
 
-Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K
+Stop Making TUIs
 Source: Hacker News
 Category: technology
-URL: https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh
-Published: 2026-08-14T20:49:29+00:00
-Score: 35
+URL: https://sockpuppet.org/blog/2026/08/20/stop-making-tuis
+Published: 2026-08-21T05:37:38+00:00
+Score: 89
 
-Captain Zilog
+People of ACM – Russ Cox
 Source: Hacker News
 Category: technology
-URL: https://www.zilog.com/captain_zilog
-Published: 2026-08-17T12:42:47+00:00
-Score: 42
+URL: https://www.acm.org/articles/people-of-acm/2026/russ-cox
+Published: 2026-08-17T07:12:15+00:00
+Score: 123
 
-Version Control for Everything
+AI boosted homework scores, then exam scores dropped: study
 Source: Hacker News
 Category: technology
-URL: https://tyoverby.com/posts/version-control-for-everything-else
-Published: 2026-08-17T19:28:44+00:00
-Score: 12
+URL: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
+Published: 2026-08-19T06:13:31+00:00
+Score: 285
 
-Malicious Rust crate Arrayref runs a build-time payload
+I accidentally logged hundreds of thousands of phone calls to military bases
 Source: Hacker News
 Category: technology
-URL: https://safedep.io/arrayref-proc-macro1-rust-build-time-malware
-Published: 2026-08-20T13:23:12+00:00
-Score: 470
+URL: https://lina.sh/blog/hijacking-e164-arpa
+Published: 2026-08-21T13:11:28+00:00
+Score: 509
 
-HTML Can Do That
+Felony charges for citizen deleting phone data at US Border
 Source: Hacker News
 Category: technology
-URL: https://chrisburnell.com/html-can-do-that
-Published: 2026-08-19T15:11:36+00:00
-Score: 720
+URL: https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html
+Published: 2026-08-21T12:10:13+00:00
+Score: 711
 
-I like 'em thick: an apology to my English teachers
-Source: Hacker News
-Category: technology
-URL: https://www.experimental-history.com/p/i-like-em-thick
-Published: 2026-08-18T15:50:52+00:00
-Score: 688
-
-Anti-AI fonts are useless and harmful
+Kagi added a setting for removing paywalled links from search results
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful
-Published: 2026-08-20T15:06:53+00:00
+URL: https://kagi.com/changelog
+Published: 2026-08-21T13:56:37+00:00
 
-Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 148 # Comments: 106
+Article URL: https://kagi.com/changelog#11296 Comments URL: https://news.ycombinator.com/item?id=49388154 Points: 1082 # Comments: 357
 
-Vomit: Clean up Claude 5's token output with a separate LLM
+Zig's Io.Threaded Is Neat
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/zachahn/vomit
-Published: 2026-08-20T15:26:02+00:00
+URL: https://matklad.github.io/2026/08/06/neat-io-threaded.html
+Published: 2026-08-21T14:28:15+00:00
 
-Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 236 # Comments: 236
+Article URL: https://matklad.github.io/2026/08/06/neat-io-threaded.html Comments URL: https://news.ycombinator.com/item?id=49388694 Points: 42 # Comments: 8
 
-Launch HN: Vendo (YC S26) – Let users build features on top of your product
+Claudette: Make Claude stop talking like a BuzzFeed article
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/runvendo/vendo
-Published: 2026-08-20T15:29:52+00:00
+URL: https://github.com/adnanakil/nobuzz/blob/main/README.md
+Published: 2026-08-21T14:31:52+00:00
 
-Hi HN, we’re Yousef & Nour, founders of Vendo ( https://vendo.run ). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface. Demo: https://www.youtube.com/watch?v=VdpHehY64ls We built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs a workflow that only makes sense for their team. These requests either sit on the roadmap, become one-off engineering work, or force the customer into spreadsheets and external tools. We wanted the user to be able to create the missing feature themselves, without leaving the product. Here is how it works: - npx vendo init reads the product's API surface, theme, routes, and more. These are used so that the apps Vendo creates (1) look on-brand and native and (2) have the ability to read data and perform actions directly through the company's API - When a user asks for a feature, we have a custom Vendo harness that writes a React component with a bunch of Vendo add-ons and guardrails (ex. ability to make calls to the host API + our component library). Every save is compiled, type-checked, run against real API responses, and rendered before the user sees it. We just released a benchmark and write-up here with more info for anyone interested: https://vendo.run/blog/generating-product-ui-measured - We use QuickJS to make sure that anything the agent creates is sandboxed and can't mess with the company's site. Vendo compiles the component and runs it with Preact inside a QuickJS VM with no access to the DOM, network, or clock. The VM returns a UI tree, which the host renders using the product’s registered components. When the user clicks something, QuickJS emits a tool call; the host executes it through Vendo’s guard and passes the result back into the same VM, preserving the screen’s local state. There's a lot of generative UI right now: streaming developer-written components into a chat (Vercel AI SDK, CopilotKit, Thesys), or rendering your app inside someone else's assistant (OpenAI Apps SDK, MCP Apps). We differ on two things. Vendo lives in your product and acts through your API as the signed-in user, so what it makes is durable: real apps users keep, pin, and run on triggers while they're away, and not components that are merely confined to a chat. Plus, it's not capped at putting together a bunch of prebuilt components: the agent can build arbitrary apps, from a quick dashboard out of your own components to real custom code running in a sandbox, and either way data only ever comes from tool calls to your API. Here are some things customers are using Vendo for today: - Letting their users create custom dashboards and reports. These are mainly UI-based and focused on letting the user see the exact graphs and metrics they care about - Letting their customers create recurring automations. A big thing as well that has been used for these automations is the fact that we connect to external connections, so users have been automating many of their inter-tool workflows (ex. an automation that sends a slack alert based off of something in the product) - B2B customers letting their customers customize the product with specific business logic. Often this is simple things like an extra field on a form, or an extra permission, but it is hard for a business to keep up with them otherwise. - Creating and sharing custom dashboards/apps across an organization. Since the apps Vendo creates are durable, they can be shared, reused, and forked (which can’t be done with many of the other in-chat generative UI solutions) We've spent a lot of time thinking about how AI and agents will change the way people consume software. We think the answer is personal(ized) software: you see the UI you need to see, you tell an agent exactly what you need, and the product molds to how you work. The key insights that have enabled the product to work are: - A rule in code always beats a rule in a prompt. - Invent as little syntax as possible. Generation got faster and more reliable when the output looked like what models already know (JSX-shaped markup) instead of a clever custom format. - Deterministic beats model wherever you can get away with it. Theme extraction is pure static analysis, and a remix starts as a copy of your component, no model call. Vendo is completely open-source (Apache-2.0) and can be self-hosted, so feel free to check out all the source code here: https://github.com/runvendo/vendo . Would love you to try it out and give us your feedback: https://docs.vendo.run/ . Or if you’re a company looking to embed Vendo in your product feel free to book a call here: https://cal.com/team/vendo/intro-call Comments URL: https://news.ycombinator.com/item?id=49376038 Points: 34 # Comments: 18
+Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49388752 Points: 243 # Comments: 173
 
-Linux 7.2
+Felony Bench
 Source: Hacker News RSS
 Category: technology
-URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html
-Published: 2026-08-20T15:46:18+00:00
+URL: https://www.felonybench.com/
+Published: 2026-08-21T15:17:04+00:00
 
-Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 235 # Comments: 81
+Article URL: https://www.felonybench.com/ Comments URL: https://news.ycombinator.com/item?id=49389430 Points: 619 # Comments: 256
 
-Sixtyfour (YC P25) Is Hiring
+How we made a text-to-speech model respond in sub-50 ms
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern
-Published: 2026-08-20T17:01:05+00:00
+URL: https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier
+Published: 2026-08-21T15:51:10+00:00
 
-Article URL: https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern Comments URL: https://news.ycombinator.com/item?id=49377248 Points: 0 # Comments: 0
+Article URL: https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/ Comments URL: https://news.ycombinator.com/item?id=49389952 Points: 131 # Comments: 32
 
-Project Cybersyn (2022)
+Kobo can run apps now
 Source: Hacker News RSS
 Category: technology
-URL: https://bactra.org/notebooks/cybersyn.html
-Published: 2026-08-20T17:40:49+00:00
+URL: https://bandarlabs.github.io/Cobalt
+Published: 2026-08-21T16:25:25+00:00
 
-Article URL: https://bactra.org/notebooks/cybersyn.html Comments URL: https://news.ycombinator.com/item?id=49377739 Points: 59 # Comments: 46
+Article URL: https://bandarlabs.github.io/Cobalt/ Comments URL: https://news.ycombinator.com/item?id=49390427 Points: 495 # Comments: 172
 
-I should have loved biology (2020)
+LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers
 Source: Hacker News RSS
 Category: technology
-URL: https://jsomers.net/i-should-have-loved-biology
-Published: 2026-08-20T17:50:02+00:00
+URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6
+Published: 2026-08-21T17:00:23+00:00
 
-Article URL: https://jsomers.net/i-should-have-loved-biology/ Comments URL: https://news.ycombinator.com/item?id=49377853 Points: 253 # Comments: 98
+Article URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6 Comments URL: https://news.ycombinator.com/item?id=49390910 Points: 0 # Comments: 0
 
-Consumer Rights Wiki
+OTel isn't going well (and I made a spreadsheet about it)
 Source: Hacker News RSS
 Category: technology
-URL: https://consumerrights.wiki/w/Main_Page
-Published: 2026-08-20T18:19:51+00:00
+URL: https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it
+Published: 2026-08-21T17:45:41+00:00
 
-Article URL: https://consumerrights.wiki/w/Main_Page Comments URL: https://news.ycombinator.com/item?id=49378243 Points: 268 # Comments: 49
+Article URL: https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/ Comments URL: https://news.ycombinator.com/item?id=49391553 Points: 85 # Comments: 31
 
-Why aren't smart people happier? (2022)
+Optimizing meshoptimizer to process billions of triangles in minutes (2025)
 Source: Hacker News RSS
 Category: technology
-URL: https://www.experimental-history.com/p/why-arent-smart-people-happier
-Published: 2026-08-20T18:38:47+00:00
+URL: https://zeux.io/2025/09/30/billions-of-triangles-in-minutes
+Published: 2026-08-21T17:54:06+00:00
 
-Article URL: https://www.experimental-history.com/p/why-arent-smart-people-happier Comments URL: https://news.ycombinator.com/item?id=49378446 Points: 151 # Comments: 201
+Article URL: https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/ Comments URL: https://news.ycombinator.com/item?id=49391661 Points: 11 # Comments: 0
 
-Show HN: Huzzah – a novel approach to coding with AI
+Scientists release biggest 2D map of the universe
 Source: Hacker News RSS
 Category: technology
-URL: https://www.danielvaughn.dev/posts/huzzah
-Published: 2026-08-20T19:05:36+00:00
+URL: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe
+Published: 2026-08-21T18:36:34+00:00
 
-Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself. I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this interaction paradigm where you: 1. write pseudocode in whatever way makes the most sense to you 2. on save, the editor synchronizes your work to real source code 3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent. It may not work for every use case, but in my initial playthroughs I've found it very enjoyable. Right now it's just a proof of concept - installation instructions are here in the readme: https://github.com/danielvaughn/hz You can also watch a video of it in action here: https://x.com/danielvaughn/status/2090456808431165715 Cheers! Comments URL: https://news.ycombinator.com/item?id=49378768 Points: 285 # Comments: 151
+Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 182 # Comments: 55
 
-SpacetimeDB: a short technical review
+Tumble Forth – from assembly to OS with C compiler (2023)
 Source: Hacker News RSS
 Category: technology
-URL: https://strn.cat/posts/spacetime
-Published: 2026-08-20T19:19:53+00:00
+URL: https://tumbleforth.hardcoded.net/
+Published: 2026-08-21T18:59:52+00:00
 
-Article URL: https://strn.cat/posts/spacetime/ Comments URL: https://news.ycombinator.com/item?id=49378933 Points: 83 # Comments: 17
+Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 72 # Comments: 11
 
-The August 17 outage
+Rust Glancer: Rust LSP using 100x less RAM
 Source: Hacker News RSS
 Category: technology
-URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead
-Published: 2026-08-20T19:22:24+00:00
+URL: https://rust-glancer.github.io/blog/hello-world
+Published: 2026-08-21T19:51:54+00:00
 
-Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 460 # Comments: 521
+https://matklad.github.io/2026/08/21/rust-glancer.html Comments URL: https://news.ycombinator.com/item?id=49393052 Points: 119 # Comments: 31
 
-Ox Alpha
+SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers
 Source: Hacker News RSS
 Category: technology
-URL: https://openrouter.ai/stealth/ox-alpha
-Published: 2026-08-20T23:56:35+00:00
+URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer
+Published: 2026-08-21T21:00:48+00:00
 
-https://twitter.com/OpenRouter/status/2090544970923184269 , https://xcancel.com/OpenRouter/status/2090544970923184269 Comments URL: https://news.ycombinator.com/item?id=49381896 Points: 105 # Comments: 82
+Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49393733 Points: 0 # Comments: 0
 
-There's no such thing as a small software team anymore
+Three important steps in my maturation process
 Source: Hacker News RSS
 Category: technology
-URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team
-Published: 2026-08-21T00:28:37+00:00
+URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process
+Published: 2026-08-21T22:29:00+00:00
 
-Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 77 # Comments: 123
+Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/ Comments URL: https://news.ycombinator.com/item?id=49394496 Points: 118 # Comments: 41
 
-AI companies destroy physical books – let's scan rare books before it's too late
+Show HN: OzBrain, a shared brain for knowledge between agents and your team
 Source: Hacker News RSS
 Category: technology
-URL: https://annas-archive.gl/blog/physical-destruction.html
-Published: 2026-08-21T02:37:47+00:00
+URL: https://ozbrain.com/
+Published: 2026-08-21T23:09:06+00:00
 
-Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 271 # Comments: 204
+I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my bug backlog is. I want to conduct agents that can execute for me and do great work. What I built OzBrain to do: + Create a central place for agent reasoned knowledge to live + Be agnostic about what apps/agents connect to it + Capture everything and track it so I can audit it + Enable teams, collaborators or partners to share brains + Handle conflicts so many agents in the same article doesn’t blow up + Refactor knowledge into more token friendly chunks and map the index well + Close the knowledge loop so new thinking supersedes old thinking across the corpus. Don’t erase, depreciate and link + Keep user data safe and secure ++ Be easy enough to use that you don’t have to have any technical knowledge Some among us will always build their own custom solutions, but there are millions of tech professionals and small business owners that will use agents heavily and need a solution. So I’m trying to build that. Isn’t this like gBrain? Yes, similar. I think it’s like AWS vs Vercel. AWS is very powerful, configurable, and useful if you’re technical and want to invest the time into really fine tuning your system… but if you just want your web deploy/hosting to just work and be easy to deal with you use Vercel. // WHY I MADE IT I’ve been enjoying getting back to my technical roots, as I lost my coding skills more than a decade ago, but with AI I can focus on the system and the product in partnership with agent coding workflows. I recently built a Voice AI for older people. To build it I created an agentic engineering workflow (feel free to rip that up as I’m always looking to improve systems: https://ozbrain.com/resources/eng-flow ) My approach with coding agents is trust but verify, and I’m trying to replace the parts where a human would review with an adversarial or specialized agent who would give a better answer/review. I have workflows that will go high level task to shipped PR running in Claude cloud sessions. I use Claude Code locally and Cursor when I want a tighter loop on doing visual work like UI or layout. And Codex to either load balance usage for TokenThriffting or when I want a different llm to think thru something. It was a pain in the ass passing .md files around and keep track of which version was the most recent, so I built a hosted .md storage right in Supabase and any of my agents already have Supabase access. This let me build a solid, scalable, secure voice AI from my phone at the gym. All my agents have access to our knowledge, can write to it, update and refer to it as we build and improve the product and the systems we use. Out of 75 founder friends I asked about how they manage shared knowledge, 26 built their own custom knowledge systems… Obsidian vaults with 7k files synced through a VPS, markdown repos behind their own MCP servers, cron jobs stitching Supabase to a skills file… each a different Frankenstein they have to maintain. 32 said they felt the pain of moving static files around but didn’t have any solution for it. So I rebuilt my brain better and used it to build it. // HOW YOU CAN HELP Would love to have you try it out. The maintenance loop is still in alpha so not running it on customer data yet. If you built your own brain I’d love to hear how you did it. What criteria was most important for you in its design & function. If you are tired of shuffling .md files around I’d love to have you try out OzBrain and to give feedback, just ask your agent to put it in the shared bugs & features brain! Cheers! Bubs.co Comments URL: https://news.ycombinator.com/item?id=49394827 Points: 64 # Comments: 32
 
-Codex on AWS bedrock bug causing 10x charges
+HN: The Good Parts (2016)
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/openai/codex/issues/37674
-Published: 2026-08-21T03:17:43+00:00
+URL: https://danluu.com/hn-comments
+Published: 2026-08-21T23:53:03+00:00
 
-Article URL: https://github.com/openai/codex/issues/37674 Comments URL: https://news.ycombinator.com/item?id=49383326 Points: 105 # Comments: 31
+Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 39 # Comments: 8
 
-Seed: Minimal, self-modifying agent harness
+Initial focus for our partnership with Motorola is a regular non-folding device
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/vivekhaldar/seed
-Published: 2026-08-21T05:20:50+00:00
+URL: https://grapheneos.social/@GrapheneOS/117136278553665985
+Published: 2026-08-22T01:02:09+00:00
 
-Article URL: https://github.com/vivekhaldar/seed Comments URL: https://news.ycombinator.com/item?id=49384113 Points: 3 # Comments: 0
+Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 96 # Comments: 31
 
-Japan tried to build an operating system for the world, the US intervened
+There's no reason for software to be slow anymore
 Source: Hacker News RSS
 Category: technology
-URL: https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened
-Published: 2026-08-21T05:31:34+00:00
+URL: https://danluu.com/perf-opt
+Published: 2026-08-22T01:06:17+00:00
 
-Article URL: https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/ Comments URL: https://news.ycombinator.com/item?id=49384180 Points: 46 # Comments: 12
+Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 313 # Comments: 217
 
-The Religious Experience of Philip K. Dick by R. Crumb (1986)
+GPT 5.6 Sol 20% price reduction
 Source: Hacker News RSS
 Category: technology
-URL: https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17
-Published: 2026-08-21T05:39:39+00:00
+URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol
+Published: 2026-08-22T04:33:06+00:00
 
-Article URL: https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/ Comments URL: https://news.ycombinator.com/item?id=49384224 Points: 16 # Comments: 5
+Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 52 # Comments: 33
 
-Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents
+Canada will match US tariffs 'dollar for dollar' as trade talks break down
 Source: Hacker News RSS
 Category: technology
-URL: https://argentic.network/
-Published: 2026-08-21T06:24:16+00:00
+URL: https://www.bbc.com/news/articles/cvgvyy4x2mvo
+Published: 2026-08-22T06:16:57+00:00
 
-Article URL: https://Argentic.network Comments URL: https://news.ycombinator.com/item?id=49384477 Points: 3 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/cvgvyy4x2mvo Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 8 # Comments: 0
