@@ -1,86 +1,9 @@
-microsoft / onnxruntime
+Tencent / AI-Infra-Guard
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/microsoft/onnxruntime
+URL: https://github.com/Tencent/AI-Infra-Guard
 
-ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-elder-plinius / OBLITERATUS
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/elder-plinius/OBLITERATUS
-
-OBLITERATE THE CHAINS THAT BIND YOU
-
-protocolbuffers / protobuf
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/protocolbuffers/protobuf
-
-Protocol Buffers - Google's data interchange format
-
-apache / maka
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/apache/maka
-
-Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
-
-ruvnet / ruflo
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ruvnet/ruflo
-
-🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-
-TryGhost / Ghost
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/TryGhost/Ghost
-
-Independent technology for modern publishing, memberships, subscriptions and newsletters.
-
-affaan-m / ECC
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/affaan-m/ECC
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-modular / modular
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/modular/modular
-
-The Modular Platform (includes MAX & Mojo)
-
-cursor / plugins
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cursor/plugins
-
-Cursor plugin specification and official plugins
-
-santifer / career-ops
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/santifer/career-ops
-
-Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
-
-obra / superpowers
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/obra/superpowers
-
-An agentic skills framework & software development methodology that works.
-
-microsoft / TypeScript
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/microsoft/TypeScript
-
-TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 
 PostHog / posthog
 Source: GitHub Trending
@@ -89,19 +12,26 @@ URL: https://github.com/PostHog/posthog
 
 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
 
-AprilNEA / OpenLogi
+cursor / plugins
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/AprilNEA/OpenLogi
+URL: https://github.com/cursor/plugins
 
-⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+Cursor plugin specification and official plugins
 
-harry0703 / MoneyPrinterTurbo
+microsoft / TypeScript
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/harry0703/MoneyPrinterTurbo
+URL: https://github.com/microsoft/TypeScript
 
-利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
+ripienaar / free-for-dev
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ripienaar/free-for-dev
+
+A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 mahlernim / google-timeline-visualizer
 Source: GitHub Trending
@@ -110,6 +40,69 @@ URL: https://github.com/mahlernim/google-timeline-visualizer
 
 Visualize your year in travel using your Google Location History (Timeline) data
 
+multica-ai / andrej-karpathy-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/multica-ai/andrej-karpathy-skills
+
+A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+
+modular / modular
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/modular/modular
+
+The Modular Platform (includes MAX & Mojo)
+
+AprilNEA / OpenLogi
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/AprilNEA/OpenLogi
+
+⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+
+anthropics / claude-code
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/claude-code
+
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+n8n-io / n8n
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/n8n-io/n8n
+
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+makeplane / plane
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/makeplane/plane
+
+🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+
+Wei-Shaw / sub2api
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Wei-Shaw/sub2api
+
+Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+obra / superpowers
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/obra/superpowers
+
+An agentic skills framework & software development methodology that works.
+
+affaan-m / ECC
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/affaan-m/ECC
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
 mattpocock / skills
 Source: GitHub Trending
 Category: technology
@@ -117,204 +110,204 @@ URL: https://github.com/mattpocock/skills
 
 Skills for Real Engineers. Straight from my .agents directory.
 
-Early-life stress leaves a 'scar' inside brain cells in mice
-Source: Hacker News
+openai / codex
+Source: GitHub Trending
 Category: technology
-URL: https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells
-Published: 2026-08-20T21:08:36+00:00
-Score: 78
+URL: https://github.com/openai/codex
 
-Stop Making TUIs
-Source: Hacker News
-Category: technology
-URL: https://sockpuppet.org/blog/2026/08/20/stop-making-tuis
-Published: 2026-08-21T05:37:38+00:00
-Score: 89
-
-People of ACM – Russ Cox
-Source: Hacker News
-Category: technology
-URL: https://www.acm.org/articles/people-of-acm/2026/russ-cox
-Published: 2026-08-17T07:12:15+00:00
-Score: 123
-
-AI boosted homework scores, then exam scores dropped: study
-Source: Hacker News
-Category: technology
-URL: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning
-Published: 2026-08-19T06:13:31+00:00
-Score: 285
-
-I accidentally logged hundreds of thousands of phone calls to military bases
-Source: Hacker News
-Category: technology
-URL: https://lina.sh/blog/hijacking-e164-arpa
-Published: 2026-08-21T13:11:28+00:00
-Score: 509
-
-Felony charges for citizen deleting phone data at US Border
-Source: Hacker News
-Category: technology
-URL: https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html
-Published: 2026-08-21T12:10:13+00:00
-Score: 711
-
-Kagi added a setting for removing paywalled links from search results
-Source: Hacker News RSS
-Category: technology
-URL: https://kagi.com/changelog
-Published: 2026-08-21T13:56:37+00:00
-
-Article URL: https://kagi.com/changelog#11296 Comments URL: https://news.ycombinator.com/item?id=49388154 Points: 1082 # Comments: 357
-
-Zig's Io.Threaded Is Neat
-Source: Hacker News RSS
-Category: technology
-URL: https://matklad.github.io/2026/08/06/neat-io-threaded.html
-Published: 2026-08-21T14:28:15+00:00
-
-Article URL: https://matklad.github.io/2026/08/06/neat-io-threaded.html Comments URL: https://news.ycombinator.com/item?id=49388694 Points: 42 # Comments: 8
-
-Claudette: Make Claude stop talking like a BuzzFeed article
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/adnanakil/nobuzz/blob/main/README.md
-Published: 2026-08-21T14:31:52+00:00
-
-Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49388752 Points: 243 # Comments: 173
-
-Felony Bench
-Source: Hacker News RSS
-Category: technology
-URL: https://www.felonybench.com/
-Published: 2026-08-21T15:17:04+00:00
-
-Article URL: https://www.felonybench.com/ Comments URL: https://news.ycombinator.com/item?id=49389430 Points: 619 # Comments: 256
-
-How we made a text-to-speech model respond in sub-50 ms
-Source: Hacker News RSS
-Category: technology
-URL: https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier
-Published: 2026-08-21T15:51:10+00:00
-
-Article URL: https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/ Comments URL: https://news.ycombinator.com/item?id=49389952 Points: 131 # Comments: 32
-
-Kobo can run apps now
-Source: Hacker News RSS
-Category: technology
-URL: https://bandarlabs.github.io/Cobalt
-Published: 2026-08-21T16:25:25+00:00
-
-Article URL: https://bandarlabs.github.io/Cobalt/ Comments URL: https://news.ycombinator.com/item?id=49390427 Points: 495 # Comments: 172
-
-LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers
-Source: Hacker News RSS
-Category: technology
-URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6
-Published: 2026-08-21T17:00:23+00:00
-
-Article URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6 Comments URL: https://news.ycombinator.com/item?id=49390910 Points: 0 # Comments: 0
-
-OTel isn't going well (and I made a spreadsheet about it)
-Source: Hacker News RSS
-Category: technology
-URL: https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it
-Published: 2026-08-21T17:45:41+00:00
-
-Article URL: https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/ Comments URL: https://news.ycombinator.com/item?id=49391553 Points: 85 # Comments: 31
-
-Optimizing meshoptimizer to process billions of triangles in minutes (2025)
-Source: Hacker News RSS
-Category: technology
-URL: https://zeux.io/2025/09/30/billions-of-triangles-in-minutes
-Published: 2026-08-21T17:54:06+00:00
-
-Article URL: https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/ Comments URL: https://news.ycombinator.com/item?id=49391661 Points: 11 # Comments: 0
-
-Scientists release biggest 2D map of the universe
-Source: Hacker News RSS
-Category: technology
-URL: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe
-Published: 2026-08-21T18:36:34+00:00
-
-Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 182 # Comments: 55
-
-Tumble Forth – from assembly to OS with C compiler (2023)
-Source: Hacker News RSS
-Category: technology
-URL: https://tumbleforth.hardcoded.net/
-Published: 2026-08-21T18:59:52+00:00
-
-Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 72 # Comments: 11
-
-Rust Glancer: Rust LSP using 100x less RAM
-Source: Hacker News RSS
-Category: technology
-URL: https://rust-glancer.github.io/blog/hello-world
-Published: 2026-08-21T19:51:54+00:00
-
-https://matklad.github.io/2026/08/21/rust-glancer.html Comments URL: https://news.ycombinator.com/item?id=49393052 Points: 119 # Comments: 31
-
-SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers
-Source: Hacker News RSS
-Category: technology
-URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer
-Published: 2026-08-21T21:00:48+00:00
-
-Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49393733 Points: 0 # Comments: 0
-
-Three important steps in my maturation process
-Source: Hacker News RSS
-Category: technology
-URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process
-Published: 2026-08-21T22:29:00+00:00
-
-Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/ Comments URL: https://news.ycombinator.com/item?id=49394496 Points: 118 # Comments: 41
-
-Show HN: OzBrain, a shared brain for knowledge between agents and your team
-Source: Hacker News RSS
-Category: technology
-URL: https://ozbrain.com/
-Published: 2026-08-21T23:09:06+00:00
-
-I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my bug backlog is. I want to conduct agents that can execute for me and do great work. What I built OzBrain to do: + Create a central place for agent reasoned knowledge to live + Be agnostic about what apps/agents connect to it + Capture everything and track it so I can audit it + Enable teams, collaborators or partners to share brains + Handle conflicts so many agents in the same article doesn’t blow up + Refactor knowledge into more token friendly chunks and map the index well + Close the knowledge loop so new thinking supersedes old thinking across the corpus. Don’t erase, depreciate and link + Keep user data safe and secure ++ Be easy enough to use that you don’t have to have any technical knowledge Some among us will always build their own custom solutions, but there are millions of tech professionals and small business owners that will use agents heavily and need a solution. So I’m trying to build that. Isn’t this like gBrain? Yes, similar. I think it’s like AWS vs Vercel. AWS is very powerful, configurable, and useful if you’re technical and want to invest the time into really fine tuning your system… but if you just want your web deploy/hosting to just work and be easy to deal with you use Vercel. // WHY I MADE IT I’ve been enjoying getting back to my technical roots, as I lost my coding skills more than a decade ago, but with AI I can focus on the system and the product in partnership with agent coding workflows. I recently built a Voice AI for older people. To build it I created an agentic engineering workflow (feel free to rip that up as I’m always looking to improve systems: https://ozbrain.com/resources/eng-flow ) My approach with coding agents is trust but verify, and I’m trying to replace the parts where a human would review with an adversarial or specialized agent who would give a better answer/review. I have workflows that will go high level task to shipped PR running in Claude cloud sessions. I use Claude Code locally and Cursor when I want a tighter loop on doing visual work like UI or layout. And Codex to either load balance usage for TokenThriffting or when I want a different llm to think thru something. It was a pain in the ass passing .md files around and keep track of which version was the most recent, so I built a hosted .md storage right in Supabase and any of my agents already have Supabase access. This let me build a solid, scalable, secure voice AI from my phone at the gym. All my agents have access to our knowledge, can write to it, update and refer to it as we build and improve the product and the systems we use. Out of 75 founder friends I asked about how they manage shared knowledge, 26 built their own custom knowledge systems… Obsidian vaults with 7k files synced through a VPS, markdown repos behind their own MCP servers, cron jobs stitching Supabase to a skills file… each a different Frankenstein they have to maintain. 32 said they felt the pain of moving static files around but didn’t have any solution for it. So I rebuilt my brain better and used it to build it. // HOW YOU CAN HELP Would love to have you try it out. The maintenance loop is still in alpha so not running it on customer data yet. If you built your own brain I’d love to hear how you did it. What criteria was most important for you in its design & function. If you are tired of shuffling .md files around I’d love to have you try out OzBrain and to give feedback, just ask your agent to put it in the shared bugs & features brain! Cheers! Bubs.co Comments URL: https://news.ycombinator.com/item?id=49394827 Points: 64 # Comments: 32
-
-HN: The Good Parts (2016)
-Source: Hacker News RSS
-Category: technology
-URL: https://danluu.com/hn-comments
-Published: 2026-08-21T23:53:03+00:00
-
-Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 39 # Comments: 8
-
-Initial focus for our partnership with Motorola is a regular non-folding device
-Source: Hacker News RSS
-Category: technology
-URL: https://grapheneos.social/@GrapheneOS/117136278553665985
-Published: 2026-08-22T01:02:09+00:00
-
-Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 96 # Comments: 31
-
-There's no reason for software to be slow anymore
-Source: Hacker News RSS
-Category: technology
-URL: https://danluu.com/perf-opt
-Published: 2026-08-22T01:06:17+00:00
-
-Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 313 # Comments: 217
-
-GPT 5.6 Sol 20% price reduction
-Source: Hacker News RSS
-Category: technology
-URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol
-Published: 2026-08-22T04:33:06+00:00
-
-Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 52 # Comments: 33
+Lightweight coding agent that runs in your terminal
 
 Canada will match US tariffs 'dollar for dollar' as trade talks break down
-Source: Hacker News RSS
+Source: Hacker News
 Category: technology
 URL: https://www.bbc.com/news/articles/cvgvyy4x2mvo
 Published: 2026-08-22T06:16:57+00:00
+Score: 604
 
-Article URL: https://www.bbc.com/news/articles/cvgvyy4x2mvo Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 8 # Comments: 0
+How a Texas student blew the whistle on a rogue AI hacking attempt
+Source: Hacker News
+Category: technology
+URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20
+Published: 2026-08-21T13:43:33+00:00
+Score: 149
+
+typ.ing
+Source: Hacker News
+Category: technology
+URL: https://typ.ing/
+Published: 2026-08-18T15:12:53+00:00
+Score: 243
+
+RF Cafe
+Source: Hacker News
+Category: technology
+URL: https://www.rfcafe.com/
+Published: 2026-08-19T02:05:43+00:00
+Score: 189
+
+Hister – A private, full content search index that you control
+Source: Hacker News
+Category: technology
+URL: https://hister.org/
+Published: 2026-08-18T20:00:50+00:00
+Score: 308
+
+Z80 – The 1970s Microprocessor Still Alive (2021)
+Source: Hacker News RSS
+Category: technology
+URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi
+Published: 2026-08-22T09:49:57+00:00
+
+Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi Comments URL: https://news.ycombinator.com/item?id=49398158 Points: 133 # Comments: 63
+
+New MCP Roadmap
+Source: Hacker News RSS
+Category: technology
+URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap
+Published: 2026-08-22T13:31:34+00:00
+
+Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 194 # Comments: 130
+
+A Friendly Introduction to Racket
+Source: Hacker News RSS
+Category: technology
+URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket
+Published: 2026-08-22T14:08:19+00:00
+
+Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 220 # Comments: 115
+
+ElevenLabs, TwelveLabs, ThirteenLabs
+Source: Hacker News RSS
+Category: technology
+URL: https://quantumi.sh/public/labs.html
+Published: 2026-08-22T14:54:07+00:00
+
+Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 366 # Comments: 113
+
+Reading Maps – Journeys from fiction drawn on the real world
+Source: Hacker News RSS
+Category: technology
+URL: https://readingmaps.com/
+Published: 2026-08-22T17:59:09+00:00
+
+Article URL: https://readingmaps.com/ Comments URL: https://news.ycombinator.com/item?id=49402107 Points: 28 # Comments: 3
+
+I set a trap for a book-marketing scammer (2025)
+Source: Hacker News RSS
+Category: technology
+URL: https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing
+Published: 2026-08-22T18:08:25+00:00
+
+Article URL: https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing Comments URL: https://news.ycombinator.com/item?id=49402181 Points: 31 # Comments: 17
+
+Scrap (2006)
+Source: Hacker News RSS
+Category: technology
+URL: https://twitter.com/moxie/status/2091218652133732491
+Published: 2026-08-22T18:08:56+00:00
+
+https://xcancel.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 364 # Comments: 194
+
+Thinking in Python
+Source: Hacker News RSS
+Category: technology
+URL: https://thinkinginpython.com/
+Published: 2026-08-22T18:10:49+00:00
+
+Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 130 # Comments: 24
+
+Figmimic – A bookmarklet to copy any webpage into Figma as editable layers
+Source: Hacker News RSS
+Category: technology
+URL: https://marcua.net/minitools/figmimic
+Published: 2026-08-22T18:11:40+00:00
+
+Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 85 # Comments: 12
+
+Why your local LLM feels dumber than it is
+Source: Hacker News RSS
+Category: technology
+URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
+Published: 2026-08-22T18:14:16+00:00
+
+Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 282 # Comments: 93
+
+NetBSD and my life (2005)
+Source: Hacker News RSS
+Category: technology
+URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html
+Published: 2026-08-22T19:07:46+00:00
+
+Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 112 # Comments: 28
+
+NanoGPT Speedrun Frontier
+Source: Hacker News RSS
+Category: technology
+URL: https://www.primeintellect.ai/research/nanogpt-speedrun
+Published: 2026-08-22T22:14:27+00:00
+
+Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 85 # Comments: 25
+
+The Art and Beauty of Blade Runner (2015)
+Source: Hacker News RSS
+Category: technology
+URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner
+Published: 2026-08-23T00:56:03+00:00
+
+Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 54 # Comments: 13
+
+I Dream of Quieter Computing
+Source: Hacker News RSS
+Category: technology
+URL: https://henry.codes/writing/i-dream-of-quieter-computing
+Published: 2026-08-23T02:33:22+00:00
+
+Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 48 # Comments: 16
+
+MartyPC is a cross-platform emulator of early PCs written in Rust
+Source: Hacker News RSS
+Category: technology
+URL: https://martypc.net/
+Published: 2026-08-23T03:13:16+00:00
+
+Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 77 # Comments: 15
+
+The Golden Rule for Becoming a Better Writer
+Source: Hacker News RSS
+Category: technology
+URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer
+Published: 2026-08-23T03:32:25+00:00
+
+Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 58 # Comments: 29
+
+Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has
+Source: Hacker News RSS
+Category: technology
+URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html
+Published: 2026-08-23T04:28:18+00:00
+
+Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 20 # Comments: 4
+
+The End of an Athlon
+Source: Hacker News RSS
+Category: technology
+URL: http://www.os2museum.com/wp/the-end-of-an-athlon
+Published: 2026-08-23T05:51:01+00:00
+
+Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 14 # Comments: 0
+
+JIT Compiling Code in 5μs
+Source: Hacker News RSS
+Category: technology
+URL: https://malisper.me/jit-compiling-code-in-5-us
+Published: 2026-08-23T06:04:51+00:00
+
+Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 6 # Comments: 0
+
+Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
+Source: Hacker News RSS
+Category: technology
+URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it
+Published: 2026-08-23T06:41:51+00:00
+
+Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 12 # Comments: 0
