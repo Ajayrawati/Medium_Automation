@@ -1,0 +1,81 @@
+{
+  "topic": "Comments Item Points",
+  "topic_key": "comments-item-points",
+  "confidence": 82.52,
+  "score_breakdown": {
+    "source_quality": 65.24,
+    "corroboration": 100.0,
+    "recency": 64.73,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 92.52,
+  "evidence": [
+    {
+      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+      "publisher": "risky.biz",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-24T07:30:30.970383+00:00"
+    },
+    {
+      "title": "Authoritarianism of Code",
+      "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+      "publisher": "zedshaw.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-24T07:30:31.731223+00:00"
+    },
+    {
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "publisher": "earendil.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-24T07:30:31.855538+00:00"
+    },
+    {
+      "title": "Death to px, long live ch",
+      "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+      "publisher": "shkspr.mobi",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-24T07:30:32.546783+00:00"
+    },
+    {
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "publisher": "bookdna.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-24T07:30:32.688116+00:00"
+    },
+    {
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "publisher": "securelist.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-24T07:30:33.929671+00:00"
+    }
+  ]
+}
