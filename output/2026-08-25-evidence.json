@@ -1,0 +1,81 @@
+{
+  "topic": "Https Url Points",
+  "topic_key": "https-url-points",
+  "confidence": 84.64,
+  "score_breakdown": {
+    "source_quality": 65.19,
+    "corroboration": 100.0,
+    "recency": 75.43,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 94.64,
+  "evidence": [
+    {
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "publisher": "surya.website",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-25T07:10:22.757522+00:00"
+    },
+    {
+      "title": "Walgit \u2013 a Git server that is one binary in front of an object store",
+      "url": "https://github.com/tobi/walgit",
+      "publisher": "github.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-25T07:10:23.197087+00:00"
+    },
+    {
+      "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+      "url": "https://tarjan.itch.io/thoreaubasic",
+      "publisher": "tarjan.itch.io",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-25T07:10:23.759200+00:00"
+    },
+    {
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "publisher": "www.laude.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-25T07:10:23.869713+00:00"
+    },
+    {
+      "title": "SiFive's First Server Platform",
+      "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
+      "publisher": "chipsandcheese.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-25T07:10:23.967825+00:00"
+    },
+    {
+      "title": "Thomson Reuters Launches Its Own Frontier Model",
+      "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+      "publisher": "www.thomsonreuters.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-25T07:10:24.165426+00:00"
+    }
+  ]
+}
