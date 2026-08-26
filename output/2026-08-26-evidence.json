@@ -1,0 +1,81 @@
+{
+  "topic": "Points Comments Item",
+  "topic_key": "points-comments-item",
+  "confidence": 83.63,
+  "score_breakdown": {
+    "source_quality": 66.45,
+    "corroboration": 100.0,
+    "recency": 68.46,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 93.63,
+  "evidence": [
+    {
+      "title": "Building a backyard office, the build and cost breakdown",
+      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+      "publisher": "www.imkylelambert.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-26T07:11:02.648150+00:00"
+    },
+    {
+      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+      "publisher": "www.psu.edu",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-26T07:11:02.783387+00:00"
+    },
+    {
+      "title": "Secret Cold War IBM Supercomputer Was Built for One Job",
+      "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+      "publisher": "spectrum.ieee.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-26T07:11:02.971715+00:00"
+    },
+    {
+      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+      "url": "https://arxiv.org/abs/2607.21503",
+      "publisher": "arxiv.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-26T07:11:03.012453+00:00"
+    },
+    {
+      "title": "Queryable Executables",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "publisher": "fzakaria.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-26T07:11:03.082676+00:00"
+    },
+    {
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "url": "https://github.com/runetes/maiao",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-26T07:11:03.227686+00:00"
+    }
+  ]
+}

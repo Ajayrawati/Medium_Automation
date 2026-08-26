@@ -1,37 +1,51 @@
-tinyhumansai / openhuman
+asciimoo / hister
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/tinyhumansai/openhuman
+URL: https://github.com/asciimoo/hister
 
-Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+Your own search engine
 
-VoltAgent / awesome-agent-skills
+anthropics / claude-plugins-official
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/VoltAgent/awesome-agent-skills
+URL: https://github.com/anthropics/claude-plugins-official
 
-A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-freestylefly / awesome-gpt-image-2
+DietrichGebert / ponytail
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/freestylefly/awesome-gpt-image-2
+URL: https://github.com/DietrichGebert/ponytail
 
-Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-dani-garcia / vaultwarden
+marin-community / marin
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/dani-garcia/vaultwarden
+URL: https://github.com/marin-community/marin
 
-Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+Open-source framework for the research and development of foundation models.
 
-tashfeenahmed / freellmapi
+openai / codex
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/tashfeenahmed/freellmapi
+URL: https://github.com/openai/codex
 
-7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+Lightweight coding agent that runs in your terminal
+
+multica-ai / andrej-karpathy-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/multica-ai/andrej-karpathy-skills
+
+A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+
+Shubhamsaboo / awesome-llm-apps
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Shubhamsaboo/awesome-llm-apps
+
+100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 
 basecamp / omarchy
 Source: GitHub Trending
@@ -39,6 +53,13 @@ Category: technology
 URL: https://github.com/basecamp/omarchy
 
 Beautiful, Modern & Opinionated Linux
+
+tinyhumansai / openhuman
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/tinyhumansai/openhuman
+
+Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 
 rohitg00 / ai-engineering-from-scratch
 Source: GitHub Trending
@@ -54,19 +75,12 @@ URL: https://github.com/AgriciDaniel/claude-obsidian
 
 Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.
 
-openclaw / openclaw
+TauricResearch / TradingAgents
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/openclaw/openclaw
+URL: https://github.com/TauricResearch/TradingAgents
 
-Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-
-PostHog / posthog
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/PostHog/posthog
-
-🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 apache / maka
 Source: GitHub Trending
@@ -75,12 +89,12 @@ URL: https://github.com/apache/maka
 
 Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
 
-AprilNEA / OpenLogi
+MadsLorentzen / ai-job-search
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/AprilNEA/OpenLogi
+URL: https://github.com/MadsLorentzen/ai-job-search
 
-⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 
 anthropics / claude-plugins-community
 Source: GitHub Trending
@@ -89,260 +103,225 @@ URL: https://github.com/anthropics/claude-plugins-community
 
 Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
 
-NousResearch / hermes-agent
+freestylefly / awesome-gpt-image-2
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/NousResearch/hermes-agent
+URL: https://github.com/freestylefly/awesome-gpt-image-2
 
-The agent that grows with you
+Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 
-makeplane / plane
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/makeplane/plane
-
-🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-
-multica-ai / andrej-karpathy-skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/multica-ai/andrej-karpathy-skills
-
-A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-
-MadsLorentzen / ai-job-search
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/MadsLorentzen/ai-job-search
-
-The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
-
-openai / codex
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/openai/codex
-
-Lightweight coding agent that runs in your terminal
-
-Alishahryar1 / free-claude-code
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Alishahryar1/free-claude-code
-
-Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
-
-Training AI to Paint with Code
+Don't Wordle
 Source: Hacker News
 Category: technology
-URL: https://surya.website/rling-qwen-to-paint-with-code
-Published: 2026-08-23T19:39:29+00:00
-Score: 73
+URL: https://dontwordle.com/
+Published: 2026-08-25T11:49:48+00:00
+Score: 339
 
-Volcanoes that made history
+Bomb fishing is wreaking havoc on Indonesia's coral reefs
 Source: Hacker News
 Category: technology
-URL: https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history
-Published: 2026-08-25T04:09:43+00:00
-Score: 3
+URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs
+Published: 2026-08-25T14:29:32+00:00
+Score: 303
 
-Walgit – a Git server that is one binary in front of an object store
+Building a backyard office, the build and cost breakdown
 Source: Hacker News
 Category: technology
-URL: https://github.com/tobi/walgit
-Published: 2026-08-24T14:49:49+00:00
-Score: 68
+URL: https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown
+Published: 2026-08-25T14:20:36+00:00
+Score: 323
 
-Show HN: I wrote a BASIC interpreter that boots on UEFI machines
+New Mac mini, featuring M6 and M5 Pro
 Source: Hacker News
 Category: technology
-URL: https://tarjan.itch.io/thoreaubasic
-Published: 2026-08-23T17:48:12+00:00
-Score: 38
+URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro
+Published: 2026-08-25T13:13:00+00:00
+Score: 481
 
-What's new in Emacs 31.1
+New Mac Studio with M5 Max and M5 Ultra
 Source: Hacker News
 Category: technology
-URL: https://www.masteringemacs.org/article/whats-new-in-emacs-311
-Published: 2026-08-24T13:07:22+00:00
-Score: 101
+URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra
+Published: 2026-08-25T13:03:17+00:00
+Score: 750
 
-How Europe is killing makers and micro-entrepreneurs
+OpenAI Jalapeño: Better than Nvidia Blackwell
 Source: Hacker News
 Category: technology
-URL: https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs
-Published: 2026-08-24T13:05:25+00:00
-Score: 1239
+URL: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
+Published: 2026-08-25T14:06:02+00:00
+Score: 435
 
-Nostr is an inclusive communication commons
+Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]
 Source: Hacker News
 Category: technology
-URL: https://nostr.org/
-Published: 2026-08-22T13:49:01+00:00
-Score: 96
+URL: https://www.youtube.com/watch?v=656058JxTM0
+Published: 2026-08-22T01:52:24+00:00
+Score: 41
 
-Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded
+Apple introduces M6 and M5 Ultra
 Source: Hacker News
 Category: technology
-URL: https://twitter.com/lemire/status/2091894299289874926
-Published: 2026-08-24T15:08:17+00:00
-Score: 827
+URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute
+Published: 2026-08-25T13:01:22+00:00
+Score: 1084
 
-MS Paint and Photos inivisibly watermark even locally generated output with GUID
+Show HN: I made a Raspberry with Qwen my local car AI
 Source: Hacker News RSS
 Category: technology
-URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main
-Published: 2026-08-24T15:28:04+00:00
+URL: https://github.com/ThinkOffApp/CarWatch
+Published: 2026-08-25T15:20:20+00:00
 
-Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 663 # Comments: 266
+Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. And then hooked it up with my other agents in our discussion room! So now it can answer car questions such as "when should I add oil and what kind of oil?" and help you fully offline, and when online talk with the agent family that includes all the most powerful models so they know how the car is, plan new features and develop itself with them. For example, if car breaks and can't move the car agent informs my agent family and they can already look for a suitable train ticket without me needing to check things or do something. Comments URL: https://news.ycombinator.com/item?id=49435675 Points: 128 # Comments: 35
 
-Jabber/XMPP: 25 Years of Digital Independence
+Tooltips need a delay, and then they need to skip it
 Source: Hacker News RSS
 Category: technology
-URL: https://gultsch.de/posts/25-years-of-digital-independence
-Published: 2026-08-24T15:51:31+00:00
+URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it
+Published: 2026-08-25T16:35:36+00:00
 
-Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 210 # Comments: 103
+Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 158 # Comments: 39
 
-Ox-Alpha Is GLM?
+Show HN: LatticeDB – Like SQLite but for graph databases
 Source: Hacker News RSS
 Category: technology
-URL: https://dejan.ai/blog/ox-alpha
-Published: 2026-08-24T16:30:16+00:00
+URL: https://github.com/jeffhajewski/latticedb
+Published: 2026-08-25T16:52:05+00:00
 
-Article URL: https://dejan.ai/blog/ox-alpha/ Comments URL: https://news.ycombinator.com/item?id=49422226 Points: 70 # Comments: 43
+We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 140 # Comments: 37
 
-Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3
+My Friend Aaron
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/ovenpasta/adi2
-Published: 2026-08-24T16:30:51+00:00
+URL: https://rorz.io/writing/my-friend-aaron
+Published: 2026-08-25T16:53:33+00:00
 
-Article URL: https://github.com/ovenpasta/adi2 Comments URL: https://news.ycombinator.com/item?id=49422243 Points: 46 # Comments: 15
+Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 526 # Comments: 143
 
-The entire city of San Francisco as a video game
+Black hole singularity is a surface not a point
 Source: Hacker News RSS
 Category: technology
-URL: https://sf.thijs.gg/
-Published: 2026-08-24T17:05:38+00:00
+URL: https://arxiv.org/abs/2608.21590
+Published: 2026-08-25T17:02:49+00:00
 
-https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 427 # Comments: 138
+Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 225 # Comments: 167
 
-Where did all the public bathrooms go?
+Nitter and XCancel receive cease and desist notices
 Source: Hacker News RSS
 Category: technology
-URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go
-Published: 2026-08-24T17:07:01+00:00
+URL: https://github.com/zedeus/nitter/issues/1442
+Published: 2026-08-25T17:08:21+00:00
 
-Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 211 # Comments: 491
+https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 823 # Comments: 692
 
-Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff
+Run OpenBSD on DigitalOcean for $4/month
 Source: Hacker News RSS
 Category: technology
-URL: https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4
-Published: 2026-08-24T17:53:14+00:00
+URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month
+Published: 2026-08-25T17:23:07+00:00
 
-Article URL: https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4 Comments URL: https://news.ycombinator.com/item?id=49423495 Points: 0 # Comments: 0
+Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 152 # Comments: 69
 
-Octopus intelligence may be related to never-before-seen mutation
+Clara (YC P26) is hiring a growth engineer to bring AI doctors to market
 Source: Hacker News RSS
 Category: technology
-URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319
-Published: 2026-08-24T17:57:13+00:00
+URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer
+Published: 2026-08-25T17:28:52+00:00
 
-Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 138 # Comments: 96
+Article URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer Comments URL: https://news.ycombinator.com/item?id=49437566 Points: 0 # Comments: 0
 
-LLMs could control their host machines by exploiting inference engines
+Firefox 157 will include JPEG XL by default on all platforms
 Source: Hacker News RSS
 Category: technology
-URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines
-Published: 2026-08-24T19:03:06+00:00
+URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1
+Published: 2026-08-25T17:55:23+00:00
 
-Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 128 # Comments: 60
+Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 349 # Comments: 89
 
-Oceans hit highest temperature on record
+Dolly Parton has died
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bbc.com/news/articles/c62m4gpnp78o
-Published: 2026-08-24T19:19:08+00:00
+URL: https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead
+Published: 2026-08-25T18:02:22+00:00
 
-Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 495 # Comments: 396
+https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 1409 # Comments: 212
 
-Vintage Artificial Intelligence: Before It Got Awkward
+FDA authorizes first wearable device that monitors ketone and blood sugar levels
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward
-Published: 2026-08-24T21:01:38+00:00
+URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar
+Published: 2026-08-25T19:07:01+00:00
 
-Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 81 # Comments: 18
+Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 355 # Comments: 174
 
-Moon (2024)
+A brief history of federal lift ticket regulation
 Source: Hacker News RSS
 Category: technology
-URL: https://ciechanow.ski/moon
-Published: 2026-08-24T22:06:02+00:00
+URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket
+Published: 2026-08-25T19:25:43+00:00
 
-Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 154 # Comments: 28
+Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 58 # Comments: 11
 
-iCloud+ Hide My Email addresses will remain on icloud.com
+C2PA Cameras Do Not Survive Contact with Reality
 Source: Hacker News RSS
 Category: technology
-URL: https://developer.apple.com/news?id=1ptvdtcm
-Published: 2026-08-24T22:13:40+00:00
+URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html
+Published: 2026-08-25T19:38:24+00:00
 
-Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 392 # Comments: 103
+Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 130 # Comments: 77
 
-Bookshelf – Self-hosted eBook library that runs on object storage
+When str.lower() is a security vulnerability in Python
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/murerkinn/bookshelf
-Published: 2026-08-24T23:00:37+00:00
+URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability
+Published: 2026-08-25T20:49:03+00:00
 
-Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 78 # Comments: 32
+Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 99 # Comments: 44
 
-Was modern art a CIA psy-op? (2020)
+Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM
 Source: Hacker News RSS
 Category: technology
-URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op
-Published: 2026-08-25T01:35:00+00:00
+URL: https://github.com/swimmingbrain/texbrain
+Published: 2026-08-25T22:08:50+00:00
 
-Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 62 # Comments: 66
+I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just work, I built the editor I wanted in my free time, where you open a tab, write LaTeX, get your PDF and the files stay all in one folder on my disk. TeXbrain is a static site with no backend. pdfTeX is compiled to WebAssembly (SwiftLaTeX) and runs in your browser. The editor can read and write your project folder through the File System Access API, so you can use git, any local TeX install, local AI Agents, or any other editor on the same files. Git is built in through isomorphic-git for anyone who would rather not touch a terminal and clone, branch, commit, push or pull via commands. No account is needed, no analytics, and everything works offline after the first load. Try it out: https://tex.swimmingbrain.dev/ (Chromium browsers get direct folder access, while Firefox or Safari fall back to a virtual filesystem) Or for self-hosting/contributing: https://github.com/swimmingbrain/texbrain (MIT, the pdfTeX engine is EPL 2.0 / GPL 2.0 and is listed in the THIRD_PARTY_LICENSES file). The part I'm most proud of getting to work is the package loading. The engine itself is only 1.8 MB. When it asks for a file it doesn't have, then a service worker intercepts the request and resolves it through Cache Storage first, then a small bundled subset, then a TeX Live tree mirrored on jsDelivr, then a SwiftLaTeX style server as a last resort. Every file is fetched once at most and after the first successful compilation, the core subset is prefetched in the background so that the offline story actually holds. Only file names go over the network, never any document content. So far, it only supports pdfTeX (no XeTeX or LuaTeX), so fontspec or polyglossia won't work, packages are pinned to the TeX Live 2020 era to stay coherent with the engine's format file and there is no bibtex or biber in the engine yet, which is maybe the roughest edge. This is should be a good solution for people on a work laptop, a Chromebook, or a university lab PC where installing TeX Live isn't always an option, and people who don't want to maintain a TeX install at all. If you already have a local setup you like, keep it. This isn't necessarily thought as a replacement for that. Some people have already used it for their thesis in the past months and their bug reports (which I would never have hit on my own) were then most of the summer's work. The first outside PR also landed recently, so if something doesn't compile for you, an issue with the package name or the bug itself is the most useful thing you can send me! Comments URL: https://news.ycombinator.com/item?id=49441375 Points: 77 # Comments: 16
 
-How Universities Should Prepare Founders
+Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others
 Source: Hacker News RSS
 Category: technology
-URL: https://paulgraham.com/prepare.html
-Published: 2026-08-25T01:40:39+00:00
+URL: https://github.com/runetes/maiao
+Published: 2026-08-25T22:40:07+00:00
 
-Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 91 # Comments: 103
+Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 65 # Comments: 34
 
-Thomson Reuters Launches Its Own Frontier Model
+Queryable Executables
 Source: Hacker News RSS
 Category: technology
-URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model
-Published: 2026-08-25T02:11:39+00:00
+URL: https://fzakaria.com/2026/08/24/actually-queryable-executables
+Published: 2026-08-26T00:20:49+00:00
 
-Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model Comments URL: https://news.ycombinator.com/item?id=49428318 Points: 85 # Comments: 32
+Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 117 # Comments: 18
 
-SiFive's First Server Platform
+Agentic Context Management: Memory and Cost as Architecture Problems
 Source: Hacker News RSS
 Category: technology
-URL: https://chipsandcheese.com/p/sifives-first-server-platform
-Published: 2026-08-25T03:06:26+00:00
+URL: https://arxiv.org/abs/2607.21503
+Published: 2026-08-26T02:35:25+00:00
 
-Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 19 # Comments: 5
+Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 26 # Comments: 13
 
-Headlong: A Microharness for Persistent Agents
+Secret Cold War IBM Supercomputer Was Built for One Job
 Source: Hacker News RSS
 Category: technology
-URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents
-Published: 2026-08-25T03:54:19+00:00
+URL: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm
+Published: 2026-08-26T05:09:07+00:00
 
-Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 36 # Comments: 10
+Article URL: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm Comments URL: https://news.ycombinator.com/item?id=49444232 Points: 10 # Comments: 1
 
-Show HN: Screen memory without screenshots, just text to Markdown
+More than half of adults in U.S. say they lack basic statistical understanding
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/dragthelake/ambient-context
-Published: 2026-08-25T04:33:24+00:00
+URL: https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding
+Published: 2026-08-26T05:49:20+00:00
 
-It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose. Point Claude Code (or anything with file access) at the folder and ask "what did I work on Tuesday?" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model. Thought it might be useful for someone so chucked it up on GitHub Comments URL: https://news.ycombinator.com/item?id=49429095 Points: 24 # Comments: 9
+Article URL: https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding Comments URL: https://news.ycombinator.com/item?id=49444514 Points: 47 # Comments: 53
