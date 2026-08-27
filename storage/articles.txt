@@ -1,23 +1,30 @@
-asciimoo / hister
+TauricResearch / TradingAgents
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/asciimoo/hister
+URL: https://github.com/TauricResearch/TradingAgents
 
-Your own search engine
+TradingAgents: Multi-Agents LLM Financial Trading Framework
 
-anthropics / claude-plugins-official
+OpenCut-app / OpenCut
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/anthropics/claude-plugins-official
+URL: https://github.com/OpenCut-app/OpenCut
 
-Official, Anthropic-managed directory of high quality Claude Code Plugins.
+The open-source CapCut alternative
 
-DietrichGebert / ponytail
+actions / checkout
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/DietrichGebert/ponytail
+URL: https://github.com/actions/checkout
 
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+Action for checking out a repo
+
+ComposioHQ / awesome-claude-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ComposioHQ/awesome-claude-skills
+
+A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 marin-community / marin
 Source: GitHub Trending
@@ -26,40 +33,33 @@ URL: https://github.com/marin-community/marin
 
 Open-source framework for the research and development of foundation models.
 
-openai / codex
+AgriciDaniel / claude-obsidian
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/openai/codex
+URL: https://github.com/AgriciDaniel/claude-obsidian
 
-Lightweight coding agent that runs in your terminal
+Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.
 
-multica-ai / andrej-karpathy-skills
+google / googletest
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/multica-ai/andrej-karpathy-skills
+URL: https://github.com/google/googletest
 
-A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+GoogleTest - Google Testing and Mocking Framework
 
-Shubhamsaboo / awesome-llm-apps
+thedotmack / claude-mem
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Shubhamsaboo/awesome-llm-apps
+URL: https://github.com/thedotmack/claude-mem
 
-100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
-basecamp / omarchy
+ConardLi / garden-skills
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/basecamp/omarchy
+URL: https://github.com/ConardLi/garden-skills
 
-Beautiful, Modern & Opinionated Linux
-
-tinyhumansai / openhuman
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/tinyhumansai/openhuman
-
-Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
 rohitg00 / ai-engineering-from-scratch
 Source: GitHub Trending
@@ -68,40 +68,47 @@ URL: https://github.com/rohitg00/ai-engineering-from-scratch
 
 Learn it. Build it. Ship it for others.
 
-AgriciDaniel / claude-obsidian
+calesthio / OpenMontage
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/AgriciDaniel/claude-obsidian
+URL: https://github.com/calesthio/OpenMontage
 
-Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.
+World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
-TauricResearch / TradingAgents
+DietrichGebert / ponytail
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/TauricResearch/TradingAgents
+URL: https://github.com/DietrichGebert/ponytail
 
-TradingAgents: Multi-Agents LLM Financial Trading Framework
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-apache / maka
+K-Dense-AI / scientific-agent-skills
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/apache/maka
+URL: https://github.com/K-Dense-AI/scientific-agent-skills
 
-Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 
-MadsLorentzen / ai-job-search
+anthropics / claude-plugins-official
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/MadsLorentzen/ai-job-search
+URL: https://github.com/anthropics/claude-plugins-official
 
-The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-anthropics / claude-plugins-community
+JetBrains / go-modern-guidelines
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/anthropics/claude-plugins-community
+URL: https://github.com/JetBrains/go-modern-guidelines
 
-Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
+Help AI coding agents write modern Go
+
+tt-a1i / archify
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/tt-a1i/archify
+
+Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 
 freestylefly / awesome-gpt-image-2
 Source: GitHub Trending
@@ -110,218 +117,218 @@ URL: https://github.com/freestylefly/awesome-gpt-image-2
 
 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 
-Don't Wordle
-Source: Hacker News
+zedeus / nitter
+Source: GitHub Trending
 Category: technology
-URL: https://dontwordle.com/
-Published: 2026-08-25T11:49:48+00:00
-Score: 339
+URL: https://github.com/zedeus/nitter
 
-Bomb fishing is wreaking havoc on Indonesia's coral reefs
-Source: Hacker News
-Category: technology
-URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs
-Published: 2026-08-25T14:29:32+00:00
-Score: 303
+Alternative Twitter front-end
 
-Building a backyard office, the build and cost breakdown
+Aphantasia Beginner's Guide
 Source: Hacker News
 Category: technology
-URL: https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown
-Published: 2026-08-25T14:20:36+00:00
+URL: https://aphantasia.com/guide
+Published: 2026-08-27T13:14:20+00:00
+Score: 51
+
+The turbulent AI era is here
+Source: Hacker News
+Category: technology
+URL: https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med
+Published: 2026-08-26T11:23:54+00:00
+Score: 24
+
+A curmudgeon tries a language server
+Source: Hacker News
+Category: technology
+URL: https://entropicthoughts.com/curmudgeon-tries-language-server
+Published: 2026-08-26T12:48:37+00:00
+Score: 79
+
+MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training
+Source: Hacker News
+Category: technology
+URL: https://aiandeducation.mit.edu/report
+Published: 2026-08-27T13:07:45+00:00
+Score: 72
+
+CoMaps integration with the wider FLOSS ecosystem
+Source: Hacker News
+Category: technology
+URL: https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem
+Published: 2026-08-27T13:29:54+00:00
+Score: 104
+
+Emacs 31: An unofficial guide to Markdown-ts-mode
+Source: Hacker News
+Category: technology
+URL: https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31
+Published: 2026-08-27T13:22:36+00:00
+Score: 107
+
+Microduck
+Source: Hacker News
+Category: technology
+URL: https://pollen-robotics.com/microduck
+Published: 2026-08-27T10:57:56+00:00
 Score: 323
 
-New Mac mini, featuring M6 and M5 Pro
-Source: Hacker News
-Category: technology
-URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro
-Published: 2026-08-25T13:13:00+00:00
-Score: 481
-
-New Mac Studio with M5 Max and M5 Ultra
-Source: Hacker News
-Category: technology
-URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra
-Published: 2026-08-25T13:03:17+00:00
-Score: 750
-
-OpenAI Jalapeño: Better than Nvidia Blackwell
-Source: Hacker News
-Category: technology
-URL: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
-Published: 2026-08-25T14:06:02+00:00
-Score: 435
-
-Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]
-Source: Hacker News
-Category: technology
-URL: https://www.youtube.com/watch?v=656058JxTM0
-Published: 2026-08-22T01:52:24+00:00
-Score: 41
-
-Apple introduces M6 and M5 Ultra
-Source: Hacker News
-Category: technology
-URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute
-Published: 2026-08-25T13:01:22+00:00
-Score: 1084
-
-Show HN: I made a Raspberry with Qwen my local car AI
+Trade (and Tariffs)
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/ThinkOffApp/CarWatch
-Published: 2026-08-25T15:20:20+00:00
+URL: https://xkcd.com/3290
+Published: 2026-08-27T13:49:29+00:00
 
-Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. And then hooked it up with my other agents in our discussion room! So now it can answer car questions such as "when should I add oil and what kind of oil?" and help you fully offline, and when online talk with the agent family that includes all the most powerful models so they know how the car is, plan new features and develop itself with them. For example, if car breaks and can't move the car agent informs my agent family and they can already look for a suitable train ticket without me needing to check things or do something. Comments URL: https://news.ycombinator.com/item?id=49435675 Points: 128 # Comments: 35
+Article URL: https://xkcd.com/3290/ Comments URL: https://news.ycombinator.com/item?id=49464896 Points: 279 # Comments: 101
 
-Tooltips need a delay, and then they need to skip it
+507 Mechanical Movements
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it
-Published: 2026-08-25T16:35:36+00:00
+URL: https://507movements.com/
+Published: 2026-08-27T14:08:18+00:00
 
-Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 158 # Comments: 39
+Book (1868): https://archive.org/details/fivehundredseven00browiala Comments URL: https://news.ycombinator.com/item?id=49465169 Points: 259 # Comments: 35
 
-Show HN: LatticeDB – Like SQLite but for graph databases
+Show HN: Restoredrill – proves your Postgres backups restore
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/jeffhajewski/latticedb
-Published: 2026-08-25T16:52:05+00:00
+URL: https://github.com/ahmadpiran/restoredrill
+Published: 2026-08-27T14:16:23+00:00
 
-We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 140 # Comments: 37
+Article URL: https://github.com/ahmadpiran/restoredrill Comments URL: https://news.ycombinator.com/item?id=49465291 Points: 26 # Comments: 8
 
-My Friend Aaron
+The Teaser Period: Why the AI Boom Is Hitting a Reset Wall
 Source: Hacker News RSS
 Category: technology
-URL: https://rorz.io/writing/my-friend-aaron
-Published: 2026-08-25T16:53:33+00:00
+URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom
+Published: 2026-08-27T14:27:39+00:00
 
-Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 526 # Comments: 143
+Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 52 # Comments: 46
 
-Black hole singularity is a surface not a point
+Launching Route 53 Files
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2608.21590
-Published: 2026-08-25T17:02:49+00:00
+URL: https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html
+Published: 2026-08-27T14:45:23+00:00
 
-Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 225 # Comments: 167
+Article URL: https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html Comments URL: https://news.ycombinator.com/item?id=49465732 Points: 47 # Comments: 18
 
-Nitter and XCancel receive cease and desist notices
+Hollywood's Video Game Era Is Here. Will It Be Any Good?
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/zedeus/nitter/issues/1442
-Published: 2026-08-25T17:08:21+00:00
+URL: https://www.statsignificant.com/p/hollywoods-video-game-era-is-here
+Published: 2026-08-27T14:48:47+00:00
 
-https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 823 # Comments: 692
+Article URL: https://www.statsignificant.com/p/hollywoods-video-game-era-is-here Comments URL: https://news.ycombinator.com/item?id=49465784 Points: 18 # Comments: 27
 
-Run OpenBSD on DigitalOcean for $4/month
+Decompiling a Nintendo 64 Game in 84 Days
 Source: Hacker News RSS
 Category: technology
-URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month
-Published: 2026-08-25T17:23:07+00:00
+URL: https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days
+Published: 2026-08-27T15:01:11+00:00
 
-Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 152 # Comments: 69
+Article URL: https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/ Comments URL: https://news.ycombinator.com/item?id=49466006 Points: 42 # Comments: 8
 
-Clara (YC P26) is hiring a growth engineer to bring AI doctors to market
+Nvidia projects $673B in sales as AI demand widens
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer
-Published: 2026-08-25T17:28:52+00:00
+URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast
+Published: 2026-08-27T15:04:16+00:00
 
-Article URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer Comments URL: https://news.ycombinator.com/item?id=49437566 Points: 0 # Comments: 0
+Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 60 # Comments: 27
 
-Firefox 157 will include JPEG XL by default on all platforms
+Engineered yeast for converting plastic and biomass compounds into food
 Source: Hacker News RSS
 Category: technology
-URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1
-Published: 2026-08-25T17:55:23+00:00
+URL: https://acs.digitellinc.com/live/37/session/586399
+Published: 2026-08-27T15:40:04+00:00
 
-Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 349 # Comments: 89
+Article URL: https://acs.digitellinc.com/live/37/session/586399 Comments URL: https://news.ycombinator.com/item?id=49466622 Points: 12 # Comments: 11
 
-Dolly Parton has died
+Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead
-Published: 2026-08-25T18:02:22+00:00
+URL: https://news.ycombinator.com/item?id=49466715
+Published: 2026-08-27T15:46:04+00:00
 
-https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 1409 # Comments: 212
+Hi HN, we're the founders of Salem Robotics ( https://salemroboticsinc.com ). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive inspections in hazardous industrial facilities. Here's a video of it running on real robot hardware with a few words from us: https://www.youtube.com/watch?v=U_228h3NE7c We came to Salem through robotics research at UT Austin and a combined 15 years working in nuclear, including about 10 years developing and deploying autonomous robots at Los Alamos National Laboratory. Over the last five years, we kept running into the same gap: robot hardware had become very capable, but making a robot carry out a complete industrial procedure still required a surprising amount of robotics work and manual intervention. The part that interested us most was manipulation. A nuclear contamination survey, for example, can require taking a "smear": wiping a defined area of a surface so it can be checked for removable radioactive contamination. In an oil, gas, or chemical facility, an LDAR (leak detection and repair) inspection can require moving a detector around a particular valve, flange, or connection. Other inspections require positioning an instrument at a precise location and orientation relative to a pipe or piece of equipment. These are easy tasks to compress into verbs like "wipe", "measure", or "inspect", but considerably harder to make a robot do reliably. A probe might need to remain normal to a surface throughout a path, stay within a narrow offset from a pipe, or trace a region while maintaining a particular end-effector orientation. The planner has to find a feasible motion while respecting the task geometry, manipulator kinematics, joint limits, collisions, and the environment around it. We work down to joint-level control for those interactions. One problem we've spent a lot of time on is generating constrained manipulation plans quickly enough that they can be based on the geometry the robot actually observes instead of requiring someone to carefully author a trajectory for every individual surface, valve, or flange. The physical world makes this annoying. A few centimeters of error may not matter much when navigating down a hallway, but it matters if a sensor is supposed to remain normal to a curved surface. And successfully executing a trajectory doesn't necessarily mean the inspection worked. The detector could be misaligned, contact could be wrong, the geometry could differ from the model, or the measurement itself could be invalid. We care about closing that loop around the inspection result, not just whether the arm reached the commanded pose. Our approach is a combination of AI and classical robotics. A lot of robotics research and industry attention right now is going toward increasingly end-to-end learned systems, particularly around humanoids. Working in safety-critical environments has made us appreciate how relevant classical approaches still are when you want explicit constraints, predictable behavior, and theoretical guarantees about what a robot can and cannot do. We use AI where semantic understanding and flexibility are useful, such as interpreting less structured information or understanding what in an unfamiliar scene is relevant to a procedure. Once the system knows what physical interaction it needs to perform, we prefer explicit geometry, planning, optimization, and control where possible. We're interested in the marriage between the two rather than trying to make every part of the robotics stack learned. The other idea behind Salem is that we don't think every useful robot application should require building a new robot. Companies like Boston Dynamics are getting very good at building increasingly capable hardware platforms. We think there is room for a domain-specific application layer on top of that hardware. The same underlying robot might perform nuclear radiological surveys in one facility and LDAR inspections in another, but the procedures, sensors, manipulation constraints, success conditions, and outputs are different. That's also why we're hardware agnostic. We don't expect one robot to be the best platform forever, and facilities already own different hardware. We'd rather describe an inspection in terms of what needs to happen and then map that onto the capabilities of the right robot for the job. One thing that surprised us after spending more time with facilities is how manual many inspection workflows still are. In sophisticated nuclear and industrial sites, people still physically walk survey routes, take measurements one at a time, visually inspect equipment, record results manually, and sometimes make judgments based on things like how a component sounds. Some of the basic workflows would be recognizable to someone doing the job decades ago, even though the sensors, computation, and robots available today are radically different. We're starting with radiological inspection in nuclear because it's the industry we know best, and we're also working on manipulation-heavy inspection problems in oil, gas, and hazardous chemical facilities. The technicians and inspectors still define the procedure, interpret results, and make the consequential judgments. We're trying to automate more of the repetitive physical execution that currently requires someone to enter the environment or manually operate a robot. We sell directly to industrial facilities, usually starting with a paid technical validation and then moving to an ongoing deployment. Pricing varies substantially with the workflow: validations range from tens of thousands to over $100k, and larger deployments can range from the low hundreds of thousands to roughly $500k per robot. One thing we're especially curious to hear HN's thoughts on is where the abstraction boundary in robotics should sit. What should come from the robot manufacturer, what belongs in an application layer, and what will inevitably remain specific to the facility? We'd also be interested in hearing about other industries where you've seen physical inspection tasks that look trivial to a person but are surprisingly difficult to automate. Comments URL: https://news.ycombinator.com/item?id=49466715 Points: 21 # Comments: 14
 
-FDA authorizes first wearable device that monitors ketone and blood sugar levels
+Yayoi Kusama has died
 Source: Hacker News RSS
 Category: technology
-URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar
-Published: 2026-08-25T19:07:01+00:00
+URL: https://www.bbc.com/news/articles/c3v4k0re3vwo
+Published: 2026-08-27T15:54:00+00:00
 
-Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 355 # Comments: 174
+Article URL: https://www.bbc.com/news/articles/c3v4k0re3vwo Comments URL: https://news.ycombinator.com/item?id=49466865 Points: 94 # Comments: 11
 
-A brief history of federal lift ticket regulation
+Suica, Japan's First IC Transit Card
 Source: Hacker News RSS
 Category: technology
-URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket
-Published: 2026-08-25T19:25:43+00:00
+URL: https://www.tokyodev.com/articles/the-story-of-suica
+Published: 2026-08-27T15:55:12+00:00
 
-Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 58 # Comments: 11
+Article URL: https://www.tokyodev.com/articles/the-story-of-suica Comments URL: https://news.ycombinator.com/item?id=49466894 Points: 47 # Comments: 29
 
-C2PA Cameras Do Not Survive Contact with Reality
+Small Models Have Arrived
 Source: Hacker News RSS
 Category: technology
-URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html
-Published: 2026-08-25T19:38:24+00:00
+URL: https://calv.info/small-models-have-arrived
+Published: 2026-08-27T15:56:58+00:00
 
-Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 130 # Comments: 77
+Article URL: https://calv.info/small-models-have-arrived Comments URL: https://news.ycombinator.com/item?id=49466917 Points: 94 # Comments: 30
 
-When str.lower() is a security vulnerability in Python
+Why HPSC Is a Big Deal for Space Exploration
 Source: Hacker News RSS
 Category: technology
-URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability
-Published: 2026-08-25T20:49:03+00:00
+URL: https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration
+Published: 2026-08-27T16:01:09+00:00
 
-Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 99 # Comments: 44
+Article URL: https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration Comments URL: https://news.ycombinator.com/item?id=49466989 Points: 9 # Comments: 3
 
-Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM
+CMS with AI, Not AI CMS: Wagtail 8.0's New API
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/swimmingbrain/texbrain
-Published: 2026-08-25T22:08:50+00:00
+URL: https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api
+Published: 2026-08-27T16:32:21+00:00
 
-I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just work, I built the editor I wanted in my free time, where you open a tab, write LaTeX, get your PDF and the files stay all in one folder on my disk. TeXbrain is a static site with no backend. pdfTeX is compiled to WebAssembly (SwiftLaTeX) and runs in your browser. The editor can read and write your project folder through the File System Access API, so you can use git, any local TeX install, local AI Agents, or any other editor on the same files. Git is built in through isomorphic-git for anyone who would rather not touch a terminal and clone, branch, commit, push or pull via commands. No account is needed, no analytics, and everything works offline after the first load. Try it out: https://tex.swimmingbrain.dev/ (Chromium browsers get direct folder access, while Firefox or Safari fall back to a virtual filesystem) Or for self-hosting/contributing: https://github.com/swimmingbrain/texbrain (MIT, the pdfTeX engine is EPL 2.0 / GPL 2.0 and is listed in the THIRD_PARTY_LICENSES file). The part I'm most proud of getting to work is the package loading. The engine itself is only 1.8 MB. When it asks for a file it doesn't have, then a service worker intercepts the request and resolves it through Cache Storage first, then a small bundled subset, then a TeX Live tree mirrored on jsDelivr, then a SwiftLaTeX style server as a last resort. Every file is fetched once at most and after the first successful compilation, the core subset is prefetched in the background so that the offline story actually holds. Only file names go over the network, never any document content. So far, it only supports pdfTeX (no XeTeX or LuaTeX), so fontspec or polyglossia won't work, packages are pinned to the TeX Live 2020 era to stay coherent with the engine's format file and there is no bibtex or biber in the engine yet, which is maybe the roughest edge. This is should be a good solution for people on a work laptop, a Chromebook, or a university lab PC where installing TeX Live isn't always an option, and people who don't want to maintain a TeX install at all. If you already have a local setup you like, keep it. This isn't necessarily thought as a replacement for that. Some people have already used it for their thesis in the past months and their bug reports (which I would never have hit on my own) were then most of the summer's work. The first outside PR also landed recently, so if something doesn't compile for you, an issue with the package name or the bug itself is the most useful thing you can send me! Comments URL: https://news.ycombinator.com/item?id=49441375 Points: 77 # Comments: 16
+Article URL: https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/ Comments URL: https://news.ycombinator.com/item?id=49467481 Points: 8 # Comments: 1
 
-Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others
+Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/runetes/maiao
-Published: 2026-08-25T22:40:07+00:00
+URL: https://github.com/kelviq/tare
+Published: 2026-08-27T16:37:44+00:00
 
-Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 65 # Comments: 34
+Article URL: https://github.com/kelviq/tare Comments URL: https://news.ycombinator.com/item?id=49467551 Points: 8 # Comments: 0
 
-Queryable Executables
+See fiber breaks linked to a map
 Source: Hacker News RSS
 Category: technology
-URL: https://fzakaria.com/2026/08/24/actually-queryable-executables
-Published: 2026-08-26T00:20:49+00:00
+URL: https://react-networks-lib.rackout.net/otdr-strip
+Published: 2026-08-27T16:37:54+00:00
 
-Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 117 # Comments: 18
+Article URL: https://react-networks-lib.rackout.net/otdr-strip Comments URL: https://news.ycombinator.com/item?id=49467554 Points: 8 # Comments: 0
 
-Agentic Context Management: Memory and Cost as Architecture Problems
+Grok Bot for Linux: Unofficial port of the official app (open source)
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2607.21503
-Published: 2026-08-26T02:35:25+00:00
+URL: https://github.com/jakob-bu/grok-bot-linux-unofficial
+Published: 2026-08-27T16:49:47+00:00
 
-Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 26 # Comments: 13
+Article URL: https://github.com/jakob-bu/grok-bot-linux-unofficial Comments URL: https://news.ycombinator.com/item?id=49467702 Points: 15 # Comments: 2
 
-Secret Cold War IBM Supercomputer Was Built for One Job
+Bild AI (YC W25) Is Hiring Product and AI Engineers
 Source: Hacker News RSS
 Category: technology
-URL: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm
-Published: 2026-08-26T05:09:07+00:00
+URL: https://www.bild.ai/jobs
+Published: 2026-08-27T17:00:14+00:00
 
-Article URL: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm Comments URL: https://news.ycombinator.com/item?id=49444232 Points: 10 # Comments: 1
+Article URL: https://www.bild.ai/jobs Comments URL: https://news.ycombinator.com/item?id=49467837 Points: 0 # Comments: 0
 
-More than half of adults in U.S. say they lack basic statistical understanding
+Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
 Source: Hacker News RSS
 Category: technology
-URL: https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding
-Published: 2026-08-26T05:49:20+00:00
+URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111
+Published: 2026-08-27T17:17:57+00:00
 
-Article URL: https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding Comments URL: https://news.ycombinator.com/item?id=49444514 Points: 47 # Comments: 53
+Article URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/ Comments URL: https://news.ycombinator.com/item?id=49468083 Points: 12 # Comments: 0

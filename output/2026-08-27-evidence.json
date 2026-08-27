@@ -1,0 +1,81 @@
+{
+  "topic": "Https Item Comments",
+  "topic_key": "https-item-comments",
+  "confidence": 88.37,
+  "score_breakdown": {
+    "source_quality": 65.26,
+    "corroboration": 100.0,
+    "recency": 93.94,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 98.37,
+  "evidence": [
+    {
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "publisher": "blog.cloudflare.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-27T17:39:57.519751+00:00"
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring Product and AI Engineers",
+      "url": "https://www.bild.ai/jobs",
+      "publisher": "www.bild.ai",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-27T17:39:57.956473+00:00"
+    },
+    {
+      "title": "Grok Bot for Linux: Unofficial port of the official app (open source)",
+      "url": "https://github.com/jakob-bu/grok-bot-linux-unofficial",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-27T17:39:58.235701+00:00"
+    },
+    {
+      "title": "See fiber breaks linked to a map",
+      "url": "https://react-networks-lib.rackout.net/otdr-strip",
+      "publisher": "react-networks-lib.rackout.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-27T17:39:58.689918+00:00"
+    },
+    {
+      "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
+      "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
+      "publisher": "wagtail.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-27T17:39:58.919227+00:00"
+    },
+    {
+      "title": "Why HPSC Is a Big Deal for Space Exploration",
+      "url": "https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration",
+      "publisher": "www.windriver.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-27T17:39:59.227410+00:00"
+    }
+  ]
+}
