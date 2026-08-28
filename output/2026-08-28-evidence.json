@@ -1,0 +1,81 @@
+{
+  "topic": "Url Points Comments",
+  "topic_key": "url-points-comments",
+  "confidence": 87.46,
+  "score_breakdown": {
+    "source_quality": 65.45,
+    "corroboration": 100.0,
+    "recency": 89.12,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.46,
+  "evidence": [
+    {
+      "title": "Secrets of the Atomic City",
+      "url": "https://longreads.com/2026/08/06/radiation-paducah-atavist/",
+      "publisher": "longreads.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-28T18:45:40.818603+00:00"
+    },
+    {
+      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "publisher": "arxiv.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-28T18:45:41.020402+00:00"
+    },
+    {
+      "title": "Attimet (YC F24) Is Hiring Members of Technical Staff \u2013 Engineering and Research",
+      "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
+      "publisher": "www.ycombinator.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-28T18:45:41.444889+00:00"
+    },
+    {
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "publisher": "anil.recoil.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-28T18:45:42.014590+00:00"
+    },
+    {
+      "title": "How Dactyl Works",
+      "url": "https://dactyl.dev/blog/how-dactyl-works/",
+      "publisher": "dactyl.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-28T18:45:42.179684+00:00"
+    },
+    {
+      "title": "EasyEffects can massively improve laptop speaker sound quality",
+      "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+      "publisher": "www.osnews.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-28T18:45:42.440291+00:00"
+    }
+  ]
+}
