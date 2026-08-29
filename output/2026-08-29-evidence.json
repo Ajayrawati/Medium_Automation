@@ -1,0 +1,81 @@
+{
+  "topic": "Comments Https News.ycombinator.com",
+  "topic_key": "comments-https-news.ycombinator.com",
+  "confidence": 83.41,
+  "score_breakdown": {
+    "source_quality": 64.76,
+    "corroboration": 100.0,
+    "recency": 69.93,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 93.41,
+  "evidence": [
+    {
+      "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
+      "url": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
+      "publisher": "theconversation.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-29T12:42:58.957072+00:00"
+    },
+    {
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "publisher": "www.bbc.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-29T12:42:59.152271+00:00"
+    },
+    {
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "publisher": "chipsandcheese.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-29T12:42:59.548600+00:00"
+    },
+    {
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-29T12:43:00.025141+00:00"
+    },
+    {
+      "title": "Kumander Linux \u2013 A Linux Distro with a Windows 7 Desktop",
+      "url": "https://www.kumander.org/",
+      "publisher": "www.kumander.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-29T12:43:00.456692+00:00"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "publisher": "openai.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-29T12:43:00.616323+00:00"
+    }
+  ]
+}

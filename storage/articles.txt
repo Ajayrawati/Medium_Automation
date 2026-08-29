@@ -138,63 +138,71 @@ URL: https://github.com/tt-a1i/archify
 
 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 
-Smaller reactors bring nuclear power closer to fulfilling its promise
+Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?
 Source: Hacker News
 Category: technology
-URL: https://www.nature.com/articles/d41586-026-02506-4
-Published: 2026-08-28T12:28:41+00:00
-Score: 68
+URL: https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300
+Published: 2026-08-25T02:17:19+00:00
+Score: 26
 
-Hilariously fast volume computation with the divergence theorem (2018)
+Queen Caroline turned King Arthur into an 18C royal PR strategy
 Source: Hacker News
 Category: technology
-URL: https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html
-Published: 2026-08-28T09:00:46+00:00
-Score: 213
+URL: https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244
+Published: 2026-08-24T16:41:26+00:00
+Score: 24
 
-Migrating to HTTPX2
+Experiments with Plotter Art
 Source: Hacker News
 Category: technology
-URL: https://github.com/openai/openai-python/blob/main/httpx2.md
-Published: 2026-08-28T11:51:20+00:00
-Score: 165
+URL: https://sometimes.digital/posts/experiments-with-plotter-art
+Published: 2026-08-24T13:21:56+00:00
+Score: 66
 
-Global demand for sand spawned a worldwide boom in illegal mining (2015)
+Monzo Stand-In
 Source: Hacker News
 Category: technology
-URL: https://www.wired.com/2015/03/illegal-sand-mining
-Published: 2026-08-25T22:03:03+00:00
-Score: 23
+URL: https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in
+Published: 2026-08-24T09:30:09+00:00
+Score: 95
 
-The Twelve-Factor App
+Glacier Mice
 Source: Hacker News
+Category: technology
+URL: https://en.wikipedia.org/wiki/Glacier_mice
+Published: 2026-08-24T18:58:13+00:00
+Score: 31
+
+Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems
+Source: Hacker News
+Category: technology
+URL: https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug
+Published: 2026-08-26T15:22:48+00:00
+Score: 44
+
+Europe's last regular standard-gauge steam passenger service
+Source: Hacker News RSS
+Category: technology
+URL: https://parowozowniawolsztyn.pl/?page_id=2141
+Published: 2026-08-26T22:32:00+00:00
+
+Article URL: https://parowozowniawolsztyn.pl/?page_id=2141 Comments URL: https://news.ycombinator.com/item?id=49456819 Points: 60 # Comments: 18
+
+The Twelve-Factor App (2025)
+Source: Hacker News RSS
 Category: technology
 URL: https://12factor.net/
 Published: 2026-08-27T22:41:11+00:00
-Score: 124
+
+Article URL: https://12factor.net/ Comments URL: https://news.ycombinator.com/item?id=49472216 Points: 280 # Comments: 154
 
 Inception-style curved map for turn-by-turn directions
-Source: Hacker News
+Source: Hacker News RSS
 Category: technology
 URL: https://www.orbify.eu/demo
 Published: 2026-08-28T12:29:05+00:00
-Score: 285
 
-“It works better in the app”
-Source: Hacker News RSS
-Category: technology
-URL: https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app
-Published: 2026-08-28T12:32:16+00:00
-
-Article URL: https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/ Comments URL: https://news.ycombinator.com/item?id=49477600 Points: 576 # Comments: 381
-
-An investigation into the state of corvid–human relations
-Source: Hacker News RSS
-Category: technology
-URL: https://www.audubon.org/magazine/are-crows-really-our-friends
-Published: 2026-08-28T12:53:42+00:00
-
-Article URL: https://www.audubon.org/magazine/are-crows-really-our-friends Comments URL: https://news.ycombinator.com/item?id=49477813 Points: 76 # Comments: 48
+Article URL: https://www.orbify.eu/demo/ Comments URL: https://news.ycombinator.com/item?id=49477564 Points: 526 # Comments: 177
 
 U.S. sanctions against the A/I Collective
 Source: Hacker News RSS
@@ -202,47 +210,15 @@ Category: technology
 URL: https://www.inventati.org/
 Published: 2026-08-28T12:58:53+00:00
 
-Article URL: https://www.inventati.org/ Comments URL: https://news.ycombinator.com/item?id=49477854 Points: 291 # Comments: 257
+Earlier: US Government designates host of noblogs.org a "global terrorist" - https://news.ycombinator.com/item?id=49464391 - (131 comments) US sanctions Italian hosting provider Autistici Inventati - https://news.ycombinator.com/item?id=49451343 - (219 comments) Comments URL: https://news.ycombinator.com/item?id=49477854 Points: 630 # Comments: 621
 
-Htmx 4.0.0
+Htmx 4.0
 Source: Hacker News RSS
 Category: technology
 URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
 Published: 2026-08-28T13:28:56+00:00
 
-Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 238 # Comments: 54
-
-Get your Windows license refund
-Source: Hacker News RSS
-Category: technology
-URL: https://en.refund4freedom.org/
-Published: 2026-08-28T13:42:40+00:00
-
-Article URL: https://en.refund4freedom.org/ Comments URL: https://news.ycombinator.com/item?id=49478340 Points: 498 # Comments: 195
-
-State of the Map 2026
-Source: Hacker News RSS
-Category: technology
-URL: https://2026.stateofthemap.org/
-Published: 2026-08-28T13:46:28+00:00
-
-Article URL: https://2026.stateofthemap.org/ Comments URL: https://news.ycombinator.com/item?id=49478401 Points: 95 # Comments: 36
-
-“Weird” is a weird word
-Source: Hacker News RSS
-Category: technology
-URL: https://www.deadlanguagesociety.com/p/weird-is-a-weird-word
-Published: 2026-08-28T13:51:17+00:00
-
-Article URL: https://www.deadlanguagesociety.com/p/weird-is-a-weird-word Comments URL: https://news.ycombinator.com/item?id=49478489 Points: 46 # Comments: 17
-
-Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits
-Source: Hacker News RSS
-Category: technology
-URL: https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits
-Published: 2026-08-28T14:23:27+00:00
-
-Article URL: https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits Comments URL: https://news.ycombinator.com/item?id=49478942 Points: 33 # Comments: 11
+Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 701 # Comments: 174
 
 Verschlimmbesserung: The Word Your Software Updates Need
 Source: Hacker News RSS
@@ -250,23 +226,7 @@ Category: technology
 URL: https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung
 Published: 2026-08-28T14:30:33+00:00
 
-Article URL: https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/ Comments URL: https://news.ycombinator.com/item?id=49479072 Points: 54 # Comments: 20
-
-The conservationists helping to restore Africa’s wild dog populations
-Source: Hacker News RSS
-Category: technology
-URL: https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287
-Published: 2026-08-28T14:44:51+00:00
-
-Article URL: https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/ Comments URL: https://news.ycombinator.com/item?id=49479302 Points: 40 # Comments: 14
-
-Don't use musl if you care about performance
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance
-Published: 2026-08-28T15:16:07+00:00
-
-Article URL: https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/ Comments URL: https://news.ycombinator.com/item?id=49479826 Points: 46 # Comments: 29
+Article URL: https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/ Comments URL: https://news.ycombinator.com/item?id=49479072 Points: 147 # Comments: 101
 
 GUIs should be fully keyboard-driven
 Source: Hacker News RSS
@@ -274,39 +234,23 @@ Category: technology
 URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html
 Published: 2026-08-28T15:17:09+00:00
 
-Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 183 # Comments: 122
+Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 866 # Comments: 431
 
 GLM-5.3 is now open-weight
 Source: Hacker News RSS
 Category: technology
-URL: https://twitter.com/Zai_org/status/2093354097122455713
+URL: https://huggingface.co/zai-org/GLM-5.3
 Published: 2026-08-28T15:20:13+00:00
 
-Article URL: https://twitter.com/Zai_org/status/2093354097122455713 Comments URL: https://news.ycombinator.com/item?id=49479878 Points: 320 # Comments: 122
+https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49479878 Points: 720 # Comments: 241
 
-Barrier lake continues to pose flood risk, China warns
-Source: Hacker News RSS
-Category: technology
-URL: https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns
-Published: 2026-08-28T15:21:26+00:00
-
-Article URL: https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns Comments URL: https://news.ycombinator.com/item?id=49479898 Points: 48 # Comments: 9
-
-EasyEffects can massively improve laptop speaker sound quality
+EasyEffects can improve laptop speaker sound quality
 Source: Hacker News RSS
 Category: technology
 URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality
 Published: 2026-08-28T15:23:10+00:00
 
-Article URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/ Comments URL: https://news.ycombinator.com/item?id=49479924 Points: 28 # Comments: 14
-
-How Dactyl Works
-Source: Hacker News RSS
-Category: technology
-URL: https://dactyl.dev/blog/how-dactyl-works
-Published: 2026-08-28T15:42:04+00:00
-
-Article URL: https://dactyl.dev/blog/how-dactyl-works/ Comments URL: https://news.ycombinator.com/item?id=49480220 Points: 55 # Comments: 10
+Article URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/ Comments URL: https://news.ycombinator.com/item?id=49479924 Points: 169 # Comments: 69
 
 Just the rumour of a bug is enough to find an exploit these days
 Source: Hacker News RSS
@@ -314,28 +258,84 @@ Category: technology
 URL: https://anil.recoil.org/notes/rumour-is-the-exploit
 Published: 2026-08-28T15:58:46+00:00
 
-Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit Comments URL: https://news.ycombinator.com/item?id=49480466 Points: 102 # Comments: 35
+Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit Comments URL: https://news.ycombinator.com/item?id=49480466 Points: 340 # Comments: 115
 
-Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research
+Boot a Virtual iPhone via Apple's Virtualization.framework
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering
-Published: 2026-08-28T17:00:06+00:00
+URL: https://github.com/Lakr233/vphone-cli
+Published: 2026-08-28T23:02:21+00:00
 
-Article URL: https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering Comments URL: https://news.ycombinator.com/item?id=49481423 Points: 0 # Comments: 0
+Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 306 # Comments: 83
 
-Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment
+I accidentally turned LLM memory into program analysis
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2608.23691
-Published: 2026-08-28T17:01:12+00:00
+URL: https://pwning.systems/posts/llm-memory-program-analysis
+Published: 2026-08-28T23:27:45+00:00
 
-Article URL: https://arxiv.org/abs/2608.23691 Comments URL: https://news.ycombinator.com/item?id=49481455 Points: 13 # Comments: 0
+Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 178 # Comments: 42
 
-Secrets of the Atomic City
+9th Circuit sides with states in Kalshi gambling fight
 Source: Hacker News RSS
 Category: technology
-URL: https://longreads.com/2026/08/06/radiation-paducah-atavist
-Published: 2026-08-28T17:16:58+00:00
+URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution
+Published: 2026-08-28T23:32:22+00:00
 
-Article URL: https://longreads.com/2026/08/06/radiation-paducah-atavist/ Comments URL: https://news.ycombinator.com/item?id=49481672 Points: 12 # Comments: 3
+Article URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/ Comments URL: https://news.ycombinator.com/item?id=49485452 Points: 140 # Comments: 117
+
+Does the Sumerian King List Align with Paleoclimate Events?
+Source: Hacker News RSS
+Category: technology
+URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer
+Published: 2026-08-28T23:46:10+00:00
+
+Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/ Comments URL: https://news.ycombinator.com/item?id=49485532 Points: 107 # Comments: 53
+
+StemDeck, a free, open-source and local AI stem separator
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/stemdeckapp/stemdeck
+Published: 2026-08-29T01:24:13+00:00
+
+Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 122 # Comments: 26
+
+Our decision on Cursor following its acquisition by SpaceX
+Source: Hacker News RSS
+Category: technology
+URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
+Published: 2026-08-29T01:47:53+00:00
+
+Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/ Comments URL: https://news.ycombinator.com/item?id=49486172 Points: 595 # Comments: 339
+
+Kumander Linux – A Linux Distro with a Windows 7 Desktop
+Source: Hacker News RSS
+Category: technology
+URL: https://www.kumander.org/
+Published: 2026-08-29T01:48:15+00:00
+
+Article URL: https://www.kumander.org/ Comments URL: https://news.ycombinator.com/item?id=49486176 Points: 65 # Comments: 43
+
+TurboKV: Insanely fast Rust key-value store
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/kingroryg/turbokv
+Published: 2026-08-29T02:23:37+00:00
+
+Article URL: https://github.com/kingroryg/turbokv Comments URL: https://news.ycombinator.com/item?id=49486334 Points: 126 # Comments: 56
+
+Samsung's Processing-in-Memory (PIM)
+Source: Hacker News RSS
+Category: technology
+URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing
+Published: 2026-08-29T06:06:51+00:00
+
+Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 136 # Comments: 45
+
+Iceland votes on whether to restart talks on joining EU
+Source: Hacker News RSS
+Category: technology
+URL: https://www.bbc.com/news/articles/cn45vdxyvvlo
+Published: 2026-08-29T11:39:38+00:00
+
+Article URL: https://www.bbc.com/news/articles/cn45vdxyvvlo Comments URL: https://news.ycombinator.com/item?id=49489057 Points: 68 # Comments: 75
