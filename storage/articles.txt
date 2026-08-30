@@ -1,37 +1,16 @@
+abhigyanpatwari / GitNexus
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/abhigyanpatwari/GitNexus
+
+GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration
+
 livekit / agents
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/livekit/agents
 
 A framework for building realtime voice AI agents 🤖🎙️📹
-
-google / googletest
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/google/googletest
-
-GoogleTest - Google Testing and Mocking Framework
-
-DietrichGebert / ponytail
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/DietrichGebert/ponytail
-
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-rohitg00 / ai-engineering-from-scratch
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/rohitg00/ai-engineering-from-scratch
-
-Learn it. Build it. Ship it for others.
-
-ChromeDevTools / chrome-devtools-mcp
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ChromeDevTools/chrome-devtools-mcp
-
-Chrome DevTools for coding agents
 
 tashfeenahmed / freellmapi
 Source: GitHub Trending
@@ -40,19 +19,40 @@ URL: https://github.com/tashfeenahmed/freellmapi
 
 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
-marin-community / marin
+colinhacks / zod
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/marin-community/marin
+URL: https://github.com/colinhacks/zod
 
-Open-source framework for the research and development of foundation models.
+TypeScript-first schema validation with static type inference
 
-swoole / typephp
+every-app / open-seo
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/swoole/typephp
+URL: https://github.com/every-app/open-seo
 
-Compile PHP to Native Binaries
+Open source alternative to Semrush and Ahrefs
+
+corsairdev / corsair
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/corsairdev/corsair
+
+Connect your users to their apps
+
+handsomestWei / patent-disclosure-skill
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/handsomestWei/patent-disclosure-skill
+
+中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+
+pollen-robotics / microduck_rl
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/pollen-robotics/microduck_rl
+
+RL training environments for Microduck (mjlab)
 
 NationalSecurityAgency / ghidra
 Source: GitHub Trending
@@ -61,75 +61,47 @@ URL: https://github.com/NationalSecurityAgency/ghidra
 
 Ghidra is a software reverse engineering (SRE) framework
 
-tailscale / tailcat
+checkstyle / checkstyle
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/tailscale/tailcat
+URL: https://github.com/checkstyle/checkstyle
 
-like netcat, but over Tailscale's data plane, without Tailscale's control plane
+Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 
-freestylefly / awesome-gpt-image-2
+punkpeye / awesome-mcp-servers
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/freestylefly/awesome-gpt-image-2
+URL: https://github.com/punkpeye/awesome-mcp-servers
 
-Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+A collection of MCP servers.
 
-cursor / plugins
+majd / ipatool
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/cursor/plugins
+URL: https://github.com/majd/ipatool
 
-Cursor plugin specification and official plugins
+Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 
-abi / screenshot-to-code
+mvanhorn / last30days-skill
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/abi/screenshot-to-code
+URL: https://github.com/mvanhorn/last30days-skill
 
-Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
-calesthio / OpenMontage
+unclecode / crawl4ai
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/calesthio/OpenMontage
+URL: https://github.com/unclecode/crawl4ai
 
-World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
-JetBrains / go-modern-guidelines
+p-e-w / heretic
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/JetBrains/go-modern-guidelines
+URL: https://github.com/p-e-w/heretic
 
-Help AI coding agents write modern Go
-
-abhigyanpatwari / GitNexus
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/abhigyanpatwari/GitNexus
-
-GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration
-
-bilawalsidhu / gods-eye-view
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/bilawalsidhu/gods-eye-view
-
-A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-
-anthropics / claude-plugins-official
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/anthropics/claude-plugins-official
-
-Official, Anthropic-managed directory of high quality Claude Code Plugins.
-
-K-Dense-AI / scientific-agent-skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/K-Dense-AI/scientific-agent-skills
-
-Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+Fully automatic censorship removal for language models
 
 tt-a1i / archify
 Source: GitHub Trending
@@ -138,191 +110,67 @@ URL: https://github.com/tt-a1i/archify
 
 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 
-Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?
-Source: Hacker News
-Category: technology
-URL: https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300
-Published: 2026-08-25T02:17:19+00:00
-Score: 26
-
-Queen Caroline turned King Arthur into an 18C royal PR strategy
-Source: Hacker News
-Category: technology
-URL: https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244
-Published: 2026-08-24T16:41:26+00:00
-Score: 24
-
-Experiments with Plotter Art
-Source: Hacker News
-Category: technology
-URL: https://sometimes.digital/posts/experiments-with-plotter-art
-Published: 2026-08-24T13:21:56+00:00
-Score: 66
-
-Monzo Stand-In
-Source: Hacker News
-Category: technology
-URL: https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in
-Published: 2026-08-24T09:30:09+00:00
-Score: 95
-
-Glacier Mice
-Source: Hacker News
-Category: technology
-URL: https://en.wikipedia.org/wiki/Glacier_mice
-Published: 2026-08-24T18:58:13+00:00
-Score: 31
-
-Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems
-Source: Hacker News
-Category: technology
-URL: https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug
-Published: 2026-08-26T15:22:48+00:00
-Score: 44
-
-Europe's last regular standard-gauge steam passenger service
-Source: Hacker News RSS
-Category: technology
-URL: https://parowozowniawolsztyn.pl/?page_id=2141
-Published: 2026-08-26T22:32:00+00:00
-
-Article URL: https://parowozowniawolsztyn.pl/?page_id=2141 Comments URL: https://news.ycombinator.com/item?id=49456819 Points: 60 # Comments: 18
-
-The Twelve-Factor App (2025)
-Source: Hacker News RSS
-Category: technology
-URL: https://12factor.net/
-Published: 2026-08-27T22:41:11+00:00
-
-Article URL: https://12factor.net/ Comments URL: https://news.ycombinator.com/item?id=49472216 Points: 280 # Comments: 154
-
-Inception-style curved map for turn-by-turn directions
-Source: Hacker News RSS
-Category: technology
-URL: https://www.orbify.eu/demo
-Published: 2026-08-28T12:29:05+00:00
-
-Article URL: https://www.orbify.eu/demo/ Comments URL: https://news.ycombinator.com/item?id=49477564 Points: 526 # Comments: 177
-
-U.S. sanctions against the A/I Collective
-Source: Hacker News RSS
-Category: technology
-URL: https://www.inventati.org/
-Published: 2026-08-28T12:58:53+00:00
-
-Earlier: US Government designates host of noblogs.org a "global terrorist" - https://news.ycombinator.com/item?id=49464391 - (131 comments) US sanctions Italian hosting provider Autistici Inventati - https://news.ycombinator.com/item?id=49451343 - (219 comments) Comments URL: https://news.ycombinator.com/item?id=49477854 Points: 630 # Comments: 621
-
-Htmx 4.0
-Source: Hacker News RSS
-Category: technology
-URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
-Published: 2026-08-28T13:28:56+00:00
-
-Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 701 # Comments: 174
-
-Verschlimmbesserung: The Word Your Software Updates Need
-Source: Hacker News RSS
-Category: technology
-URL: https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung
-Published: 2026-08-28T14:30:33+00:00
-
-Article URL: https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/ Comments URL: https://news.ycombinator.com/item?id=49479072 Points: 147 # Comments: 101
-
-GUIs should be fully keyboard-driven
-Source: Hacker News RSS
-Category: technology
-URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html
-Published: 2026-08-28T15:17:09+00:00
-
-Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 866 # Comments: 431
-
-GLM-5.3 is now open-weight
-Source: Hacker News RSS
-Category: technology
-URL: https://huggingface.co/zai-org/GLM-5.3
-Published: 2026-08-28T15:20:13+00:00
-
-https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49479878 Points: 720 # Comments: 241
-
-EasyEffects can improve laptop speaker sound quality
-Source: Hacker News RSS
-Category: technology
-URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality
-Published: 2026-08-28T15:23:10+00:00
-
-Article URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/ Comments URL: https://news.ycombinator.com/item?id=49479924 Points: 169 # Comments: 69
-
-Just the rumour of a bug is enough to find an exploit these days
-Source: Hacker News RSS
-Category: technology
-URL: https://anil.recoil.org/notes/rumour-is-the-exploit
-Published: 2026-08-28T15:58:46+00:00
-
-Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit Comments URL: https://news.ycombinator.com/item?id=49480466 Points: 340 # Comments: 115
-
-Boot a Virtual iPhone via Apple's Virtualization.framework
-Source: Hacker News RSS
+Lakr233 / vphone-cli
+Source: GitHub Trending
 Category: technology
 URL: https://github.com/Lakr233/vphone-cli
-Published: 2026-08-28T23:02:21+00:00
 
-Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 306 # Comments: 83
+K-Dense-AI / scientific-agent-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/K-Dense-AI/scientific-agent-skills
 
-I accidentally turned LLM memory into program analysis
+Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+
+THU-MAIC / OpenMAIC
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/THU-MAIC/OpenMAIC
+
+Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+
+Creating Teensy ELF Executables for Linux (Or, "Size Is Everything") (1999)
+Source: Hacker News
+Category: technology
+URL: https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
+Published: 2026-08-25T13:20:02+00:00
+Score: 51
+
+Tether: iMessage, SMS, etc. on Linux
+Source: Hacker News
+Category: technology
+URL: https://zackbartel.com/blog/2026/08/tether
+Published: 2026-08-24T05:09:23+00:00
+Score: 474
+
+The Einstein-Szilard Refrigerator (2020)
+Source: Hacker News
+Category: technology
+URL: https://invention.si.edu/invention-stories/einstein-szilard-refrigerator
+Published: 2026-08-26T17:58:48+00:00
+Score: 41
+
+JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps
+Source: Hacker News
+Category: technology
+URL: https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0
+Published: 2026-08-25T08:43:42+00:00
+Score: 32
+
+RISC-V is now officially supported by CPython
+Source: Hacker News
+Category: technology
+URL: https://blog.python.org/2026/08/riscv-now-officially-supported
+Published: 2026-08-24T20:12:22+00:00
+Score: 197
+
+Benchmarking Pocket-Scale Inference
 Source: Hacker News RSS
 Category: technology
-URL: https://pwning.systems/posts/llm-memory-program-analysis
-Published: 2026-08-28T23:27:45+00:00
+URL: https://artificialanalysis.ai/hardware-inference-stack/mobile-phones
+Published: 2026-08-27T19:12:03+00:00
 
-Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 178 # Comments: 42
-
-9th Circuit sides with states in Kalshi gambling fight
-Source: Hacker News RSS
-Category: technology
-URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution
-Published: 2026-08-28T23:32:22+00:00
-
-Article URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/ Comments URL: https://news.ycombinator.com/item?id=49485452 Points: 140 # Comments: 117
-
-Does the Sumerian King List Align with Paleoclimate Events?
-Source: Hacker News RSS
-Category: technology
-URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer
-Published: 2026-08-28T23:46:10+00:00
-
-Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/ Comments URL: https://news.ycombinator.com/item?id=49485532 Points: 107 # Comments: 53
-
-StemDeck, a free, open-source and local AI stem separator
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/stemdeckapp/stemdeck
-Published: 2026-08-29T01:24:13+00:00
-
-Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 122 # Comments: 26
-
-Our decision on Cursor following its acquisition by SpaceX
-Source: Hacker News RSS
-Category: technology
-URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
-Published: 2026-08-29T01:47:53+00:00
-
-Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/ Comments URL: https://news.ycombinator.com/item?id=49486172 Points: 595 # Comments: 339
-
-Kumander Linux – A Linux Distro with a Windows 7 Desktop
-Source: Hacker News RSS
-Category: technology
-URL: https://www.kumander.org/
-Published: 2026-08-29T01:48:15+00:00
-
-Article URL: https://www.kumander.org/ Comments URL: https://news.ycombinator.com/item?id=49486176 Points: 65 # Comments: 43
-
-TurboKV: Insanely fast Rust key-value store
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/kingroryg/turbokv
-Published: 2026-08-29T02:23:37+00:00
-
-Article URL: https://github.com/kingroryg/turbokv Comments URL: https://news.ycombinator.com/item?id=49486334 Points: 126 # Comments: 56
+Article URL: https://artificialanalysis.ai/hardware-inference-stack/mobile-phones Comments URL: https://news.ycombinator.com/item?id=49469786 Points: 53 # Comments: 4
 
 Samsung's Processing-in-Memory (PIM)
 Source: Hacker News RSS
@@ -330,12 +178,148 @@ Category: technology
 URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing
 Published: 2026-08-29T06:06:51+00:00
 
-Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 136 # Comments: 45
+Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 267 # Comments: 104
 
-Iceland votes on whether to restart talks on joining EU
+Nancy Grace Roman Space Telescope
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bbc.com/news/articles/cn45vdxyvvlo
-Published: 2026-08-29T11:39:38+00:00
+URL: https://science.nasa.gov/mission/roman-space-telescope
+Published: 2026-08-29T15:48:02+00:00
 
-Article URL: https://www.bbc.com/news/articles/cn45vdxyvvlo Comments URL: https://news.ycombinator.com/item?id=49489057 Points: 68 # Comments: 75
+https://nextspaceflight.com/launches/details/6983/ https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac... https://en.wikipedia.org/wiki/Nancy_Grace_Roman Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 210 # Comments: 80
+
+Functional State Machines in Rust: Typestate and Newtype Patterns
+Source: Hacker News RSS
+Category: technology
+URL: https://dl.acm.org/doi/10.1145/3830438.3830958
+Published: 2026-08-29T19:01:09+00:00
+
+Article URL: https://dl.acm.org/doi/10.1145/3830438.3830958 Comments URL: https://news.ycombinator.com/item?id=49492368 Points: 96 # Comments: 36
+
+Hy4 preview
+Source: Hacker News RSS
+Category: technology
+URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview
+Published: 2026-08-29T19:33:23+00:00
+
+Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49492632 Points: 323 # Comments: 195
+
+Lawmakers added $1 to car insurance policies. That money paid for Flock cameras
+Source: Hacker News RSS
+Category: technology
+URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants
+Published: 2026-08-29T23:17:17+00:00
+
+Article URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/ Comments URL: https://news.ycombinator.com/item?id=49494182 Points: 319 # Comments: 184
+
+Bug Blindness
+Source: Hacker News RSS
+Category: technology
+URL: https://danluu.com/bug-blind
+Published: 2026-08-30T00:21:40+00:00
+
+Article URL: https://danluu.com/bug-blind/ Comments URL: https://news.ycombinator.com/item?id=49494520 Points: 283 # Comments: 175
+
+Open Oscar Server: open-source server compatible with AIM and ICQ clients
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/mk6i/open-oscar-server
+Published: 2026-08-30T00:33:35+00:00
+
+Article URL: https://github.com/mk6i/open-oscar-server Comments URL: https://news.ycombinator.com/item?id=49494571 Points: 45 # Comments: 16
+
+Benjamin Franklin's Alter Egos Gave Him the Most Freedom
+Source: Hacker News RSS
+Category: technology
+URL: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824
+Published: 2026-08-30T01:09:15+00:00
+
+Article URL: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/ Comments URL: https://news.ycombinator.com/item?id=49494751 Points: 75 # Comments: 33
+
+FreeCORE TrueNAS Core – Continued
+Source: Hacker News RSS
+Category: technology
+URL: https://freecore.org/
+Published: 2026-08-30T01:31:32+00:00
+
+Article URL: https://freecore.org/ Comments URL: https://news.ycombinator.com/item?id=49494856 Points: 114 # Comments: 65
+
+California lawmakers unanimously pass Linux exemption from age-verification law
+Source: Hacker News RSS
+Category: technology
+URL: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt
+Published: 2026-08-30T03:15:36+00:00
+
+Article URL: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt Comments URL: https://news.ycombinator.com/item?id=49495372 Points: 352 # Comments: 154
+
+Xcena and Samsung's Near Memory Compute CXL Device
+Source: Hacker News RSS
+Category: technology
+URL: https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs
+Published: 2026-08-30T07:35:41+00:00
+
+Article URL: https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs Comments URL: https://news.ycombinator.com/item?id=49496543 Points: 18 # Comments: 1
+
+Longest Straight Line Paths on Water or Land on the Earth (2018)
+Source: Hacker News RSS
+Category: technology
+URL: https://arxiv.org/abs/1804.07389
+Published: 2026-08-30T08:23:26+00:00
+
+Article URL: https://arxiv.org/abs/1804.07389 Comments URL: https://news.ycombinator.com/item?id=49496782 Points: 82 # Comments: 15
+
+Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
+Source: Hacker News RSS
+Category: technology
+URL: https://www.qubes-os.org/news/2026/08/29/qsb-118
+Published: 2026-08-30T08:51:39+00:00
+
+Article URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/ Comments URL: https://news.ycombinator.com/item?id=49496918 Points: 57 # Comments: 17
+
+Brits would quite like their private messages to stay private
+Source: Hacker News RSS
+Category: technology
+URL: https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994
+Published: 2026-08-30T09:26:08+00:00
+
+Article URL: https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994 Comments URL: https://news.ycombinator.com/item?id=49497063 Points: 110 # Comments: 66
+
+Everyone Should Build Their Own Network Stack
+Source: Hacker News RSS
+Category: technology
+URL: https://blog.lyc8503.net/en/post/dn42-2-dnet
+Published: 2026-08-30T09:52:15+00:00
+
+Article URL: https://blog.lyc8503.net/en/post/dn42-2-dnet/ Comments URL: https://news.ycombinator.com/item?id=49497200 Points: 20 # Comments: 11
+
+Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/AniketWathore/bolnee-chat
+Published: 2026-08-30T09:56:05+00:00
+
+Article URL: https://github.com/AniketWathore/bolnee-chat Comments URL: https://news.ycombinator.com/item?id=49497227 Points: 8 # Comments: 0
+
+Nvidia's AI advantage is moving beyond the GPU
+Source: Hacker News RSS
+Category: technology
+URL: https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu
+Published: 2026-08-30T09:57:06+00:00
+
+Article URL: https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/ Comments URL: https://news.ycombinator.com/item?id=49497235 Points: 11 # Comments: 5
+
+Spark: Sparklines in your shell
+Source: Hacker News RSS
+Category: technology
+URL: https://git.zx2c4.com/spark/about
+Published: 2026-08-30T10:02:16+00:00
+
+Article URL: https://git.zx2c4.com/spark/about/ Comments URL: https://news.ycombinator.com/item?id=49497265 Points: 22 # Comments: 3
+
+Fair Work Commission condemns 'plain wrong' AI legal advice
+Source: Hacker News RSS
+Category: technology
+URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766
+Published: 2026-08-30T10:20:11+00:00
+
+Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?id=49497357 Points: 20 # Comments: 4

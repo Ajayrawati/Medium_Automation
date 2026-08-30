@@ -1,0 +1,81 @@
+{
+  "topic": "News.ycombinator.com Comments Points",
+  "topic_key": "news.ycombinator.com-comments-points",
+  "confidence": 86.21,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 83.54,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.21,
+  "evidence": [
+    {
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+      "publisher": "www.abc.net.au",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-30T11:57:53.983275+00:00"
+    },
+    {
+      "title": "Spark: Sparklines in your shell",
+      "url": "https://git.zx2c4.com/spark/about/",
+      "publisher": "git.zx2c4.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-30T11:58:09.402601+00:00"
+    },
+    {
+      "title": "Nvidia's AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "publisher": "techcrunch.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-30T11:58:09.541702+00:00"
+    },
+    {
+      "title": "Show HN: Bolnee-Chat \u2013 Self Hosted Chatbot Integration in Your Business Website",
+      "url": "https://github.com/AniketWathore/bolnee-chat",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-30T11:58:10.088583+00:00"
+    },
+    {
+      "title": "Everyone Should Build Their Own Network Stack",
+      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+      "publisher": "blog.lyc8503.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-30T11:58:10.258389+00:00"
+    },
+    {
+      "title": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "publisher": "www.theregister.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-30T11:58:10.550437+00:00"
+    }
+  ]
+}
