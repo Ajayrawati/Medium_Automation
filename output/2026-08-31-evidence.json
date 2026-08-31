@@ -1,0 +1,81 @@
+{
+  "topic": "Url Comments Article",
+  "topic_key": "url-comments-article",
+  "confidence": 87.68,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 90.89,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.68,
+  "evidence": [
+    {
+      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "publisher": "www.macrumors.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-31T13:56:42.480998+00:00"
+    },
+    {
+      "title": "Show HN: SlideOps, slides from a repo that flag when they drift from the code",
+      "url": "https://github.com/glukicov/slideops",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-31T13:56:42.902544+00:00"
+    },
+    {
+      "title": "The Universe as a Minified Bundle",
+      "url": "https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/",
+      "publisher": "andrewarrow.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-31T13:56:42.998537+00:00"
+    },
+    {
+      "title": "Agent Memory as a File Format",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "publisher": "calpaterson.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-08-31T13:56:43.081869+00:00"
+    },
+    {
+      "title": "A CVE Dispute",
+      "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+      "publisher": "daniel.haxx.se",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-31T13:56:43.275577+00:00"
+    },
+    {
+      "title": "Malleable software = solid bases and custom code",
+      "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+      "publisher": "www.mdubakov.me",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-08-31T13:56:43.473965+00:00"
+    }
+  ]
+}
