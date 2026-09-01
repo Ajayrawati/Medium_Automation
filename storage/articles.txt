@@ -1,44 +1,9 @@
-pollen-robotics / microduck_rl
+unclecode / crawl4ai
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/pollen-robotics/microduck_rl
+URL: https://github.com/unclecode/crawl4ai
 
-RL training environments for Microduck (mjlab)
-
-firecrawl / pdf-inspector
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/firecrawl/pdf-inspector
-
-Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-
-handsomestWei / patent-disclosure-skill
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/handsomestWei/patent-disclosure-skill
-
-中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
-
-p-e-w / heretic
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/p-e-w/heretic
-
-Fully automatic censorship removal for language models
-
-every-app / open-seo
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/every-app/open-seo
-
-Open source alternative to Semrush and Ahrefs
-
-kaifcodec / user-scanner
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/kaifcodec/user-scanner
-
-🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.
+🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
 affaan-m / ECC
 Source: GitHub Trending
@@ -47,47 +12,26 @@ URL: https://github.com/affaan-m/ECC
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-zhaoxuya520 / reverse-skill
+averygan / reclip
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/zhaoxuya520/reverse-skill
+URL: https://github.com/averygan/reclip
 
-Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
 
-checkstyle / checkstyle
+VoltAgent / awesome-design-md
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/checkstyle/checkstyle
+URL: https://github.com/VoltAgent/awesome-design-md
 
-Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
-Osmantic / ODS
+handsomestWei / patent-disclosure-skill
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Osmantic/ODS
+URL: https://github.com/handsomestWei/patent-disclosure-skill
 
-Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
-
-jingyaogong / minimind
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/jingyaogong/minimind
-
-🧠 Train a 64M-parameter LLM from scratch in just 2h!
-
-majd / ipatool
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/majd/ipatool
-
-Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
-
-k1tbyte / Wand-Enhancer
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/k1tbyte/Wand-Enhancer
-
-Advanced UX and interoperability extension for Wand (WeMod) app
+中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
 
 K-Dense-AI / scientific-agent-skills
 Source: GitHub Trending
@@ -96,12 +40,47 @@ URL: https://github.com/K-Dense-AI/scientific-agent-skills
 
 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 
-tt-a1i / archify
+browser-use / video-use
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/tt-a1i/archify
+URL: https://github.com/browser-use/video-use
 
-Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+Edit videos with coding agents
+
+firecrawl / pdf-inspector
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/firecrawl/pdf-inspector
+
+Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+
+3b1b / manim
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/3b1b/manim
+
+Animation engine for explanatory math videos
+
+debpalash / VoiceStudio
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/debpalash/VoiceStudio
+
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+
+jingyaogong / minimind
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/jingyaogong/minimind
+
+🧠 Train a 64M-parameter LLM from scratch in just 2h!
+
+iv-org / invidious
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/iv-org/invidious
+
+Invidious is an alternative front-end to YouTube
 
 THU-MAIC / OpenMAIC
 Source: GitHub Trending
@@ -110,190 +89,204 @@ URL: https://github.com/THU-MAIC/OpenMAIC
 
 Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
-The Art of Chip-8
+Imbad0202 / academic-research-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Imbad0202/academic-research-skills
+
+Academic Research Skills for Claude Code: research → write → review → revise → finalize
+
+Gitlawb / openclaude
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Gitlawb/openclaude
+
+runs anywhere. uses anything
+
+Show HN: Laser Graffiti
 Source: Hacker News
 Category: technology
-URL: http://beyondloom.com/blog/artofchip8.html
-Published: 2026-08-24T12:20:40+00:00
-Score: 3
+URL: https://laser.consti.de/
+Published: 2026-08-29T12:28:11+00:00
+Score: 201
 
-What 2000 Buried Underpants Revealed About Where Soil Is Most Alive
+Dwarf Fortress is getting the mother of all magic updates
 Source: Hacker News
 Category: technology
-URL: https://studyfinds.com/what-2000-buried-underpants-revealed-about-where-soil-is-most-alive
-Published: 2026-08-27T11:47:07+00:00
-Score: 59
+URL: https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe
+Published: 2026-08-27T16:45:22+00:00
+Score: 431
 
-Using floci to emulate Cloud platforms (GCP, AWS, Azure)
+Polishing Cloth Updated
 Source: Hacker News
 Category: technology
-URL: https://flowg.cloud/blog/using-floci-local-emulators
-Published: 2026-08-28T07:41:57+00:00
-Score: 17
+URL: https://512pixels.net/2026/08/polishing-cloth-updated
+Published: 2026-08-25T22:34:35+00:00
+Score: 45
 
-My hobby of building miniatures and taking pretty pictures
+American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career
 Source: Hacker News
 Category: technology
-URL: https://sandyuraz.com/blogs/tiny-cafe
-Published: 2026-08-28T16:43:11+00:00
-Score: 233
+URL: https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years
+Published: 2026-08-29T21:25:17+00:00
+Score: 82
 
-“I just chose words carefully”
+Cheap GPS jammers are filling the world with navigation dead zones
 Source: Hacker News RSS
 Category: technology
-URL: https://unsung.aresluna.org/i-just-chose-words-carefully
-Published: 2026-08-30T22:49:48+00:00
+URL: https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261
+Published: 2026-08-30T17:05:32+00:00
 
-Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/ Comments URL: https://news.ycombinator.com/item?id=49503601 Points: 988 # Comments: 260
+https://archive.is/zUA3D Comments URL: https://news.ycombinator.com/item?id=49500504 Points: 153 # Comments: 147
 
-Matrox: Graphics for Professionals
+Terence Tao explains 6 essential mathematical concepts [video]
 Source: Hacker News RSS
 Category: technology
-URL: https://www.abortretry.fail/p/matrox
-Published: 2026-08-30T23:39:35+00:00
+URL: https://www.youtube.com/watch?v=OOMx2BHHWtE
+Published: 2026-08-30T22:37:01+00:00
 
-Article URL: https://www.abortretry.fail/p/matrox Comments URL: https://news.ycombinator.com/item?id=49503934 Points: 152 # Comments: 52
+Article URL: https://www.youtube.com/watch?v=OOMx2BHHWtE Comments URL: https://news.ycombinator.com/item?id=49503521 Points: 454 # Comments: 64
 
-How to build a diffusion language model
+Roget's Thesaurus
 Source: Hacker News RSS
 Category: technology
-URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model
-Published: 2026-08-30T23:41:32+00:00
+URL: https://artflsrv04.uchicago.edu/roget-thesaurus
+Published: 2026-08-31T04:29:26+00:00
 
-Article URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/ Comments URL: https://news.ycombinator.com/item?id=49503956 Points: 136 # Comments: 16
+Article URL: https://artflsrv04.uchicago.edu/roget-thesaurus/ Comments URL: https://news.ycombinator.com/item?id=49505584 Points: 20 # Comments: 2
 
-Understanding ChatGPT Work
+I think the military commissary's freezers were hacked
 Source: Hacker News RSS
 Category: technology
-URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work
-Published: 2026-08-31T01:28:22+00:00
+URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary
+Published: 2026-08-31T11:45:48+00:00
 
-Article URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/ Comments URL: https://news.ycombinator.com/item?id=49504625 Points: 246 # Comments: 133
+Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary Comments URL: https://news.ycombinator.com/item?id=49508506 Points: 363 # Comments: 200
 
-P99 0 ms* autocomplete for 240M domain names
-Source: Hacker News RSS
-Category: technology
-URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names
-Published: 2026-08-31T03:20:33+00:00
-
-Article URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names Comments URL: https://news.ycombinator.com/item?id=49505219 Points: 172 # Comments: 70
-
-uv: Deduplicate all files in the wheel cache
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/astral-sh/uv/pull/21327
-Published: 2026-08-31T06:03:02+00:00
-
-Article URL: https://github.com/astral-sh/uv/pull/21327 Comments URL: https://news.ycombinator.com/item?id=49506142 Points: 110 # Comments: 44
-
-A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history
-Source: Hacker News RSS
-Category: technology
-URL: https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history
-Published: 2026-08-31T06:10:44+00:00
-
-Article URL: https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/ Comments URL: https://news.ycombinator.com/item?id=49506182 Points: 240 # Comments: 40
-
-Breaking Claude Code Opus 5 Auto Mode
-Source: Hacker News RSS
-Category: technology
-URL: https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode
-Published: 2026-08-31T07:49:18+00:00
-
-Article URL: https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/ Comments URL: https://news.ycombinator.com/item?id=49506819 Points: 187 # Comments: 60
-
-ReactOS 0.4.16
-Source: Hacker News RSS
-Category: technology
-URL: https://reactos.org/project-news/reactos-0416-released
-Published: 2026-08-31T08:13:37+00:00
-
-Article URL: https://reactos.org/project-news/reactos-0416-released/ Comments URL: https://news.ycombinator.com/item?id=49506978 Points: 35 # Comments: 5
-
-Study: Blue light impairs the eye's ability to distinguish fine detail most
-Source: Hacker News RSS
-Category: technology
-URL: https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds
-Published: 2026-08-31T08:33:01+00:00
-
-Article URL: https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49507121 Points: 25 # Comments: 15
-
-State of the Map 2026: OpenStreetMap conference
-Source: Hacker News RSS
-Category: technology
-URL: https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference
-Published: 2026-08-31T08:57:35+00:00
-
-Article URL: https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/ Comments URL: https://news.ycombinator.com/item?id=49507280 Points: 9 # Comments: 0
-
-Interviewing IBM's Christian Zoellin and Christian Jacobi
-Source: Hacker News RSS
-Category: technology
-URL: https://chipsandcheese.com/p/hot-chips-2026-interviewing-ibms
-Published: 2026-08-31T09:31:41+00:00
-
-Article URL: https://chipsandcheese.com/p/hot-chips-2026-interviewing-ibms Comments URL: https://news.ycombinator.com/item?id=49507657 Points: 5 # Comments: 0
-
-The startling 1960s theory that Stonehenge was a prehistoric computer
-Source: Hacker News RSS
-Category: technology
-URL: https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer
-Published: 2026-08-31T09:57:34+00:00
-
-Article URL: https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer Comments URL: https://news.ycombinator.com/item?id=49507810 Points: 21 # Comments: 22
-
-OpenShot 4.0: Record, Edit, and Color Like Never Before
-Source: Hacker News RSS
-Category: technology
-URL: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before
-Published: 2026-08-31T09:59:05+00:00
-
-Article URL: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/ Comments URL: https://news.ycombinator.com/item?id=49507822 Points: 249 # Comments: 66
-
-Malleable software = solid bases and custom code
-Source: Hacker News RSS
-Category: technology
-URL: https://www.mdubakov.me/malleable-software-solid-bases-custom-code
-Published: 2026-08-31T10:36:43+00:00
-
-Article URL: https://www.mdubakov.me/malleable-software-solid-bases-custom-code/ Comments URL: https://news.ycombinator.com/item?id=49508059 Points: 32 # Comments: 7
-
-A CVE Dispute
-Source: Hacker News RSS
-Category: technology
-URL: https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute
-Published: 2026-08-31T11:13:17+00:00
-
-Article URL: https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/ Comments URL: https://news.ycombinator.com/item?id=49508290 Points: 91 # Comments: 18
-
-Agent Memory as a File Format
-Source: Hacker News RSS
-Category: technology
-URL: https://calpaterson.com/memoryfields.html
-Published: 2026-08-31T11:17:25+00:00
-
-Article URL: https://calpaterson.com/memoryfields.html Comments URL: https://news.ycombinator.com/item?id=49508317 Points: 45 # Comments: 37
-
-The Universe as a Minified Bundle
-Source: Hacker News RSS
-Category: technology
-URL: https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle
-Published: 2026-08-31T11:24:30+00:00
-
-Article URL: https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/ Comments URL: https://news.ycombinator.com/item?id=49508367 Points: 8 # Comments: 2
-
-Show HN: SlideOps, slides from a repo that flag when they drift from the code
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/glukicov/slideops
-Published: 2026-08-31T12:15:10+00:00
-
-Article URL: https://github.com/glukicov/slideops Comments URL: https://news.ycombinator.com/item?id=49508735 Points: 3 # Comments: 1
-
-Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio
+Apple caught off guard by AI demand for Mac Mini and Mac Studio
 Source: Hacker News RSS
 Category: technology
 URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand
 Published: 2026-08-31T12:41:22+00:00
 
-Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 41 # Comments: 42
+Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 423 # Comments: 476
+
+Playa Phone
+Source: Hacker News RSS
+Category: technology
+URL: https://playaphone.com/
+Published: 2026-08-31T14:52:26+00:00
+
+Article URL: https://playaphone.com/ Comments URL: https://news.ycombinator.com/item?id=49510514 Points: 652 # Comments: 212
+
+RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source
+Source: Hacker News RSS
+Category: technology
+URL: https://ravynos.com/
+Published: 2026-08-31T16:19:36+00:00
+
+Article URL: https://ravynos.com/ Comments URL: https://news.ycombinator.com/item?id=49511534 Points: 205 # Comments: 116
+
+I turned my security cameras into an automatic bird identification system
+Source: Hacker News RSS
+Category: technology
+URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go
+Published: 2026-08-31T16:47:11+00:00
+
+Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/ Comments URL: https://news.ycombinator.com/item?id=49511856 Points: 522 # Comments: 127
+
+A walkable ASCII cyberpunk city in one HTML file [video]
+Source: Hacker News RSS
+Category: technology
+URL: https://www.youtube.com/watch?v=3YtygAx_C6A
+Published: 2026-08-31T18:21:33+00:00
+
+ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSI ASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o Comments URL: https://news.ycombinator.com/item?id=49512975 Points: 340 # Comments: 45
+
+Tmp.0ut Volume 5
+Source: Hacker News RSS
+Category: technology
+URL: https://tmpout.sh/5
+Published: 2026-08-31T23:26:08+00:00
+
+Article URL: https://tmpout.sh/5/ Comments URL: https://news.ycombinator.com/item?id=49516059 Points: 92 # Comments: 25
+
+Evidence of Fraud in an Influential Study About Procrastination
+Source: Hacker News RSS
+Category: technology
+URL: https://datacolada.org/138
+Published: 2026-08-31T23:45:56+00:00
+
+Article URL: https://datacolada.org/138 Comments URL: https://news.ycombinator.com/item?id=49516199 Points: 260 # Comments: 177
+
+RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/fregacmols/RotaryCell
+Published: 2026-09-01T02:29:23+00:00
+
+Article URL: https://github.com/fregacmols/RotaryCell Comments URL: https://news.ycombinator.com/item?id=49517297 Points: 80 # Comments: 10
+
+Fastpotify
+Source: Hacker News RSS
+Category: technology
+URL: https://fastpotify.rocks/
+Published: 2026-09-01T02:52:14+00:00
+
+Article URL: https://fastpotify.rocks/ Comments URL: https://news.ycombinator.com/item?id=49517448 Points: 472 # Comments: 259
+
+GPU World
+Source: Hacker News RSS
+Category: technology
+URL: https://www.gpuworld.org/
+Published: 2026-09-01T03:16:36+00:00
+
+Article URL: https://www.gpuworld.org/ Comments URL: https://news.ycombinator.com/item?id=49517584 Points: 272 # Comments: 147
+
+Restroom Archive
+Source: Hacker News RSS
+Category: technology
+URL: https://restroomarchive.com/
+Published: 2026-09-01T03:23:48+00:00
+
+Article URL: https://restroomarchive.com Comments URL: https://news.ycombinator.com/item?id=49517624 Points: 156 # Comments: 38
+
+CollectWise (YC F24) Is Hiring
+Source: Hacker News RSS
+Category: technology
+URL: https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer
+Published: 2026-09-01T07:01:49+00:00
+
+Article URL: https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer Comments URL: https://news.ycombinator.com/item?id=49518877 Points: 0 # Comments: 0
+
+NASA: Fill in a name, and you can have an exclusive coordinate in the universe
+Source: Hacker News RSS
+Category: technology
+URL: https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel
+Published: 2026-09-01T09:46:39+00:00
+
+Article URL: https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/ Comments URL: https://news.ycombinator.com/item?id=49519902 Points: 19 # Comments: 18
+
+44% on ARC-AGI-1 in 67 cents
+Source: Hacker News RSS
+Category: technology
+URL: https://mvakde.github.io/blog/44-on-arc-1
+Published: 2026-09-01T09:52:45+00:00
+
+Article URL: https://mvakde.github.io/blog/44-on-arc-1/ Comments URL: https://news.ycombinator.com/item?id=49519939 Points: 71 # Comments: 20
+
+AnkiDroid: Google Play no longer allowing Open Collective donation link
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/ankidroid/Anki-Android/issues/21656
+Published: 2026-09-01T10:11:02+00:00
+
+Article URL: https://github.com/ankidroid/Anki-Android/issues/21656 Comments URL: https://news.ycombinator.com/item?id=49520022 Points: 165 # Comments: 16
+
+Lake Ontario ("Lake America")
+Source: Hacker News RSS
+Category: technology
+URL: https://community.openstreetmap.org/t/lake-ontario-lake-america/146975
+Published: 2026-09-01T10:56:03+00:00
+
+Article URL: https://community.openstreetmap.org/t/lake-ontario-lake-america/146975 Comments URL: https://news.ycombinator.com/item?id=49520270 Points: 13 # Comments: 1
