@@ -1,0 +1,81 @@
+{
+  "topic": "Url Https News.ycombinator.com",
+  "topic_key": "url-https-news.ycombinator.com",
+  "confidence": 86.13,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 83.15,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.13,
+  "evidence": [
+    {
+      "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+      "url": "https://careers.telli.com/",
+      "publisher": "careers.telli.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-02T11:22:59.794827+00:00"
+    },
+    {
+      "title": "Commodore 64 released September 1, 1982",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "publisher": "dfarq.homeip.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-02T11:23:00.063234+00:00"
+    },
+    {
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "publisher": "arxiv.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-02T11:23:00.253664+00:00"
+    },
+    {
+      "title": "WebFPGA (2019)",
+      "url": "https://webfpga.io/",
+      "publisher": "webfpga.io",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-02T11:23:00.435661+00:00"
+    },
+    {
+      "title": "True Rate of Unemployment",
+      "url": "https://www.lisep.org/tru",
+      "publisher": "www.lisep.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-02T11:23:02.640342+00:00"
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "publisher": "www.baseten.co",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-02T11:23:02.879513+00:00"
+    }
+  ]
+}

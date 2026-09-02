@@ -61,13 +61,6 @@ URL: https://github.com/3b1b/manim
 
 Animation engine for explanatory math videos
 
-debpalash / VoiceStudio
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/debpalash/VoiceStudio
-
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-
 jingyaogong / minimind
 Source: GitHub Trending
 Category: technology
@@ -103,190 +96,204 @@ URL: https://github.com/Gitlawb/openclaude
 
 runs anywhere. uses anything
 
-Show HN: Laser Graffiti
+Ambient CSS v3 – Blender meets CSS
 Source: Hacker News
 Category: technology
-URL: https://laser.consti.de/
-Published: 2026-08-29T12:28:11+00:00
-Score: 201
+URL: https://ambientcss.vercel.app/
+Published: 2026-09-01T15:35:11+00:00
+Score: 279
 
-Dwarf Fortress is getting the mother of all magic updates
+Sonic Pi
 Source: Hacker News
 Category: technology
-URL: https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe
-Published: 2026-08-27T16:45:22+00:00
-Score: 431
+URL: https://sonic-pi.net/
+Published: 2026-08-28T17:51:19+00:00
+Score: 179
 
-Polishing Cloth Updated
+You Know Who Hates AI? Insurance Claims Adjusters
 Source: Hacker News
 Category: technology
-URL: https://512pixels.net/2026/08/polishing-cloth-updated
-Published: 2026-08-25T22:34:35+00:00
-Score: 45
+URL: https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai
+Published: 2026-08-31T11:01:19+00:00
+Score: 22
 
-American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career
+Open Battery Information
 Source: Hacker News
 Category: technology
-URL: https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years
-Published: 2026-08-29T21:25:17+00:00
-Score: 82
+URL: https://github.com/mnh-jansson/open-battery-information
+Published: 2026-08-29T23:27:41+00:00
+Score: 15
 
-Cheap GPS jammers are filling the world with navigation dead zones
+Introducing Ad Blocker for Firefox on iOS
+Source: Hacker News
+Category: technology
+URL: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios
+Published: 2026-09-01T13:46:49+00:00
+Score: 502
+
+Sweden pauses Denmark power cable over EU grid rules
+Source: Hacker News
+Category: technology
+URL: https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark
+Published: 2026-09-02T09:20:34+00:00
+Score: 8
+
+Movie Scene Map – 13,312 films, series, games, anime and manga
 Source: Hacker News RSS
 Category: technology
-URL: https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261
-Published: 2026-08-30T17:05:32+00:00
+URL: https://moviescenemap.com/
+Published: 2026-09-01T16:34:45+00:00
 
-https://archive.is/zUA3D Comments URL: https://news.ycombinator.com/item?id=49500504 Points: 153 # Comments: 147
+Article URL: https://moviescenemap.com/ Comments URL: https://news.ycombinator.com/item?id=49524320 Points: 266 # Comments: 38
 
-Terence Tao explains 6 essential mathematical concepts [video]
+Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s
 Source: Hacker News RSS
 Category: technology
-URL: https://www.youtube.com/watch?v=OOMx2BHHWtE
-Published: 2026-08-30T22:37:01+00:00
+URL: https://github.com/carloslfu/slotstream
+Published: 2026-09-01T16:42:46+00:00
 
-Article URL: https://www.youtube.com/watch?v=OOMx2BHHWtE Comments URL: https://news.ycombinator.com/item?id=49503521 Points: 454 # Comments: 64
+I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift. It ships with auto-mode, which makes a good tradeoff between memory usage and speed. I'll be implementing and porting the MTP module for speculative decoding next Comments URL: https://news.ycombinator.com/item?id=49524447 Points: 217 # Comments: 99
 
-Roget's Thesaurus
+Fine, I'll build my own text editor
 Source: Hacker News RSS
 Category: technology
-URL: https://artflsrv04.uchicago.edu/roget-thesaurus
-Published: 2026-08-31T04:29:26+00:00
+URL: https://dbushell.com/2026/09/01/text-editor
+Published: 2026-09-01T17:12:15+00:00
 
-Article URL: https://artflsrv04.uchicago.edu/roget-thesaurus/ Comments URL: https://news.ycombinator.com/item?id=49505584 Points: 20 # Comments: 2
+Article URL: https://dbushell.com/2026/09/01/text-editor/ Comments URL: https://news.ycombinator.com/item?id=49524863 Points: 146 # Comments: 131
 
-I think the military commissary's freezers were hacked
+Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development
 Source: Hacker News RSS
 Category: technology
-URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary
-Published: 2026-08-31T11:45:48+00:00
+URL: https://www.norirobotics.com/
+Published: 2026-09-01T17:35:10+00:00
 
-Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary Comments URL: https://news.ycombinator.com/item?id=49508506 Points: 363 # Comments: 200
+Hey HN, I’m Antonio from Nori Robotics ( https://norirobotics.com ). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers. I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my hands on affordable hardware was difficult. Most labs have one or two expensive robots, which makes it hard to collect large datasets, run long experiments, or test across several robots. So I built my own. After seven iterations the latest Nori has: * 19 degrees of freedom * Two 7+1 DOF arms with a 1.5 kg payload per arm * A 55 kg telescoping lift * A differential wheeled base * Four 720p, 30 fps RGB cameras * 2D lidar * A dual microphone array with full-duplex voice communication * A 432 Wh battery * A Raspberry Pi 5 with 4 GB RAM (SLAM and safeties are run on board, heavier ACT and VLAs must be run from a computer via LAN or a server via WAN) Getting this under $2,000 was the main engineering challenge. Nori has more than 100 moving and structural parts, so costs add up quickly across actuators, bearings, wiring, power delivery, and assembly. Some main choices we made to get the cost low was using high-ratio servos instead of QDD motors, and using a wheel base instead of legs. We assemble each robot in San Francisco and have designed it to be easy to manufacture and repair (we offer 3D files to print repairs). Our open SDK includes teleoperation and demonstration tools: https://github.com/Nori-Robotics/nori-sdk-py We also built a browser-based simulator so you can try it out: https://lab.norirobotics.com/nori/model We’ve shipped our first robot and are building the next batch. Eventually, we want people without robotics experience to teach Nori tasks and share them with other owners. Currently the hardware is already capable of basic cleaning tasks, opening drawers, restocking shelves and pouring beers. Here is a video of Nori doing things: https://youtube.com/shorts/VRfVXHfQvD8 We make money by selling the hardware for $1,688, with optional paid software on top. Parts of hardware are open source. More details are in our hardware paper: https://doi.org/10.48550/arXiv.2605.16537 If you work in robotics, what would you build with a robot at this price? What would you change about the hardware? Comments URL: https://news.ycombinator.com/item?id=49525153 Points: 175 # Comments: 55
 
-Apple caught off guard by AI demand for Mac Mini and Mac Studio
+The creator of Jujutsu has joined ERSC
 Source: Hacker News RSS
 Category: technology
-URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand
-Published: 2026-08-31T12:41:22+00:00
+URL: https://ersc.io/blog/martin-joins-ersc
+Published: 2026-09-01T17:46:21+00:00
 
-Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 423 # Comments: 476
+Article URL: https://ersc.io/blog/martin-joins-ersc Comments URL: https://news.ycombinator.com/item?id=49525297 Points: 243 # Comments: 181
 
-Playa Phone
+Claude Fable 5.1 and Claude Mythos 5.1
 Source: Hacker News RSS
 Category: technology
-URL: https://playaphone.com/
-Published: 2026-08-31T14:52:26+00:00
+URL: https://www.anthropic.com/claude-fable-and-mythos-5-1
+Published: 2026-09-01T17:53:53+00:00
 
-Article URL: https://playaphone.com/ Comments URL: https://news.ycombinator.com/item?id=49510514 Points: 652 # Comments: 212
+What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 1269 # Comments: 1194
 
-RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source
+How accurate have Ed Zitron's AI skeptic predictions been?
 Source: Hacker News RSS
 Category: technology
-URL: https://ravynos.com/
-Published: 2026-08-31T16:19:36+00:00
+URL: https://danluu.com/zitron
+Published: 2026-09-01T18:35:15+00:00
 
-Article URL: https://ravynos.com/ Comments URL: https://news.ycombinator.com/item?id=49511534 Points: 205 # Comments: 116
+Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 733 # Comments: 802
 
-I turned my security cameras into an automatic bird identification system
+Refurbishing a Tektronix TDS7104 Oscilloscope
 Source: Hacker News RSS
 Category: technology
-URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go
-Published: 2026-08-31T16:47:11+00:00
+URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html
+Published: 2026-09-01T19:55:47+00:00
 
-Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/ Comments URL: https://news.ycombinator.com/item?id=49511856 Points: 522 # Comments: 127
+Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 Points: 131 # Comments: 56
 
-A walkable ASCII cyberpunk city in one HTML file [video]
+The ChatGPT/Codex app bundles a full copy of LibreOffice
 Source: Hacker News RSS
 Category: technology
-URL: https://www.youtube.com/watch?v=3YtygAx_C6A
-Published: 2026-08-31T18:21:33+00:00
+URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice
+Published: 2026-09-01T20:07:57+00:00
 
-ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSI ASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o Comments URL: https://news.ycombinator.com/item?id=49512975 Points: 340 # Comments: 45
+Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 425 # Comments: 193
 
-Tmp.0ut Volume 5
+Path to Astra: critical capabilities and frontier safeguards
 Source: Hacker News RSS
 Category: technology
-URL: https://tmpout.sh/5
-Published: 2026-08-31T23:26:08+00:00
+URL: https://openai.com/index/path-to-astra
+Published: 2026-09-01T20:20:41+00:00
 
-Article URL: https://tmpout.sh/5/ Comments URL: https://news.ycombinator.com/item?id=49516059 Points: 92 # Comments: 25
+Article URL: https://openai.com/index/path-to-astra/ Comments URL: https://news.ycombinator.com/item?id=49527595 Points: 161 # Comments: 75
 
-Evidence of Fraud in an Influential Study About Procrastination
+Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"
 Source: Hacker News RSS
 Category: technology
-URL: https://datacolada.org/138
-Published: 2026-08-31T23:45:56+00:00
+URL: https://hnmatchmaker.com/
+Published: 2026-09-01T20:53:35+00:00
 
-Article URL: https://datacolada.org/138 Comments URL: https://news.ycombinator.com/item?id=49516199 Points: 260 # Comments: 177
+Hi! Every month the "Who Wants to Be Hired?" and "Who's Hiring?" Threads come through I would think to myself, "there should be a match maker for these two threads". So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote/onsite, etc., and then eliminate incompatible postings, like 'looking for remote work' and 'onsite only'. The result is two views: jobs-by-user and user-by-jobs. If you've submitted a post to this month's 'Who Wants to Be Hired?", you can find your matching job listings at https://hnmatchmaker.com/user/:user_name , for example https://hnmatchmaker.com/user/G4Vi --- Some observations when looking at the matches pair up right now: Poke around, let me know what you think! Ultimately, I hope this is actually helpful to some folks. Comments URL: https://news.ycombinator.com/item?id=49528057 Points: 94 # Comments: 40
 
-RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3
+Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/fregacmols/RotaryCell
-Published: 2026-09-01T02:29:23+00:00
+URL: https://masteranza.github.io/weedout
+Published: 2026-09-01T22:06:57+00:00
 
-Article URL: https://github.com/fregacmols/RotaryCell Comments URL: https://news.ycombinator.com/item?id=49517297 Points: 80 # Comments: 10
+I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos. Source for developers who want to fork or build: https://github.com/masteranza/weedout-for-youtube Pull requests are not accepted; the repository is for independent forks. Comments URL: https://news.ycombinator.com/item?id=49528895 Points: 150 # Comments: 66
 
-Fastpotify
+My local model setup on an M4 Pro Mac Mini
 Source: Hacker News RSS
 Category: technology
-URL: https://fastpotify.rocks/
-Published: 2026-09-01T02:52:14+00:00
+URL: https://lws.io/blog/my-local-model-setup
+Published: 2026-09-01T22:30:52+00:00
 
-Article URL: https://fastpotify.rocks/ Comments URL: https://news.ycombinator.com/item?id=49517448 Points: 472 # Comments: 259
+Article URL: https://lws.io/blog/my-local-model-setup/ Comments URL: https://news.ycombinator.com/item?id=49529132 Points: 222 # Comments: 131
 
-GPU World
+FBI Probes Service Selling 153M+ Drivers Licenses
 Source: Hacker News RSS
 Category: technology
-URL: https://www.gpuworld.org/
-Published: 2026-09-01T03:16:36+00:00
+URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses
+Published: 2026-09-01T23:17:43+00:00
 
-Article URL: https://www.gpuworld.org/ Comments URL: https://news.ycombinator.com/item?id=49517584 Points: 272 # Comments: 147
+Article URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ Comments URL: https://news.ycombinator.com/item?id=49529621 Points: 240 # Comments: 107
 
-Restroom Archive
+The efficient frontier of LLM inference
 Source: Hacker News RSS
 Category: technology
-URL: https://restroomarchive.com/
-Published: 2026-09-01T03:23:48+00:00
+URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference
+Published: 2026-09-01T23:48:05+00:00
 
-Article URL: https://restroomarchive.com Comments URL: https://news.ycombinator.com/item?id=49517624 Points: 156 # Comments: 38
+Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 129 # Comments: 35
 
-CollectWise (YC F24) Is Hiring
+True Rate of Unemployment
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer
-Published: 2026-09-01T07:01:49+00:00
+URL: https://www.lisep.org/tru
+Published: 2026-09-02T02:21:10+00:00
 
-Article URL: https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer Comments URL: https://news.ycombinator.com/item?id=49518877 Points: 0 # Comments: 0
+Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 242 # Comments: 207
 
-NASA: Fill in a name, and you can have an exclusive coordinate in the universe
+WebFPGA (2019)
 Source: Hacker News RSS
 Category: technology
-URL: https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel
-Published: 2026-09-01T09:46:39+00:00
+URL: https://webfpga.io/
+Published: 2026-09-02T03:54:58+00:00
 
-Article URL: https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/ Comments URL: https://news.ycombinator.com/item?id=49519902 Points: 19 # Comments: 18
+Article URL: https://webfpga.io/ Comments URL: https://news.ycombinator.com/item?id=49531525 Points: 90 # Comments: 32
 
-44% on ARC-AGI-1 in 67 cents
+The Emergent Symbolic Structure of Artificial Neural Networks
 Source: Hacker News RSS
 Category: technology
-URL: https://mvakde.github.io/blog/44-on-arc-1
-Published: 2026-09-01T09:52:45+00:00
+URL: https://arxiv.org/abs/2608.29530
+Published: 2026-09-02T04:15:56+00:00
 
-Article URL: https://mvakde.github.io/blog/44-on-arc-1/ Comments URL: https://news.ycombinator.com/item?id=49519939 Points: 71 # Comments: 20
+Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 163 # Comments: 56
 
-AnkiDroid: Google Play no longer allowing Open Collective donation link
+Commodore 64 released September 1, 1982
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/ankidroid/Anki-Android/issues/21656
-Published: 2026-09-01T10:11:02+00:00
+URL: https://dfarq.homeip.net/commodore-64-released-september-1-1982
+Published: 2026-09-02T08:36:43+00:00
 
-Article URL: https://github.com/ankidroid/Anki-Android/issues/21656 Comments URL: https://news.ycombinator.com/item?id=49520022 Points: 165 # Comments: 16
+Article URL: https://dfarq.homeip.net/commodore-64-released-september-1-1982/ Comments URL: https://news.ycombinator.com/item?id=49533497 Points: 88 # Comments: 17
 
-Lake Ontario ("Lake America")
+Telli (YC F24) is hiring engineers and designers [Berlin, on-site]
 Source: Hacker News RSS
 Category: technology
-URL: https://community.openstreetmap.org/t/lake-ontario-lake-america/146975
-Published: 2026-09-01T10:56:03+00:00
+URL: https://careers.telli.com/
+Published: 2026-09-02T08:43:49+00:00
 
-Article URL: https://community.openstreetmap.org/t/lake-ontario-lake-america/146975 Comments URL: https://news.ycombinator.com/item?id=49520270 Points: 13 # Comments: 1
+Article URL: https://careers.telli.com/ Comments URL: https://news.ycombinator.com/item?id=49533557 Points: 0 # Comments: 0
