@@ -1,93 +1,23 @@
-unclecode / crawl4ai
+obra / superpowers
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/unclecode/crawl4ai
+URL: https://github.com/obra/superpowers
 
-🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+An agentic skills framework & software development methodology that works.
 
-affaan-m / ECC
+f / prompts.chat
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/affaan-m/ECC
+URL: https://github.com/f/prompts.chat
 
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
-averygan / reclip
+debpalash / VoiceStudio
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/averygan/reclip
+URL: https://github.com/debpalash/VoiceStudio
 
-Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
-
-VoltAgent / awesome-design-md
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/VoltAgent/awesome-design-md
-
-A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-
-handsomestWei / patent-disclosure-skill
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/handsomestWei/patent-disclosure-skill
-
-中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
-
-K-Dense-AI / scientific-agent-skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/K-Dense-AI/scientific-agent-skills
-
-Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-
-browser-use / video-use
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/browser-use/video-use
-
-Edit videos with coding agents
-
-firecrawl / pdf-inspector
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/firecrawl/pdf-inspector
-
-Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-
-3b1b / manim
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/3b1b/manim
-
-Animation engine for explanatory math videos
-
-jingyaogong / minimind
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/jingyaogong/minimind
-
-🧠 Train a 64M-parameter LLM from scratch in just 2h!
-
-iv-org / invidious
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/iv-org/invidious
-
-Invidious is an alternative front-end to YouTube
-
-THU-MAIC / OpenMAIC
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/THU-MAIC/OpenMAIC
-
-Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-
-Imbad0202 / academic-research-skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Imbad0202/academic-research-skills
-
-Academic Research Skills for Claude Code: research → write → review → revise → finalize
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 Gitlawb / openclaude
 Source: GitHub Trending
@@ -96,204 +26,316 @@ URL: https://github.com/Gitlawb/openclaude
 
 runs anywhere. uses anything
 
-Ambient CSS v3 – Blender meets CSS
+Imbad0202 / academic-research-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Imbad0202/academic-research-skills
+
+Academic Research Skills for Claude Code: research → write → review → revise → finalize
+
+magnitudedev / magnitude
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/magnitudedev/magnitude
+
+Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
+
+ByteByteGoHq / system-design-101
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ByteByteGoHq/system-design-101
+
+Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+
+addyosmani / agent-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/addyosmani/agent-skills
+
+Production-grade engineering skills for AI coding agents.
+
+bannedbook / fanqiang
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/bannedbook/fanqiang
+
+翻墙-科学上网
+
+averygan / reclip
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/averygan/reclip
+
+Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
+
+google-research / timesfm
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/google-research/timesfm
+
+TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+
+blader / humanizer
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/blader/humanizer
+
+Agent skill that removes signs of AI-generated writing from text
+
+JuliusBrussee / caveman
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/JuliusBrussee/caveman
+
+🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+
+affaan-m / ECC
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/affaan-m/ECC
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+anthropics / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/skills
+
+Public repository for Agent Skills
+
+DietrichGebert / ponytail
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/DietrichGebert/ponytail
+
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+NousResearch / hermes-agent
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/NousResearch/hermes-agent
+
+The agent that grows with you
+
+mattpocock / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mattpocock/skills
+
+Skills for Real Engineers. Straight from my .agents directory.
+
+fmtlib / fmt
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/fmtlib/fmt
+
+A modern formatting library
+
+Wendell Berry has died
 Source: Hacker News
 Category: technology
-URL: https://ambientcss.vercel.app/
-Published: 2026-09-01T15:35:11+00:00
-Score: 279
+URL: https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html
+Published: 2026-09-01T01:49:58+00:00
+Score: 197
 
-Sonic Pi
+Higher Multipoles of the Cow
 Source: Hacker News
 Category: technology
-URL: https://sonic-pi.net/
-Published: 2026-08-28T17:51:19+00:00
-Score: 179
+URL: https://arxiv.org/abs/2504.00506
+Published: 2026-09-01T09:27:19+00:00
+Score: 81
 
-You Know Who Hates AI? Insurance Claims Adjusters
+Reverse Engineering Unknown File Formats with ImHex
 Source: Hacker News
 Category: technology
-URL: https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai
-Published: 2026-08-31T11:01:19+00:00
-Score: 22
+URL: https://werwolv.net/posts/file_format_reverse_engineering
+Published: 2026-08-31T12:01:05+00:00
+Score: 214
 
-Open Battery Information
+Holden's Lightning Flight
 Source: Hacker News
 Category: technology
-URL: https://github.com/mnh-jansson/open-battery-information
-Published: 2026-08-29T23:27:41+00:00
-Score: 15
+URL: https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight
+Published: 2026-08-31T11:29:44+00:00
+Score: 167
 
-Introducing Ad Blocker for Firefox on iOS
+The Computer Museum of America reclamation project
 Source: Hacker News
 Category: technology
-URL: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios
-Published: 2026-09-01T13:46:49+00:00
-Score: 502
+URL: https://computer-museum.org/wp
+Published: 2026-08-31T16:15:37+00:00
+Score: 52
 
-Sweden pauses Denmark power cable over EU grid rules
+What I Learned from My Mom (1941-2026)
 Source: Hacker News
 Category: technology
-URL: https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark
-Published: 2026-09-02T09:20:34+00:00
-Score: 8
+URL: https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026
+Published: 2026-08-29T19:52:51+00:00
+Score: 31
 
-Movie Scene Map – 13,312 films, series, games, anime and manga
+Fish Bad, Sugar Good and Other Medieval Ideas About Food
+Source: Hacker News
+Category: technology
+URL: https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food
+Published: 2026-08-31T19:14:01+00:00
+Score: 17
+
+The Browser's Main Thread Is Expensive
 Source: Hacker News RSS
 Category: technology
-URL: https://moviescenemap.com/
-Published: 2026-09-01T16:34:45+00:00
+URL: https://kciter.so/posts/the-expensive-main-thread/en
+Published: 2026-09-01T14:00:15+00:00
 
-Article URL: https://moviescenemap.com/ Comments URL: https://news.ycombinator.com/item?id=49524320 Points: 266 # Comments: 38
+Article URL: https://kciter.so/posts/the-expensive-main-thread/en/ Comments URL: https://news.ycombinator.com/item?id=49522137 Points: 103 # Comments: 30
 
-Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s
+Can I opt out of my input or output data being used for training?
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/carloslfu/slotstream
-Published: 2026-09-01T16:42:46+00:00
+URL: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training
+Published: 2026-09-02T12:30:39+00:00
 
-I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift. It ships with auto-mode, which makes a good tradeoff between memory usage and speed. I'll be implementing and porting the MTP module for speculative decoding next Comments URL: https://news.ycombinator.com/item?id=49524447 Points: 217 # Comments: 99
+Article URL: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training Comments URL: https://news.ycombinator.com/item?id=49535284 Points: 453 # Comments: 207
 
-Fine, I'll build my own text editor
+Aging brains blend memories together instead of just forgetting them
 Source: Hacker News RSS
 Category: technology
-URL: https://dbushell.com/2026/09/01/text-editor
-Published: 2026-09-01T17:12:15+00:00
+URL: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds
+Published: 2026-09-02T12:59:09+00:00
 
-Article URL: https://dbushell.com/2026/09/01/text-editor/ Comments URL: https://news.ycombinator.com/item?id=49524863 Points: 146 # Comments: 131
+Article URL: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49535548 Points: 295 # Comments: 119
 
-Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development
+Biggest dark matter detector spots a single weird particle
 Source: Hacker News RSS
 Category: technology
-URL: https://www.norirobotics.com/
-Published: 2026-09-01T17:35:10+00:00
+URL: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle
+Published: 2026-09-02T13:40:29+00:00
 
-Hey HN, I’m Antonio from Nori Robotics ( https://norirobotics.com ). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers. I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my hands on affordable hardware was difficult. Most labs have one or two expensive robots, which makes it hard to collect large datasets, run long experiments, or test across several robots. So I built my own. After seven iterations the latest Nori has: * 19 degrees of freedom * Two 7+1 DOF arms with a 1.5 kg payload per arm * A 55 kg telescoping lift * A differential wheeled base * Four 720p, 30 fps RGB cameras * 2D lidar * A dual microphone array with full-duplex voice communication * A 432 Wh battery * A Raspberry Pi 5 with 4 GB RAM (SLAM and safeties are run on board, heavier ACT and VLAs must be run from a computer via LAN or a server via WAN) Getting this under $2,000 was the main engineering challenge. Nori has more than 100 moving and structural parts, so costs add up quickly across actuators, bearings, wiring, power delivery, and assembly. Some main choices we made to get the cost low was using high-ratio servos instead of QDD motors, and using a wheel base instead of legs. We assemble each robot in San Francisco and have designed it to be easy to manufacture and repair (we offer 3D files to print repairs). Our open SDK includes teleoperation and demonstration tools: https://github.com/Nori-Robotics/nori-sdk-py We also built a browser-based simulator so you can try it out: https://lab.norirobotics.com/nori/model We’ve shipped our first robot and are building the next batch. Eventually, we want people without robotics experience to teach Nori tasks and share them with other owners. Currently the hardware is already capable of basic cleaning tasks, opening drawers, restocking shelves and pouring beers. Here is a video of Nori doing things: https://youtube.com/shorts/VRfVXHfQvD8 We make money by selling the hardware for $1,688, with optional paid software on top. Parts of hardware are open source. More details are in our hardware paper: https://doi.org/10.48550/arXiv.2605.16537 If you work in robotics, what would you build with a robot at this price? What would you change about the hardware? Comments URL: https://news.ycombinator.com/item?id=49525153 Points: 175 # Comments: 55
+Article URL: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle Comments URL: https://news.ycombinator.com/item?id=49536079 Points: 306 # Comments: 105
 
-The creator of Jujutsu has joined ERSC
+Poisson Disk Sampling
 Source: Hacker News RSS
 Category: technology
-URL: https://ersc.io/blog/martin-joins-ersc
-Published: 2026-09-01T17:46:21+00:00
+URL: https://stripeacross.com/posts/poisson-disk-sampling
+Published: 2026-09-02T13:47:49+00:00
 
-Article URL: https://ersc.io/blog/martin-joins-ersc Comments URL: https://news.ycombinator.com/item?id=49525297 Points: 243 # Comments: 181
+Article URL: https://stripeacross.com/posts/poisson-disk-sampling/ Comments URL: https://news.ycombinator.com/item?id=49536177 Points: 170 # Comments: 21
 
-Claude Fable 5.1 and Claude Mythos 5.1
+Three sites made 215,128 “best software” pages for AI. Perplexity cites them
 Source: Hacker News RSS
 Category: technology
-URL: https://www.anthropic.com/claude-fable-and-mythos-5-1
-Published: 2026-09-01T17:53:53+00:00
+URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations
+Published: 2026-09-02T13:59:59+00:00
 
-What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 1269 # Comments: 1194
+Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 436 # Comments: 212
 
-How accurate have Ed Zitron's AI skeptic predictions been?
+WebLLM: high-performance in-browser LLM inference engine
 Source: Hacker News RSS
 Category: technology
-URL: https://danluu.com/zitron
-Published: 2026-09-01T18:35:15+00:00
+URL: https://github.com/mlc-ai/web-llm
+Published: 2026-09-02T14:02:35+00:00
 
-Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 733 # Comments: 802
+Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 127 # Comments: 21
 
-Refurbishing a Tektronix TDS7104 Oscilloscope
+Exit the Cave
 Source: Hacker News RSS
 Category: technology
-URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html
-Published: 2026-09-01T19:55:47+00:00
+URL: https://turtlespace.blog/p/exit-the-cave
+Published: 2026-09-02T14:16:45+00:00
 
-Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 Points: 131 # Comments: 56
+Article URL: https://turtlespace.blog/p/exit-the-cave Comments URL: https://news.ycombinator.com/item?id=49536606 Points: 271 # Comments: 95
 
-The ChatGPT/Codex app bundles a full copy of LibreOffice
+Google avoids a breakup of its ad tech business
 Source: Hacker News RSS
 Category: technology
-URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice
-Published: 2026-09-01T20:07:57+00:00
+URL: https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html
+Published: 2026-09-02T14:46:16+00:00
 
-Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 425 # Comments: 193
+https://archive.ph/rlAbY https://www.reuters.com/legal/litigation/google-defeats-us-b... Comments URL: https://news.ycombinator.com/item?id=49537131 Points: 404 # Comments: 284
 
-Path to Astra: critical capabilities and frontier safeguards
+Gemini 3.8 Flash and 3.8 Flash Cyber
 Source: Hacker News RSS
 Category: technology
-URL: https://openai.com/index/path-to-astra
-Published: 2026-09-01T20:20:41+00:00
+URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber
+Published: 2026-09-02T15:12:40+00:00
 
-Article URL: https://openai.com/index/path-to-astra/ Comments URL: https://news.ycombinator.com/item?id=49527595 Points: 161 # Comments: 75
+https://deepmind.google/models/model-cards/gemini-3-8-flash/ Comments URL: https://news.ycombinator.com/item?id=49537553 Points: 1043 # Comments: 581
 
-Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"
+Async Rust vs RTOS showdown (2022)
 Source: Hacker News RSS
 Category: technology
-URL: https://hnmatchmaker.com/
-Published: 2026-09-01T20:53:35+00:00
+URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown
+Published: 2026-09-02T18:32:24+00:00
 
-Hi! Every month the "Who Wants to Be Hired?" and "Who's Hiring?" Threads come through I would think to myself, "there should be a match maker for these two threads". So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote/onsite, etc., and then eliminate incompatible postings, like 'looking for remote work' and 'onsite only'. The result is two views: jobs-by-user and user-by-jobs. If you've submitted a post to this month's 'Who Wants to Be Hired?", you can find your matching job listings at https://hnmatchmaker.com/user/:user_name , for example https://hnmatchmaker.com/user/G4Vi --- Some observations when looking at the matches pair up right now: Poke around, let me know what you think! Ultimately, I hope this is actually helpful to some folks. Comments URL: https://news.ycombinator.com/item?id=49528057 Points: 94 # Comments: 40
+Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ Comments URL: https://news.ycombinator.com/item?id=49540415 Points: 98 # Comments: 46
 
-Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos
+Qantas Airbus A380 engine failure in 2010 (2023)
 Source: Hacker News RSS
 Category: technology
-URL: https://masteranza.github.io/weedout
-Published: 2026-09-01T22:06:57+00:00
+URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7
+Published: 2026-09-02T18:42:41+00:00
 
-I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos. Source for developers who want to fork or build: https://github.com/masteranza/weedout-for-youtube Pull requests are not accepted; the repository is for independent forks. Comments URL: https://news.ycombinator.com/item?id=49528895 Points: 150 # Comments: 66
+Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 Comments URL: https://news.ycombinator.com/item?id=49540565 Points: 147 # Comments: 89
 
-My local model setup on an M4 Pro Mac Mini
+Muse Spark 1.3
 Source: Hacker News RSS
 Category: technology
-URL: https://lws.io/blog/my-local-model-setup
-Published: 2026-09-01T22:30:52+00:00
+URL: https://developer.meta.com/ai/models/muse-spark
+Published: 2026-09-02T19:35:04+00:00
 
-Article URL: https://lws.io/blog/my-local-model-setup/ Comments URL: https://news.ycombinator.com/item?id=49529132 Points: 222 # Comments: 131
+https://research.meta.ai/blog/introducing-muse-spark-1-3 Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 598 # Comments: 393
 
-FBI Probes Service Selling 153M+ Drivers Licenses
+Fable 5.1 World Modeling
 Source: Hacker News RSS
 Category: technology
-URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses
-Published: 2026-09-01T23:17:43+00:00
+URL: https://github.com/PhiloLabs/fable51-worlds
+Published: 2026-09-02T19:49:01+00:00
 
-Article URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ Comments URL: https://news.ycombinator.com/item?id=49529621 Points: 240 # Comments: 107
+Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 271 # Comments: 79
 
-The efficient frontier of LLM inference
+Altair Basic Interpreter Source Code (1975) [pdf]
 Source: Hacker News RSS
 Category: technology
-URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference
-Published: 2026-09-01T23:48:05+00:00
+URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf
+Published: 2026-09-02T20:08:22+00:00
 
-Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 129 # Comments: 35
+Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 63 # Comments: 34
 
-True Rate of Unemployment
+Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s
 Source: Hacker News RSS
 Category: technology
-URL: https://www.lisep.org/tru
-Published: 2026-09-02T02:21:10+00:00
+URL: https://news.ycombinator.com/item?id=49543530
+Published: 2026-09-02T22:36:04+00:00
 
-Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 242 # Comments: 207
+Hi HN, I’m Lloyd, one of two founders of RonanRx ( https://ronanrx.com/ ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks. I had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough. Around the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication. For me, losing weight was only the beginning. "Food noise" was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I'd need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80. This was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn't want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all. GLP-1s come in a handful of predefined doses, but patients obviously aren't standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It's our goal to connect those pieces with RonanRx. Patients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution. The most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop. We make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step. We are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing. We would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested. Comments URL: https://news.ycombinator.com/item?id=49543530 Points: 67 # Comments: 71
 
-WebFPGA (2019)
+Pre-Release of Polars 2.0
 Source: Hacker News RSS
 Category: technology
-URL: https://webfpga.io/
-Published: 2026-09-02T03:54:58+00:00
+URL: https://pola.rs/posts/announcing-polars-2
+Published: 2026-09-03T06:59:08+00:00
 
-Article URL: https://webfpga.io/ Comments URL: https://news.ycombinator.com/item?id=49531525 Points: 90 # Comments: 32
+Article URL: https://pola.rs/posts/announcing-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49546753 Points: 189 # Comments: 36
 
-The Emergent Symbolic Structure of Artificial Neural Networks
+Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2608.29530
-Published: 2026-09-02T04:15:56+00:00
+URL: https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley
+Published: 2026-09-03T07:04:13+00:00
 
-Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 163 # Comments: 56
+Article URL: https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/ Comments URL: https://news.ycombinator.com/item?id=49546800 Points: 67 # Comments: 22
 
-Commodore 64 released September 1, 1982
+Japan halves speed limit to 30km/h on all narrow city streets
 Source: Hacker News RSS
 Category: technology
-URL: https://dfarq.homeip.net/commodore-64-released-september-1-1982
-Published: 2026-09-02T08:36:43+00:00
+URL: https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets
+Published: 2026-09-03T09:21:53+00:00
 
-Article URL: https://dfarq.homeip.net/commodore-64-released-september-1-1982/ Comments URL: https://news.ycombinator.com/item?id=49533497 Points: 88 # Comments: 17
+Article URL: https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets Comments URL: https://news.ycombinator.com/item?id=49547763 Points: 52 # Comments: 36
 
-Telli (YC F24) is hiring engineers and designers [Berlin, on-site]
+WASM_OS, an operating-system experiment that runs inside a browser tab
 Source: Hacker News RSS
 Category: technology
-URL: https://careers.telli.com/
-Published: 2026-09-02T08:43:49+00:00
+URL: https://wasmos-production.up.railway.app/
+Published: 2026-09-03T10:36:09+00:00
 
-Article URL: https://careers.telli.com/ Comments URL: https://news.ycombinator.com/item?id=49533557 Points: 0 # Comments: 0
+Article URL: https://wasmos-production.up.railway.app Comments URL: https://news.ycombinator.com/item?id=49548285 Points: 8 # Comments: 1
