@@ -1,0 +1,81 @@
+{
+  "topic": "Https Url Comments",
+  "topic_key": "https-url-comments",
+  "confidence": 83.82,
+  "score_breakdown": {
+    "source_quality": 66.14,
+    "corroboration": 100.0,
+    "recency": 69.9,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 93.82,
+  "evidence": [
+    {
+      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+      "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "publisher": "www.reuters.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-04T11:22:29.704724+00:00"
+    },
+    {
+      "title": "Solving the Jane Street Reverse Engineering Challenge",
+      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "publisher": "jestoph.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-04T11:22:29.873747+00:00"
+    },
+    {
+      "title": "The Raspberry Pi Interactive Timeline \u00b7 2006\u20132026",
+      "url": "https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline",
+      "publisher": "raspberry.tips",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-04T11:22:30.165096+00:00"
+    },
+    {
+      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+      "url": "https://carbonawarepricing.com/",
+      "publisher": "carbonawarepricing.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-04T11:22:30.328586+00:00"
+    },
+    {
+      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+      "publisher": "www.techdirt.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-04T11:22:30.609744+00:00"
+    },
+    {
+      "title": "From Hookswitch to Grave",
+      "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+      "publisher": "computer.rip",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-04T11:22:31.152788+00:00"
+    }
+  ]
+}
