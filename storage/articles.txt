@@ -108,119 +108,63 @@ URL: https://github.com/mattpocock/skills
 
 Skills for Real Engineers. Straight from my .agents directory.
 
-Pointing at the error: compiler-style diagnostics in uutils coreutils
+A Computer History Time Capsule
 Source: Hacker News
 Category: technology
-URL: https://uutils.org/blog/2026-08-error-diagnostics
-Published: 2026-09-02T12:05:05+00:00
-Score: 16
+URL: https://blog.archive.org/2026/08/27/a-computer-history-time-capsule
+Published: 2026-09-01T13:54:42+00:00
+Score: 10
 
-Ask HN: Resources to get good at soldering?
+OpenBSD Stories: Strange Medieval Devices
 Source: Hacker News
 Category: technology
-URL: https://news.ycombinator.com/item?id=49533840
-Published: 2026-09-02T09:24:11+00:00
-Score: 133
+URL: http://miod.online.fr/software/openbsd/stories/smd.html
+Published: 2026-09-02T17:44:24+00:00
+Score: 68
 
-Git Submodules as a Package Manager
+The ColorChecker, photography's most important 24 squares, turns 50
 Source: Hacker News
 Category: technology
-URL: https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html
-Published: 2026-09-01T09:36:10+00:00
-Score: 58
+URL: https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50
+Published: 2026-09-01T22:54:15+00:00
+Score: 70
 
-Sky Map 2000 – Star Atlas and Planetarium
+M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years
 Source: Hacker News
 Category: technology
-URL: https://skymap2000.com/
-Published: 2026-09-03T11:20:47+00:00
-Score: 3
+URL: https://en.wikipedia.org/wiki/M-DISC
+Published: 2026-09-02T04:10:21+00:00
+Score: 13
 
-Kale: A Transformation-Safe Spreadsheet System
+IBM Quantum Nighthawk R2
 Source: Hacker News
 Category: technology
-URL: https://arxiv.org/abs/2608.26345
-Published: 2026-09-01T01:42:30+00:00
-Score: 16
+URL: https://www.ibm.com/quantum/blog/nighthawk-r2
+Published: 2026-09-03T05:16:04+00:00
+Score: 20
+
+Music Theory for Programmers
+Source: Hacker News
+Category: technology
+URL: https://runjs.app/blog/music-theory-for-programmers
+Published: 2026-09-02T20:19:13+00:00
+Score: 155
+
+Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/iczelia/balrogg
+Published: 2026-09-03T13:37:22+00:00
+
+Article URL: https://github.com/iczelia/balrogg Comments URL: https://news.ycombinator.com/item?id=49549778 Points: 87 # Comments: 11
 
 Discovery of a new OpenAI agent message board
-Source: Hacker News
+Source: Hacker News RSS
 Category: technology
 URL: https://collusion.wiki/
 Published: 2026-09-04T11:54:53+00:00
-Score: 1737
 
-deSEC – Free Secure DNS
-Source: Hacker News RSS
-Category: technology
-URL: https://desec.io/
-Published: 2026-09-04T15:38:58+00:00
-
-Article URL: https://desec.io/ Comments URL: https://news.ycombinator.com/item?id=49566193 Points: 135 # Comments: 48
-
-Show HN: Open-Source eInk Bike Computer
-Source: Hacker News RSS
-Category: technology
-URL: https://opentrailpaper.com/
-Published: 2026-09-04T17:18:08+00:00
-
-Hey all, i just launched my Eink Bike computer project and think it is cool. Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: https://github.com/RaemondBW/esp32-ant Comments URL: https://news.ycombinator.com/item?id=49567437 Points: 289 # Comments: 102
-
-The Rust React Compiler is now native in Vite
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.master.dev/react-now-rusted-all-the-way-out
-Published: 2026-09-04T17:49:09+00:00
-
-Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 141 # Comments: 32
-
-Formalizing Fermat's Last Theorem
-Source: Hacker News RSS
-Category: technology
-URL: https://www.anthropic.com/research/formalizing-fermats-last-theorem
-Published: 2026-09-04T18:42:56+00:00
-
-https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 622 # Comments: 388
-
-Shutting down our public encrypted DNS
-Source: Hacker News RSS
-Category: technology
-URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead
-Published: 2026-09-04T18:50:28+00:00
-
-Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 351 # Comments: 157
-
-Fermat's Last Theorem in Lean 4
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/anthropics/fermats-last-theorem
-Published: 2026-09-04T18:57:32+00:00
-
-Article URL: https://github.com/anthropics/fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568697 Points: 111 # Comments: 21
-
-Government Rails Site Hit Hours After CVE Patch
-Source: Hacker News RSS
-Category: technology
-URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch
-Published: 2026-09-04T19:06:39+00:00
-
-Article URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/ Comments URL: https://news.ycombinator.com/item?id=49568828 Points: 96 # Comments: 31
-
-Can AI design circuit boards yet?
-Source: Hacker News RSS
-Category: technology
-URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet
-Published: 2026-09-04T19:48:29+00:00
-
-Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 263 # Comments: 159
-
-An open DNS recursive service for free security and high privacy
-Source: Hacker News RSS
-Category: technology
-URL: https://quad9.net/
-Published: 2026-09-04T20:13:08+00:00
-
-Article URL: https://quad9.net/ Comments URL: https://news.ycombinator.com/item?id=49569663 Points: 91 # Comments: 27
+https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 2190 # Comments: 1548
 
 Statichost.eu – European static site hosting
 Source: Hacker News RSS
@@ -228,15 +172,7 @@ Category: technology
 URL: https://www.statichost.eu/
 Published: 2026-09-04T20:34:49+00:00
 
-Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 297 # Comments: 121
-
-GPT-6 Astra on OpenRouter
-Source: Hacker News RSS
-Category: technology
-URL: https://openrouter.ai/openai/gpt-6-astra
-Published: 2026-09-04T21:39:19+00:00
-
-Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 232 # Comments: 140
+Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 486 # Comments: 228
 
 Actively exploited sandbox RCE in all Chromium versions
 Source: Hacker News RSS
@@ -244,39 +180,7 @@ Category: technology
 URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046
 Published: 2026-09-04T21:52:01+00:00
 
-Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 510 # Comments: 277
-
-Record-High 89% in U.S. Say Government Corruption Widespread
-Source: Hacker News RSS
-Category: technology
-URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx
-Published: 2026-09-04T22:03:16+00:00
-
-Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx Comments URL: https://news.ycombinator.com/item?id=49570772 Points: 434 # Comments: 328
-
-Can guitar frets perform multiplication?
-Source: Hacker News RSS
-Category: technology
-URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html
-Published: 2026-09-04T22:40:30+00:00
-
-Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html Comments URL: https://news.ycombinator.com/item?id=49571047 Points: 85 # Comments: 22
-
-Portal by Spotify cut my Claude Code token usage by 90%
-Source: Hacker News RSS
-Category: technology
-URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90
-Published: 2026-09-04T23:38:50+00:00
-
-Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?id=49571465 Points: 142 # Comments: 62
-
-Artificial Analysis Intelligence Index v4.2
-Source: Hacker News RSS
-Category: technology
-URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2
-Published: 2026-09-05T00:04:14+00:00
-
-Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 120 # Comments: 42
+Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 777 # Comments: 472
 
 Nitter has more working instances than before the takedowns
 Source: Hacker News RSS
@@ -284,28 +188,124 @@ Category: technology
 URL: https://codeberg.org/mv12star/shitter/wiki/Instances
 Published: 2026-09-05T00:04:16+00:00
 
-Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 240 # Comments: 79
+Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 683 # Comments: 354
 
-GPT-6 Astra in code review: Gains, privacy, and cost
+Visualizing Rust's Vtables: How dyn Trait Works In Memory
 Source: Hacker News RSS
 Category: technology
-URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation
-Published: 2026-09-05T03:38:56+00:00
+URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory
+Published: 2026-09-05T13:31:05+00:00
 
-Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 48 # Comments: 24
+Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/ Comments URL: https://news.ycombinator.com/item?id=49576343 Points: 175 # Comments: 36
 
-Git hosting that never leaves Europe
+The "$60 Gaming PC" – AMD BC-250 (2025)
 Source: Hacker News RSS
 Category: technology
-URL: https://pushin.eu/
-Published: 2026-09-05T06:31:49+00:00
+URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250
+Published: 2026-09-05T13:36:38+00:00
 
-Article URL: https://pushin.eu Comments URL: https://news.ycombinator.com/item?id=49573680 Points: 94 # Comments: 66
+Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 348 # Comments: 102
 
-AI handles incidents, engineers lose touch with their systems
+Learn Programming with OCaml
 Source: Hacker News RSS
 Category: technology
-URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
-Published: 2026-09-05T07:52:50+00:00
+URL: https://usr.lmf.cnrs.fr/lpo
+Published: 2026-09-05T16:45:02+00:00
 
-Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 122 # Comments: 84
+Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 258 # Comments: 99
+
+LLMs as a Cognitive Virus
+Source: Hacker News RSS
+Category: technology
+URL: https://arxiv.org/abs/2609.03344
+Published: 2026-09-05T20:02:35+00:00
+
+Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 280 # Comments: 202
+
+Private German rocket makes history, reaches orbit from European soil
+Source: Hacker News RSS
+Category: technology
+URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket
+Published: 2026-09-05T20:31:38+00:00
+
+Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 620 # Comments: 333
+
+The revolt of the reader
+Source: Hacker News RSS
+Category: technology
+URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader
+Published: 2026-09-05T21:37:49+00:00
+
+Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 374 # Comments: 154
+
+Chrome again exempts Google from user site data settings
+Source: Hacker News RSS
+Category: technology
+URL: https://lapcatsoftware.com/articles/2026/9/1.html
+Published: 2026-09-05T23:39:47+00:00
+
+Article URL: https://lapcatsoftware.com/articles/2026/9/1.html Comments URL: https://news.ycombinator.com/item?id=49581870 Points: 419 # Comments: 64
+
+Cloud in a Bottle: making self-hosting accessible to everyone
+Source: Hacker News RSS
+Category: technology
+URL: https://cloudinabottle.org/blog/launch-post
+Published: 2026-09-06T00:03:29+00:00
+
+Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 426 # Comments: 203
+
+GPT-6 Astra on robot arms
+Source: Hacker News RSS
+Category: technology
+URL: https://openai.robocurve.org/gpt-6-astra
+Published: 2026-09-06T01:52:45+00:00
+
+Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 193 # Comments: 145
+
+AI, Tools and Transformation
+Source: Hacker News RSS
+Category: technology
+URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation
+Published: 2026-09-06T02:12:46+00:00
+
+Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 69 # Comments: 23
+
+AMD Based FreeBSD Desktop Reloaded
+Source: Hacker News RSS
+Category: technology
+URL: https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded
+Published: 2026-09-06T02:24:57+00:00
+
+Article URL: https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/ Comments URL: https://news.ycombinator.com/item?id=49582719 Points: 58 # Comments: 6
+
+Isar Aerospace reaches orbit and deploys payloads on second flight
+Source: Hacker News RSS
+Category: technology
+URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight
+Published: 2026-09-06T07:21:06+00:00
+
+Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 193 # Comments: 28
+
+Play GTA Vice City in the Browser
+Source: Hacker News RSS
+Category: technology
+URL: https://quenq.com/apps/vice-city-online
+Published: 2026-09-06T07:33:17+00:00
+
+Article URL: https://quenq.com/apps/vice-city-online/ Comments URL: https://news.ycombinator.com/item?id=49584123 Points: 69 # Comments: 29
+
+You Don't Have a Right to Safe Drinking Water, US Court Rules
+Source: Hacker News RSS
+Category: technology
+URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit
+Published: 2026-09-06T09:14:22+00:00
+
+Article URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49584637 Points: 112 # Comments: 62
+
+I Changed My License
+Source: Hacker News RSS
+Category: technology
+URL: https://bergie.iki.fi/blog/eupl
+Published: 2026-09-06T10:39:44+00:00
+
+Article URL: https://bergie.iki.fi/blog/eupl/ Comments URL: https://news.ycombinator.com/item?id=49585161 Points: 7 # Comments: 2

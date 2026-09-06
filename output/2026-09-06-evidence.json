@@ -1,0 +1,81 @@
+{
+  "topic": "Comments Item News.ycombinator.com",
+  "topic_key": "comments-item-news.ycombinator.com",
+  "confidence": 84.09,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 72.96,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 94.09,
+  "evidence": [
+    {
+      "title": "I Changed My License",
+      "url": "https://bergie.iki.fi/blog/eupl/",
+      "publisher": "bergie.iki.fi",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-06T11:01:30.308249+00:00"
+    },
+    {
+      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+      "publisher": "www.motherjones.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-06T11:01:30.489922+00:00"
+    },
+    {
+      "title": "Play GTA Vice City in the Browser",
+      "url": "https://quenq.com/apps/vice-city-online/",
+      "publisher": "quenq.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-06T11:01:30.680077+00:00"
+    },
+    {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "publisher": "isaraerospace.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-06T11:01:31.043779+00:00"
+    },
+    {
+      "title": "AMD Based FreeBSD Desktop Reloaded",
+      "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+      "publisher": "vermaden.wordpress.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-06T11:01:31.197330+00:00"
+    },
+    {
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "publisher": "www.ben-evans.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-06T11:01:31.496539+00:00"
+    }
+  ]
+}
