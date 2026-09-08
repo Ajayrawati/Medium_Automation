@@ -1,51 +1,16 @@
-shiaho777 / web-to-app
+openai / plugins
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/shiaho777/web-to-app
+URL: https://github.com/openai/plugins
 
-The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone
+OpenAI Plugins
 
-ruvnet / ruflo
+viarotel-org / escrcpy
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/ruvnet/ruflo
+URL: https://github.com/viarotel-org/escrcpy
 
-🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-
-pascalorg / editor
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/pascalorg/editor
-
-Create and share 3D architectural projects.
-
-lightpanda-io / browser
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/lightpanda-io/browser
-
-Lightpanda: the headless browser designed for AI and automation
-
-openai / skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/openai/skills
-
-Skills Catalog for Codex
-
-bytedance / deer-flow
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/bytedance/deer-flow
-
-An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-
-BraveOPotato / FckSignups
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/BraveOPotato/FckSignups
-
-A list of tools that are open-source, in-browser, and require no-signups!
+📱 Display and control your Android device graphically with scrcpy.
 
 The-Swarm-Corporation / AutoHedge
 Source: GitHub Trending
@@ -54,19 +19,19 @@ URL: https://github.com/The-Swarm-Corporation/AutoHedge
 
 Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
 
-coreyhaines31 / marketingskills
+mksglu / context-mode
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/coreyhaines31/marketingskills
+URL: https://github.com/mksglu/context-mode
 
-Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 
-affaan-m / ECC
+browser-use / browser-use
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/affaan-m/ECC
+URL: https://github.com/browser-use/browser-use
 
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 MoonTechLab / LunaTV
 Source: GitHub Trending
@@ -82,19 +47,33 @@ URL: https://github.com/jo-inc/camofox-browser
 
 Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 
-mksglu / context-mode
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/mksglu/context-mode
-
-Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-
 microsoft / markitdown
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/microsoft/markitdown
 
 Python tool for converting files and office documents to Markdown.
+
+multica-ai / andrej-karpathy-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/multica-ai/andrej-karpathy-skills
+
+A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+
+obra / superpowers
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/obra/superpowers
+
+An agentic skills framework & software development methodology that works.
+
+coreyhaines31 / marketingskills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/coreyhaines31/marketingskills
+
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 heygen-com / hyperframes
 Source: GitHub Trending
@@ -103,211 +82,232 @@ URL: https://github.com/heygen-com/hyperframes
 
 Write HTML. Render video. Built for agents.
 
-VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent
+affaan-m / ECC
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/affaan-m/ECC
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+openai / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/openai/skills
+
+Skills Catalog for Codex
+
+cathrynlavery / diagram-design
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cathrynlavery/diagram-design
+
+38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+
+ayghri / i-have-adhd
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ayghri/i-have-adhd
+
+A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+
+John Margolies' photographs of roadside America
 Source: Hacker News
 Category: technology
-URL: https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent
-Published: 2026-09-07T11:01:06+00:00
-Score: 12
+URL: https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america
+Published: 2026-09-04T04:57:22+00:00
+Score: 88
 
-Nitter and XCancel resume service after legal advice
+Understanding Computer Memory Architecture and SSD Internals
 Source: Hacker News
 Category: technology
-URL: https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3
-Published: 2026-09-06T17:49:47+00:00
-Score: 795
+URL: https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787
+Published: 2026-09-06T19:51:28+00:00
+Score: 45
 
-GrapheneOS Overhauled Default Apps and Secure Clipboard
+Scientists observe Einstein's gravity in the quantum world
 Source: Hacker News
 Category: technology
-URL: https://grapheneos.social/@GrapheneOS/117225539756835649
-Published: 2026-09-06T20:24:00+00:00
-Score: 325
+URL: https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world
+Published: 2026-09-04T20:28:52+00:00
+Score: 227
 
-Why are there no flow batteries with symmetric ferrocyanide electrolytes?
+WeatherNext 3
 Source: Hacker News
 Category: technology
-URL: https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes
-Published: 2026-09-02T10:39:02+00:00
-Score: 32
+URL: https://deepmind.google/science/weathernext
+Published: 2026-09-03T16:06:08+00:00
+Score: 341
 
-Ask HN: Fable hacked my piano, can I release the results?
+End-to-end infrastructure for training and inferencing open weight models
 Source: Hacker News
 Category: technology
-URL: https://news.ycombinator.com/item?id=49577129
-Published: 2026-09-05T14:54:44+00:00
-Score: 187
+URL: https://docs.appliedcompute.com/
+Published: 2026-09-04T21:25:49+00:00
+Score: 11
 
-Ask HN: How do you manage skills files?
+We built our house for LAN parties
 Source: Hacker News
 Category: technology
-URL: https://news.ycombinator.com/item?id=49589914
-Published: 2026-09-06T19:27:10+00:00
-Score: 172
+URL: https://lanparty.house/
+Published: 2026-09-05T18:44:40+00:00
+Score: 171
 
-I Connected My Withings Body+ to Home Assistant with an ESP32
-Source: Hacker News
-Category: technology
-URL: https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud
-Published: 2026-09-03T14:33:01+00:00
-Score: 18
-
-Harnessing the Universal Geometry of Embeddings
+anystation: Calling any station A public board shaped like a tree. No account
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2505.12540
-Published: 2026-09-06T20:31:20+00:00
+URL: https://anystation.net/
+Published: 2026-09-07T09:00:01+00:00
 
-Article URL: https://arxiv.org/abs/2505.12540 Comments URL: https://news.ycombinator.com/item?id=49590595 Points: 89 # Comments: 31
+Article URL: https://anystation.net/ Comments URL: https://news.ycombinator.com/item?id=49595841 Points: 7 # Comments: 13
 
-It took a year to ship WebAssembly in Anubis
+Watch Los Angeles get built, one building at a time (1880–2026)
 Source: Hacker News RSS
 Category: technology
-URL: https://anubis.techaro.lol/blog/2026/anubis-wasm
-Published: 2026-09-06T20:32:38+00:00
+URL: https://lax-skyline.parcelscope.net/
+Published: 2026-09-07T18:52:06+00:00
 
-Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 293 # Comments: 139
+Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 301 # Comments: 147
 
-Is mathematics about to enter the conservatory?
+Emacs Bedrock 2.0
 Source: Hacker News RSS
 Category: technology
-URL: https://mbmccoy.dev/posts/mathematical-conservatory
-Published: 2026-09-06T23:02:11+00:00
+URL: https://lambdaland.org/posts/2026-09-06-bedrock-v2
+Published: 2026-09-07T20:12:12+00:00
 
-Article URL: https://mbmccoy.dev/posts/mathematical-conservatory/ Comments URL: https://news.ycombinator.com/item?id=49591793 Points: 74 # Comments: 84
+Article URL: https://lambdaland.org/posts/2026-09-06-bedrock-v2/ Comments URL: https://news.ycombinator.com/item?id=49602490 Points: 124 # Comments: 28
 
-Making a Python interpreter in 1024 bytes
+Leaving VMware just got harder after Broadcom pulled VDDK downloads
 Source: Hacker News RSS
 Category: technology
-URL: https://austinhenley.com/blog/python1024.html
-Published: 2026-09-06T23:14:08+00:00
+URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads
+Published: 2026-09-07T20:32:55+00:00
 
-Article URL: https://austinhenley.com/blog/python1024.html Comments URL: https://news.ycombinator.com/item?id=49591876 Points: 252 # Comments: 88
+Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/ Comments URL: https://news.ycombinator.com/item?id=49602699 Points: 207 # Comments: 97
 
-Show HN: GET Together – A social network where you don't need POST to Post
+TALA Is Open-Source
 Source: Hacker News RSS
 Category: technology
-URL: https://gettogether.dev/
-Published: 2026-09-07T01:41:11+00:00
+URL: https://d2lang.com/blog/tala-is-open-source
+Published: 2026-09-07T23:37:42+00:00
 
-Article URL: https://gettogether.dev Comments URL: https://news.ycombinator.com/item?id=49592840 Points: 74 # Comments: 33
+Article URL: https://d2lang.com/blog/tala-is-open-source/ Comments URL: https://news.ycombinator.com/item?id=49604150 Points: 240 # Comments: 17
 
-Has anybody seen my keys? A key-hierarchy strategy for rack-level security
+I've factored the RSA keys of a Certificate Authority from the 90s
 Source: Hacker News RSS
 Category: technology
-URL: https://rfd.shared.oxide.computer/rfd/0301
-Published: 2026-09-07T02:14:59+00:00
+URL: https://mcpherrin.ca/2026/09/07/rsa.html
+Published: 2026-09-08T01:16:59+00:00
 
-Article URL: https://rfd.shared.oxide.computer/rfd/0301 Comments URL: https://news.ycombinator.com/item?id=49593066 Points: 40 # Comments: 3
+Article URL: https://mcpherrin.ca/2026/09/07/rsa.html Comments URL: https://news.ycombinator.com/item?id=49604637 Points: 359 # Comments: 59
 
-Keep Our Servers Running
+Jellyfin 12.0
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september
-Published: 2026-09-07T03:29:51+00:00
+URL: https://jellyfin.org/posts/jellyfin-release-12.0
+Published: 2026-09-08T01:56:35+00:00
 
-Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 600 # Comments: 137
+Article URL: https://jellyfin.org/posts/jellyfin-release-12.0/ Comments URL: https://news.ycombinator.com/item?id=49604861 Points: 399 # Comments: 171
 
-TiVo to charge money for skipping commercials in your own recordings
+There's a new "Google Jail" for independent wikis
 Source: Hacker News RSS
 Category: technology
-URL: https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service
-Published: 2026-09-07T04:41:01+00:00
+URL: https://weirdgloop.org/blog/google-jail
+Published: 2026-09-08T01:57:23+00:00
 
-Article URL: https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/ Comments URL: https://news.ycombinator.com/item?id=49593971 Points: 114 # Comments: 61
+Article URL: https://weirdgloop.org/blog/google-jail Comments URL: https://news.ycombinator.com/item?id=49604870 Points: 199 # Comments: 67
 
-Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs
+How well do agents use test/verification techniques?
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/timgordontg/engrim
-Published: 2026-09-07T04:49:36+00:00
+URL: https://danluu.com/agentic-testing
+Published: 2026-09-08T02:58:16+00:00
 
-Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 48 # Comments: 11
+Article URL: https://danluu.com/agentic-testing/ Comments URL: https://news.ycombinator.com/item?id=49605246 Points: 96 # Comments: 27
 
-Switzerland's Federal Government Is Replacing Microsoft on 3k Computers
+I tested 10 model/harness combinations on the same Three.js task
 Source: Hacker News RSS
 Category: technology
-URL: https://itsfoss.com/news/switzerland-replace-microssoft-pilot
-Published: 2026-09-07T05:33:25+00:00
+URL: https://alvins82.github.io/hangar-harness-model-tests
+Published: 2026-09-08T03:42:25+00:00
 
-Article URL: https://itsfoss.com/news/switzerland-replace-microssoft-pilot/ Comments URL: https://news.ycombinator.com/item?id=49594251 Points: 219 # Comments: 182
+Article URL: https://alvins82.github.io/hangar-harness-model-tests/ Comments URL: https://news.ycombinator.com/item?id=49605433 Points: 87 # Comments: 51
 
-LG smart TVs caught logging audio with screen off and snooping on local devices
+Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics
 Source: Hacker News RSS
 Category: technology
-URL: https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html
-Published: 2026-09-07T07:03:20+00:00
+URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics
+Published: 2026-09-08T04:06:20+00:00
 
-Article URL: https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html Comments URL: https://news.ycombinator.com/item?id=49594878 Points: 344 # Comments: 191
+Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 48 # Comments: 32
 
-Programming is Art
+The VMs Powering Mobile Agents (Instinct, Claude Code)
 Source: Hacker News RSS
 Category: technology
-URL: https://orchidfiles.com/programming-is-art
-Published: 2026-09-07T08:05:00+00:00
+URL: https://rohanadwankar.github.io/posts/platforms.html
+Published: 2026-09-08T04:36:26+00:00
 
-Article URL: https://orchidfiles.com/programming-is-art/ Comments URL: https://news.ycombinator.com/item?id=49595360 Points: 103 # Comments: 107
+Article URL: https://rohanadwankar.github.io/posts/platforms.html Comments URL: https://news.ycombinator.com/item?id=49605644 Points: 37 # Comments: 7
 
-Live map of public transport in Belgium
+We have a year to fix security everywhere
 Source: Hacker News RSS
 Category: technology
-URL: https://openbaarvervoerbelgie.be/
-Published: 2026-09-07T09:02:47+00:00
+URL: https://jyn.dev/a-year-to-fix-security
+Published: 2026-09-08T04:48:10+00:00
 
-Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 81 # Comments: 28
+Article URL: https://jyn.dev/a-year-to-fix-security/ Comments URL: https://news.ycombinator.com/item?id=49605691 Points: 244 # Comments: 229
 
-Speculative Decoding in vLLM on AMD GPUs
+Mistral raises €3B
 Source: Hacker News RSS
 Category: technology
-URL: https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus
-Published: 2026-09-07T09:26:41+00:00
+URL: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier
+Published: 2026-09-08T05:06:23+00:00
 
-Article URL: https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus Comments URL: https://news.ycombinator.com/item?id=49596054 Points: 37 # Comments: 11
+Article URL: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/ Comments URL: https://news.ycombinator.com/item?id=49605767 Points: 521 # Comments: 361
 
-Caltech Mathathon – first hackathon ever devoted to research level mathematics
+My Feed, My Way
 Source: Hacker News RSS
 Category: technology
-URL: https://mathathonchallenge.com/index.html
-Published: 2026-09-07T09:26:53+00:00
+URL: https://www.pm.gov.au/media/my-feed-my-way
+Published: 2026-09-08T05:10:36+00:00
 
-Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 46 # Comments: 6
+Article URL: https://www.pm.gov.au/media/my-feed-my-way Comments URL: https://news.ycombinator.com/item?id=49605782 Points: 129 # Comments: 102
 
-'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes
+Multi-Agents LLM Financial Trading Framework
 Source: Hacker News RSS
 Category: technology
-URL: https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513
-Published: 2026-09-07T09:33:39+00:00
+URL: https://github.com/TauricResearch/TradingAgents
+Published: 2026-09-08T05:20:23+00:00
 
-Article URL: https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/ Comments URL: https://news.ycombinator.com/item?id=49596119 Points: 102 # Comments: 50
+Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 60 # Comments: 39
 
-Impedance Matching (2017)
+Navier-Stokes – Tristan Buckmaster [pdf]
 Source: Hacker News RSS
 Category: technology
-URL: https://www.edge.org/response-detail/27238
-Published: 2026-09-07T09:52:26+00:00
+URL: https://cims.nyu.edu/~tristanb/statement.pdf
+Published: 2026-09-08T05:42:28+00:00
 
-Article URL: https://www.edge.org/response-detail/27238 Comments URL: https://news.ycombinator.com/item?id=49596274 Points: 27 # Comments: 6
+Article URL: https://cims.nyu.edu/~tristanb/statement.pdf Comments URL: https://news.ycombinator.com/item?id=49605915 Points: 296 # Comments: 147
 
-Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame
+Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539
-Published: 2026-09-07T10:41:29+00:00
+URL: https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten
+Published: 2026-09-08T08:42:56+00:00
 
-Article URL: https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/ Comments URL: https://news.ycombinator.com/item?id=49596629 Points: 26 # Comments: 10
+Article URL: https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten Comments URL: https://news.ycombinator.com/item?id=49607443 Points: 142 # Comments: 131
 
-Apparently CodePen 2.0 sends data to their servers as you type
+Antiquated HTML Snippets and Artefacts
 Source: Hacker News RSS
 Category: technology
-URL: https://news.ycombinator.com/item?id=49596976
-Published: 2026-09-07T11:22:40+00:00
+URL: https://vale.rocks/posts/html-relics
+Published: 2026-09-08T09:43:14+00:00
 
-They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with "save:false", and the marker then appeared verbatim in the HTML served from the generated "*.codepen.dev preview". Thus, if you ever entered some secrets in there by mistake consider them compromized even if you did not publish/save the pen Comments URL: https://news.ycombinator.com/item?id=49596976 Points: 28 # Comments: 11
+Article URL: https://vale.rocks/posts/html-relics Comments URL: https://news.ycombinator.com/item?id=49607991 Points: 30 # Comments: 4
 
-Smartphone makers don't bother to comply with EU repairability requirements
+Why getting your hands dirty is good for you
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532
-Published: 2026-09-07T11:46:37+00:00
+URL: https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks
+Published: 2026-09-08T09:48:24+00:00
 
-Article URL: https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532 Comments URL: https://news.ycombinator.com/item?id=49597189 Points: 37 # Comments: 4
+Article URL: https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks Comments URL: https://news.ycombinator.com/item?id=49608023 Points: 39 # Comments: 22

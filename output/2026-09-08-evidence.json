@@ -1,0 +1,81 @@
+{
+  "topic": "Points Item News.ycombinator.com",
+  "topic_key": "points-item-news.ycombinator.com",
+  "confidence": 85.49,
+  "score_breakdown": {
+    "source_quality": 65.83,
+    "corroboration": 100.0,
+    "recency": 78.71,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.49,
+  "evidence": [
+    {
+      "title": "Why getting your hands dirty is good for you",
+      "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+      "publisher": "www.bbc.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-08T11:23:29.544512+00:00"
+    },
+    {
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "url": "https://vale.rocks/posts/html-relics",
+      "publisher": "vale.rocks",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-08T11:23:29.898154+00:00"
+    },
+    {
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "publisher": "ciphercue.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-08T11:23:30.759196+00:00"
+    },
+    {
+      "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "publisher": "cims.nyu.edu",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-08T11:23:32.030991+00:00"
+    },
+    {
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-08T11:23:32.652174+00:00"
+    },
+    {
+      "title": "My Feed, My Way",
+      "url": "https://www.pm.gov.au/media/my-feed-my-way",
+      "publisher": "www.pm.gov.au",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-08T11:23:33.238800+00:00"
+    }
+  ]
+}
