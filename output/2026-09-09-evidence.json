@@ -1,0 +1,81 @@
+{
+  "topic": "News.ycombinator.com Points Item",
+  "topic_key": "news.ycombinator.com-points-item",
+  "confidence": 85.74,
+  "score_breakdown": {
+    "source_quality": 65.24,
+    "corroboration": 100.0,
+    "recency": 80.84,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.74,
+  "evidence": [
+    {
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+      "publisher": "www.bbc.co.uk",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-09T11:28:03.004968+00:00"
+    },
+    {
+      "title": "How An AI math breakthrough ignited a controversy",
+      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "publisher": "www.science.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-09T11:28:03.552188+00:00"
+    },
+    {
+      "title": "Lotus Notes and the dangers of starting from scratch",
+      "url": "https://buttondown.com/blog/lotus-notes-email",
+      "publisher": "buttondown.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-09T11:28:03.749875+00:00"
+    },
+    {
+      "title": "How GPT\u20115.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "publisher": "openai.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-09T11:28:03.955800+00:00"
+    },
+    {
+      "title": "On Really Trying (2009)",
+      "url": "https://gwern.net/on-really-trying",
+      "publisher": "gwern.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-09T11:28:04.768379+00:00"
+    },
+    {
+      "title": "\u201cTweet\u201d and the bird logo apparently enter the public domain",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+      "publisher": "blog.ericgoldman.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-09T11:28:05.178253+00:00"
+    }
+  ]
+}
