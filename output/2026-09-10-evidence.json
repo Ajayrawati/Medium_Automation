@@ -1,0 +1,81 @@
+{
+  "topic": "Url Item Comments",
+  "topic_key": "url-item-comments",
+  "confidence": 86.21,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 83.54,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.21,
+  "evidence": [
+    {
+      "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
+      "url": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
+      "publisher": "www.techradar.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-10T11:24:21.247904+00:00"
+    },
+    {
+      "title": "PlayStation cancels Kojima's PHYSINT, Xbox steps in",
+      "url": "https://twitter.com/hideo_kojima_en/status/2097877506401681753",
+      "publisher": "twitter.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-10T11:24:22.376740+00:00"
+    },
+    {
+      "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
+      "url": "https://honestlyranked.com/guides/streaming-price-increases/",
+      "publisher": "honestlyranked.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-10T11:24:23.035113+00:00"
+    },
+    {
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "publisher": "devblogs.microsoft.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-10T11:24:23.120338+00:00"
+    },
+    {
+      "title": "I think I hate the internet",
+      "url": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
+      "publisher": "strategictree.bearblog.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-10T11:24:23.267407+00:00"
+    },
+    {
+      "title": "All grown-ups were once children, but only few of them remember it",
+      "url": "https://mathstodon.xyz/@tao/117244102901892965",
+      "publisher": "mathstodon.xyz",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-10T11:24:23.863730+00:00"
+    }
+  ]
+}

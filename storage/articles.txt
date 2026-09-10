@@ -1,10 +1,3 @@
-affaan-m / ECC
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/affaan-m/ECC
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
 vastsa / PI-Desktop
 Source: GitHub Trending
 Category: technology
@@ -12,40 +5,54 @@ URL: https://github.com/vastsa/PI-Desktop
 
 Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
 
-rohitg00 / ai-engineering-from-scratch
+vercel-labs / skills
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/rohitg00/ai-engineering-from-scratch
+URL: https://github.com/vercel-labs/skills
 
-Learn it. Build it. Ship it for others.
+The open agent skills tool - npx skills
+
+nashsu / llm_wiki
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/nashsu/llm_wiki
+
+LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+
+THU-MAIC / OpenMAIC
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/THU-MAIC/OpenMAIC
+
+Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+
+JustVugg / colibri
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/JustVugg/colibri
+
+Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+
+diegosouzapw / OmniRoute
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/diegosouzapw/OmniRoute
+
+Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors
+
+armory3d / armorpaint
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/armory3d/armorpaint
+
+Graphics Creation Tools
 
 freestylefly / awesome-gpt-image-2
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/freestylefly/awesome-gpt-image-2
 
-Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-
-openai / plugins
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/openai/plugins
-
-OpenAI Plugins
-
-liquidslr / system-design-notes
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/liquidslr/system-design-notes
-
-Notes of the book System Desgin Interview - An Insider's Guide
-
-TauricResearch / TradingAgents
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/TauricResearch/TradingAgents
-
-TradingAgents: Multi-Agents LLM Financial Trading Framework
+Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
 
 cathrynlavery / diagram-design
 Source: GitHub Trending
@@ -54,26 +61,19 @@ URL: https://github.com/cathrynlavery/diagram-design
 
 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
-earthtojake / text-to-cad
+liquidslr / system-design-notes
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/earthtojake/text-to-cad
+URL: https://github.com/liquidslr/system-design-notes
 
-A library of agent skills for CAD, CAE and CAM
+Notes of the book System Desgin Interview - An Insider's Guide
 
-pascalorg / editor
+AlexsJones / llmfit
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/pascalorg/editor
+URL: https://github.com/AlexsJones/llmfit
 
-Create and share 3D architectural projects.
-
-obra / superpowers
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/obra/superpowers
-
-An agentic skills framework & software development methodology that works.
+Hundreds of models & providers. One command to find what runs on your hardware.
 
 Tencent / teamai-cli
 Source: GitHub Trending
@@ -82,197 +82,232 @@ URL: https://github.com/Tencent/teamai-cli
 
 Make Every Team AI Native
 
-Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme
-Source: Hacker News
+alsk1992 / CloddsBot
+Source: GitHub Trending
 Category: technology
-URL: https://codeberg.org/jjba23/maak.el
-Published: 2026-09-08T09:28:35+00:00
-Score: 15
+URL: https://github.com/alsk1992/CloddsBot
 
-Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field
-Source: Hacker News
+Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+
+obra / superpowers
+Source: GitHub Trending
 Category: technology
-URL: https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441
-Published: 2026-09-05T21:14:18+00:00
-Score: 51
+URL: https://github.com/obra/superpowers
 
-Coyote v. Acme (1990)
-Source: Hacker News
+An agentic skills framework & software development methodology that works.
+
+bilawalsidhu / gods-eye-view
+Source: GitHub Trending
 Category: technology
-URL: https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme
-Published: 2026-09-06T13:43:48+00:00
-Score: 17
+URL: https://github.com/bilawalsidhu/gods-eye-view
 
-Tension wood: A 'muscle' that can both bend and straighten plants
-Source: Hacker News
-Category: technology
-URL: https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html
-Published: 2026-09-03T07:29:40+00:00
-Score: 127
+A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
-Navier-Stokes – Tristan Buckmaster [pdf]
-Source: Hacker News
-Category: technology
-URL: https://cims.nyu.edu/~tristanb/statement.pdf
-Published: 2026-09-08T05:42:28+00:00
-Score: 1733
-
-DaVinci Resolve 21.1
-Source: Hacker News RSS
-Category: technology
-URL: https://www.blackmagicdesign.com/media/release/20260908-03
-Published: 2026-09-08T13:36:53+00:00
-
-Article URL: https://www.blackmagicdesign.com/media/release/20260908-03 Comments URL: https://news.ycombinator.com/item?id=49610181 Points: 411 # Comments: 186
-
-I-have-ADHD: A skill to stop coding agents from burying the answer
-Source: Hacker News RSS
+ayghri / i-have-adhd
+Source: GitHub Trending
 Category: technology
 URL: https://github.com/ayghri/i-have-adhd
-Published: 2026-09-08T14:13:26+00:00
 
-Article URL: https://github.com/ayghri/i-have-adhd Comments URL: https://news.ycombinator.com/item?id=49610631 Points: 465 # Comments: 317
+A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
-Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses
+Object storage is all you need
+Source: Hacker News
+Category: technology
+URL: https://www.tigrisdata.com/blog/object-storage-all-need
+Published: 2026-09-08T23:11:30+00:00
+Score: 5
+
+Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators
+Source: Hacker News
+Category: technology
+URL: https://www.thelec.net/news/articleView.html?idxno=12835
+Published: 2026-09-07T04:27:29+00:00
+Score: 28
+
+Show HN: Art – draw one stroke, let symmetry complete it
+Source: Hacker News
+Category: technology
+URL: https://mrdee.in/mandala
+Published: 2026-09-05T15:35:13+00:00
+Score: 17
+
+What do Visa and Mastercard do? An intro to card networks
+Source: Hacker News
+Category: technology
+URL: https://tautology.town/2026/06/01/card-networks.html
+Published: 2026-09-08T18:11:05+00:00
+Score: 552
+
+Larger Pacific Striped Octopus
+Source: Hacker News
+Category: technology
+URL: https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus
+Published: 2026-09-09T04:32:22+00:00
+Score: 73
+
+Stockfish 19
+Source: Hacker News
+Category: technology
+URL: https://stockfishchess.org/blog/2026/stockfish-19
+Published: 2026-09-07T16:17:27+00:00
+Score: 63
+
+Shopify acquires Tailwind
 Source: Hacker News RSS
 Category: technology
-URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked
-Published: 2026-09-08T14:49:19+00:00
+URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify
+Published: 2026-09-09T13:27:11+00:00
 
-Article URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/ Comments URL: https://news.ycombinator.com/item?id=49611128 Points: 255 # Comments: 125
+Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 1048 # Comments: 405
 
-AlphaGenome Atlas: a high-resolution map of human DNA
+GPT-6 Astra, looped transformers, and hidden reasoning
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas
-Published: 2026-09-08T14:55:45+00:00
+URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and
+Published: 2026-09-09T14:37:47+00:00
 
-https://deepmind.google/blog/alphagenome-atlas-a-predictive-... https://deepmind.google.com/science/alphagenome/atlas Comments URL: https://news.ycombinator.com/item?id=49611251 Points: 569 # Comments: 123
+Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 444 # Comments: 143
 
-Into the depths of C: Elaborating the de facto standards (2016)
+No Man's Sky Cosmos
 Source: Hacker News RSS
 Category: technology
-URL: https://dl.acm.org/doi/10.1145/2980983.2908081
-Published: 2026-09-08T15:49:57+00:00
+URL: https://www.nomanssky.com/cosmos-update
+Published: 2026-09-09T15:47:42+00:00
 
-Article URL: https://dl.acm.org/doi/10.1145/2980983.2908081 Comments URL: https://news.ycombinator.com/item?id=49612089 Points: 23 # Comments: 1
+Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 400 # Comments: 408
 
-On the Navier–Stokes Millennium Prize Problem
+Growing proof that autonomous cars save lives
 Source: Hacker News RSS
 Category: technology
-URL: https://openai.com/index/navier-stokes-solution
-Published: 2026-09-08T17:13:21+00:00
+URL: https://spectrum.ieee.org/are-self-driving-cars-safe
+Published: 2026-09-09T17:14:59+00:00
 
-Further discussion: https://simonwillison.net/2026/Sep/8/on-navier-stokes/ , https://news.ycombinator.com/item?id=49621697 https://twitter.com/sama/status/2097385167002415140 , https://xcancel.com/sama/status/2097385167002415140 Comments URL: https://news.ycombinator.com/item?id=49613262 Points: 1272 # Comments: 1023
+Article URL: https://spectrum.ieee.org/are-self-driving-cars-safe Comments URL: https://news.ycombinator.com/item?id=49629886 Points: 357 # Comments: 624
 
-Muse – Meta’s personal AI agent
+Qwen 3.8 follows GPT-5.5 Pro reasoning prefills
 Source: Hacker News RSS
 Category: technology
-URL: https://ai.meta.com/muse
-Published: 2026-09-08T19:25:00+00:00
+URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3
+Published: 2026-09-09T17:24:28+00:00
 
-Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 533 # Comments: 579
+Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 220 # Comments: 85
 
-Mercury 2.5
+iPhone 18 Pro and iPhone 18 Pro Max
 Source: Hacker News RSS
 Category: technology
-URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5
-Published: 2026-09-08T20:14:52+00:00
+URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max
+Published: 2026-09-09T17:33:20+00:00
 
-Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49616354 Points: 209 # Comments: 35
+Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/ Comments URL: https://news.ycombinator.com/item?id=49630151 Points: 368 # Comments: 404
 
-Tao: Open math problems being non-renewably mined by AI
+AirPods 5
 Source: Hacker News RSS
 Category: technology
-URL: https://mathstodon.xyz/@tao/117237320796901560
-Published: 2026-09-08T21:00:52+00:00
+URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation
+Published: 2026-09-09T17:39:24+00:00
 
-Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 378 # Comments: 337
+Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://news.ycombinator.com/item?id=49630253 Points: 461 # Comments: 391
 
-How to build a printer
+Apple Watch Series 12
 Source: Hacker News RSS
 Category: technology
-URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer
-Published: 2026-09-08T21:22:11+00:00
+URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system
+Published: 2026-09-09T17:56:17+00:00
 
-Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/ Comments URL: https://news.ycombinator.com/item?id=49617255 Points: 353 # Comments: 76
+Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycombinator.com/item?id=49630566 Points: 260 # Comments: 324
 
-Large language models develop novel social biases through adaptive exploration
+iPhone Duo
 Source: Hacker News RSS
 Category: technology
-URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH
-Published: 2026-09-08T21:47:38+00:00
+URL: https://www.apple.com/iphone-duo
+Published: 2026-09-09T18:15:43+00:00
 
-Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH Comments URL: https://news.ycombinator.com/item?id=49617581 Points: 171 # Comments: 90
+Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 1228 # Comments: 2159
 
-A Topological Picture Book, Rendered
+Factoring RSA 260
 Source: Hacker News RSS
 Category: technology
-URL: https://e-infinity.space/picture-book
-Published: 2026-09-08T22:28:14+00:00
+URL: https://cognition.com/blog/factoring-rsa-260
+Published: 2026-09-09T20:16:08+00:00
 
-Article URL: https://e-infinity.space/picture-book/ Comments URL: https://news.ycombinator.com/item?id=49618050 Points: 115 # Comments: 12
+Article URL: https://cognition.com/blog/factoring-rsa-260 Comments URL: https://news.ycombinator.com/item?id=49633534 Points: 102 # Comments: 11
 
-27.5KB language-agnostic WebGPU syntax highlighter
+Automattic's board forces CEO Matt Mullenweg into leave of absence
 Source: Hacker News RSS
 Category: technology
-URL: https://gpu-lexer.vercel.app/
-Published: 2026-09-09T01:14:50+00:00
+URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence
+Published: 2026-09-09T23:49:29+00:00
 
-Article URL: https://gpu-lexer.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49619464 Points: 92 # Comments: 28
+Article URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/ Comments URL: https://news.ycombinator.com/item?id=49636283 Points: 304 # Comments: 209
 
-A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)
+Show HN: What if the speed of light was 5 km/h?
 Source: Hacker News RSS
 Category: technology
-URL: https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en
-Published: 2026-09-09T04:43:46+00:00
+URL: https://rivendell.dmitrybrant.com/relativity
+Published: 2026-09-10T01:58:00+00:00
 
-Article URL: https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en Comments URL: https://news.ycombinator.com/item?id=49621102 Points: 63 # Comments: 15
+I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it! Comments URL: https://news.ycombinator.com/item?id=49637385 Points: 377 # Comments: 157
 
-“Tweet” and the bird logo apparently enter the public domain
+Training a 3.8B LLM to 0.384 CORE for $998
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm
-Published: 2026-09-09T06:02:07+00:00
+URL: https://hugovergnes.github.io/little-lm-3-8b
+Published: 2026-09-10T02:04:11+00:00
 
-Article URL: https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm Comments URL: https://news.ycombinator.com/item?id=49621751 Points: 111 # Comments: 66
+Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 85 # Comments: 13
 
-On Really Trying (2009)
+All grown-ups were once children, but only few of them remember it
 Source: Hacker News RSS
 Category: technology
-URL: https://gwern.net/on-really-trying
-Published: 2026-09-09T06:58:44+00:00
+URL: https://mathstodon.xyz/@tao/117244102901892965
+Published: 2026-09-10T04:04:38+00:00
 
-Article URL: https://gwern.net/on-really-trying Comments URL: https://news.ycombinator.com/item?id=49622305 Points: 63 # Comments: 39
+Article URL: https://mathstodon.xyz/@tao/117244102901892965 Comments URL: https://news.ycombinator.com/item?id=49638280 Points: 191 # Comments: 141
 
-How GPT‑5.6 Sol helps run quantum computing experiments
+DeepSeek v4.1 Flash
 Source: Hacker News RSS
 Category: technology
-URL: https://openai.com/index/codex-quantum-computing-experiments
-Published: 2026-09-09T07:22:46+00:00
+URL: https://twitter.com/deepseek_ai/status/2097930608790167907
+Published: 2026-09-10T06:11:05+00:00
 
-Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 84 # Comments: 61
+https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash Comments URL: https://news.ycombinator.com/item?id=49639090 Points: 437 # Comments: 213
 
-Lotus Notes and the dangers of starting from scratch
+I think I hate the internet
 Source: Hacker News RSS
 Category: technology
-URL: https://buttondown.com/blog/lotus-notes-email
-Published: 2026-09-09T10:01:15+00:00
+URL: https://strategictree.bearblog.dev/i-think-i-hate-the-internet
+Published: 2026-09-10T06:12:23+00:00
 
-Article URL: https://buttondown.com/blog/lotus-notes-email Comments URL: https://news.ycombinator.com/item?id=49623937 Points: 23 # Comments: 10
+Article URL: https://strategictree.bearblog.dev/i-think-i-hate-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49639104 Points: 76 # Comments: 56
 
-How An AI math breakthrough ignited a controversy
+What algorithm did Windows XP use to choose your initial user picture?
 Source: Hacker News RSS
 Category: technology
-URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy
-Published: 2026-09-09T10:25:41+00:00
+URL: https://devblogs.microsoft.com/oldnewthing/20260909-00?p=112683
+Published: 2026-09-10T09:04:14+00:00
 
-Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 37 # Comments: 5
+Article URL: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683 Comments URL: https://news.ycombinator.com/item?id=49640646 Points: 74 # Comments: 31
 
-Anthropic researcher believes more than 10% chance AI 'could kill all humans'
+Show HN: The same nine streaming subscriptions cost $702/year more than in 2021
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bbc.co.uk/news/articles/ckgwy1k42w4o
-Published: 2026-09-09T10:37:16+00:00
+URL: https://honestlyranked.com/guides/streaming-price-increases
+Published: 2026-09-10T10:13:59+00:00
 
-Article URL: https://www.bbc.co.uk/news/articles/ckgwy1k42w4o Comments URL: https://news.ycombinator.com/item?id=49624255 Points: 5 # Comments: 2
+Article URL: https://honestlyranked.com/guides/streaming-price-increases/ Comments URL: https://news.ycombinator.com/item?id=49641215 Points: 39 # Comments: 28
+
+PlayStation cancels Kojima's PHYSINT, Xbox steps in
+Source: Hacker News RSS
+Category: technology
+URL: https://twitter.com/hideo_kojima_en/status/2097877506401681753
+Published: 2026-09-10T10:35:09+00:00
+
+Article URL: https://twitter.com/hideo_kojima_en/status/2097877506401681753 Comments URL: https://news.ycombinator.com/item?id=49641393 Points: 11 # Comments: 1
+
+Thanks to Siri Recaps, your Apple Watch is always listening
+Source: Hacker News RSS
+Category: technology
+URL: https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash
+Published: 2026-09-10T10:36:00+00:00
+
+Article URL: https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash Comments URL: https://news.ycombinator.com/item?id=49641401 Points: 9 # Comments: 0
