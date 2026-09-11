@@ -1,0 +1,81 @@
+{
+  "topic": "Item News.ycombinator.com Points",
+  "topic_key": "item-news.ycombinator.com-points",
+  "confidence": 85.7,
+  "score_breakdown": {
+    "source_quality": 65.45,
+    "corroboration": 100.0,
+    "recency": 80.31,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.7,
+  "evidence": [
+    {
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "publisher": "quesma.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-11T11:26:20.541282+00:00"
+    },
+    {
+      "title": "Claude is no longer available for minors",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "publisher": "support.claude.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-11T11:26:21.042021+00:00"
+    },
+    {
+      "title": "Resist \"AI\"",
+      "url": "https://ronjeffries.com/articles/-v026/x/t/",
+      "publisher": "ronjeffries.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-11T11:26:21.322237+00:00"
+    },
+    {
+      "title": "The Death of Shame Is Tearing Us Apart",
+      "url": "https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart",
+      "publisher": "www.newyorker.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-11T11:26:21.713326+00:00"
+    },
+    {
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "publisher": "www.iaea.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-11T11:26:21.780853+00:00"
+    },
+    {
+      "title": "Neijuan",
+      "url": "https://en.wikipedia.org/wiki/Neijuan",
+      "publisher": "en.wikipedia.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-11T11:26:21.950046+00:00"
+    }
+  ]
+}
