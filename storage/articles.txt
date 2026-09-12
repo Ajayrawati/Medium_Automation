@@ -1,72 +1,30 @@
-pascalorg / editor
+vxcontrol / pentagi
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/pascalorg/editor
+URL: https://github.com/vxcontrol/pentagi
 
-Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
+Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
-github / spec-kit
+max-sixty / worktrunk
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/github/spec-kit
+URL: https://github.com/max-sixty/worktrunk
 
-💫 Toolkit to help you get started with Spec-Driven Development
+Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
-alphaXiv / OpenResearch
+multimodal-art-projection / YuE
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/alphaXiv/OpenResearch
+URL: https://github.com/multimodal-art-projection/YuE
 
-Run parallel research agents with any model
+YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 
-jordan-gibbs / hyperresearch
+SnailSploit / Claude-Red
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/jordan-gibbs/hyperresearch
+URL: https://github.com/SnailSploit/Claude-Red
 
-Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
-
-p1neappleXpress / OpenFlux
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/p1neappleXpress/OpenFlux
-
-Network stack research tool. TCP tunnel with pluggable transports.
-
-jihe520 / MathModelAgent
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/jihe520/MathModelAgent
-
-🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
-
-Sonarr / Sonarr
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Sonarr/Sonarr
-
-Smart PVR for newsgroup and bittorrent users.
-
-obra / superpowers
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/obra/superpowers
-
-An agentic skills framework & software development methodology that works.
-
-nashsu / llm_wiki
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/nashsu/llm_wiki
-
-LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
-
-alsk1992 / CloddsBot
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/alsk1992/CloddsBot
-
-Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
 
 armory3d / armorpaint
 Source: GitHub Trending
@@ -75,19 +33,52 @@ URL: https://github.com/armory3d/armorpaint
 
 Graphics Creation Tools
 
-vastsa / PI-Desktop
+p1neappleXpress / OpenFlux
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/vastsa/PI-Desktop
+URL: https://github.com/p1neappleXpress/OpenFlux
 
-Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+Network stack research tool. TCP tunnel with pluggable transports.
 
-melgarafael / DeskcommCRM
+Shubhamsaboo / awesome-llm-apps
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/melgarafael/DeskcommCRM
+URL: https://github.com/Shubhamsaboo/awesome-llm-apps
 
-Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+
+yuliskov / SmartTube
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/yuliskov/SmartTube
+
+Browse media content with your own rules on Android TV
+
+alsk1992 / CloddsBot
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/alsk1992/CloddsBot
+
+Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+
+Sonarr / Sonarr
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Sonarr/Sonarr
+
+Smart PVR for newsgroup and bittorrent users.
+
+jihe520 / MathModelAgent
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/jihe520/MathModelAgent
+
+🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
+
+Flowseal / zapret-discord-youtube
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Flowseal/zapret-discord-youtube
 
 nab138 / iloader
 Source: GitHub Trending
@@ -96,6 +87,20 @@ URL: https://github.com/nab138/iloader
 
 User friendly sideloader
 
+asgeirtj / system_prompts_leaks
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/asgeirtj/system_prompts_leaks
+
+Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+
+melgarafael / DeskcommCRM
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/melgarafael/DeskcommCRM
+
+Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+
 bilawalsidhu / gods-eye-view
 Source: GitHub Trending
 Category: technology
@@ -103,218 +108,218 @@ URL: https://github.com/bilawalsidhu/gods-eye-view
 
 A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
-ayghri / i-have-adhd
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ayghri/i-have-adhd
-
-A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-
-More questions about whether researchers can trust OpenAI with unpublished math
+Bomb Sense (2021)
 Source: Hacker News
 Category: technology
-URL: https://mathstodon.xyz/@andreasthom/117240535270608201
-Published: 2026-09-10T06:49:43+00:00
-Score: 823
+URL: https://danboland.net/2021/07/15/bomb-sense.html
+Published: 2026-09-09T15:40:19+00:00
+Score: 14
 
-iPod Classic 6G in QEMU
+I've operated petabyte-scale ClickHouse clusters for 5 years
 Source: Hacker News
 Category: technology
-URL: https://www.reddit.com/r/emulation/s/VL4Au2HGxq
-Published: 2026-09-08T14:54:57+00:00
-Score: 19
+URL: https://www.tinybird.co/blog/what-i-learned-operating-clickhouse
+Published: 2026-09-07T18:05:04+00:00
+Score: 223
 
-Working with Git Worktrees in Magit
+Designing for Dual Screen and Foldable Devices with CSS (2023)
 Source: Hacker News
 Category: technology
-URL: https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit
-Published: 2026-09-08T06:31:59+00:00
-Score: 60
+URL: https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices
+Published: 2026-09-10T12:59:26+00:00
+Score: 34
 
-So you want to use OpenRouter?
+Logo Programming
 Source: Hacker News
 Category: technology
-URL: https://mmoustafa.com/blog/so-you-want-to-use-openrouter
-Published: 2026-09-09T05:37:21+00:00
-Score: 165
+URL: https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html
+Published: 2026-09-09T07:07:26+00:00
+Score: 285
 
-Don't let anyone take away your big box of cables
+Inverse Kinematics and Foot Locking
 Source: Hacker News
 Category: technology
-URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables
-Published: 2026-09-10T15:27:22+00:00
-Score: 572
+URL: https://theorangeduck.com/page/inverse-kinematics-foot-locking
+Published: 2026-09-07T08:21:41+00:00
+Score: 50
 
-Shopify is moving from React Native back to Swift and Kotlin
+Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them
 Source: Hacker News
 Category: technology
-URL: https://shopify.engineering/back-to-native
-Published: 2026-09-10T14:09:31+00:00
-Score: 1091
+URL: https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250
+Published: 2026-09-09T11:01:10+00:00
+Score: 72
 
-The Waymo effect: how AI is quietly making research less collaborative
+A Design Space Exploration of Async/Await
 Source: Hacker News
 Category: technology
-URL: https://www.researchagenda.news/articles/the-waymo-effect.html
-Published: 2026-09-11T11:17:50+00:00
-Score: 8
+URL: https://cel.cs.brown.edu/blog/design-space-async-await
+Published: 2026-09-09T13:59:50+00:00
+Score: 297
 
-Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)
+IKEA made a mod for Skyrim [video]
+Source: Hacker News
+Category: technology
+URL: https://www.youtube.com/watch?v=iZODN0QUgjI
+Published: 2026-09-10T07:20:50+00:00
+Score: 152
+
+Detailed report on the use of solar geoengineering
 Source: Hacker News RSS
 Category: technology
-URL: https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images
-Published: 2026-09-10T15:29:30+00:00
+URL: https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering
+Published: 2026-09-10T16:08:54+00:00
 
-https://dstretch.com/DecorrelationStretch.pdf https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-... Comments URL: https://news.ycombinator.com/item?id=49645437 Points: 343 # Comments: 56
+Article URL: https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/ Comments URL: https://news.ycombinator.com/item?id=49646113 Points: 13 # Comments: 2
 
-Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra
+Show HN: Bodily Oddities
 Source: Hacker News RSS
 Category: technology
-URL: https://cognition.com/blog/swe-2
-Published: 2026-09-10T15:29:47+00:00
+URL: https://vester.si/bodily-oddities
+Published: 2026-09-10T20:33:11+00:00
 
-Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 421 # Comments: 176
+When I was about 11 years old, my best friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudden, my heart started hurting, and I collapsed to my knees, and the robot was no more. Every time I inhaled, it would feel like a spike was being driven into my heart, and my breathing got completely shallow. I was sure I was done for, when all of a sudden, after an exhale, it disappeared. It wasn't until I was in my twenties that I learned this was called Precordial catch syndrome and it happens to most everyone. Every friend I've told about it was surprised, and also most knew the feeling. I collected a growing list of strange things bodies do ever since. And now finally I made it into a little page for others to see: https://vester.si/bodily-oddities/ It includes a form to tell me about new things, if you think they belong on the page. Feedback welcome! Comments URL: https://news.ycombinator.com/item?id=49649789 Points: 257 # Comments: 169
 
-Neki – Sharded Postgres
+Google will buy half the electricity from one of Finland's nuclear power plants
 Source: Hacker News RSS
 Category: technology
-URL: https://planetscale.com/blog/introducing-neki
-Published: 2026-09-10T15:43:49+00:00
+URL: https://www.bbc.com/news/articles/c8r6y4me2g6o
+Published: 2026-09-11T00:42:41+00:00
 
-Article URL: https://planetscale.com/blog/introducing-neki Comments URL: https://news.ycombinator.com/item?id=49645686 Points: 251 # Comments: 132
+Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o Comments URL: https://news.ycombinator.com/item?id=49652105 Points: 365 # Comments: 326
 
-Forgejo < =16.0.3 Critical RCE
+Rune is now open source
 Source: Hacker News RSS
 Category: technology
-URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md
-Published: 2026-09-10T15:57:40+00:00
+URL: https://rune.build/blog/rune-is-now-open-source
+Published: 2026-09-11T15:31:47+00:00
 
-Article URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md Comments URL: https://news.ycombinator.com/item?id=49645907 Points: 192 # Comments: 72
+Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 190 # Comments: 58
 
-Music Theory for the 21st-Century Classroom
+Mind-altering drugs played key role in rise of Andean civilization
 Source: Hacker News RSS
 Category: technology
-URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html
-Published: 2026-09-10T17:14:12+00:00
+URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization
+Published: 2026-09-11T17:25:23+00:00
 
-Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html Comments URL: https://news.ycombinator.com/item?id=49647134 Points: 241 # Comments: 102
+Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 165 # Comments: 107
 
-Detecting and countering misuse of AI: September 2026
+Λ Snap – An inviting programming language for kids and adults for CS study
 Source: Hacker News RSS
 Category: technology
-URL: https://www.anthropic.com/threat-intelligence-report-september-2026
-Published: 2026-09-10T17:23:42+00:00
+URL: https://snap.berkeley.edu/
+Published: 2026-09-11T17:36:11+00:00
 
-https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 140 # Comments: 204
+Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 147 # Comments: 84
 
-The Deathray: A simple way for an untrusted site to freeze a Mac
+A misalignment of AI in mathematics
 Source: Hacker News RSS
 Category: technology
-URL: https://auberon.xyz/blog/posts/deathray
-Published: 2026-09-10T19:34:20+00:00
+URL: https://mathandai.org/
+Published: 2026-09-11T17:45:12+00:00
 
-Article URL: https://auberon.xyz/blog/posts/deathray/ Comments URL: https://news.ycombinator.com/item?id=49649124 Points: 212 # Comments: 134
+https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 945 # Comments: 907
 
-OpenAI Agents API
+Litelm: LiteLLM Without the Bloat
 Source: Hacker News RSS
 Category: technology
-URL: https://developers.openai.com/api/docs/guides/agents-api/overview
-Published: 2026-09-10T19:43:22+00:00
+URL: https://github.com/kennethwolters/litelm
+Published: 2026-09-11T18:10:20+00:00
 
-Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview Comments URL: https://news.ycombinator.com/item?id=49649213 Points: 273 # Comments: 152
+Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 143 # Comments: 49
 
-Proof of Capture: Apple Reference Image, but open source and using steganography
+I spent $220 on Google app ads and 60% of the installs were robots
 Source: Hacker News RSS
 Category: technology
-URL: https://merybenavente.me/blog/proof-of-capture
-Published: 2026-09-10T19:44:15+00:00
+URL: https://dayzlegame.com/blog/google-ads-bot-farm
+Published: 2026-09-11T18:24:55+00:00
 
-Article URL: https://merybenavente.me/blog/proof-of-capture Comments URL: https://news.ycombinator.com/item?id=49649222 Points: 114 # Comments: 64
+Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 547 # Comments: 290
 
-NTSB issues investigative update on B-767 runway excursion accident in Miami
+GrapheneOS' rewritten Messages app is released
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx
-Published: 2026-09-10T21:30:55+00:00
+URL: https://github.com/GrapheneOS/Messaging/releases/tag/13
+Published: 2026-09-11T18:50:36+00:00
 
-Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx Comments URL: https://news.ycombinator.com/item?id=49650418 Points: 109 # Comments: 195
+Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 280 # Comments: 203
 
-Nine coding harnesses vs. your laptop
+Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues
 Source: Hacker News RSS
 Category: technology
-URL: https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74
-Published: 2026-09-10T22:54:01+00:00
+URL: https://github.com/mirza-rizvi/ResolveHQ
+Published: 2026-09-11T21:48:00+00:00
 
-Article URL: https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74 Comments URL: https://news.ycombinator.com/item?id=49651221 Points: 114 # Comments: 36
+Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 60 # Comments: 21
 
-Mexican student creates an acoustic fire extinguisher to put out fire in seconds
+Project Blinkenlights
 Source: Hacker News RSS
 Category: technology
-URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds
-Published: 2026-09-11T01:00:56+00:00
+URL: https://blinkenlights.de/en
+Published: 2026-09-11T22:15:00+00:00
 
-Article URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/ Comments URL: https://news.ycombinator.com/item?id=49652237 Points: 242 # Comments: 83
+Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 96 # Comments: 31
 
-GPT‑Live‑1 in the API
+OpenAI agents carried out an undisclosed attack on RubyGems
 Source: Hacker News RSS
 Category: technology
-URL: https://openai.com/index/introducing-gpt-live-1-in-the-api
-Published: 2026-09-11T05:45:19+00:00
+URL: https://www.rubyhack.ai/
+Published: 2026-09-11T23:17:42+00:00
 
-Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/ Comments URL: https://news.ycombinator.com/item?id=49653985 Points: 36 # Comments: 26
+https://simonwillison.net/2026/Sep/12/openai-agents-rubygems... Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 722 # Comments: 404
 
-CSS Curiosities of the Past
+google.com/goto: Google's anti-scraping update
 Source: Hacker News RSS
 Category: technology
-URL: https://vale.rocks/posts/css-relics
-Published: 2026-09-11T07:57:17+00:00
+URL: https://www.autom.dev/blog/google-search-goto-links
+Published: 2026-09-12T03:14:20+00:00
 
-Article URL: https://vale.rocks/posts/css-relics Comments URL: https://news.ycombinator.com/item?id=49654962 Points: 15 # Comments: 4
+Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 439 # Comments: 347
 
-Neijuan
+Navier-Stokes Announcement
 Source: Hacker News RSS
 Category: technology
-URL: https://en.wikipedia.org/wiki/Neijuan
-Published: 2026-09-11T08:26:56+00:00
+URL: https://www.claymath.org/news/navier-stokes-announcement
+Published: 2026-09-12T04:09:43+00:00
 
-Article URL: https://en.wikipedia.org/wiki/Neijuan Comments URL: https://news.ycombinator.com/item?id=49655176 Points: 48 # Comments: 15
+Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 176 # Comments: 115
 
-Cherenkov Radiation - traveling faster than light
+Usenet rewind archive search engine
 Source: Hacker News RSS
 Category: technology
-URL: http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation
-Published: 2026-09-11T08:42:04+00:00
+URL: https://www.usenet-rewind.com/
+Published: 2026-09-12T04:19:52+00:00
 
-Article URL: http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation Comments URL: https://news.ycombinator.com/item?id=49655286 Points: 80 # Comments: 53
+Article URL: https://www.usenet-rewind.com/ Comments URL: https://news.ycombinator.com/item?id=49668777 Points: 66 # Comments: 14
 
-The Death of Shame Is Tearing Us Apart
+WeWorm: Zero-Click WeChat Worm
 Source: Hacker News RSS
 Category: technology
-URL: https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart
-Published: 2026-09-11T09:30:50+00:00
+URL: https://calif.io/research/weworm
+Published: 2026-09-12T05:49:10+00:00
 
-Article URL: https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart Comments URL: https://news.ycombinator.com/item?id=49655619 Points: 29 # Comments: 31
+Article URL: https://calif.io/research/weworm Comments URL: https://news.ycombinator.com/item?id=49669276 Points: 27 # Comments: 1
 
-Resist "AI"
+Retrospectively Reverse-Engineering Apple's Neural Engine
 Source: Hacker News RSS
 Category: technology
-URL: https://ronjeffries.com/articles/-v026/x/t
-Published: 2026-09-11T10:19:59+00:00
+URL: https://eiln.github.io/posts/ane.html
+Published: 2026-09-12T07:54:03+00:00
 
-Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 32 # Comments: 12
+Article URL: https://eiln.github.io/posts/ane.html Comments URL: https://news.ycombinator.com/item?id=49670032 Points: 88 # Comments: 11
 
-Claude is no longer available for minors
+Resistance Training Prescription for Muscle Function, Hypertrophy in Health
 Source: Hacker News RSS
 Category: technology
-URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude
-Published: 2026-09-11T10:48:00+00:00
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823
+Published: 2026-09-12T09:08:54+00:00
 
-Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 43 # Comments: 37
+Article URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/ Comments URL: https://news.ycombinator.com/item?id=49670493 Points: 12 # Comments: 1
 
-RTK reports token savings, but our cost benchmarks disagree
+At this point I feel like AI companies selling Fear
 Source: Hacker News RSS
 Category: technology
-URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper
-Published: 2026-09-11T11:15:13+00:00
+URL: https://news.ycombinator.com/item?id=49670907
+Published: 2026-09-12T10:26:40+00:00
 
-Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49656471 Points: 3 # Comments: 0
+AI can do reasoning better But It can't outsmart humans , AI gets trained on data but human have their learning with them ,only about 5% of data a human share as learning, knowledge - rest it just inside us ,So technically AI can't replace human , We do take inspiration , cross domain analysis and much diff things ,that a machine can't even do So I feel like These AI companies are just selling fear just to promote their product , what are your thoughts on this Comments URL: https://news.ycombinator.com/item?id=49670907 Points: 4 # Comments: 0

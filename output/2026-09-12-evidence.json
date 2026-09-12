@@ -1,0 +1,81 @@
+{
+  "topic": "Item Comments Url",
+  "topic_key": "item-comments-url",
+  "confidence": 85.24,
+  "score_breakdown": {
+    "source_quality": 65.25,
+    "corroboration": 100.0,
+    "recency": 78.32,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.24,
+  "evidence": [
+    {
+      "title": "At this point I feel like AI companies selling Fear",
+      "url": "https://news.ycombinator.com/item?id=49670907",
+      "publisher": "news.ycombinator.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-12T10:51:39.865852+00:00"
+    },
+    {
+      "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+      "publisher": "pmc.ncbi.nlm.nih.gov",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-12T10:51:39.986107+00:00"
+    },
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "publisher": "eiln.github.io",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-12T10:51:40.078161+00:00"
+    },
+    {
+      "title": "WeWorm: Zero-Click WeChat Worm",
+      "url": "https://calif.io/research/weworm",
+      "publisher": "calif.io",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-12T10:51:40.294872+00:00"
+    },
+    {
+      "title": "Usenet rewind archive search engine",
+      "url": "https://www.usenet-rewind.com/",
+      "publisher": "www.usenet-rewind.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-12T10:51:40.435976+00:00"
+    },
+    {
+      "title": "Navier-Stokes Announcement",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "publisher": "www.claymath.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-12T10:51:41.044711+00:00"
+    }
+  ]
+}
