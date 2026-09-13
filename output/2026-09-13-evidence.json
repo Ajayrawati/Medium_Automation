@@ -1,0 +1,81 @@
+{
+  "topic": "Https Item News.ycombinator.com",
+  "topic_key": "https-item-news.ycombinator.com",
+  "confidence": 85.79,
+  "score_breakdown": {
+    "source_quality": 65.24,
+    "corroboration": 100.0,
+    "recency": 81.09,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.79,
+  "evidence": [
+    {
+      "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+      "publisher": "invezz.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-13T11:56:38.427060+00:00"
+    },
+    {
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "publisher": "techcrunch.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-13T11:56:38.524577+00:00"
+    },
+    {
+      "title": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "publisher": "brew.sh",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-13T11:56:38.670661+00:00"
+    },
+    {
+      "title": "JetKVM Mini",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "publisher": "jetkvm.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-13T11:56:38.819710+00:00"
+    },
+    {
+      "title": "A wandering black hole caught feeding on the run",
+      "url": "https://phys.org/news/2026-08-black-hole-caught.html",
+      "publisher": "phys.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-13T11:56:39.136823+00:00"
+    },
+    {
+      "title": "A succession crisis that tore England apart (2023)",
+      "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+      "publisher": "www.historytoday.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-13T11:56:39.318388+00:00"
+    }
+  ]
+}

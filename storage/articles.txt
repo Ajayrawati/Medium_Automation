@@ -1,72 +1,30 @@
-vxcontrol / pentagi
+huggingface / transformers
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/vxcontrol/pentagi
+URL: https://github.com/huggingface/transformers
 
-Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
-max-sixty / worktrunk
+Swordfish90 / cool-retro-term
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/max-sixty/worktrunk
+URL: https://github.com/Swordfish90/cool-retro-term
 
-Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+A good looking terminal emulator which mimics the old cathode display...
 
-multimodal-art-projection / YuE
+jiji262 / douyin-downloader
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/multimodal-art-projection/YuE
+URL: https://github.com/jiji262/douyin-downloader
 
-YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
 
-SnailSploit / Claude-Red
+tonhowtf / omniget
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/SnailSploit/Claude-Red
+URL: https://github.com/tonhowtf/omniget
 
-claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-
-armory3d / armorpaint
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/armory3d/armorpaint
-
-Graphics Creation Tools
-
-p1neappleXpress / OpenFlux
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/p1neappleXpress/OpenFlux
-
-Network stack research tool. TCP tunnel with pluggable transports.
-
-Shubhamsaboo / awesome-llm-apps
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Shubhamsaboo/awesome-llm-apps
-
-100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-
-yuliskov / SmartTube
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/yuliskov/SmartTube
-
-Browse media content with your own rules on Android TV
-
-alsk1992 / CloddsBot
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/alsk1992/CloddsBot
-
-Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
-
-Sonarr / Sonarr
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Sonarr/Sonarr
-
-Smart PVR for newsgroup and bittorrent users.
+Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.
 
 jihe520 / MathModelAgent
 Source: GitHub Trending
@@ -75,17 +33,54 @@ URL: https://github.com/jihe520/MathModelAgent
 
 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
 
-Flowseal / zapret-discord-youtube
+alibaba / open-code-review
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Flowseal/zapret-discord-youtube
+URL: https://github.com/alibaba/open-code-review
 
-nab138 / iloader
+Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+SnailSploit / Claude-Red
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/nab138/iloader
+URL: https://github.com/SnailSploit/Claude-Red
 
-User friendly sideloader
+claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+
+debpalash / VoiceStudio
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/debpalash/VoiceStudio
+
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+
+alphaXiv / OpenResearch
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/alphaXiv/OpenResearch
+
+Run parallel research agents with any model
+
+yuliskov / SmartTube
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/yuliskov/SmartTube
+
+Browse media content with your own rules on Android TV
+
+multimodal-art-projection / YuE
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/multimodal-art-projection/YuE
+
+YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+
+vxcontrol / pentagi
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/vxcontrol/pentagi
+
+Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 asgeirtj / system_prompts_leaks
 Source: GitHub Trending
@@ -94,12 +89,26 @@ URL: https://github.com/asgeirtj/system_prompts_leaks
 
 Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
 
+calesthio / OpenMontage
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/calesthio/OpenMontage
+
+World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+
 melgarafael / DeskcommCRM
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/melgarafael/DeskcommCRM
 
 Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+
+tech-leads-club / agent-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/tech-leads-club/agent-skills
+
+The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 
 bilawalsidhu / gods-eye-view
 Source: GitHub Trending
@@ -108,218 +117,225 @@ URL: https://github.com/bilawalsidhu/gods-eye-view
 
 A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
-Bomb Sense (2021)
+ever-co / ever-gauzy
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ever-co/ever-gauzy
+
+Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
+
+JustVugg / colibri
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/JustVugg/colibri
+
+Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+
+Vintage Scientific Papers with LaTeX
 Source: Hacker News
 Category: technology
-URL: https://danboland.net/2021/07/15/bomb-sense.html
-Published: 2026-09-09T15:40:19+00:00
-Score: 14
+URL: https://github.com/Foadsf/vintage-latex
+Published: 2026-09-09T16:58:27+00:00
+Score: 77
 
-I've operated petabyte-scale ClickHouse clusters for 5 years
+Reverse engineering my e-scooter and rewriting the firmware in Rust
 Source: Hacker News
 Category: technology
-URL: https://www.tinybird.co/blog/what-i-learned-operating-clickhouse
-Published: 2026-09-07T18:05:04+00:00
-Score: 223
+URL: https://bensimms.moe/reverse-engineering-scooter
+Published: 2026-09-10T03:32:04+00:00
+Score: 7
 
-Designing for Dual Screen and Foldable Devices with CSS (2023)
+Operation Smart Kettle – Börzels Blog
 Source: Hacker News
 Category: technology
-URL: https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices
-Published: 2026-09-10T12:59:26+00:00
-Score: 34
+URL: https://blog.boerzel.de/de/blog/operation-smart-kettle
+Published: 2026-09-10T14:53:30+00:00
+Score: 23
 
-Logo Programming
+Stabilizing Rust's Never Type
 Source: Hacker News
 Category: technology
-URL: https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html
-Published: 2026-09-09T07:07:26+00:00
-Score: 285
+URL: https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41
+Published: 2026-09-09T11:57:45+00:00
+Score: 204
 
-Inverse Kinematics and Foot Locking
+Apple iPod Engraver (2019)
 Source: Hacker News
 Category: technology
-URL: https://theorangeduck.com/page/inverse-kinematics-foot-locking
-Published: 2026-09-07T08:21:41+00:00
-Score: 50
+URL: https://dunstanorchard.com/apple-ipod-engraver
+Published: 2026-09-09T01:57:37+00:00
+Score: 237
 
-Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them
+How to Use Three.js's New Native Gaussian Splats
 Source: Hacker News
 Category: technology
-URL: https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250
-Published: 2026-09-09T11:01:10+00:00
-Score: 72
+URL: https://ben3d.ca/blog/how-to-use-threejs-native-gaussian-splats
+Published: 2026-09-09T10:51:11+00:00
+Score: 17
 
-A Design Space Exploration of Async/Await
+I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant
 Source: Hacker News
 Category: technology
-URL: https://cel.cs.brown.edu/blog/design-space-async-await
-Published: 2026-09-09T13:59:50+00:00
-Score: 297
+URL: https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77
+Published: 2026-09-10T09:32:17+00:00
+Score: 104
 
-IKEA made a mod for Skyrim [video]
-Source: Hacker News
-Category: technology
-URL: https://www.youtube.com/watch?v=iZODN0QUgjI
-Published: 2026-09-10T07:20:50+00:00
-Score: 152
-
-Detailed report on the use of solar geoengineering
+We must pace the frontier
 Source: Hacker News RSS
 Category: technology
-URL: https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering
-Published: 2026-09-10T16:08:54+00:00
+URL: https://darioamodei.com/post/we-must-pace-the-frontier
+Published: 2026-09-12T14:10:49+00:00
 
-Article URL: https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/ Comments URL: https://news.ycombinator.com/item?id=49646113 Points: 13 # Comments: 2
+Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 667 # Comments: 937
 
-Show HN: Bodily Oddities
+I made a build visualizer to understand Bun's compile times
 Source: Hacker News RSS
 Category: technology
-URL: https://vester.si/bodily-oddities
-Published: 2026-09-10T20:33:11+00:00
+URL: https://lalitm.com/post/buildprof
+Published: 2026-09-12T14:45:28+00:00
 
-When I was about 11 years old, my best friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudden, my heart started hurting, and I collapsed to my knees, and the robot was no more. Every time I inhaled, it would feel like a spike was being driven into my heart, and my breathing got completely shallow. I was sure I was done for, when all of a sudden, after an exhale, it disappeared. It wasn't until I was in my twenties that I learned this was called Precordial catch syndrome and it happens to most everyone. Every friend I've told about it was surprised, and also most knew the feeling. I collected a growing list of strange things bodies do ever since. And now finally I made it into a little page for others to see: https://vester.si/bodily-oddities/ It includes a form to tell me about new things, if you think they belong on the page. Feedback welcome! Comments URL: https://news.ycombinator.com/item?id=49649789 Points: 257 # Comments: 169
+Article URL: https://lalitm.com/post/buildprof/ Comments URL: https://news.ycombinator.com/item?id=49672842 Points: 141 # Comments: 28
 
-Google will buy half the electricity from one of Finland's nuclear power plants
+Nvidia is the central bank of AI
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bbc.com/news/articles/c8r6y4me2g6o
-Published: 2026-09-11T00:42:41+00:00
+URL: https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai
+Published: 2026-09-12T15:08:27+00:00
 
-Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o Comments URL: https://news.ycombinator.com/item?id=49652105 Points: 365 # Comments: 326
+https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 502 # Comments: 353
 
-Rune is now open source
+Microcode in Intel's 8087 floating-point chip: the scale instruction
 Source: Hacker News RSS
 Category: technology
-URL: https://rune.build/blog/rune-is-now-open-source
-Published: 2026-09-11T15:31:47+00:00
+URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html
+Published: 2026-09-12T15:49:52+00:00
 
-Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 190 # Comments: 58
+Article URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html Comments URL: https://news.ycombinator.com/item?id=49673580 Points: 115 # Comments: 37
 
-Mind-altering drugs played key role in rise of Andean civilization
+Make your first edit to OpenStreetMap
 Source: Hacker News RSS
 Category: technology
-URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization
-Published: 2026-09-11T17:25:23+00:00
+URL: https://high5apps.github.io/josm-plugin-website-wizard
+Published: 2026-09-12T16:25:08+00:00
 
-Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 165 # Comments: 107
+Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 487 # Comments: 126
 
-Λ Snap – An inviting programming language for kids and adults for CS study
+Will there be a 7G?
 Source: Hacker News RSS
 Category: technology
-URL: https://snap.berkeley.edu/
-Published: 2026-09-11T17:36:11+00:00
+URL: https://arxiv.org/abs/2609.01877
+Published: 2026-09-12T17:05:31+00:00
 
-Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 147 # Comments: 84
+Article URL: https://arxiv.org/abs/2609.01877 Comments URL: https://news.ycombinator.com/item?id=49674498 Points: 109 # Comments: 162
 
-A misalignment of AI in mathematics
+P(doom)
 Source: Hacker News RSS
 Category: technology
-URL: https://mathandai.org/
-Published: 2026-09-11T17:45:12+00:00
+URL: https://lucumr.pocoo.org/2026/9/12/pdoom
+Published: 2026-09-12T21:35:38+00:00
 
-https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 945 # Comments: 907
+Article URL: https://lucumr.pocoo.org/2026/9/12/pdoom/ Comments URL: https://news.ycombinator.com/item?id=49677450 Points: 108 # Comments: 75
 
-Litelm: LiteLLM Without the Bloat
+Don't be the out of touch Kung Fu master
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/kennethwolters/litelm
-Published: 2026-09-11T18:10:20+00:00
+URL: https://twitter.com/ID_AA_Carmack/status/2098443262214230095
+Published: 2026-09-12T21:51:43+00:00
 
-Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 143 # Comments: 49
+Article URL: https://twitter.com/ID_AA_Carmack/status/2098443262214230095 Comments URL: https://news.ycombinator.com/item?id=49677577 Points: 142 # Comments: 178
 
-I spent $220 on Google app ads and 60% of the installs were robots
+AgentsDock: An IDE designed for agentic AI research
 Source: Hacker News RSS
 Category: technology
-URL: https://dayzlegame.com/blog/google-ads-bot-farm
-Published: 2026-09-11T18:24:55+00:00
+URL: https://agentsdock.net/
+Published: 2026-09-12T23:45:58+00:00
 
-Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 547 # Comments: 290
+Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 66 # Comments: 29
 
-GrapheneOS' rewritten Messages app is released
+Everyone should slow down AI development except for me
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/GrapheneOS/Messaging/releases/tag/13
-Published: 2026-09-11T18:50:36+00:00
+URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me
+Published: 2026-09-13T00:30:44+00:00
 
-Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 280 # Comments: 203
+Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 540 # Comments: 325
 
-Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues
+Why are AI agents lying, cheating and coordinating?
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/mirza-rizvi/ResolveHQ
-Published: 2026-09-11T21:48:00+00:00
+URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating
+Published: 2026-09-13T01:22:31+00:00
 
-Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 60 # Comments: 21
+Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 282 # Comments: 343
 
-Project Blinkenlights
+The Interim Computer Museum
 Source: Hacker News RSS
 Category: technology
-URL: https://blinkenlights.de/en
-Published: 2026-09-11T22:15:00+00:00
+URL: https://icm.museum/
+Published: 2026-09-13T02:43:57+00:00
 
-Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 96 # Comments: 31
+Article URL: https://icm.museum/ Comments URL: https://news.ycombinator.com/item?id=49679459 Points: 122 # Comments: 13
 
-OpenAI agents carried out an undisclosed attack on RubyGems
+After Math
 Source: Hacker News RSS
 Category: technology
-URL: https://www.rubyhack.ai/
-Published: 2026-09-11T23:17:42+00:00
+URL: https://terrytao.wordpress.com/2026/09/12/after-math
+Published: 2026-09-13T03:16:41+00:00
 
-https://simonwillison.net/2026/Sep/12/openai-agents-rubygems... Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 722 # Comments: 404
+Article URL: https://terrytao.wordpress.com/2026/09/12/after-math/ Comments URL: https://news.ycombinator.com/item?id=49679637 Points: 100 # Comments: 82
 
-google.com/goto: Google's anti-scraping update
+Aligned to whom?
 Source: Hacker News RSS
 Category: technology
-URL: https://www.autom.dev/blog/google-search-goto-links
-Published: 2026-09-12T03:14:20+00:00
+URL: https://hyperbo.la/w/aligned-to-whom
+Published: 2026-09-13T03:17:18+00:00
 
-Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 439 # Comments: 347
+Article URL: https://hyperbo.la/w/aligned-to-whom/ Comments URL: https://news.ycombinator.com/item?id=49679643 Points: 68 # Comments: 43
 
-Navier-Stokes Announcement
+A succession crisis that tore England apart (2023)
 Source: Hacker News RSS
 Category: technology
-URL: https://www.claymath.org/news/navier-stokes-announcement
-Published: 2026-09-12T04:09:43+00:00
+URL: https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart
+Published: 2026-09-13T03:18:29+00:00
 
-Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 176 # Comments: 115
+Article URL: https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart Comments URL: https://news.ycombinator.com/item?id=49679647 Points: 37 # Comments: 32
 
-Usenet rewind archive search engine
+A wandering black hole caught feeding on the run
 Source: Hacker News RSS
 Category: technology
-URL: https://www.usenet-rewind.com/
-Published: 2026-09-12T04:19:52+00:00
+URL: https://phys.org/news/2026-08-black-hole-caught.html
+Published: 2026-09-13T03:34:53+00:00
 
-Article URL: https://www.usenet-rewind.com/ Comments URL: https://news.ycombinator.com/item?id=49668777 Points: 66 # Comments: 14
+Article URL: https://phys.org/news/2026-08-black-hole-caught.html Comments URL: https://news.ycombinator.com/item?id=49679734 Points: 26 # Comments: 12
 
-WeWorm: Zero-Click WeChat Worm
+JetKVM Mini
 Source: Hacker News RSS
 Category: technology
-URL: https://calif.io/research/weworm
-Published: 2026-09-12T05:49:10+00:00
+URL: https://jetkvm.com/blog/introducing-jetkvm-mini
+Published: 2026-09-13T07:49:46+00:00
 
-Article URL: https://calif.io/research/weworm Comments URL: https://news.ycombinator.com/item?id=49669276 Points: 27 # Comments: 1
+Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini Comments URL: https://news.ycombinator.com/item?id=49681152 Points: 172 # Comments: 78
 
-Retrospectively Reverse-Engineering Apple's Neural Engine
+Homebrew 7.0.0
 Source: Hacker News RSS
 Category: technology
-URL: https://eiln.github.io/posts/ane.html
-Published: 2026-09-12T07:54:03+00:00
+URL: https://brew.sh/2026/09/13/homebrew-7.0.0
+Published: 2026-09-13T08:41:17+00:00
 
-Article URL: https://eiln.github.io/posts/ane.html Comments URL: https://news.ycombinator.com/item?id=49670032 Points: 88 # Comments: 11
+Article URL: https://brew.sh/2026/09/13/homebrew-7.0.0/ Comments URL: https://news.ycombinator.com/item?id=49681545 Points: 77 # Comments: 25
 
-Resistance Training Prescription for Muscle Function, Hypertrophy in Health
+Revolut confirms customer data breach through fake government requests
 Source: Hacker News RSS
 Category: technology
-URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823
-Published: 2026-09-12T09:08:54+00:00
+URL: https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests
+Published: 2026-09-13T09:59:58+00:00
 
-Article URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/ Comments URL: https://news.ycombinator.com/item?id=49670493 Points: 12 # Comments: 1
+Article URL: https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/ Comments URL: https://news.ycombinator.com/item?id=49682087 Points: 28 # Comments: 13
 
-At this point I feel like AI companies selling Fear
+Nvidia dismisses "circular financing", says every $1 it invests brings back $100
 Source: Hacker News RSS
 Category: technology
-URL: https://news.ycombinator.com/item?id=49670907
-Published: 2026-09-12T10:26:40+00:00
+URL: https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling
+Published: 2026-09-13T10:29:18+00:00
 
-AI can do reasoning better But It can't outsmart humans , AI gets trained on data but human have their learning with them ,only about 5% of data a human share as learning, knowledge - rest it just inside us ,So technically AI can't replace human , We do take inspiration , cross domain analysis and much diff things ,that a machine can't even do So I feel like These AI companies are just selling fear just to promote their product , what are your thoughts on this Comments URL: https://news.ycombinator.com/item?id=49670907 Points: 4 # Comments: 0
+Article URL: https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/ Comments URL: https://news.ycombinator.com/item?id=49682319 Points: 45 # Comments: 31
