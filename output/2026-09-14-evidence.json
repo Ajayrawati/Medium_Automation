@@ -1,0 +1,81 @@
+{
+  "topic": "News.ycombinator.com Url Https",
+  "topic_key": "news.ycombinator.com-url-https",
+  "confidence": 87.5,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 89.99,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.5,
+  "evidence": [
+    {
+      "title": "What a time to be alive \u2013 rouge AI agents attack RubyGems.org",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "publisher": "tenderlovemaking.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-14T12:53:49.412522+00:00"
+    },
+    {
+      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "url": "https://xcancel.com/twitter",
+      "publisher": "xcancel.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-14T12:53:49.831444+00:00"
+    },
+    {
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "publisher": "www.macrumors.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-14T12:53:49.955152+00:00"
+    },
+    {
+      "title": "Show HN: Kinesis \u2013 Control your Mac with the Meta Neural Band",
+      "url": "https://github.com/callbacked/kinesis",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-14T12:53:50.450229+00:00"
+    },
+    {
+      "title": "Show HN: StemJSON \u2013 a language for LLMs to extend native mobile apps on the fly",
+      "url": "https://stemjson.com/",
+      "publisher": "stemjson.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-14T12:53:50.525285+00:00"
+    },
+    {
+      "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
+      "url": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge",
+      "publisher": "www.storagereview.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-14T12:53:50.629913+00:00"
+    }
+  ]
+}
