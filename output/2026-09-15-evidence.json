@@ -1,0 +1,81 @@
+{
+  "topic": "Comments Https Url",
+  "topic_key": "comments-https-url",
+  "confidence": 85.7,
+  "score_breakdown": {
+    "source_quality": 65.24,
+    "corroboration": 100.0,
+    "recency": 80.63,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.7,
+  "evidence": [
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "publisher": "www.bbc.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-15T11:48:18.104672+00:00"
+    },
+    {
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/",
+      "publisher": "www.forbrukerradet.no",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-15T11:48:19.457348+00:00"
+    },
+    {
+      "title": "How much of F-Droid is LLM generated?",
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "publisher": "tintotint.eu",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-15T11:48:20.489783+00:00"
+    },
+    {
+      "title": "Alternatives to MinIO for single-node local S3",
+      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+      "publisher": "rmoff.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-15T11:48:20.581824+00:00"
+    },
+    {
+      "title": "The k-server conjecture is true",
+      "url": "https://arxiv.org/abs/2609.15979",
+      "publisher": "arxiv.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-15T11:48:20.673239+00:00"
+    },
+    {
+      "title": "CSS-Tricks in Limbo",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "publisher": "vale.rocks",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-15T11:48:20.786614+00:00"
+    }
+  ]
+}
