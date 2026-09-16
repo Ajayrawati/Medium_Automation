@@ -1,16 +1,9 @@
-earendil-works / pi
+cline / cline
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/earendil-works/pi
+URL: https://github.com/cline/cline
 
-AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-
-tonhowtf / omniget
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/tonhowtf/omniget
-
-Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.
+Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 addyosmani / agent-skills
 Source: GitHub Trending
@@ -19,33 +12,40 @@ URL: https://github.com/addyosmani/agent-skills
 
 Production-grade engineering skills for AI coding agents.
 
-MG1937 / ASC
+multimodal-art-projection / YuE
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/MG1937/ASC
+URL: https://github.com/multimodal-art-projection/YuE
 
-ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 
-pacifio / atlas
+SnailSploit / Claude-Red
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/pacifio/atlas
+URL: https://github.com/SnailSploit/Claude-Red
 
-Source control for agents. Use multiple coding agents, track their changes and query them in one place
+claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
 
-danny-avila / LibreChat
+Tencent / WeKnora
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/danny-avila/LibreChat
+URL: https://github.com/Tencent/WeKnora
 
-Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
+Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 
-NationalSecurityAgency / ghidra
+rlaope / oh-my-hermes
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/NationalSecurityAgency/ghidra
+URL: https://github.com/rlaope/oh-my-hermes
 
-Ghidra is a software reverse engineering (SRE) framework
+All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
+
+supabase / supabase
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/supabase/supabase
+
+The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 alphaXiv / OpenResearch
 Source: GitHub Trending
@@ -54,26 +54,33 @@ URL: https://github.com/alphaXiv/OpenResearch
 
 Turn your coding agents into research agents
 
-melgarafael / DeskcommCRM
+roboflow / supervision
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/melgarafael/DeskcommCRM
+URL: https://github.com/roboflow/supervision
 
-Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+We write your reusable computer vision tools. 💜
 
-Homebrew / BrewUI
+anthropics / claude-code
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Homebrew/BrewUI
+URL: https://github.com/anthropics/claude-code
 
-📺 Homebrew's official macOS GUI
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
-debpalash / VoiceStudio
+NationalSecurityAgency / ghidra
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/debpalash/VoiceStudio
+URL: https://github.com/NationalSecurityAgency/ghidra
 
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+Ghidra is a software reverse engineering (SRE) framework
+
+ankitects / anki
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ankitects/anki
+
+Anki is a smart spaced repetition flashcard program
 
 ever-co / ever-gauzy
 Source: GitHub Trending
@@ -82,12 +89,45 @@ URL: https://github.com/ever-co/ever-gauzy
 
 Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
 
+anthropics / knowledge-work-plugins
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/knowledge-work-plugins
+
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+
+Lakr233 / vphone-cli
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Lakr233/vphone-cli
+
+jamiepine / voicebox
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/jamiepine/voicebox
+
+The open-source AI voice studio. Clone, dictate, create.
+
+abue-ammar / tinycast
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/abue-ammar/tinycast
+
+Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+
 JustVugg / colibri
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/JustVugg/colibri
 
 Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+
+cloudflare / security-audit-skill
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cloudflare/security-audit-skill
+
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 alibaba / open-code-review
 Source: GitHub Trending
@@ -96,204 +136,204 @@ URL: https://github.com/alibaba/open-code-review
 
 Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
-Compressing a flag to 11 bits
+Intelligence per Watt: Measuring Intelligence Efficiency of Local AI
 Source: Hacker News
 Category: technology
-URL: https://read.vantezzen.io/miniflags
-Published: 2026-09-12T15:57:43+00:00
-Score: 159
+URL: https://arxiv.org/abs/2511.07885
+Published: 2026-09-14T09:16:39+00:00
+Score: 58
 
-OpenAI bots knew about the RubyGems caching vulnerability
+Doing Everyone Else's Job
 Source: Hacker News
 Category: technology
-URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive
-Published: 2026-09-14T12:40:57+00:00
-Score: 472
+URL: https://yosefk.com/blog/doing-everyone-elses-job.html
+Published: 2026-09-15T00:01:31+00:00
+Score: 93
 
-Show HN: Redis City – Explore how Redis works in an interactive 3D model
+Show HN: I made a flight simulator, except you're just a passenger
 Source: Hacker News
 Category: technology
-URL: https://poltora.dev/redis
-Published: 2026-09-12T19:43:34+00:00
-Score: 112
+URL: https://inflightsimulator.com/
+Published: 2026-09-14T09:08:56+00:00
+Score: 226
 
-XCancel service is suspended until further notice
+Douglas Adams and the exterminated Doctor Who adventure
 Source: Hacker News
 Category: technology
-URL: https://xcancel.com/
-Published: 2026-09-14T09:51:50+00:00
-Score: 666
+URL: https://www.bbc.co.uk/news/articles/c8jdp38z4jgo
+Published: 2026-09-13T21:49:19+00:00
+Score: 9
 
-4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls
+Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
 Source: Hacker News
 Category: technology
-URL: https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls
-Published: 2026-09-12T18:51:40+00:00
-Score: 156
+URL: https://github.com/arnegiacomo/fugleramme
+Published: 2026-09-15T12:31:10+00:00
+Score: 1704
 
-OpenArm: An open-source 7DOF humanoid arm
+The Google Play app review process now regularly takes longer than a week
 Source: Hacker News
 Category: technology
-URL: https://github.com/enactic/OpenArm
-Published: 2026-09-13T14:17:49+00:00
-Score: 114
+URL: https://gultsch.social/@daniel/117280438824908947
+Published: 2026-09-16T11:19:11+00:00
+Score: 5
 
-People who can't picture anything are rewriting the science of imagination
+Why I'm still bearish on LLMs after Navier-Stokes
 Source: Hacker News RSS
 Category: technology
-URL: https://dailyneuron.com/aphantasia-mental-imagery-brain-network
-Published: 2026-09-14T13:23:53+00:00
+URL: https://dank.systems/posts/2026-09-15-ai-bear.html
+Published: 2026-09-15T17:37:12+00:00
 
-Article URL: https://dailyneuron.com/aphantasia-mental-imagery-brain-network/ Comments URL: https://news.ycombinator.com/item?id=49696453 Points: 180 # Comments: 254
+Article URL: https://dank.systems/posts/2026-09-15-ai-bear.html Comments URL: https://news.ycombinator.com/item?id=49715927 Points: 251 # Comments: 297
 
-Ubuntu 26.10 completes transition to Rust-based coreutils
+Gemini 3.8 Live and 3.8 Live Extended Thinking
 Source: Hacker News RSS
 Category: technology
-URL: https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete
-Published: 2026-09-14T13:38:58+00:00
+URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking
+Published: 2026-09-15T17:38:18+00:00
 
-Article URL: https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete Comments URL: https://news.ycombinator.com/item?id=49696697 Points: 209 # Comments: 222
+Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947 Points: 427 # Comments: 282
 
-Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)
+An update on Wayback Machine access
 Source: Hacker News RSS
 Category: technology
-URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90
-Published: 2026-09-14T14:29:23+00:00
+URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access
+Published: 2026-09-15T17:52:18+00:00
 
-Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 128 # Comments: 28
+Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/ Comments URL: https://news.ycombinator.com/item?id=49716176 Points: 560 # Comments: 299
 
-A rough guide for going back to the Moon
+We got admin access to Baseten's production GitHub
 Source: Hacker News RSS
 Category: technology
-URL: https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model
-Published: 2026-09-14T14:33:00+00:00
+URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover
+Published: 2026-09-15T18:11:24+00:00
 
-Article URL: https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model Comments URL: https://news.ycombinator.com/item?id=49697549 Points: 7 # Comments: 0
+Article URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover Comments URL: https://news.ycombinator.com/item?id=49716476 Points: 287 # Comments: 167
 
-Principles for Fast Tokio Applications
+Chopping up books when they're physically too big
 Source: Hacker News RSS
 Category: technology
-URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications
-Published: 2026-09-14T15:27:56+00:00
+URL: https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html
+Published: 2026-09-15T18:45:31+00:00
 
-Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 223 # Comments: 53
+Article URL: https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html Comments URL: https://news.ycombinator.com/item?id=49716953 Points: 189 # Comments: 173
 
-A beginning for mathematics
+Learning to solve hard problems in RL for LLMs by never giving up
 Source: Hacker News RSS
 Category: technology
-URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics
-Published: 2026-09-14T15:33:07+00:00
+URL: https://mnoukhov.github.io/posts/ngu
+Published: 2026-09-15T19:07:38+00:00
 
-Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49698699 Points: 238 # Comments: 128
+https://arxiv.org/abs/2609.13443 Comments URL: https://news.ycombinator.com/item?id=49717280 Points: 101 # Comments: 6
 
-Distributed Systems Classics (2017)
+Introducing System One Models and Jev
 Source: Hacker News RSS
 Category: technology
-URL: https://nvartolomei.com/dist-sys-classics
-Published: 2026-09-14T16:02:01+00:00
+URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev
+Published: 2026-09-15T19:25:03+00:00
 
-Article URL: https://nvartolomei.com/dist-sys-classics/ Comments URL: https://news.ycombinator.com/item?id=49699158 Points: 314 # Comments: 68
+Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev Comments URL: https://news.ycombinator.com/item?id=49717558 Points: 1469 # Comments: 421
 
-Pion, an agent designed to run any company autonomously
+Building a Linux GPU Driver for the M4 Mac Mini in One Month
 Source: Hacker News RSS
 Category: technology
-URL: https://andonlabs.com/blog/why-we-built-pion
-Published: 2026-09-14T17:16:06+00:00
+URL: https://codyho.dev/blog/gpu-driver
+Published: 2026-09-15T19:30:03+00:00
 
-Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 421 # Comments: 523
+Article URL: https://codyho.dev/blog/gpu-driver/ Comments URL: https://news.ycombinator.com/item?id=49717638 Points: 350 # Comments: 194
 
-iOS 27, iPadOS 27, and macOS 27
+German Rheinmetall open-sources its Battlesuite connected weapon system protcol
 Source: Hacker News RSS
 Category: technology
-URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available
-Published: 2026-09-14T17:50:29+00:00
+URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html
+Published: 2026-09-15T21:07:47+00:00
 
-Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 632 # Comments: 720
+Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html Comments URL: https://news.ycombinator.com/item?id=49718928 Points: 232 # Comments: 81
 
-Charts built for Chat
+Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA
 Source: Hacker News RSS
 Category: technology
-URL: https://dbtcharts.com/blog/charts-built-for-chat
-Published: 2026-09-14T21:22:54+00:00
+URL: https://nand2mario.github.io/posts/2026/zsst-voodoo
+Published: 2026-09-15T22:50:55+00:00
 
-Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 241 # Comments: 75
+Article URL: https://nand2mario.github.io/posts/2026/zsst-voodoo/ Comments URL: https://news.ycombinator.com/item?id=49719938 Points: 135 # Comments: 39
 
-Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
+Saving Jet Fuel
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/JamesRyanATX/fcbnerd
-Published: 2026-09-14T23:01:36+00:00
+URL: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html
+Published: 2026-09-15T23:17:20+00:00
 
-Article URL: https://github.com/JamesRyanATX/fcbnerd Comments URL: https://news.ycombinator.com/item?id=49705442 Points: 78 # Comments: 19
+Article URL: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html Comments URL: https://news.ycombinator.com/item?id=49720164 Points: 102 # Comments: 51
 
-Linux from Scratch
+Apple Reference Image: A New Approach for Verified Photography
 Source: Hacker News RSS
 Category: technology
-URL: https://www.linuxfromscratch.org/
-Published: 2026-09-15T04:15:23+00:00
+URL: https://security.apple.com/blog/apple-reference-image
+Published: 2026-09-16T02:07:31+00:00
 
-Article URL: https://www.linuxfromscratch.org/ Comments URL: https://news.ycombinator.com/item?id=49707627 Points: 216 # Comments: 72
+Article URL: https://security.apple.com/blog/apple-reference-image/ Comments URL: https://news.ycombinator.com/item?id=49721322 Points: 293 # Comments: 205
 
-I can't stop thinking about Papua New Guinea
+Negativland, Culture Jamming, and the Art of Making Something New
 Source: Hacker News RSS
 Category: technology
-URL: https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua
-Published: 2026-09-15T06:16:24+00:00
+URL: https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new
+Published: 2026-09-16T02:46:06+00:00
 
-Article URL: https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua Comments URL: https://news.ycombinator.com/item?id=49708431 Points: 294 # Comments: 108
+Article URL: https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/ Comments URL: https://news.ycombinator.com/item?id=49721548 Points: 88 # Comments: 22
 
-Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)
+Datamimic – don't let your coding agent invent its own test world
 Source: Hacker News RSS
 Category: technology
-URL: https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013
-Published: 2026-09-15T07:00:30+00:00
+URL: https://github.com/rapiddweller/datamimic
+Published: 2026-09-16T04:58:36+00:00
 
-Article URL: https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013 Comments URL: https://news.ycombinator.com/item?id=49708774 Points: 0 # Comments: 0
+Article URL: https://github.com/rapiddweller/datamimic Comments URL: https://news.ycombinator.com/item?id=49722276 Points: 44 # Comments: 7
 
-CSS-Tricks in Limbo
+A software thing I built: GPS on a 25MHz 486-SX
 Source: Hacker News RSS
 Category: technology
-URL: https://vale.rocks/micros/20260915-0135
-Published: 2026-09-15T07:27:46+00:00
+URL: https://forum.vcfed.org/index.php?threads%2Fa-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966%2F=
+Published: 2026-09-16T05:43:44+00:00
 
-Article URL: https://vale.rocks/micros/20260915-0135 Comments URL: https://news.ycombinator.com/item?id=49708993 Points: 30 # Comments: 3
+Article URL: https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/ Comments URL: https://news.ycombinator.com/item?id=49722521 Points: 32 # Comments: 8
 
-The k-server conjecture is true
+MartyPC – A Cycle-Accurate IBM PC/XT Emulator
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2609.15979
-Published: 2026-09-15T07:45:31+00:00
+URL: https://github.com/dbalsom/martypc
+Published: 2026-09-16T05:56:02+00:00
 
-Article URL: https://arxiv.org/abs/2609.15979 Comments URL: https://news.ycombinator.com/item?id=49709129 Points: 19 # Comments: 9
+Article URL: https://github.com/dbalsom/martypc Comments URL: https://news.ycombinator.com/item?id=49722591 Points: 22 # Comments: 2
 
-Alternatives to MinIO for single-node local S3
+Mistral X Mozilla: Private, Multilingual AI Browsing
 Source: Hacker News RSS
 Category: technology
-URL: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3
-Published: 2026-09-15T08:21:27+00:00
+URL: https://mistral.ai/news/mistral-x-mozilla
+Published: 2026-09-16T08:08:57+00:00
 
-Article URL: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/ Comments URL: https://news.ycombinator.com/item?id=49709381 Points: 46 # Comments: 29
+Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 79 # Comments: 17
 
-How much of F-Droid is LLM generated?
+Learning Programming in an Age of LLMs
 Source: Hacker News RSS
 Category: technology
-URL: https://tintotint.eu/whacky-corner/f-droid_slop
-Published: 2026-09-15T09:47:48+00:00
+URL: https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms
+Published: 2026-09-16T09:12:34+00:00
 
-Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 58 # Comments: 44
+Article URL: https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/ Comments URL: https://news.ycombinator.com/item?id=49723873 Points: 66 # Comments: 41
 
-Let's make quality the norm again
+EU chief opens door for Canada to become 'associate member'
 Source: Hacker News RSS
 Category: technology
-URL: https://www.forbrukerradet.no/short-life
-Published: 2026-09-15T10:00:16+00:00
+URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko
+Published: 2026-09-16T09:54:05+00:00
 
-Article URL: https://www.forbrukerradet.no/short-life/ Comments URL: https://news.ycombinator.com/item?id=49710109 Points: 76 # Comments: 87
+Article URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko Comments URL: https://news.ycombinator.com/item?id=49724141 Points: 168 # Comments: 104
 
-Suspected sabotage causes major Netherlands rail disruption
+Salesforce Global Outage
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bbc.com/news/articles/c8ly49w9g1edo
-Published: 2026-09-15T10:22:46+00:00
+URL: https://status.salesforce.com/products/all
+Published: 2026-09-16T10:37:08+00:00
 
-Article URL: https://www.bbc.com/news/articles/c8ly49w9g1edo Comments URL: https://news.ycombinator.com/item?id=49710253 Points: 129 # Comments: 91
+Article URL: https://status.salesforce.com/products/all Comments URL: https://news.ycombinator.com/item?id=49724488 Points: 28 # Comments: 9
