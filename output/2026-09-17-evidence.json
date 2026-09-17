@@ -1,0 +1,81 @@
+{
+  "topic": "News.ycombinator.com Item Url",
+  "topic_key": "news.ycombinator.com-item-url",
+  "confidence": 83.87,
+  "score_breakdown": {
+    "source_quality": 65.83,
+    "corroboration": 100.0,
+    "recency": 70.62,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 93.87,
+  "evidence": [
+    {
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "url": "https://news.ycombinator.com/item?id=49738879",
+      "publisher": "news.ycombinator.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-17T11:46:16.551649+00:00"
+    },
+    {
+      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+      "url": "https://manticoresearch.com/blog/auto-chunking/",
+      "publisher": "manticoresearch.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-17T11:46:16.813967+00:00"
+    },
+    {
+      "title": "GLM Built Its Own Inference Infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "publisher": "z.ai",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-17T11:46:17.667795+00:00"
+    },
+    {
+      "title": "One Year of Sponsored Servo Development",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "publisher": "servo.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-17T11:46:18.016941+00:00"
+    },
+    {
+      "title": "OpenAI Model Misalignment Report",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "publisher": "openai.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-17T11:46:18.216842+00:00"
+    },
+    {
+      "title": "Cloudflare/Security-Audit-Skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-17T11:46:18.551362+00:00"
+    }
+  ]
+}

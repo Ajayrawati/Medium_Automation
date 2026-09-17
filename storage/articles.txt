@@ -1,86 +1,23 @@
+n8n-io / n8n
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/n8n-io/n8n
+
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+coder / coder
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/coder/coder
+
+Secure environments for developers and their agents
+
 cline / cline
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/cline/cline
 
 Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
-
-addyosmani / agent-skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/addyosmani/agent-skills
-
-Production-grade engineering skills for AI coding agents.
-
-multimodal-art-projection / YuE
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/multimodal-art-projection/YuE
-
-YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
-
-SnailSploit / Claude-Red
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/SnailSploit/Claude-Red
-
-claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-
-Tencent / WeKnora
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Tencent/WeKnora
-
-Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-
-rlaope / oh-my-hermes
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/rlaope/oh-my-hermes
-
-All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
-
-supabase / supabase
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/supabase/supabase
-
-The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-
-alphaXiv / OpenResearch
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/alphaXiv/OpenResearch
-
-Turn your coding agents into research agents
-
-roboflow / supervision
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/roboflow/supervision
-
-We write your reusable computer vision tools. 💜
-
-anthropics / claude-code
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/anthropics/claude-code
-
-Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-NationalSecurityAgency / ghidra
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/NationalSecurityAgency/ghidra
-
-Ghidra is a software reverse engineering (SRE) framework
-
-ankitects / anki
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ankitects/anki
-
-Anki is a smart spaced repetition flashcard program
 
 ever-co / ever-gauzy
 Source: GitHub Trending
@@ -89,31 +26,12 @@ URL: https://github.com/ever-co/ever-gauzy
 
 Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
 
-anthropics / knowledge-work-plugins
+TencentCloud / Octop
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/anthropics/knowledge-work-plugins
+URL: https://github.com/TencentCloud/Octop
 
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-
-Lakr233 / vphone-cli
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Lakr233/vphone-cli
-
-jamiepine / voicebox
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/jamiepine/voicebox
-
-The open-source AI voice studio. Clone, dictate, create.
-
-abue-ammar / tinycast
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/abue-ammar/tinycast
-
-Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+A smarter, self-hosted AI assistant — multi-user, multi-agent.
 
 JustVugg / colibri
 Source: GitHub Trending
@@ -122,12 +40,89 @@ URL: https://github.com/JustVugg/colibri
 
 Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
-cloudflare / security-audit-skill
+roboflow / supervision
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/cloudflare/security-audit-skill
+URL: https://github.com/roboflow/supervision
 
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+We write your reusable computer vision tools. 💜
+
+affaan-m / ECC
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/affaan-m/ECC
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+jamiepine / voicebox
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/jamiepine/voicebox
+
+The open-source AI voice studio. Clone, dictate, create.
+
+cilium / cilium
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cilium/cilium
+
+eBPF-based Networking, Security, and Observability
+
+abue-ammar / tinycast
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/abue-ammar/tinycast
+
+Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+
+Tencent / WeKnora
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Tencent/WeKnora
+
+Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+
+anthropics / knowledge-work-plugins
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/knowledge-work-plugins
+
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+
+NationalSecurityAgency / ghidra
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/NationalSecurityAgency/ghidra
+
+Ghidra is a software reverse engineering (SRE) framework
+
+anthropics / claude-code
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/claude-code
+
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+alphaXiv / OpenResearch
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/alphaXiv/OpenResearch
+
+Turn your coding agents into research agents
+
+Tencent / BrowserSkill
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Tencent/BrowserSkill
+
+Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+
+addyosmani / agent-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/addyosmani/agent-skills
+
+Production-grade engineering skills for AI coding agents.
 
 alibaba / open-code-review
 Source: GitHub Trending
@@ -136,204 +131,197 @@ URL: https://github.com/alibaba/open-code-review
 
 Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
-Intelligence per Watt: Measuring Intelligence Efficiency of Local AI
+Developing provably correct Rust code with Verus
 Source: Hacker News
 Category: technology
-URL: https://arxiv.org/abs/2511.07885
-Published: 2026-09-14T09:16:39+00:00
-Score: 58
+URL: https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus
+Published: 2026-09-14T16:57:50+00:00
+Score: 122
 
-Doing Everyone Else's Job
+Comparison of Malloc() Algorithms
 Source: Hacker News
 Category: technology
-URL: https://yosefk.com/blog/doing-everyone-elses-job.html
-Published: 2026-09-15T00:01:31+00:00
-Score: 93
+URL: https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html
+Published: 2026-09-15T16:52:25+00:00
+Score: 82
 
-Show HN: I made a flight simulator, except you're just a passenger
+Online Z3 Guide
 Source: Hacker News
 Category: technology
-URL: https://inflightsimulator.com/
-Published: 2026-09-14T09:08:56+00:00
-Score: 226
+URL: https://microsoft.github.io/z3guide
+Published: 2026-09-15T14:45:08+00:00
+Score: 16
 
-Douglas Adams and the exterminated Doctor Who adventure
+The Relation Between Mathematics and Physics by Paul Dirac
 Source: Hacker News
 Category: technology
-URL: https://www.bbc.co.uk/news/articles/c8jdp38z4jgo
-Published: 2026-09-13T21:49:19+00:00
-Score: 9
+URL: https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html
+Published: 2026-09-13T16:38:22+00:00
+Score: 70
 
-Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it
 Source: Hacker News
 Category: technology
-URL: https://github.com/arnegiacomo/fugleramme
-Published: 2026-09-15T12:31:10+00:00
-Score: 1704
+URL: https://jakeasmith.com/blog/http-build-url
+Published: 2026-09-15T20:53:36+00:00
+Score: 149
 
-The Google Play app review process now regularly takes longer than a week
-Source: Hacker News
-Category: technology
-URL: https://gultsch.social/@daniel/117280438824908947
-Published: 2026-09-16T11:19:11+00:00
-Score: 5
-
-Why I'm still bearish on LLMs after Navier-Stokes
+AWS says it can't restore some data from mideast facilities struck by Iran
 Source: Hacker News RSS
 Category: technology
-URL: https://dank.systems/posts/2026-09-15-ai-bear.html
-Published: 2026-09-15T17:37:12+00:00
+URL: https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d
+Published: 2026-09-15T21:41:42+00:00
 
-Article URL: https://dank.systems/posts/2026-09-15-ai-bear.html Comments URL: https://news.ycombinator.com/item?id=49715927 Points: 251 # Comments: 297
+https://archive.is/Ay7RJ Comments URL: https://news.ycombinator.com/item?id=49719249 Points: 431 # Comments: 356
 
-Gemini 3.8 Live and 3.8 Live Extended Thinking
+The engineering behind the US Strategic Petroleum Reserve
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking
-Published: 2026-09-15T17:38:18+00:00
+URL: https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve
+Published: 2026-09-15T22:15:25+00:00
 
-Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947 Points: 427 # Comments: 282
+Article URL: https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve Comments URL: https://news.ycombinator.com/item?id=49719596 Points: 216 # Comments: 86
 
-An update on Wayback Machine access
+Lucasart's Afterlife
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access
-Published: 2026-09-15T17:52:18+00:00
+URL: https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife
+Published: 2026-09-15T22:30:30+00:00
 
-Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/ Comments URL: https://news.ycombinator.com/item?id=49716176 Points: 560 # Comments: 299
+Article URL: https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/ Comments URL: https://news.ycombinator.com/item?id=49719751 Points: 37 # Comments: 18
 
-We got admin access to Baseten's production GitHub
+A 32-year-old bug walks into a Telnet server
 Source: Hacker News RSS
 Category: technology
-URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover
-Published: 2026-09-15T18:11:24+00:00
+URL: https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746
+Published: 2026-09-16T02:01:27+00:00
 
-Article URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover Comments URL: https://news.ycombinator.com/item?id=49716476 Points: 287 # Comments: 167
+Article URL: https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/ Comments URL: https://news.ycombinator.com/item?id=49721291 Points: 68 # Comments: 28
 
-Chopping up books when they're physically too big
+Nvidia announces native GPU programming in Rust
 Source: Hacker News RSS
 Category: technology
-URL: https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html
-Published: 2026-09-15T18:45:31+00:00
+URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels
+Published: 2026-09-16T11:15:53+00:00
 
-Article URL: https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html Comments URL: https://news.ycombinator.com/item?id=49716953 Points: 189 # Comments: 173
+Article URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/ Comments URL: https://news.ycombinator.com/item?id=49724881 Points: 738 # Comments: 301
 
-Learning to solve hard problems in RL for LLMs by never giving up
+Small programming tricks
 Source: Hacker News RSS
 Category: technology
-URL: https://mnoukhov.github.io/posts/ngu
-Published: 2026-09-15T19:07:38+00:00
+URL: https://will-keleher.com/posts/small-programming-tricks-matter
+Published: 2026-09-16T15:56:47+00:00
 
-https://arxiv.org/abs/2609.13443 Comments URL: https://news.ycombinator.com/item?id=49717280 Points: 101 # Comments: 6
+Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/ Comments URL: https://news.ycombinator.com/item?id=49729000 Points: 536 # Comments: 242
 
-Introducing System One Models and Jev
+Training a 4B model to produce 81% faster query plans than Postgres
 Source: Hacker News RSS
 Category: technology
-URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev
-Published: 2026-09-15T19:25:03+00:00
+URL: https://rohanbansal.com/qorl
+Published: 2026-09-16T18:50:00+00:00
 
-Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev Comments URL: https://news.ycombinator.com/item?id=49717558 Points: 1469 # Comments: 421
+Article URL: https://rohanbansal.com/qorl Comments URL: https://news.ycombinator.com/item?id=49731285 Points: 572 # Comments: 120
 
-Building a Linux GPU Driver for the M4 Mac Mini in One Month
+Xiaomi Mimo 2.6 live post-training dashboard
 Source: Hacker News RSS
 Category: technology
-URL: https://codyho.dev/blog/gpu-driver
-Published: 2026-09-15T19:30:03+00:00
+URL: https://mimo.xiaomi.com/rl
+Published: 2026-09-16T20:09:18+00:00
 
-Article URL: https://codyho.dev/blog/gpu-driver/ Comments URL: https://news.ycombinator.com/item?id=49717638 Points: 350 # Comments: 194
+Article URL: https://mimo.xiaomi.com/rl/ Comments URL: https://news.ycombinator.com/item?id=49732270 Points: 453 # Comments: 122
 
-German Rheinmetall open-sources its Battlesuite connected weapon system protcol
+Backups Aren't Simple
 Source: Hacker News RSS
 Category: technology
-URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html
-Published: 2026-09-15T21:07:47+00:00
+URL: https://filipovski.net/2026/09/16/backups-arent-simple.html
+Published: 2026-09-16T20:27:16+00:00
 
-Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html Comments URL: https://news.ycombinator.com/item?id=49718928 Points: 232 # Comments: 81
+Article URL: https://filipovski.net/2026/09/16/backups-arent-simple.html Comments URL: https://news.ycombinator.com/item?id=49732513 Points: 259 # Comments: 155
 
-Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA
+Breaking the 1.58-bit Barrier for Ternary LLMs
 Source: Hacker News RSS
 Category: technology
-URL: https://nand2mario.github.io/posts/2026/zsst-voodoo
-Published: 2026-09-15T22:50:55+00:00
+URL: https://arxiv.org/abs/2609.16338
+Published: 2026-09-16T20:59:24+00:00
 
-Article URL: https://nand2mario.github.io/posts/2026/zsst-voodoo/ Comments URL: https://news.ycombinator.com/item?id=49719938 Points: 135 # Comments: 39
+Article URL: https://arxiv.org/abs/2609.16338 Comments URL: https://news.ycombinator.com/item?id=49732931 Points: 213 # Comments: 34
 
-Saving Jet Fuel
+HarnessTax: How Much Does the Harness Matter for Coding Agents?
 Source: Hacker News RSS
 Category: technology
-URL: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html
-Published: 2026-09-15T23:17:20+00:00
+URL: https://harnesstax.github.io/
+Published: 2026-09-16T22:10:13+00:00
 
-Article URL: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html Comments URL: https://news.ycombinator.com/item?id=49720164 Points: 102 # Comments: 51
+Article URL: https://harnesstax.github.io/ Comments URL: https://news.ycombinator.com/item?id=49733726 Points: 143 # Comments: 55
 
-Apple Reference Image: A New Approach for Verified Photography
+OpenSpec – A lightweight and configurable AI spec framework
 Source: Hacker News RSS
 Category: technology
-URL: https://security.apple.com/blog/apple-reference-image
-Published: 2026-09-16T02:07:31+00:00
+URL: https://openspec.dev/
+Published: 2026-09-16T23:06:39+00:00
 
-Article URL: https://security.apple.com/blog/apple-reference-image/ Comments URL: https://news.ycombinator.com/item?id=49721322 Points: 293 # Comments: 205
+Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 149 # Comments: 66
 
-Negativland, Culture Jamming, and the Art of Making Something New
+The Return of Sail Power: Cargo Ships Are Turning Back to the Wind
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new
-Published: 2026-09-16T02:46:06+00:00
+URL: https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind
+Published: 2026-09-17T00:28:33+00:00
 
-Article URL: https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/ Comments URL: https://news.ycombinator.com/item?id=49721548 Points: 88 # Comments: 22
+Article URL: https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/ Comments URL: https://news.ycombinator.com/item?id=49734929 Points: 104 # Comments: 71
 
-Datamimic – don't let your coding agent invent its own test world
+Keys Not Included: recovering the signing keys for US driver's license barcodes
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/rapiddweller/datamimic
-Published: 2026-09-16T04:58:36+00:00
+URL: https://ryan.science/blog/keys-not-included
+Published: 2026-09-17T03:03:23+00:00
 
-Article URL: https://github.com/rapiddweller/datamimic Comments URL: https://news.ycombinator.com/item?id=49722276 Points: 44 # Comments: 7
+Article URL: https://ryan.science/blog/keys-not-included Comments URL: https://news.ycombinator.com/item?id=49735930 Points: 193 # Comments: 71
 
-A software thing I built: GPS on a 25MHz 486-SX
+Cloudflare/Security-Audit-Skill
 Source: Hacker News RSS
 Category: technology
-URL: https://forum.vcfed.org/index.php?threads%2Fa-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966%2F=
-Published: 2026-09-16T05:43:44+00:00
+URL: https://github.com/cloudflare/security-audit-skill
+Published: 2026-09-17T04:36:55+00:00
 
-Article URL: https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/ Comments URL: https://news.ycombinator.com/item?id=49722521 Points: 32 # Comments: 8
+Article URL: https://github.com/cloudflare/security-audit-skill Comments URL: https://news.ycombinator.com/item?id=49736466 Points: 83 # Comments: 16
 
-MartyPC – A Cycle-Accurate IBM PC/XT Emulator
+OpenAI Model Misalignment Report
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/dbalsom/martypc
-Published: 2026-09-16T05:56:02+00:00
+URL: https://openai.com/index/model-misalignment-reporting-framework
+Published: 2026-09-17T07:21:19+00:00
 
-Article URL: https://github.com/dbalsom/martypc Comments URL: https://news.ycombinator.com/item?id=49722591 Points: 22 # Comments: 2
+Article URL: https://openai.com/index/model-misalignment-reporting-framework/ Comments URL: https://news.ycombinator.com/item?id=49737503 Points: 60 # Comments: 28
 
-Mistral X Mozilla: Private, Multilingual AI Browsing
+One Year of Sponsored Servo Development
 Source: Hacker News RSS
 Category: technology
-URL: https://mistral.ai/news/mistral-x-mozilla
-Published: 2026-09-16T08:08:57+00:00
+URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship
+Published: 2026-09-17T08:13:54+00:00
 
-Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 79 # Comments: 17
+Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 122 # Comments: 51
 
-Learning Programming in an Age of LLMs
+GLM Built Its Own Inference Infrastructure
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms
-Published: 2026-09-16T09:12:34+00:00
+URL: https://z.ai/blog/glm-built-its-inference-infrastructure
+Published: 2026-09-17T08:27:09+00:00
 
-Article URL: https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/ Comments URL: https://news.ycombinator.com/item?id=49723873 Points: 66 # Comments: 41
+Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 99 # Comments: 67
 
-EU chief opens door for Canada to become 'associate member'
+Better Vector Search for Long Documents: Chunking Inside Manticore Search
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko
-Published: 2026-09-16T09:54:05+00:00
+URL: https://manticoresearch.com/blog/auto-chunking
+Published: 2026-09-17T10:30:52+00:00
 
-Article URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko Comments URL: https://news.ycombinator.com/item?id=49724141 Points: 168 # Comments: 104
+Article URL: https://manticoresearch.com/blog/auto-chunking/ Comments URL: https://news.ycombinator.com/item?id=49738766 Points: 11 # Comments: 0
 
-Salesforce Global Outage
+Neovim have a ~$800k Bitcoin donation sitting untouched since 2023
 Source: Hacker News RSS
 Category: technology
-URL: https://status.salesforce.com/products/all
-Published: 2026-09-16T10:37:08+00:00
+URL: https://news.ycombinator.com/item?id=49738879
+Published: 2026-09-17T10:44:49+00:00
 
-Article URL: https://status.salesforce.com/products/all Comments URL: https://news.ycombinator.com/item?id=49724488 Points: 28 # Comments: 9
+I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address. Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin donation from back in 2023 (worth $800,000 now...) From the activity history, neovim last sent bitcoin out of the address in 2019 so it's been max 7 years since they've definitely had access. Does anyone from the neovim project know about this? Seems like a pretty significant amount of funding to have sitting there. Hope it can come to good use as I use neovim daily. https://www.blockchain.com/explorer/addresses/btc/1Evu6wPrzjsjrNPdCYbHy3HT6ry2EzXFyQ Comments URL: https://news.ycombinator.com/item?id=49738879 Points: 56 # Comments: 8
