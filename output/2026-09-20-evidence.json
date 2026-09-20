@@ -1,0 +1,81 @@
+{
+  "topic": "Article News.ycombinator.com Https",
+  "topic_key": "article-news.ycombinator.com-https",
+  "confidence": 85.6,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 80.52,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.6,
+  "evidence": [
+    {
+      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+      "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+      "publisher": "www.theregister.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-20T11:29:03.630374+00:00"
+    },
+    {
+      "title": "Don't Be Nice",
+      "url": "https://roe.dev/blog/dont-be-nice",
+      "publisher": "roe.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-20T11:29:03.771526+00:00"
+    },
+    {
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "publisher": "reclaimthenet.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-20T11:29:04.048958+00:00"
+    },
+    {
+      "title": "UTF-8000: Unlimited UTF-8",
+      "url": "https://utf-8000.jb2170.com",
+      "publisher": "utf-8000.jb2170.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-20T11:29:05.093431+00:00"
+    },
+    {
+      "title": "Telling a Computer to Do Things",
+      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+      "publisher": "will-keleher.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-20T11:29:05.245062+00:00"
+    },
+    {
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "url": "https://www.stepfun.com/step-5-preview",
+      "publisher": "www.stepfun.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-20T11:29:06.552155+00:00"
+    }
+  ]
+}

