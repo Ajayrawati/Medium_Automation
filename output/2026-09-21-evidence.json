@@ -1,0 +1,81 @@
+{
+  "topic": "News.ycombinator.com Url Https",
+  "topic_key": "news.ycombinator.com-url-https",
+  "confidence": 86.11,
+  "score_breakdown": {
+    "source_quality": 65.24,
+    "corroboration": 100.0,
+    "recency": 82.71,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.11,
+  "evidence": [
+    {
+      "title": "Show HN: Lossless-memory \u2013 a personal AI memory that never summarizes",
+      "url": "https://github.com/aru-labs/lossless-memory",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-21T12:53:38.021841+00:00"
+    },
+    {
+      "title": "ZuckOff Know when a camera is in the room",
+      "url": "https://zuckoff.app/",
+      "publisher": "zuckoff.app",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-21T12:53:38.276506+00:00"
+    },
+    {
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "publisher": "www.wired.me",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-21T12:53:38.650267+00:00"
+    },
+    {
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "publisher": "consumerrights.wiki",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-21T12:53:38.785942+00:00"
+    },
+    {
+      "title": "Elektron Machinedrum in the Browser",
+      "url": "https://machinedrum-study.pages.dev/",
+      "publisher": "machinedrum-study.pages.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-21T12:53:38.915607+00:00"
+    },
+    {
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "publisher": "gameshelf.jmac.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-21T12:53:39.602587+00:00"
+    }
+  ]
+}
