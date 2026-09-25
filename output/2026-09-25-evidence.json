@@ -1,0 +1,81 @@
+{
+  "topic": "Comments Item News.ycombinator.com",
+  "topic_key": "comments-item-news.ycombinator.com",
+  "confidence": 86.26,
+  "score_breakdown": {
+    "source_quality": 65.26,
+    "corroboration": 100.0,
+    "recency": 83.43,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.26,
+  "evidence": [
+    {
+      "title": "Show HN: Agentic CUDA Kernel Optimizer",
+      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-25T11:54:49.896587+00:00"
+    },
+    {
+      "title": "The Mafia may be keeping fentanyl out of Italy",
+      "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+      "publisher": "economist.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-25T11:54:50.151895+00:00"
+    },
+    {
+      "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+      "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+      "publisher": "www.ft.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-25T11:54:50.800102+00:00"
+    },
+    {
+      "title": "Ink and Switch Interactive Homepage",
+      "url": "https://www.inkandswitch.com/",
+      "publisher": "www.inkandswitch.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-25T11:54:50.904977+00:00"
+    },
+    {
+      "title": "Special Projects (2016)",
+      "url": "https://openai.com/index/special-projects/",
+      "publisher": "openai.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-25T11:54:51.024474+00:00"
+    },
+    {
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "url": "https://www.dawo.community/en/",
+      "publisher": "www.dawo.community",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-25T11:54:51.959977+00:00"
+    }
+  ]
+}

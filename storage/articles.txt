@@ -1,63 +1,16 @@
-leejet / stable-diffusion.cpp
+openbao / openbao
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/leejet/stable-diffusion.cpp
+URL: https://github.com/openbao/openbao
 
-Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 
-superdesigndev / treg
+pbakaus / impeccable
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/superdesigndev/treg
+URL: https://github.com/pbakaus/impeccable
 
-OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-
-julyx10 / lap
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/julyx10/lap
-
-An offline-first photo manager for large local libraries
-
-strands-agents / harness-sdk
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/strands-agents/harness-sdk
-
-Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
-
-obra / superpowers
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/obra/superpowers
-
-An agentic skills framework & software development methodology that works.
-
-mvt-project / mvt
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/mvt-project/mvt
-
-MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-
-HKUDS / CLI-Anything
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/HKUDS/CLI-Anything
-
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-
-anthropics / financial-services
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/anthropics/financial-services
-
-FxEmbed / FxEmbed
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/FxEmbed/FxEmbed
-
-Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+The design language that makes your AI harness better at design.
 
 NVIDIA / Model-Optimizer
 Source: GitHub Trending
@@ -73,19 +26,12 @@ URL: https://github.com/google/ax
 
 Google's open agentic orchestration runtime
 
-dream-num / univer
+shy3130 / tick-stock-panel
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/dream-num/univer
+URL: https://github.com/shy3130/tick-stock-panel
 
-The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
-
-vectorize-io / hindsight
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/vectorize-io/hindsight
-
-Hindsight: Agent Memory That Learns
+TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源
 
 rohitg00 / ai-engineering-from-scratch
 Source: GitHub Trending
@@ -94,218 +40,274 @@ URL: https://github.com/rohitg00/ai-engineering-from-scratch
 
 Learn it. Build it. Ship it for others.
 
-Making portable my unportable transputer C compiler
+kelseyhightower / kubernetes-the-hard-way
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/kelseyhightower/kubernetes-the-hard-way
+
+Bootstrap Kubernetes the hard way. No scripts.
+
+derv82 / wifit3
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/derv82/wifit3
+
+Wifite but USB-only & cross-platform.
+
+androoAGI / starnet
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/androoAGI/starnet
+
+A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
+
+anthropics / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/skills
+
+Public repository for Agent Skills
+
+dream-num / univer
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/dream-num/univer
+
+The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+
+mattpocock / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mattpocock/skills
+
+Skills for Real Engineers. Straight from my .agents directory.
+
+obra / superpowers
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/obra/superpowers
+
+An agentic skills framework & software development methodology that works.
+
+vectorize-io / hindsight
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/vectorize-io/hindsight
+
+Hindsight: Agent Memory That Learns
+
+anthropics / claude-plugins-official
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/claude-plugins-official
+
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
+
+paperclipai / paperclip
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/paperclipai/paperclip
+
+The open-source app everyone uses to manage agents at work
+
+My weird new hobby: Wandering around Tokyo on Google Maps
 Source: Hacker News
 Category: technology
-URL: https://nanochess.org/transputer_c_compiler.html
-Published: 2026-09-22T01:07:46+00:00
-Score: 51
+URL: https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo
+Published: 2026-09-22T17:49:46+00:00
+Score: 348
 
-Automated optimization of a molecular simulation program
+Toyota is taking the Corolla electric
 Source: Hacker News
 Category: technology
-URL: https://shishir-iyer.medium.com/automated-optimization-of-a-molecular-simulation-program-4a28a2bc05ad
-Published: 2026-09-22T16:38:28+00:00
-Score: 6
+URL: https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric
+Published: 2026-09-23T22:37:28+00:00
+Score: 349
 
-Women Who Sold Books Door to Door
+Rails World 2026 Opening Keynote [video]
 Source: Hacker News
 Category: technology
-URL: https://daily.jstor.org/the-women-who-sold-books-door-to-door
-Published: 2026-09-21T20:52:52+00:00
-Score: 34
+URL: https://www.youtube.com/watch?v=vDjW_dRyKXY
+Published: 2026-09-23T15:33:33+00:00
+Score: 351
 
-The newest ESP32 can run Linux and it's getting close to a Raspberry Pi
+Fearless SIMD v1.0
 Source: Hacker News
 Category: technology
-URL: https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi
-Published: 2026-09-24T11:08:39+00:00
-Score: 8
+URL: https://linebender.org/blog/fearless-simd-1-0
+Published: 2026-09-22T12:23:37+00:00
+Score: 271
 
-Why 'What's Opera, Doc?' looks like that
+2DWillNeverDie
 Source: Hacker News
 Category: technology
-URL: https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that
-Published: 2026-09-23T15:37:47+00:00
-Score: 75
+URL: https://2dwillneverdie.com/
+Published: 2026-09-22T14:00:08+00:00
+Score: 260
 
-Fixing the Portobello Police Station Clock
+Show HN: Make cursed fonts like Times New Bastard
 Source: Hacker News
 Category: technology
-URL: https://pointinthecloud.com/2026-04-11-211700.html
-Published: 2026-09-23T15:18:53+00:00
-Score: 458
+URL: https://bastardica.mitpit.com/
+Published: 2026-09-23T22:53:28+00:00
+Score: 732
 
-The "Windows XP Box" (2003)
-Source: Hacker News
-Category: technology
-URL: https://www.mini-itx.com/projects/windowsxpbox
-Published: 2026-09-22T03:09:04+00:00
-Score: 164
-
-RAM: the forgotten history (2024)
-Source: Hacker News
-Category: technology
-URL: https://blog.coredump.cx/p/memory-the-forgotten-history
-Published: 2026-09-22T15:12:17+00:00
-Score: 36
-
-Italian parliament votes for return to nuclear energy
+Two-tier encryption in the UK
 Source: Hacker News RSS
 Category: technology
-URL: https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567
-Published: 2026-09-23T17:06:16+00:00
+URL: https://macanorak.com/two-tier-encryption-in-the-uk
+Published: 2026-09-24T10:39:19+00:00
 
-Article URL: https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567 Comments URL: https://news.ycombinator.com/item?id=49819221 Points: 807 # Comments: 644
+Article URL: https://macanorak.com/two-tier-encryption-in-the-uk/ Comments URL: https://news.ycombinator.com/item?id=49828731 Points: 467 # Comments: 414
 
-Making Tailscale Faster
+Google’s Project Suncatcher to put ML infrastructure in space
 Source: Hacker News RSS
 Category: technology
-URL: https://tailscale.com/blog/making-tailscale-faster
-Published: 2026-09-23T17:49:07+00:00
+URL: https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts
+Published: 2026-09-24T13:53:29+00:00
 
-Article URL: https://tailscale.com/blog/making-tailscale-faster Comments URL: https://news.ycombinator.com/item?id=49819880 Points: 181 # Comments: 70
+https://www.nytimes.com/2026/09/24/technology/google-suncatc... ( https://archive.ph/BGFnP ) Comments URL: https://news.ycombinator.com/item?id=49830606 Points: 196 # Comments: 394
 
-A brief history of Windows scroll bar shortcuts
+F-Droid 2.0
 Source: Hacker News RSS
 Category: technology
-URL: https://devblogs.microsoft.com/oldnewthing/20260922-00?p=112719%2F
-Published: 2026-09-23T18:02:08+00:00
+URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
+Published: 2026-09-24T15:26:12+00:00
 
-Article URL: https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/ Comments URL: https://news.ycombinator.com/item?id=49820065 Points: 150 # Comments: 85
+Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html Comments URL: https://news.ycombinator.com/item?id=49831968 Points: 1277 # Comments: 370
 
-Claude discovers a novel enzyme system with CRISPR-like repeats
+Why is the liver so weirdly regenerative?
 Source: Hacker News RSS
 Category: technology
-URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
-Published: 2026-09-23T18:06:47+00:00
+URL: https://dynomight.substack.com/p/liver
+Published: 2026-09-24T16:23:00+00:00
 
-Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system Comments URL: https://news.ycombinator.com/item?id=49820134 Points: 671 # Comments: 680
+Article URL: https://dynomight.substack.com/p/liver Comments URL: https://news.ycombinator.com/item?id=49832938 Points: 429 # Comments: 223
 
-VSCode's SSH Agent Is Bananas (2025)
+Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design
 Source: Hacker News RSS
 Category: technology
-URL: https://fly.io/blog/vscode-ssh-wtf
-Published: 2026-09-23T21:01:48+00:00
+URL: https://github.com/devdotfast/whiteboard
+Published: 2026-09-24T17:21:36+00:00
 
-Article URL: https://fly.io/blog/vscode-ssh-wtf/ Comments URL: https://news.ycombinator.com/item?id=49822555 Points: 245 # Comments: 157
+Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard ( https://whiteboard.dev.fast/ ), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: https://github.com/devdotfast/whiteboard . We were missing the feeling of a “whiteboard session” with another dev where you leave with a deep understanding of a system, so we built this app for ourselves. Whiteboard plugs into the tools you already use - e.g. Claude Code, Codex, etc. – and gives your agent an SDK to draw on an in-app canvas to describe its work. We began with an MVP based on HTML artifacts and started rethinking the app as we ran into limitations: 1. Built on top of CodeOSS: We found that in pure HTML tools it was hard to connect a spec or diagram to code. In Whiteboard, when you click on visualizations like a sequence diagram, an entity relationship diagram, or a quote from the agent’s trace, you can jump to the underlying code directly. When navigating code, you get keybindings and LSP support from VSCode out of the box. We’ve found this is especially valuable because tradeoffs are often only discovered after a first pass at implementation (re: slop) 2. Semantic diff viewer: we wrote a semantic, AST-aware diff viewer in Rust so you can only view the code changes which are relevant to you [1]. We’ve set up some sane defaults: large added functions are summarized as pseudocode, and things like unit tests and large documentation changes are collapsed / hidden. This is all customizable with a WASM-based plugin system. 3. Decision Log: We found it difficult to reason about what set of decisions our agents made autonomously. So we built tools for agents to query and link their own traces to the Whiteboard, so you can understand how the requirements that you set were implemented, and understand what decisions your agent made autonomously. Here’s a quick demo video explaining more: https://www.youtube.com/watch?v=ChPn3ftULWE Folks at companies like Salesforce and Modal are using Whiteboard today as a review tool for architecture or spec-level changes – really any change where they want to be involved: 1. Reviewing your own coding agent’s work: because Whiteboard makes it easier to review large amounts of code, folks will typically have their AI agents create a prototype and a corresponding Whiteboard session so they can iterate on the design. 2. Reviewing other people’s changes: We’ve found that Whiteboard is particularly helpful when composed with tools like Greptile. For example, you can run an automated code reviewer on small changes and escalate to a Whiteboard session for the changes that require human judgement. Why we built this: we’re four buddies from college who quit our jobs as tech leads right before agentic coding became industry standard. As we iterated towards an MVP for a previous idea, we struggled to maintain a comprehensible codebase while reaping all the velocity benefits of agentic coding. As more PRs were merged without our understanding, we felt a ‘cognitive debt’ begin to seep in, until it became difficult for us to even contribute to the system [2]. We’re releasing our desktop app under an MIT license. Please poke through and feel free to contribute! Eventually we’ll charge companies for a hosted web version that manages whiteboard session creation alongside features like trajectory storage and multiplayer reviews. Everything will always remain self-hostable. Thanks for reading, and we hope you try it out! We would love to hear any feedback and to learn from your expertise. Here’s are the project links again: https://github.com/devdotfast/whiteboard , and you can install (for MacOS + Linux) at https://install.dev.fast [1] diffs library: https://github.com/devdotfast/diffr [2] Credit for the term ‘cognitive debt’ goes to https://www.geoffreylitt.com/2026/07/02/understanding-is-the... Comments URL: https://news.ycombinator.com/item?id=49833867 Points: 327 # Comments: 120
 
-Mercury 2.5 LLM hits 770 tokens per second
+Using LLMs to trace alchemical knowledge and decode 17th century letters
 Source: Hacker News RSS
 Category: technology
-URL: https://artificialanalysis.ai/models/mercury-2-5
-Published: 2026-09-23T22:16:19+00:00
+URL: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
+Published: 2026-09-24T19:14:27+00:00
 
-Article URL: https://artificialanalysis.ai/models/mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49823348 Points: 121 # Comments: 68
+Article URL: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical Comments URL: https://news.ycombinator.com/item?id=49835531 Points: 139 # Comments: 30
 
-Linux support is coming to Snapdragon X2 Series
+Sourcehut account takeover via build logs (XSS in ansi2html)
 Source: Hacker News RSS
 Category: technology
-URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux
-Published: 2026-09-23T22:38:16+00:00
+URL: https://blog.arusekk.pl/posts/srht-account-takeover
+Published: 2026-09-24T19:54:21+00:00
 
-Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux Comments URL: https://news.ycombinator.com/item?id=49823582 Points: 448 # Comments: 187
+Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=49835996 Points: 130 # Comments: 25
 
-ArXiv receives multiyear commitments to support it as an independent nonprofit
+Opus 5.5 is good at explainer videos
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment
-Published: 2026-09-23T22:45:49+00:00
+URL: https://launchvideo.io/
+Published: 2026-09-24T20:28:47+00:00
 
-Article URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/ Comments URL: https://news.ycombinator.com/item?id=49823664 Points: 203 # Comments: 25
+Article URL: https://launchvideo.io Comments URL: https://news.ycombinator.com/item?id=49836374 Points: 290 # Comments: 147
 
-Meta VR Glasses
+California is chasing wealth that has feet
 Source: Hacker News RSS
 Category: technology
-URL: https://www.meta.com/vr-glasses
-Published: 2026-09-23T23:47:56+00:00
+URL: https://blog.landeconomics.org/p/california-is-chasing-wealth-that
+Published: 2026-09-24T20:34:32+00:00
 
-Article URL: https://www.meta.com/vr-glasses/ Comments URL: https://news.ycombinator.com/item?id=49824268 Points: 422 # Comments: 372
+Article URL: https://blog.landeconomics.org/p/california-is-chasing-wealth-that Comments URL: https://news.ycombinator.com/item?id=49836419 Points: 254 # Comments: 678
 
-Show HN: An open-source manufacturing ERP/MES/QMS
+The Board Game of the Alpha Nerds (2014)
 Source: Hacker News RSS
 Category: technology
-URL: https://carbon.ms/self-hosted
-Published: 2026-09-24T00:45:17+00:00
+URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds
+Published: 2026-09-24T20:53:39+00:00
 
-Article URL: https://carbon.ms/self-hosted Comments URL: https://news.ycombinator.com/item?id=49824715 Points: 40 # Comments: 17
+Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/ Comments URL: https://news.ycombinator.com/item?id=49836590 Points: 92 # Comments: 50
 
-Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest
+What About Rails?
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/nestrilabs/virtio-nvgpu
-Published: 2026-09-24T01:02:23+00:00
+URL: https://jardo.dev/what-about-rails
+Published: 2026-09-25T02:50:16+00:00
 
-Article URL: https://github.com/nestrilabs/virtio-nvgpu Comments URL: https://news.ycombinator.com/item?id=49824864 Points: 110 # Comments: 46
+Article URL: https://jardo.dev/what-about-rails Comments URL: https://news.ycombinator.com/item?id=49839664 Points: 86 # Comments: 38
 
-OpenAI agent hacked Australian government website, PM says
+CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bbc.com/news/live/cvgl73pxgndwt
-Published: 2026-09-24T02:44:48+00:00
+URL: https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2
+Published: 2026-09-25T07:03:46+00:00
 
-Article URL: https://www.bbc.com/news/live/cvgl73pxgndwt Comments URL: https://news.ycombinator.com/item?id=49825580 Points: 88 # Comments: 49
+Article URL: https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2 Comments URL: https://news.ycombinator.com/item?id=49841115 Points: 58 # Comments: 15
 
-Ideas on modernizing the open-source desktop
+Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini
 Source: Hacker News RSS
 Category: technology
-URL: https://lwn.net/SubscriberLink/1095425/2d9f411252325784
-Published: 2026-09-24T02:52:09+00:00
+URL: https://nyaa.sh/reviews/mac-mini-m6-emulation
+Published: 2026-09-25T07:27:45+00:00
 
-Article URL: https://lwn.net/SubscriberLink/1095425/2d9f411252325784/ Comments URL: https://news.ycombinator.com/item?id=49825642 Points: 169 # Comments: 176
+Article URL: https://nyaa.sh/reviews/mac-mini-m6-emulation Comments URL: https://news.ycombinator.com/item?id=49841285 Points: 88 # Comments: 36
 
-Contrastive Language Models
+Amiga Screens: A Primer
 Source: Hacker News RSS
 Category: technology
-URL: https://contrastive-lm.notion.site/
-Published: 2026-09-24T04:20:59+00:00
+URL: https://www.datagubbe.se/amscr
+Published: 2026-09-25T07:31:12+00:00
 
-Article URL: https://contrastive-lm.notion.site/ Comments URL: https://news.ycombinator.com/item?id=49826221 Points: 88 # Comments: 21
+Article URL: https://www.datagubbe.se/amscr/ Comments URL: https://news.ycombinator.com/item?id=49841309 Points: 18 # Comments: 2
 
-Early rogue AI agent activity and attempts to hack found on urlquery.net
+Dutch governments builds alternative for Microsoft based on NixOS
 Source: Hacker News RSS
 Category: technology
-URL: https://transluce.org/agent-activity
-Published: 2026-09-24T05:21:10+00:00
+URL: https://www.dawo.community/en
+Published: 2026-09-25T08:06:49+00:00
 
-Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 149 # Comments: 123
+Article URL: https://www.dawo.community/en/ Comments URL: https://news.ycombinator.com/item?id=49841563 Points: 307 # Comments: 138
 
-The Year of Internal Tools
+Special Projects (2016)
 Source: Hacker News RSS
 Category: technology
-URL: https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools
-Published: 2026-09-24T07:23:07+00:00
+URL: https://openai.com/index/special-projects
+Published: 2026-09-25T08:55:43+00:00
 
-Article URL: https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools Comments URL: https://news.ycombinator.com/item?id=49827383 Points: 5 # Comments: 0
+Article URL: https://openai.com/index/special-projects/ Comments URL: https://news.ycombinator.com/item?id=49841893 Points: 33 # Comments: 10
 
-Meta takes down a critical video about meta AI Glasses after filming at Meta
+Ink and Switch Interactive Homepage
 Source: Hacker News RSS
 Category: technology
-URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai
-Published: 2026-09-24T08:23:03+00:00
+URL: https://www.inkandswitch.com/
+Published: 2026-09-25T09:50:25+00:00
 
-Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 207 # Comments: 84
+Article URL: https://www.inkandswitch.com/ Comments URL: https://news.ycombinator.com/item?id=49842270 Points: 47 # Comments: 8
 
-Looks promising for document editing with your agent
+Oracle on the hook to pay data centre investors even if site has no electricity
 Source: Hacker News RSS
 Category: technology
-URL: https://www.paperinstruments.com/blog/introducing-paper-office
-Published: 2026-09-24T09:19:47+00:00
+URL: https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016
+Published: 2026-09-25T10:19:36+00:00
 
-Article URL: https://www.paperinstruments.com/blog/introducing-paper-office Comments URL: https://news.ycombinator.com/item?id=49828177 Points: 6 # Comments: 0
+Article URL: https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016 Comments URL: https://news.ycombinator.com/item?id=49842483 Points: 34 # Comments: 21
 
-Nokia Design Archive (2025)
+The Mafia may be keeping fentanyl out of Italy
 Source: Hacker News RSS
 Category: technology
-URL: https://nokiadesignarchive.aalto.fi/index.html
-Published: 2026-09-24T09:49:33+00:00
+URL: https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy
+Published: 2026-09-25T10:20:20+00:00
 
-Article URL: https://nokiadesignarchive.aalto.fi/index.html Comments URL: https://news.ycombinator.com/item?id=49828385 Points: 72 # Comments: 29
+Article URL: https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy Comments URL: https://news.ycombinator.com/item?id=49842487 Points: 57 # Comments: 47
 
-Starlink ground station in Poland hit by fire in suspected arson attack
+Show HN: Agentic CUDA Kernel Optimizer
 Source: Hacker News RSS
 Category: technology
-URL: https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack
-Published: 2026-09-24T09:52:29+00:00
+URL: https://github.com/bertaye/agentic-cuda-optimizer
+Published: 2026-09-25T10:32:58+00:00
 
-Article URL: https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/ Comments URL: https://news.ycombinator.com/item?id=49828409 Points: 80 # Comments: 48
+Hello; I was working on optimizing some CUDA kernels and I thought may be it is a good oppurtunity learn langgraph as well. I created a simple C++ CUDA Test Harness and handed that to AI agents. They can run kernels, get benchmarks, and even can profile via nsight Comments URL: https://news.ycombinator.com/item?id=49842596 Points: 4 # Comments: 0
