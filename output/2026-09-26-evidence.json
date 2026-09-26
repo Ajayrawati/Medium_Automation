@@ -1,0 +1,81 @@
+{
+  "topic": "Comments Https Url",
+  "topic_key": "comments-https-url",
+  "confidence": 85.73,
+  "score_breakdown": {
+    "source_quality": 65.53,
+    "corroboration": 100.0,
+    "recency": 80.36,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.73,
+  "evidence": [
+    {
+      "title": "One Month Without AI",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "publisher": "blog.bustikiller.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-26T11:29:10.331631+00:00"
+    },
+    {
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "publisher": "lexontech.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-26T11:29:10.736880+00:00"
+    },
+    {
+      "title": "Floci: Locally emulating any cloud service",
+      "url": "https://floci.io",
+      "publisher": "floci.io",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-26T11:29:10.950571+00:00"
+    },
+    {
+      "title": "Is your Postgres migration safe or not safe?",
+      "url": "https://safenotsafe.dev/",
+      "publisher": "safenotsafe.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-26T11:29:11.105320+00:00"
+    },
+    {
+      "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
+      "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+      "publisher": "www.theguardian.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-26T11:29:11.201418+00:00"
+    },
+    {
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "publisher": "allanrbo.blogspot.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-26T11:29:11.350441+00:00"
+    }
+  ]
+}
