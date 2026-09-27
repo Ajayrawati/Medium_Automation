@@ -1,0 +1,81 @@
+{
+  "topic": "Comments News.ycombinator.com Item",
+  "topic_key": "comments-news.ycombinator.com-item",
+  "confidence": 83.64,
+  "score_breakdown": {
+    "source_quality": 64.74,
+    "corroboration": 100.0,
+    "recency": 71.07,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 93.64,
+  "evidence": [
+    {
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "publisher": "www.astralcodexten.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-27T12:07:03.508314+00:00"
+    },
+    {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "publisher": "arxiv.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-27T12:07:03.751752+00:00"
+    },
+    {
+      "title": "Show HN: LightCloud \u2013 A cloud console organised like file system",
+      "url": "https://www.light-cloud.com/",
+      "publisher": "www.light-cloud.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-27T12:07:03.980763+00:00"
+    },
+    {
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "publisher": "www.reddit.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-27T12:07:04.038906+00:00"
+    },
+    {
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "publisher": "authorsguild.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-27T12:07:06.763669+00:00"
+    },
+    {
+      "title": "The internet discovers TLA+. Now what?",
+      "url": "https://reasonable.io/blog/tla-tutorial/",
+      "publisher": "reasonable.io",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-09-27T12:07:06.944713+00:00"
+    }
+  ]
+}
