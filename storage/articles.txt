@@ -1,3 +1,10 @@
+rakyll / hey
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/rakyll/hey
+
+HTTP load generator, ApacheBench (ab) replacement
+
 dream-num / univer
 Source: GitHub Trending
 Category: technology
@@ -5,19 +12,26 @@ URL: https://github.com/dream-num/univer
 
 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 
-mvschwarz / openrig
+willfaust / Madeira
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/mvschwarz/openrig
+URL: https://github.com/willfaust/Madeira
 
-Multi-agent harness that runs Claude Code and Codex together as one system
+Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 
-byoungd / up
+VectifyAI / PageIndex
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/byoungd/up
+URL: https://github.com/VectifyAI/PageIndex
 
-An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
+📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+
+rohitg00 / ai-engineering-from-scratch
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/rohitg00/ai-engineering-from-scratch
+
+Learn it. Build it. Ship it for others.
 
 cs341-illinois / coursebook
 Source: GitHub Trending
@@ -26,19 +40,33 @@ URL: https://github.com/cs341-illinois/coursebook
 
 Open Source Introductory Systems Programming Textbook for the University of Illinois
 
-NawfalMotii79 / PLFM_RADAR
+averygan / reclip
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/NawfalMotii79/PLFM_RADAR
+URL: https://github.com/averygan/reclip
 
-Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
 
-vectorize-io / hindsight
+oblien / openship
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/vectorize-io/hindsight
+URL: https://github.com/oblien/openship
 
-Hindsight: Agent Memory That Learns
+Self-hosted deployment platform
+
+mvschwarz / openrig
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mvschwarz/openrig
+
+Multi-agent harness that runs Claude Code and Codex together as one system
+
+t8y2 / dbx
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/t8y2/dbx
+
+25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 
 paperclipai / paperclip
 Source: GitHub Trending
@@ -47,6 +75,20 @@ URL: https://github.com/paperclipai/paperclip
 
 The open-source app everyone uses to manage agents at work
 
+vectorize-io / hindsight
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/vectorize-io/hindsight
+
+Hindsight: Agent Memory That Learns
+
+NVIDIA / OpenShell
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/NVIDIA/OpenShell
+
+OpenShell is the safe, private runtime for autonomous AI agents.
+
 debpalash / VoiceStudio
 Source: GitHub Trending
 Category: technology
@@ -54,190 +96,197 @@ URL: https://github.com/debpalash/VoiceStudio
 
 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
-Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06
+The Beatles have permeated research papers across academic disciplines
 Source: Hacker News
 Category: technology
-URL: https://github.com/dashersw/coyopedal
-Published: 2026-09-26T02:24:50+00:00
-Score: 121
+URL: https://phys.org/news/2026-09-beatles-permeated-papers-academic-disciplines.html
+Published: 2026-09-26T19:43:32+00:00
+Score: 4
 
-Functional Mechanical Sympathy [video]
+Four CHI '26 papers I wish I wrote
 Source: Hacker News
 Category: technology
-URL: https://www.youtube.com/watch?v=jSHmDnUZCm8
-Published: 2026-09-26T01:26:56+00:00
-Score: 51
+URL: https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote
+Published: 2026-09-27T05:23:37+00:00
+Score: 19
 
-Ember-1
+Software occlusion culling in Block Game
 Source: Hacker News
 Category: technology
-URL: https://fireworks.ai/blog/ember-1
-Published: 2026-09-27T17:31:53+00:00
-Score: 523
+URL: https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game
+Published: 2026-09-27T14:07:41+00:00
+Score: 47
 
-Footguns with Postgres "at time zone 'UTC'"
+The systems that no one will test
 Source: Hacker News
 Category: technology
-URL: https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does
-Published: 2026-09-27T10:19:51+00:00
-Score: 90
+URL: https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test
+Published: 2026-09-28T10:51:46+00:00
+Score: 96
 
-Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi
+Booted up in 1993, this server still runs – but not for much longer (2017)
+Source: Hacker News
+Category: technology
+URL: https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html
+Published: 2026-09-27T20:13:22+00:00
+Score: 105
+
+Pirating the Pirates
 Source: Hacker News RSS
 Category: technology
-URL: https://loficities.com/
-Published: 2026-09-27T18:44:30+00:00
+URL: https://mubi.com/en/notebook/posts/pirating-the-pirates
+Published: 2026-09-28T15:54:15+00:00
 
-Article URL: https://loficities.com/ Comments URL: https://news.ycombinator.com/item?id=49869574 Points: 277 # Comments: 116
+Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates Comments URL: https://news.ycombinator.com/item?id=49880036 Points: 628 # Comments: 316
 
-Malleable software: Restoring user agency in a world of locked-down apps (2025)
+Phyllotaxis: An audio-reactive LED display
 Source: Hacker News RSS
 Category: technology
-URL: https://www.inkandswitch.com/essay/malleable-software
-Published: 2026-09-27T19:01:31+00:00
+URL: https://jagi.studio/posts/phyllotaxis
+Published: 2026-09-28T16:18:57+00:00
 
-Article URL: https://www.inkandswitch.com/essay/malleable-software/ Comments URL: https://news.ycombinator.com/item?id=49869755 Points: 119 # Comments: 62
+Article URL: https://jagi.studio/posts/phyllotaxis/ Comments URL: https://news.ycombinator.com/item?id=49880411 Points: 173 # Comments: 22
 
-Imp is a full port of DSPy to the BEAM
+Sonnet 5.5
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/deepfates/imp
-Published: 2026-09-27T19:28:23+00:00
+URL: https://www.anthropic.com/claude-sonnet-5-5
+Published: 2026-09-28T17:58:11+00:00
 
-https://hex.pm/packages/imp https://dspy.ai/current/ Comments URL: https://news.ycombinator.com/item?id=49869995 Points: 88 # Comments: 7
+Article URL: https://www.anthropic.com/claude-sonnet-5-5 Comments URL: https://news.ycombinator.com/item?id=49881850 Points: 831 # Comments: 561
 
-Alan Kay's answer to “Did the ENIAC have a BIOS”?
+MicroLLM Lab – Try 7 tiny LLM's in the browser
 Source: Hacker News RSS
 Category: technology
-URL: https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11
-Published: 2026-09-27T19:37:05+00:00
+URL: https://stateofutopia.com/experiments/microllmlab
+Published: 2026-09-28T18:58:53+00:00
 
-Article URL: https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11 Comments URL: https://news.ycombinator.com/item?id=49870070 Points: 160 # Comments: 50
+Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 259 # Comments: 90
 
-Self-Hosting on the Dark Web
+Scientists solve 1840s space weather mystery
 Source: Hacker News RSS
 Category: technology
-URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web
-Published: 2026-09-27T20:03:36+00:00
+URL: https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery
+Published: 2026-09-28T20:00:03+00:00
 
-Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/ Comments URL: https://news.ycombinator.com/item?id=49870295 Points: 271 # Comments: 97
+Article URL: https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/ Comments URL: https://news.ycombinator.com/item?id=49883536 Points: 116 # Comments: 48
 
-When did Google get so weird?
+California farmers are struggling to sell grapes as demand for wine drops
 Source: Hacker News RSS
 Category: technology
-URL: https://sancho.bearblog.dev/google-weird
-Published: 2026-09-27T20:12:54+00:00
+URL: https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops
+Published: 2026-09-28T20:00:06+00:00
 
-Article URL: https://sancho.bearblog.dev/google-weird/ Comments URL: https://news.ycombinator.com/item?id=49870367 Points: 1494 # Comments: 802
+Article URL: https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops Comments URL: https://news.ycombinator.com/item?id=49883539 Points: 272 # Comments: 676
 
-Lunar Terminator Paradox
+Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
 Source: Hacker News RSS
 Category: technology
-URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html
-Published: 2026-09-27T21:06:17+00:00
+URL: https://github.com/firelex/jeff
+Published: 2026-09-28T20:23:36+00:00
 
-Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html Comments URL: https://news.ycombinator.com/item?id=49870837 Points: 92 # Comments: 60
+Article URL: https://github.com/firelex/jeff Comments URL: https://news.ycombinator.com/item?id=49883844 Points: 524 # Comments: 199
 
-Owed a billion dollars in Nvidia stock
+ESP32S3 cluster running 1.58-bit (BitNet) Language model
 Source: Hacker News RSS
 Category: technology
-URL: https://colo.to/nvidia-stock-narrative.html
-Published: 2026-09-28T02:05:13+00:00
+URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster
+Published: 2026-09-28T21:26:41+00:00
 
-Article URL: https://colo.to/nvidia-stock-narrative.html Comments URL: https://news.ycombinator.com/item?id=49872723 Points: 868 # Comments: 373
+Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster Comments URL: https://news.ycombinator.com/item?id=49884625 Points: 115 # Comments: 24
 
-Nissan's third generation e-POWER powertrain
+Tank Body Problem
 Source: Hacker News RSS
 Category: technology
-URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3
-Published: 2026-09-28T02:31:23+00:00
+URL: http://www.jimsitu.com/
+Published: 2026-09-29T00:41:45+00:00
 
-Article URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/ Comments URL: https://news.ycombinator.com/item?id=49872883 Points: 104 # Comments: 174
+Article URL: http://www.jimsitu.com Comments URL: https://news.ycombinator.com/item?id=49886482 Points: 134 # Comments: 30
 
-Thinking fast and slow in AI: The role of metacognition (2021)
+Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2110.01834
-Published: 2026-09-28T03:23:53+00:00
+URL: https://www.startup-nights.ch/event
+Published: 2026-09-29T07:49:12+00:00
 
-Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 135 # Comments: 46
+Article URL: https://www.startup-nights.ch/event/ Comments URL: https://news.ycombinator.com/item?id=49889633 Points: 33 # Comments: 11
 
-Made by Mechanical Means
+Using any C++ library in Godot
 Source: Hacker News RSS
 Category: technology
-URL: https://felixrieseberg.com/made-by-mechanical-means
-Published: 2026-09-28T07:06:06+00:00
+URL: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html
+Published: 2026-09-29T08:40:37+00:00
 
-Article URL: https://felixrieseberg.com/made-by-mechanical-means/ Comments URL: https://news.ycombinator.com/item?id=49874551 Points: 49 # Comments: 14
+Article URL: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html Comments URL: https://news.ycombinator.com/item?id=49890051 Points: 76 # Comments: 21
 
-Prompting Claude Opus 5.5
+Evan Doorbell's Phone Tapes – Brought to You by Telephone World
 Source: Hacker News RSS
 Category: technology
-URL: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5
-Published: 2026-09-28T07:33:29+00:00
+URL: https://evan-doorbell.com/
+Published: 2026-09-29T08:40:53+00:00
 
-Article URL: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49874728 Points: 159 # Comments: 171
+Article URL: https://evan-doorbell.com/ Comments URL: https://news.ycombinator.com/item?id=49890054 Points: 11 # Comments: 0
 
-37,500 border drawings: a map of the world as people remember it
+AI companies leak data to advertisers [pdf]
 Source: Hacker News RSS
 Category: technology
-URL: https://www.habibicode.org/thedrawnworld
-Published: 2026-09-28T08:35:10+00:00
+URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf
+Published: 2026-09-29T09:03:41+00:00
 
-Article URL: https://www.habibicode.org/thedrawnworld Comments URL: https://news.ycombinator.com/item?id=49875142 Points: 77 # Comments: 22
+Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 191 # Comments: 51
 
-AI companies in race to demonstrate their model most threatening to humanity
+Show HN: Raven – The harness of harnesses, built for RSI
 Source: Hacker News RSS
 Category: technology
-URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity
-Published: 2026-09-28T08:35:40+00:00
+URL: https://github.com/EverMind-AI/Raven
+Published: 2026-09-29T09:58:24+00:00
 
-Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 306 # Comments: 226
+Article URL: https://github.com/EverMind-AI/Raven Comments URL: https://news.ycombinator.com/item?id=49890647 Points: 13 # Comments: 4
 
-SpaceX's Starship launching to orbit for first time ever today
+New Cyber-OSINT model released
 Source: Hacker News RSS
 Category: technology
-URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live
-Published: 2026-09-28T09:15:04+00:00
+URL: https://twitter.com/0x0SojalSec/status/2104736980768866439
+Published: 2026-09-29T10:23:33+00:00
 
-Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live Comments URL: https://news.ycombinator.com/item?id=49875411 Points: 216 # Comments: 144
+Article URL: https://twitter.com/0x0SojalSec/status/2104736980768866439 Comments URL: https://news.ycombinator.com/item?id=49890829 Points: 28 # Comments: 6
 
-Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page
+Jeeves. Reasoning improves Jev-like decision models
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/seamusc/papermono-shopping-list
-Published: 2026-09-28T10:14:41+00:00
+URL: https://github.com/PostHog/jeeves
+Published: 2026-09-29T11:13:54+00:00
 
-Fridge magnet shopping list on an M5Stack PaperMono (ESP32-S3, e-ink touchscreen), synced with a phone web app over Wi-Fi. Works offline, ~2,400 lines of C++. This is a great wee device! BLE, Wi-Fi and LoRa on one board makes it flexible for way more than a shopping list, this is just what I built first. This firmware only uses Wi-Fi. Fully vibe-coded with Claude Code, I didn't hand-write this. I wanted to see how Claude would get on with building something useful for a new hardware device. As it's stuck to the fridge it's easy for the family to use, and it's already being used day to day which I'll admit is a first for a home built project like this Comments URL: https://news.ycombinator.com/item?id=49875801 Points: 16 # Comments: 4
+Article URL: https://github.com/PostHog/jeeves Comments URL: https://news.ycombinator.com/item?id=49891290 Points: 61 # Comments: 24
 
-Parley: Federated, decentralised chat that speaks plain IRC
+You Are No Longer Invited to Dinner
 Source: Hacker News RSS
 Category: technology
-URL: https://git.mills.io/prologic/parley
-Published: 2026-09-28T10:30:54+00:00
+URL: https://www.derekthompson.org/p/the-death-of-the-american-host
+Published: 2026-09-29T11:14:45+00:00
 
-Article URL: https://git.mills.io/prologic/parley Comments URL: https://news.ycombinator.com/item?id=49875913 Points: 137 # Comments: 56
+Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host Comments URL: https://news.ycombinator.com/item?id=49891295 Points: 172 # Comments: 121
 
-The smart home graveyard is getting crowded
+500k facial scans at UK stations yield no arrests, 1 false positive
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard
-Published: 2026-09-28T11:27:00+00:00
+URL: https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive
+Published: 2026-09-29T11:35:18+00:00
 
-Article URL: https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard Comments URL: https://news.ycombinator.com/item?id=49876373 Points: 37 # Comments: 31
+Article URL: https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive Comments URL: https://news.ycombinator.com/item?id=49891480 Points: 98 # Comments: 51
 
-Show HN: Hntui – A TUI for Hacker News
+US sanctions force The Netherlands off Microsoft and toward alternative NixOS
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/ahmd-sh/hntui
-Published: 2026-09-28T12:11:20+00:00
+URL: https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027
+Published: 2026-09-29T11:44:25+00:00
 
-hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and i think you will too! Comments URL: https://news.ycombinator.com/item?id=49876760 Points: 39 # Comments: 18
+Article URL: https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027 Comments URL: https://news.ycombinator.com/item?id=49891550 Points: 74 # Comments: 31
 
-Does Reddit have an astroturfing problem? What the data suggests
+Delhi Cut Electricity Loss from 50 to 5 Percent
 Source: Hacker News RSS
 Category: technology
-URL: https://www.petervijeh.com/projects/reddit-astroturf
-Published: 2026-09-28T13:30:54+00:00
+URL: https://spectrum.ieee.org/delhi-electricity-loss
+Published: 2026-09-29T12:43:29+00:00
 
-Article URL: https://www.petervijeh.com/projects/reddit-astroturf Comments URL: https://news.ycombinator.com/item?id=49877678 Points: 18 # Comments: 6
+Article URL: https://spectrum.ieee.org/delhi-electricity-loss Comments URL: https://news.ycombinator.com/item?id=49892245 Points: 5 # Comments: 0
