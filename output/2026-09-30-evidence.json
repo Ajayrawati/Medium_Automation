@@ -1,0 +1,81 @@
+{
+  "topic": "Comments Points Item",
+  "topic_key": "comments-points-item",
+  "confidence": 84.79,
+  "score_breakdown": {
+    "source_quality": 65.24,
+    "corroboration": 100.0,
+    "recency": 76.07,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 94.79,
+  "evidence": [
+    {
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+      "publisher": "nltimes.nl",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-30T12:39:57.741416+00:00"
+    },
+    {
+      "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+      "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+      "publisher": "artificialanalysis.ai",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-30T12:39:57.851242+00:00"
+    },
+    {
+      "title": "Pi.dev: You Said No MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "publisher": "earendil.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-30T12:39:57.903254+00:00"
+    },
+    {
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "publisher": "tomwojcik.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-30T12:39:58.365366+00:00"
+    },
+    {
+      "title": "RSS Feeds for Last.fm",
+      "url": "https://lfm.xiffy.nl/",
+      "publisher": "lfm.xiffy.nl",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-30T12:39:59.004800+00:00"
+    },
+    {
+      "title": "Floppy Emu Hardware Failure Analysis Results",
+      "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
+      "publisher": "www.bigmessowires.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-09-30T12:39:59.228945+00:00"
+    }
+  ]
+}
