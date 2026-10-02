@@ -1,24 +1,3 @@
-Friedrich-M / UniMate
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Friedrich-M/UniMate
-
-[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons
-
-pbakaus / impeccable
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/pbakaus/impeccable
-
-The design language that makes your AI harness better at design.
-
-HunxByts / GhostTrack
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/HunxByts/GhostTrack
-
-Useful tool to track location or mobile number
-
 pablostanley / yoinks
 Source: GitHub Trending
 Category: technology
@@ -26,47 +5,12 @@ URL: https://github.com/pablostanley/yoinks
 
 yoink any video from your terminal. no shady ads.
 
-tile-ai / tilelang
+Effect-TS / effect
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/tile-ai/tilelang
+URL: https://github.com/Effect-TS/effect
 
-Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
-
-earendil-works / pi
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/earendil-works/pi
-
-AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-
-heygen-com / hyperframes
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/heygen-com/hyperframes
-
-Write HTML. Render video. Built for agents.
-
-mksglu / context-mode
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/mksglu/context-mode
-
-Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-
-obra / superpowers
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/obra/superpowers
-
-An agentic skills framework & software development methodology that works.
-
-cursor / plugins
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cursor/plugins
-
-Cursor plugin specification and official plugins
+Build production-ready applications in TypeScript
 
 mvschwarz / openrig
 Source: GitHub Trending
@@ -75,12 +19,54 @@ URL: https://github.com/mvschwarz/openrig
 
 Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 
-firebase / firebase-ios-sdk
+cursor / plugins
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/firebase/firebase-ios-sdk
+URL: https://github.com/cursor/plugins
 
-Firebase SDK for Apple App Development
+Cursor plugin specification and official plugins
+
+colbymchenry / codegraph
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/colbymchenry/codegraph
+
+Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+
+getsentry / sentry
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/getsentry/sentry
+
+Developer-first error tracking and performance monitoring
+
+google / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/google/skills
+
+Agent Skills for Google products and technologies
+
+mksglu / context-mode
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mksglu/context-mode
+
+Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+
+heygen-com / hyperframes
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/heygen-com/hyperframes
+
+Write HTML. Render video. Built for agents.
+
+coreyhaines31 / marketingskills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/coreyhaines31/marketingskills
+
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 NVIDIA / OpenShell
 Source: GitHub Trending
@@ -96,6 +82,13 @@ URL: https://github.com/mattpocock/skills
 
 Skills for Real Engineers. Straight from my .agents directory.
 
+pbakaus / impeccable
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/pbakaus/impeccable
+
+The design language that makes your AI harness better at design.
+
 DietrichGebert / ponytail
 Source: GitHub Trending
 Category: technology
@@ -103,197 +96,232 @@ URL: https://github.com/DietrichGebert/ponytail
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-Show HN: Ledge.sh – Runnable Markdown Notes
+obra / superpowers
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/obra/superpowers
+
+An agentic skills framework & software development methodology that works.
+
+JuliusBrussee / caveman
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/JuliusBrussee/caveman
+
+🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+
+Panniantong / Agent-Reach
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Panniantong/Agent-Reach
+
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers
 Source: Hacker News
 Category: technology
-URL: https://ledge.sh/
-Published: 2026-09-29T23:41:34+00:00
-Score: 167
+URL: https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers
+Published: 2026-10-01T15:07:42+00:00
+Score: 244
 
-Why the Bronze Age Collapsed
+RIP, vector database
 Source: Hacker News
 Category: technology
-URL: https://www.worksinprogress.news/p/why-really-caused-the-bronze-age
-Published: 2026-09-29T10:10:18+00:00
-Score: 298
+URL: https://turbopuffer.com/blog/rip-vector-database
+Published: 2026-10-01T16:01:56+00:00
+Score: 346
 
-Adding Floating-Point Decimals for Fun and Profit
+Turbo Haskell
 Source: Hacker News
 Category: technology
-URL: https://blog.vero.site/post/float
-Published: 2026-09-29T14:05:13+00:00
-Score: 25
-
-Book of Shapes – Collection of minimal, generative and customizable SVG-patterns
-Source: Hacker News
-Category: technology
-URL: https://bookofshapes.com/
-Published: 2026-09-29T14:56:22+00:00
-Score: 137
-
-OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network
-Source: Hacker News
-Category: technology
-URL: https://github.com/maanHimself/OpenDLSS-NR
-Published: 2026-09-30T08:43:21+00:00
-Score: 149
-
-What TLA+ can and can't check
-Source: Hacker News RSS
-Category: technology
-URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check
-Published: 2026-09-30T13:57:06+00:00
-
-Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/ Comments URL: https://news.ycombinator.com/item?id=49909056 Points: 203 # Comments: 44
-
-A brief history of the Bloomberg terminal
-Source: Hacker News RSS
-Category: technology
-URL: https://spectrum.ieee.org/bloomberg-terminal
-Published: 2026-09-30T14:34:07+00:00
-
-Article URL: https://spectrum.ieee.org/bloomberg-terminal Comments URL: https://news.ycombinator.com/item?id=49909583 Points: 321 # Comments: 135
-
-Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/magnitudedev/magnitude
-Published: 2026-09-30T17:37:40+00:00
-
-Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp. We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case. Inference engines today all make a performance tradeoff. They are either: - Built for batched inference on datacenter hardware at the cost of single-session performance (vLLM, SGLang) - Designed for broad compatibility instead of optimizing for specific hardware (llama.cpp, Ollama) - Specialized for specific hardware or models but lacking engine completeness (oMLX, ds4) Plus none of them are designed for running agents locally. Sessions are long, several often run at once, and you still want to use your computer for other things. Magnitude is built for maximum performance on your hardware and running local agents: - On-device compilation and tuning: Kernels are written with flexible parameters that are tuned on your actual device before the model runs. This gives you broad hardware compatibility with the same performance ceiling as hardware-specific kernels. - Focus on best architectures: We write our tunable, highly efficient kernels for the most popular open-weights families. This allows us to achieve and surpass the performance of hardware or model specialized engines, without forcing ourselves to over-generalize at the cost of performance. - Dynamic memory allocation: Magnitude reserves only enough memory up front to hold model weights. As your agent sessions grow, the memory heap dynamically increases, and frees itself when agents stop. Your hardware can still be used for other stuff while agents run. - Hybrid paged attention: We borrow the best ideas from engines like SGLang to allow concurrent sessions to share prefix caches, but optimize placement for memory-adjacency so single-session performance doesn't suffer. Magnitude is fully open source (Apache 2.0). We built it in Rust, including a custom GPU kernel runtime and autotuner. We take inspiration from the best innovations in inference from academics (e.g. FlashAttention, FlashInfer, TurboQuant) as well as other engines (e.g. SGLang radix attention) to reach the performance ceiling. Benchmarked against llama.cpp with Qwen 3.6 35B A3B (4 bit), 64k context, no speculative decoding: Metal (Mac M4 Pro 48 GB) - 92% faster decode (30 tok/s → 57 tok/s) - 9% faster prefill (466 tok/s → 507 tok/s) - 28% less per-agent memory usage CUDA (DGX Spark) - 19% faster decode (49 tok/s → 58 tok/s) - 23% faster prefill (2,033 tok/s → 2,507 tok/s) - 27% less per-agent memory usage Magnitude ships as a desktop app that you can easily connect with whatever agents you already use (Pi, OpenCode, Hermes, Codex, and more). It automatically runs models on demand when these agents actually need them, and shuts them down after inactivity. Here's what it looks like: https://www.youtube.com/watch?v=0qE8BWEZu7o We're excited to push Magnitude further to let you run bigger models on the same hardware while continuing to improve performance. Our plans include: - Expert streaming: store experts on RAM or disk and load them just-in-time. This lets you run models bigger than what otherwise would fit on your GPU. - Kernel compiler: our current kernels tune a few parameters to fit your hardware. We can take this further with a fully custom compiler that automatically chooses how to fuse kernels and which implementations to use, to make it fit to your hardware even better. - Multi-device utilization: Make the best possible use of all hardware on a system (CPU, GPUs, RAM, disk) by detecting these and automatically solving for the best model layout. We'd love for more people to try it out and give us feedback. Feel free to comment here, we'll be around all day! Comments URL: https://news.ycombinator.com/item?id=49911995 Points: 176 # Comments: 86
-
-CHOMPI portable sampler instrument is now open-source (hardware and software)
-Source: Hacker News RSS
-Category: technology
-URL: https://www.chompiclub.com/opensource
-Published: 2026-09-30T17:42:13+00:00
-
-Article URL: https://www.chompiclub.com/opensource Comments URL: https://news.ycombinator.com/item?id=49912048 Points: 92 # Comments: 23
-
-5x faster Edge Functions: V8 isolates to Firecracker MicroVMs
-Source: Hacker News RSS
-Category: technology
-URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms
-Published: 2026-09-30T18:17:45+00:00
-
-Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/ Comments URL: https://news.ycombinator.com/item?id=49912444 Points: 197 # Comments: 85
-
-Before pixels: Modular industrial dashboards
-Source: Hacker News RSS
-Category: technology
-URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards
-Published: 2026-09-30T18:49:06+00:00
-
-Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/ Comments URL: https://news.ycombinator.com/item?id=49912792 Points: 208 # Comments: 41
-
-Surprisingly complex waves reveal the brain's inner workings
-Source: Hacker News RSS
-Category: technology
-URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930
-Published: 2026-09-30T19:04:50+00:00
-
-Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/ Comments URL: https://news.ycombinator.com/item?id=49912955 Points: 213 # Comments: 81
-
-EDG C++ front-end goes public
-Source: Hacker News RSS
-Category: technology
-URL: https://edgcpp.org/
-Published: 2026-09-30T19:26:37+00:00
-
-https://github.com/edgcpp/compiler Comments URL: https://news.ycombinator.com/item?id=49913192 Points: 231 # Comments: 113
-
-Halfspace experimental IDE for solid modeling with distance fields
-Source: Hacker News RSS
-Category: technology
-URL: https://www.mattkeeter.com/projects/halfspace
-Published: 2026-09-30T19:44:37+00:00
-
-Article URL: https://www.mattkeeter.com/projects/halfspace/ Comments URL: https://news.ycombinator.com/item?id=49913350 Points: 154 # Comments: 9
-
-Gemini 4 Argon
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon
-Published: 2026-09-30T20:04:37+00:00
-
-See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236 Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 1476 # Comments: 983
-
-The top secret URSALA, RAQUEL, and FARRAH satellites (2025)
-Source: Hacker News RSS
-Category: technology
-URL: https://www.thespacereview.com/article/4951/1
-Published: 2026-09-30T22:03:04+00:00
-
-Article URL: https://www.thespacereview.com/article/4951/1 Comments URL: https://news.ycombinator.com/item?id=49915082 Points: 256 # Comments: 124
-
-56k.rip – the 1996 dial-up internet experience
-Source: Hacker News RSS
-Category: technology
-URL: https://56k.rip/
-Published: 2026-09-30T22:08:50+00:00
-
-Article URL: https://56k.rip/ Comments URL: https://news.ycombinator.com/item?id=49915126 Points: 210 # Comments: 90
-
-Truemetrics (YC S23) Is Hiring a GTM Founder's Associate
-Source: Hacker News RSS
-Category: technology
-URL: https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate
-Published: 2026-10-01T09:48:18+00:00
-
-Article URL: https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate Comments URL: https://news.ycombinator.com/item?id=49919680 Points: 0 # Comments: 0
-
-GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design
-Source: Hacker News RSS
-Category: technology
-URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design
-Published: 2026-10-01T10:21:36+00:00
-
-Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 70 # Comments: 28
+URL: https://comonad.com/reader/2026/turbo-haskell
+Published: 2026-10-01T13:58:25+00:00
+Score: 128
 
 StreetComplete on iOS is now in public beta
-Source: Hacker News RSS
+Source: Hacker News
 Category: technology
 URL: https://github.com/streetcomplete/StreetComplete/issues/5421
 Published: 2026-10-01T10:59:57+00:00
+Score: 579
 
-Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421 Comments URL: https://news.ycombinator.com/item?id=49920160 Points: 149 # Comments: 29
+Git 3.0's upcoming SHA-256 default will be a costly mistake
+Source: Hacker News
+Category: technology
+URL: https://blog.gitbutler.com/git-3-sha-256
+Published: 2026-10-01T16:57:03+00:00
+Score: 423
 
-Returning from vacation? The government can search your phone without a warrant
+Ask HN: Who is hiring? (October 2026)
+Source: Hacker News
+Category: technology
+URL: https://news.ycombinator.com/item?id=49922569
+Published: 2026-10-01T15:02:07+00:00
+Score: 216
+
+Clef: Open-weight decision models, and new RL fine-tuning platform
+Source: Hacker News
+Category: technology
+URL: https://blog.cloudflare.com/clef-decision-models
+Published: 2026-10-01T16:18:57+00:00
+Score: 545
+
+Vote on which of Hacker News' challenges for AI have been met
 Source: Hacker News RSS
 Category: technology
-URL: https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone
-Published: 2026-10-01T11:13:59+00:00
+URL: https://stoppels.ch/goalposts
+Published: 2026-10-01T17:32:43+00:00
 
-Article URL: https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/ Comments URL: https://news.ycombinator.com/item?id=49920234 Points: 120 # Comments: 107
+Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 168 # Comments: 193
 
-How to speed up the Rust compiler in September 2026
+Oxygen-deprived underwater zones may not be “dead zones” but clue to early life
 Source: Hacker News RSS
 Category: technology
-URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html
-Published: 2026-10-01T12:44:38+00:00
+URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570
+Published: 2026-10-01T19:03:42+00:00
 
-Article URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html Comments URL: https://news.ycombinator.com/item?id=49920896 Points: 9 # Comments: 1
+Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570 Comments URL: https://news.ycombinator.com/item?id=49925742 Points: 107 # Comments: 15
 
-Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026
+Pi Durable
 Source: Hacker News RSS
 Category: technology
-URL: https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026
-Published: 2026-10-01T12:48:59+00:00
+URL: https://earendil.com/posts/pi-durable
+Published: 2026-10-01T19:24:08+00:00
 
-Article URL: https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026 Comments URL: https://news.ycombinator.com/item?id=49920932 Points: 26 # Comments: 6
+Related: Pi 1.0 - https://news.ycombinator.com/item?id=49926069 - Oct 2026 (184 comments) Comments URL: https://news.ycombinator.com/item?id=49925969 Points: 415 # Comments: 53
 
-Google breaks promise to provide 10 years of updates to Chromebooks
+Pi 1.0
 Source: Hacker News RSS
 Category: technology
-URL: https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks
-Published: 2026-10-01T12:55:27+00:00
+URL: https://earendil.com/posts/pi-1-0
+Published: 2026-10-01T19:33:05+00:00
 
-Article URL: https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/ Comments URL: https://news.ycombinator.com/item?id=49920997 Points: 28 # Comments: 13
+Related: Pi Durable - https://news.ycombinator.com/item?id=49925969 Comments URL: https://news.ycombinator.com/item?id=49926069 Points: 1423 # Comments: 462
 
-FTC is investigating OpenAI, Anthropic and other AI companies over product risks
+ArXiv's Updated Rate Limit Policy
 Source: Hacker News RSS
 Category: technology
-URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html
-Published: 2026-10-01T13:00:55+00:00
+URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy
+Published: 2026-10-01T20:12:15+00:00
 
-Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 10 # Comments: 0
+Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/ Comments URL: https://news.ycombinator.com/item?id=49926512 Points: 127 # Comments: 62
+
+SvelteKit 3
+Source: Hacker News RSS
+Category: technology
+URL: https://svelte.dev/blog/sveltekit-3-is-here
+Published: 2026-10-01T20:14:23+00:00
+
+Article URL: https://svelte.dev/blog/sveltekit-3-is-here Comments URL: https://news.ycombinator.com/item?id=49926536 Points: 319 # Comments: 125
+
+Automatic Transmission – a data-privacy study of connected vehicles
+Source: Hacker News RSS
+Category: technology
+URL: https://automatictransmission.khoury.northeastern.edu/index.html
+Published: 2026-10-01T20:23:27+00:00
+
+Article URL: https://automatictransmission.khoury.northeastern.edu/index.html Comments URL: https://news.ycombinator.com/item?id=49926628 Points: 202 # Comments: 177
+
+Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/Vibra-Ingenn/Janus
+Published: 2026-10-01T20:36:47+00:00
+
+Article URL: https://github.com/Vibra-Ingenn/Janus Comments URL: https://news.ycombinator.com/item?id=49926773 Points: 80 # Comments: 14
+
+Using Opus 5.5 to discover a new eyewitness record of the dodo
+Source: Hacker News RSS
+Category: technology
+URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness
+Published: 2026-10-01T20:48:37+00:00
+
+Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness Comments URL: https://news.ycombinator.com/item?id=49926917 Points: 167 # Comments: 45
+
+CSS Bed: Classless CSS themes to use as starting points in web development
+Source: Hacker News RSS
+Category: technology
+URL: https://www.cssbed.com/
+Published: 2026-10-01T21:21:32+00:00
+
+Article URL: https://www.cssbed.com Comments URL: https://news.ycombinator.com/item?id=49927212 Points: 122 # Comments: 34
+
+Frog and Toad and the Increasingly Capable Machines
+Source: Hacker News RSS
+Category: technology
+URL: https://www.frogandtoad.ai/
+Published: 2026-10-01T22:23:38+00:00
+
+Article URL: https://www.frogandtoad.ai/ Comments URL: https://news.ycombinator.com/item?id=49927760 Points: 239 # Comments: 56
+
+Several vulnerabilities have been discovered in the Linux kernel
+Source: Hacker News RSS
+Category: technology
+URL: https://lwn.net/Articles/1097401
+Published: 2026-10-01T23:10:44+00:00
+
+Article URL: https://lwn.net/Articles/1097401/ Comments URL: https://news.ycombinator.com/item?id=49928121 Points: 382 # Comments: 272
+
+Butterflies use optical illusions to dodge predators
+Source: Hacker News RSS
+Category: technology
+URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators
+Published: 2026-10-01T23:15:24+00:00
+
+Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators Comments URL: https://news.ycombinator.com/item?id=49928152 Points: 57 # Comments: 12
+
+How Singapore's government-run dating service works
+Source: Hacker News RSS
+Category: technology
+URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works
+Published: 2026-10-02T01:56:52+00:00
+
+Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works Comments URL: https://news.ycombinator.com/item?id=49929113 Points: 198 # Comments: 184
+
+DeepSeek Harness Desktop for macOS and Windows
+Source: Hacker News RSS
+Category: technology
+URL: https://www.deepseek.com/en/harness
+Published: 2026-10-02T03:11:20+00:00
+
+Article URL: https://www.deepseek.com/en/harness/ Comments URL: https://news.ycombinator.com/item?id=49929489 Points: 274 # Comments: 142
+
+Shimano Bicycle Museum Review
+Source: Hacker News RSS
+Category: technology
+URL: https://inrng.com/2026/10/shimano-bicycle-museum
+Published: 2026-10-02T05:12:58+00:00
+
+Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/ Comments URL: https://news.ycombinator.com/item?id=49930047 Points: 158 # Comments: 25
+
+Show HN: Audionaut – an open-source cross-platform multitrack audio editor
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/kvoltmer/Audionaut
+Published: 2026-10-02T08:05:48+00:00
+
+Article URL: https://github.com/kvoltmer/Audionaut Comments URL: https://news.ycombinator.com/item?id=49931031 Points: 39 # Comments: 12
+
+Alarm Grows over 'Clearly Illegal' US Election Meddling in Brazil
+Source: Hacker News RSS
+Category: technology
+URL: https://www.commondreams.org/news/trump-election-interference-brazil
+Published: 2026-10-02T10:30:55+00:00
+
+Article URL: https://www.commondreams.org/news/trump-election-interference-brazil Comments URL: https://news.ycombinator.com/item?id=49931926 Points: 14 # Comments: 0
+
+European payments groups join forces to challenge US dominance
+Source: Hacker News RSS
+Category: technology
+URL: https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group
+Published: 2026-10-02T11:39:59+00:00
+
+Article URL: https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/ Comments URL: https://news.ycombinator.com/item?id=49932383 Points: 18 # Comments: 6
+
+Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude
+Source: Hacker News RSS
+Category: technology
+URL: https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops
+Published: 2026-10-02T12:12:38+00:00
+
+Article URL: https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/ Comments URL: https://news.ycombinator.com/item?id=49932606 Points: 15 # Comments: 3
