@@ -1,0 +1,81 @@
+{
+  "topic": "Url Comments News.ycombinator.com",
+  "topic_key": "url-comments-news.ycombinator.com",
+  "confidence": 83.34,
+  "score_breakdown": {
+    "source_quality": 66.43,
+    "corroboration": 100.0,
+    "recency": 67.08,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 93.34,
+  "evidence": [
+    {
+      "title": "GitHub's new dashboard experience now the default",
+      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+      "publisher": "github.blog",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-03T11:43:23.701453+00:00"
+    },
+    {
+      "title": "Gemini ending free use of Flash and Pro models",
+      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+      "publisher": "www.reddit.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-03T11:43:23.752189+00:00"
+    },
+    {
+      "title": "Show HN: Offrun \u2013 manage every coding agent from one workspace",
+      "url": "https://offrun.dev/",
+      "publisher": "offrun.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-03T11:43:23.889632+00:00"
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "url": "https://blog.kagi.com/update-orion-linux-windows",
+      "publisher": "blog.kagi.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-03T11:43:24.025004+00:00"
+    },
+    {
+      "title": "Extra Big Ass Intelligence",
+      "url": "https://www.extrabigassintelligence.com/",
+      "publisher": "www.extrabigassintelligence.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-03T11:43:24.087954+00:00"
+    },
+    {
+      "title": "Cloudflare OHTTP gateway",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "publisher": "blog.cloudflare.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-03T11:43:24.285858+00:00"
+    }
+  ]
+}
