@@ -1,3 +1,10 @@
+antirez / ds4
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/antirez/ds4
+
+DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+
 OpenCut-app / OpenCut
 Source: GitHub Trending
 Category: technology
@@ -5,71 +12,12 @@ URL: https://github.com/OpenCut-app/OpenCut
 
 The open-source CapCut alternative
 
-meituan-longcat / LongCat-Video
+garrytan / gstack
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/meituan-longcat/LongCat-Video
+URL: https://github.com/garrytan/gstack
 
-jamwithai / production-agentic-rag-course
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/jamwithai/production-agentic-rag-course
-
-anthropics / claude-code
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/anthropics/claude-code
-
-Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-getsentry / sentry
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/getsentry/sentry
-
-Developer-first error tracking and performance monitoring
-
-earendil-works / pi
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/earendil-works/pi
-
-AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-
-mksglu / context-mode
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/mksglu/context-mode
-
-Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-
-mattpocock / skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/mattpocock/skills
-
-Skills for Real Engineers. Straight from my .agents directory.
-
-obra / superpowers
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/obra/superpowers
-
-An agentic skills framework & software development methodology that works.
-
-addyosmani / agent-skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/addyosmani/agent-skills
-
-Production-grade engineering skills for AI coding agents.
-
-cloudflare / cloudflare-os
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cloudflare/cloudflare-os
-
-Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
+Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
 thedotmack / claude-mem
 Source: GitHub Trending
@@ -78,10 +26,45 @@ URL: https://github.com/thedotmack/claude-mem
 
 Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
+addyosmani / agent-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/addyosmani/agent-skills
+
+Production-grade engineering skills for AI coding agents.
+
+michael-denyer / pstack-claude
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/michael-denyer/pstack-claude
+
+Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+
+caddyserver / caddy
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/caddyserver/caddy
+
+Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
 pingdotgg / t3code
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/pingdotgg/t3code
+
+calesthio / OpenMontage
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/calesthio/OpenMontage
+
+World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+
+getsentry / sentry
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/getsentry/sentry
+
+Developer-first error tracking and performance monitoring
 
 Panniantong / Agent-Reach
 Source: GitHub Trending
@@ -90,33 +73,12 @@ URL: https://github.com/Panniantong/Agent-Reach
 
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-JuliusBrussee / caveman
+earthtojake / text-to-cad
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/JuliusBrussee/caveman
+URL: https://github.com/earthtojake/text-to-cad
 
-🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-
-Effect-TS / effect
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Effect-TS/effect
-
-Build production-ready applications in TypeScript
-
-affaan-m / ECC
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/affaan-m/ECC
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-pbakaus / impeccable
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/pbakaus/impeccable
-
-The design language that makes your AI harness better at design.
+Give your agent CAD superpowers.
 
 DietrichGebert / ponytail
 Source: GitHub Trending
@@ -125,211 +87,211 @@ URL: https://github.com/DietrichGebert/ponytail
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-Show HN: Giving Opus 5.5 a simulated paint canvas
+coreyhaines31 / marketingskills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/coreyhaines31/marketingskills
+
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+pbakaus / impeccable
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/pbakaus/impeccable
+
+The design language that makes your AI harness better at design.
+
+tester-army / e2e
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/tester-army/e2e
+
+Next generation e2e testing framework for web and mobile apps.
+
+I quit OpenAI because its culture is broken
 Source: Hacker News
 Category: technology
-URL: https://stillwet.art/
-Published: 2026-10-02T00:27:56+00:00
-Score: 289
+URL: https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA
+Published: 2026-10-03T13:46:34+00:00
+Score: 272
 
-FLUX 3 Image
+Celebrating the 100th birthday of the kidney donated to him as a teenager
 Source: Hacker News
 Category: technology
-URL: https://bfl.ai/models/flux-3-image
-Published: 2026-10-01T19:24:29+00:00
-Score: 357
+URL: https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager
+Published: 2026-10-01T16:32:40+00:00
+Score: 207
 
-Greg Kroah-Hartman – Security in the LLM Age [video]
+So you think you could be an electrician?
 Source: Hacker News
 Category: technology
-URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q
-Published: 2026-10-02T02:51:27+00:00
-Score: 248
+URL: https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician
+Published: 2026-09-30T15:43:27+00:00
+Score: 291
 
-Loss of cell identity drives human aging: Two new papers
+gpuvis: GPU Trace Visualizer
 Source: Hacker News
 Category: technology
-URL: https://erictopol.substack.com/p/loss-of-cell-identity-drives-human
-Published: 2026-10-01T20:02:57+00:00
-Score: 264
+URL: https://github.com/mikesart/gpuvis
+Published: 2026-10-02T16:04:48+00:00
+Score: 22
 
-cp: -r or -R?
-Source: Hacker News
-Category: technology
-URL: https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html
-Published: 2026-09-30T15:44:02+00:00
-Score: 19
-
-Mike Tomlin spent 12 years building a Minecraft city
-Source: Hacker News
-Category: technology
-URL: https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach
-Published: 2026-10-01T18:20:18+00:00
-Score: 489
-
-Court agrees with EFF: Utah's VPN law demands a technical impossibility
-Source: Hacker News
-Category: technology
-URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility
-Published: 2026-10-01T22:23:07+00:00
-Score: 650
-
-A 12-year sequence of telescope images of a star and four planets orbiting
+City building games have a Soul Problem pt.2
 Source: Hacker News RSS
 Category: technology
-URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f
-Published: 2026-10-02T11:07:17+00:00
+URL: https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2
+Published: 2026-10-03T15:52:07+00:00
 
-Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f Comments URL: https://news.ycombinator.com/item?id=49932147 Points: 299 # Comments: 58
+Article URL: https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2 Comments URL: https://news.ycombinator.com/item?id=49945323 Points: 143 # Comments: 139
 
-Venice’s failed war against Constantinople led to the first bond market
+Agents don't need memory, they need documentation
 Source: Hacker News RSS
 Category: technology
-URL: https://bigthink.com/books/a-fabulous-debt
-Published: 2026-10-02T13:17:47+00:00
+URL: https://liao.gg/blog/agents-dont-need-memory
+Published: 2026-10-03T17:03:37+00:00
 
-Article URL: https://bigthink.com/books/a-fabulous-debt/ Comments URL: https://news.ycombinator.com/item?id=49933230 Points: 126 # Comments: 37
+Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 216 # Comments: 115
 
-The Legend of von Neumann (1973) [pdf]
+LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents
 Source: Hacker News RSS
 Category: technology
-URL: https://gwern.net/doc/math/1973-halmos.pdf
-Published: 2026-10-02T13:18:32+00:00
+URL: https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded
+Published: 2026-10-03T17:44:29+00:00
 
-Article URL: https://gwern.net/doc/math/1973-halmos.pdf Comments URL: https://news.ycombinator.com/item?id=49933235 Points: 289 # Comments: 150
+https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 175 # Comments: 257
 
-With most information hidden, the game Stratego had stumped AI until now
+Treachery in the Rodin Museum 3D scan verdict
 Source: Hacker News RSS
 Category: technology
-URL: https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget
-Published: 2026-10-02T14:11:24+00:00
+URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict
+Published: 2026-10-03T18:01:27+00:00
 
-https://www.nature.com/articles/s41586-026-11036-y https://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 223 # Comments: 109
+Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict Comments URL: https://news.ycombinator.com/item?id=49946355 Points: 221 # Comments: 102
 
-The Forgetful CPU (Linux on M4)
+Hole Punch: Sling your spaceship around gravitational fields
 Source: Hacker News RSS
 Category: technology
-URL: https://yuka.dev/blog-2026-10-02-linux-m4.html
-Published: 2026-10-02T14:22:12+00:00
+URL: https://notoriousbfg.com/hole-punch
+Published: 2026-10-03T18:06:45+00:00
 
-Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html Comments URL: https://news.ycombinator.com/item?id=49933869 Points: 229 # Comments: 149
+Article URL: https://notoriousbfg.com/hole-punch/ Comments URL: https://news.ycombinator.com/item?id=49946393 Points: 307 # Comments: 69
 
-One month coding with GLM 5.3 Flash
+What Meta got right with Muse
 Source: Hacker News RSS
 Category: technology
-URL: https://wagtail.org/blog/one-month-on-glm-53-flash
-Published: 2026-10-02T15:29:15+00:00
+URL: https://metedata.substack.com/p/what-meta-got-right-with-muse
+Published: 2026-10-03T18:23:48+00:00
 
-Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/ Comments URL: https://news.ycombinator.com/item?id=49934620 Points: 168 # Comments: 125
+Article URL: https://metedata.substack.com/p/what-meta-got-right-with-muse Comments URL: https://news.ycombinator.com/item?id=49946526 Points: 61 # Comments: 81
 
-From the creator of Redis; run LLM locally with ds4
+How to hack time, with C2PA
 Source: Hacker News RSS
 Category: technology
-URL: https://dwarfstar.sh/
-Published: 2026-10-02T18:01:16+00:00
+URL: https://www.da.vidbuchanan.co.uk/blog/hacking-time.html
+Published: 2026-10-03T18:52:06+00:00
 
-Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 259 # Comments: 68
+Article URL: https://www.da.vidbuchanan.co.uk/blog/hacking-time.html Comments URL: https://news.ycombinator.com/item?id=49946707 Points: 43 # Comments: 4
 
-The Nintendo 64 Partner-N64 Development Kit
+The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux
 Source: Hacker News RSS
 Category: technology
-URL: https://www.behindthecode.ca/partner-n64pc-dev-kit
-Published: 2026-10-02T18:53:34+00:00
+URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
+Published: 2026-10-03T19:14:48+00:00
 
-https://archive.is/WCnLA Comments URL: https://news.ycombinator.com/item?id=49937146 Points: 46 # Comments: 6
+Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 327 # Comments: 54
 
-Apple Pass Designer
+We want you to build the next Git platform on Cloudflare
 Source: Hacker News RSS
 Category: technology
-URL: https://developer.apple.com/pass-designer
-Published: 2026-10-02T19:06:56+00:00
+URL: https://blog.cloudflare.com/next-git-platform-on-cloudflare
+Published: 2026-10-03T19:33:16+00:00
 
-Article URL: https://developer.apple.com/pass-designer/ Comments URL: https://news.ycombinator.com/item?id=49937276 Points: 442 # Comments: 275
+Article URL: https://blog.cloudflare.com/next-git-platform-on-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=49947051 Points: 148 # Comments: 130
 
-Muse Gadgets
+Surely you have ultra-wideband radios on your bins too?
 Source: Hacker News RSS
 Category: technology
-URL: https://gadgets.muse.ai/
-Published: 2026-10-02T19:26:54+00:00
+URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out
+Published: 2026-10-03T20:27:44+00:00
 
-Article URL: https://gadgets.muse.ai Comments URL: https://news.ycombinator.com/item?id=49937504 Points: 203 # Comments: 89
+Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 89 # Comments: 45
 
-Make Tmux the OS
+Reasons I didn't become an EMT, ranked
 Source: Hacker News RSS
 Category: technology
-URL: https://matduggan.com/what-does-my-dream-os-ui-look-like
-Published: 2026-10-02T19:29:07+00:00
+URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked
+Published: 2026-10-03T20:49:15+00:00
 
-Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/ Comments URL: https://news.ycombinator.com/item?id=49937540 Points: 62 # Comments: 29
+Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 167 # Comments: 78
 
-Updates to Full Disk Access in macOS
+We're going to need default hard budget caps on pretty much everything
 Source: Hacker News RSS
 Category: technology
-URL: https://developer.apple.com/news?id=p6zjojqw
-Published: 2026-10-02T19:37:01+00:00
+URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps
+Published: 2026-10-04T00:20:16+00:00
 
-Article URL: https://developer.apple.com/news/?id=p6zjojqw Comments URL: https://news.ycombinator.com/item?id=49937631 Points: 211 # Comments: 141
+Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/ Comments URL: https://news.ycombinator.com/item?id=49949235 Points: 475 # Comments: 233
 
-Barcodes are about to go extinct
+Tell HN: Bob Cringely has died
 Source: Hacker News RSS
 Category: technology
-URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct
-Published: 2026-10-02T20:37:07+00:00
+URL: https://news.ycombinator.com/item?id=49949438
+Published: 2026-10-04T00:50:52+00:00
 
-Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct Comments URL: https://news.ycombinator.com/item?id=49938306 Points: 53 # Comments: 84
+I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially "Triumph of the Nerds". He will be missed. Comments URL: https://news.ycombinator.com/item?id=49949438 Points: 524 # Comments: 104
 
-Newgrounds.com – A community of games, music, and art
+We're working on a new RuneScape MMO
 Source: Hacker News RSS
 Category: technology
-URL: https://www.newgrounds.com/
-Published: 2026-10-03T00:55:25+00:00
+URL: https://play.runescape.com/4
+Published: 2026-10-04T01:12:22+00:00
 
-Article URL: https://www.newgrounds.com/ Comments URL: https://news.ycombinator.com/item?id=49940394 Points: 246 # Comments: 65
+Article URL: https://play.runescape.com/4 Comments URL: https://news.ycombinator.com/item?id=49949588 Points: 90 # Comments: 36
 
-Cloudflare OHTTP gateway
+Religious scholars met with Anthropic
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway
-Published: 2026-10-03T03:15:05+00:00
+URL: https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html
+Published: 2026-10-04T02:34:22+00:00
 
-Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/ Comments URL: https://news.ycombinator.com/item?id=49941091 Points: 95 # Comments: 24
+https://archive.is/y8FW0 Comments URL: https://news.ycombinator.com/item?id=49950052 Points: 91 # Comments: 217
 
-Extra Big Ass Intelligence
+Why don't more developers “use the platform”?
 Source: Hacker News RSS
 Category: technology
-URL: https://www.extrabigassintelligence.com/
-Published: 2026-10-03T03:19:10+00:00
+URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform
+Published: 2026-10-04T04:10:47+00:00
 
-Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 315 # Comments: 68
+Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 166 # Comments: 139
 
-An Update on Orion for Linux and Windows
+Emitting metadata early makes building/checking Rust up to twice as fast
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.kagi.com/update-orion-linux-windows
-Published: 2026-10-03T04:53:57+00:00
+URL: https://github.com/PowderworksCode/headstart
+Published: 2026-10-04T06:26:57+00:00
 
-Article URL: https://blog.kagi.com/update-orion-linux-windows Comments URL: https://news.ycombinator.com/item?id=49941447 Points: 68 # Comments: 35
+Article URL: https://github.com/PowderworksCode/headstart Comments URL: https://news.ycombinator.com/item?id=49951218 Points: 16 # Comments: 1
 
-Show HN: Offrun – manage every coding agent from one workspace
+In Ukraine, distributed renewables foil Russia's assaults
 Source: Hacker News RSS
 Category: technology
-URL: https://offrun.dev/
-Published: 2026-10-03T08:40:17+00:00
+URL: https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults
+Published: 2026-10-04T08:39:58+00:00
 
-Run Claude Code, Codex, AGY, and Grok Build side by side. See who is working, who needs you, and what every account has left. Comments URL: https://news.ycombinator.com/item?id=49942434 Points: 5 # Comments: 0
+Article URL: https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/ Comments URL: https://news.ycombinator.com/item?id=49951881 Points: 108 # Comments: 89
 
-Gemini ending free use of Flash and Pro models
+VGHF Digital Archive passes 5000 magazines. Here's what's next
 Source: Hacker News RSS
 Category: technology
-URL: https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and
-Published: 2026-10-03T09:13:19+00:00
+URL: https://gamehistory.org/5k-magazines
+Published: 2026-10-04T09:07:11+00:00
 
-Article URL: https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/ Comments URL: https://news.ycombinator.com/item?id=49942592 Points: 29 # Comments: 15
+Article URL: https://gamehistory.org/5k-magazines/ Comments URL: https://news.ycombinator.com/item?id=49952029 Points: 38 # Comments: 3
 
-GitHub's new dashboard experience now the default
+Show HN: AI search for every photo and every frame of video on macOS
 Source: Hacker News RSS
 Category: technology
-URL: https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default
-Published: 2026-10-03T09:59:01+00:00
+URL: https://github.com/allenv0/SCM
+Published: 2026-10-04T09:24:52+00:00
 
-Article URL: https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/ Comments URL: https://news.ycombinator.com/item?id=49942818 Points: 17 # Comments: 12
+Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 6 # Comments: 1
