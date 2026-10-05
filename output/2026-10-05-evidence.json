@@ -1,0 +1,81 @@
+{
+  "topic": "Https News.ycombinator.com Item",
+  "topic_key": "https-news.ycombinator.com-item",
+  "confidence": 85.25,
+  "score_breakdown": {
+    "source_quality": 65.48,
+    "corroboration": 100.0,
+    "recency": 78.04,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.25,
+  "evidence": [
+    {
+      "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
+      "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
+      "publisher": "www.youtube.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-05T14:46:40.993839+00:00"
+    },
+    {
+      "title": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+      "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+      "publisher": "www.wsj.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-05T14:46:41.107956+00:00"
+    },
+    {
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "publisher": "discuss.grapheneos.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-05T14:46:41.615557+00:00"
+    },
+    {
+      "title": "Gitframes",
+      "url": "https://github.com/gatewai-dev/gitframes",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-05T14:46:42.262724+00:00"
+    },
+    {
+      "title": "The Era of Software Quality, or the Era of Ostriches?",
+      "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+      "publisher": "blogs.gnome.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-05T14:46:42.503794+00:00"
+    },
+    {
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "publisher": "techfundingnews.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-05T14:46:42.640181+00:00"
+    }
+  ]
+}
