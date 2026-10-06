@@ -1,23 +1,9 @@
-msitarzewski / agency-agents
+cathrynlavery / diagram-design
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/msitarzewski/agency-agents
+URL: https://github.com/cathrynlavery/diagram-design
 
-A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-
-Stremio / stremio-web
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Stremio/stremio-web
-
-Stremio - Freedom to Stream
-
-cloudflare / cloudflare-os
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cloudflare/cloudflare-os
-
-Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
+Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
 DuarteSantos8 / openGym
 Source: GitHub Trending
@@ -26,45 +12,33 @@ URL: https://github.com/DuarteSantos8/openGym
 
 Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
 
-caddyserver / caddy
+msitarzewski / agency-agents
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/caddyserver/caddy
+URL: https://github.com/msitarzewski/agency-agents
 
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-calesthio / OpenMontage
+deepseek-ai / DeepGEMM
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/calesthio/OpenMontage
+URL: https://github.com/deepseek-ai/DeepGEMM
 
-World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+DeepGEMM: clean and efficient BLAS kernel library on GPU
 
-Panniantong / Agent-Reach
+morluto / rea
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Panniantong/Agent-Reach
+URL: https://github.com/morluto/rea
 
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+Reverse engineer anything with agents, from app behavior down to native binaries.
 
-boykopovar / AnyPS5
+ayghri / i-have-adhd
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/boykopovar/AnyPS5
+URL: https://github.com/ayghri/i-have-adhd
 
-Tool for automatic PS5 executables porting to Linux and Windows
-
-pingdotgg / t3code
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/pingdotgg/t3code
-
-earthtojake / text-to-cad
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/earthtojake/text-to-cad
-
-Give your agent CAD superpowers.
+A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
 thedotmack / claude-mem
 Source: GitHub Trending
@@ -73,6 +47,34 @@ URL: https://github.com/thedotmack/claude-mem
 
 Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
+pbakaus / impeccable
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/pbakaus/impeccable
+
+The design language that makes your AI harness better at design.
+
+boykopovar / AnyPS5
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/boykopovar/AnyPS5
+
+Tool for automatic PS5 executables porting to Linux and Windows
+
+earthtojake / text-to-cad
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/earthtojake/text-to-cad
+
+Give your agent CAD superpowers.
+
+mattpocock / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mattpocock/skills
+
+Skills for Real Engineers. Straight from my .agents directory.
+
 tester-army / e2e
 Source: GitHub Trending
 Category: technology
@@ -80,143 +82,47 @@ URL: https://github.com/tester-army/e2e
 
 Next generation e2e testing framework for web and mobile apps.
 
-Martian chaos terrain
+Using A.I. and machine learning to decode communication of sperm whales
 Source: Hacker News
 Category: technology
-URL: https://en.wikipedia.org/wiki/Martian_chaos_terrain
-Published: 2026-10-02T01:11:28+00:00
-Score: 16
+URL: https://blue-continuum.com/the-man-who-listens-to-whales
+Published: 2026-10-04T10:15:13+00:00
+Score: 51
 
-ExplainDB: A Database System Built for Understandability
+Accountability mechanisms can be joyful (2024)
 Source: Hacker News
 Category: technology
-URL: https://github.com/explaindb/explaindb
-Published: 2026-10-01T17:47:27+00:00
-Score: 35
+URL: https://liquidbrain.net/blog/accountability-and-joy
+Published: 2026-10-04T06:15:17+00:00
+Score: 56
 
-The Tao of Backup
+Show HN: GrepJob – 67,000 SWE jobs scraped from a curated list of top companies
 Source: Hacker News
 Category: technology
-URL: http://www.taobackup.com/index.html
-Published: 2026-10-02T11:19:36+00:00
-Score: 204
+URL: https://grepjob.com/
+Published: 2026-10-06T13:05:23+00:00
+Score: 4
 
-Anthropic wants your thoughts on AI
+Any AI chat can join a machine network anonymously – no keys, no signup
 Source: Hacker News
 Category: technology
-URL: https://www.anthropic.com/research/your-thoughts-on-ai
-Published: 2026-10-05T12:21:02+00:00
-Score: 6
+URL: https://github.com/TheRealDalaiLama/glyphdna-mcp
+Published: 2026-10-06T13:04:37+00:00
+Score: 4
 
-Type Safe Generic Data Structures in C
+Mathematics of Geothermal Energy
 Source: Hacker News
 Category: technology
-URL: https://danielchasehooper.com/posts/typechecked-generic-c-data-structures
-Published: 2026-10-03T11:57:20+00:00
-Score: 67
+URL: https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy
+Published: 2026-10-06T13:05:26+00:00
+Score: 5
 
-Differences Between `Foldl` and `Foldr`
+Mistral Large 4
 Source: Hacker News
 Category: technology
-URL: https://blog.haskell.org/foldl-and-foldr
-Published: 2026-10-01T04:58:03+00:00
-Score: 52
-
-Automating my 35mm film scanning pipeline
-Source: Hacker News RSS
-Category: technology
-URL: https://shannadige.com/blog/darkroom
-Published: 2026-10-03T17:35:42+00:00
-
-Article URL: https://shannadige.com/blog/darkroom/ Comments URL: https://news.ycombinator.com/item?id=49946148 Points: 101 # Comments: 68
-
-We ported the original Doom to SQL
-Source: Hacker News RSS
-Category: technology
-URL: https://cedardb.com/blog/sqldoom
-Published: 2026-10-03T22:14:00+00:00
-
-Article URL: https://cedardb.com/blog/sqldoom/ Comments URL: https://news.ycombinator.com/item?id=49948300 Points: 215 # Comments: 37
-
-Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/Niko1221/Strata
-Published: 2026-10-04T12:51:53+00:00
-
-Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 860 # Comments: 386
-
-A browser-native classic Visual Basic VB6 IDE
-Source: Hacker News RSS
-Category: technology
-URL: https://wieslawsoltes.github.io/VB6
-Published: 2026-10-04T18:49:17+00:00
-
-Article URL: https://wieslawsoltes.github.io/VB6/ Comments URL: https://news.ycombinator.com/item?id=49956681 Points: 318 # Comments: 104
-
-Improper redaction reveals Google Data Center water and electricity usage
-Source: Hacker News RSS
-Category: technology
-URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage
-Published: 2026-10-04T19:37:05+00:00
-
-Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 469 # Comments: 608
-
-Turn off Apple Intelligence on macOS 27 and get its disk space back
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/omlahore/RemoveMacAI
-Published: 2026-10-04T19:42:25+00:00
-
-Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 680 # Comments: 454
-
-In the wake of Tippett Studios’ closure, a digital archive appears online
-Source: Hacker News RSS
-Category: technology
-URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online
-Published: 2026-10-04T21:01:28+00:00
-
-https://archive.org/details/tippett-archive/ Comments URL: https://news.ycombinator.com/item?id=49957812 Points: 188 # Comments: 21
-
-Powerless F1 drivers frustrated by Bahrain F1 software glitch
-Source: Hacker News RSS
-Category: technology
-URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968
-Published: 2026-10-05T01:54:08+00:00
-
-Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/ Comments URL: https://news.ycombinator.com/item?id=49959869 Points: 262 # Comments: 219
-
-Huawei and Qualcomm Announce Broad Patent License Agreement
-Source: Hacker News RSS
-Category: technology
-URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement
-Published: 2026-10-05T07:46:10+00:00
-
-Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement Comments URL: https://news.ycombinator.com/item?id=49961861 Points: 106 # Comments: 65
-
-Denmark Data Breach Exposes 8.8M People's Personal Data
-Source: Hacker News RSS
-Category: technology
-URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger
-Published: 2026-10-05T08:09:36+00:00
-
-Article URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger Comments URL: https://news.ycombinator.com/item?id=49962012 Points: 297 # Comments: 230
-
-Apple and a Hacker's Future
-Source: Hacker News RSS
-Category: technology
-URL: https://stratechery.com/2026/apple-and-a-hackers-future
-Published: 2026-10-05T10:05:02+00:00
-
-Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/ Comments URL: https://news.ycombinator.com/item?id=49962857 Points: 115 # Comments: 98
-
-Press Release: Nobel Prize in Physiology or Medicine 2026
-Source: Hacker News RSS
-Category: technology
-URL: https://www.nobelprize.org/prizes/medicine/2026/press-release
-Published: 2026-10-05T10:35:59+00:00
-
-Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=49963094 Points: 78 # Comments: 23
+URL: https://docs.mistral.ai/models/mistral-large-4-0
+Published: 2026-10-06T13:15:49+00:00
+Score: 39
 
 Web Search API
 Source: Hacker News RSS
@@ -224,60 +130,156 @@ Category: technology
 URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api
 Published: 2026-10-05T10:47:06+00:00
 
-Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ Comments URL: https://news.ycombinator.com/item?id=49963171 Points: 152 # Comments: 86
+Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ Comments URL: https://news.ycombinator.com/item?id=49963171 Points: 566 # Comments: 264
 
-Europe's new robotics unicorn: Germany's RobCo hits $1B valuation
+The lamps in my house
 Source: Hacker News RSS
 Category: technology
-URL: https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation
-Published: 2026-10-05T11:13:51+00:00
+URL: https://arslan.io/2026/10/05/the-lamps-in-my-house
+Published: 2026-10-05T14:12:14+00:00
 
-Article URL: https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/ Comments URL: https://news.ycombinator.com/item?id=49963366 Points: 215 # Comments: 186
+Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/ Comments URL: https://news.ycombinator.com/item?id=49965152 Points: 242 # Comments: 102
 
-The Era of Software Quality, or the Era of Ostriches?
+Making a GTK application in Haskell, part 1
 Source: Hacker News RSS
 Category: technology
-URL: https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches
-Published: 2026-10-05T12:33:15+00:00
+URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1
+Published: 2026-10-05T14:23:47+00:00
 
-Article URL: https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/ Comments URL: https://news.ycombinator.com/item?id=49964018 Points: 30 # Comments: 7
+Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/ Comments URL: https://news.ycombinator.com/item?id=49965308 Points: 165 # Comments: 48
 
-Tell HN: Uceprotect is extorting website owners
+Beam: Reflection's 501B open-weight model
 Source: Hacker News RSS
 Category: technology
-URL: https://news.ycombinator.com/item?id=49964045
-Published: 2026-10-05T12:35:55+00:00
+URL: https://reflection.ai/blog/introducing-beam
+Published: 2026-10-05T19:16:35+00:00
 
-I recently discovered by accident that our website was being blocked by Orange's security filters. After a quick check, I found that our IP address is listed on UCEPROTECT Level 3. The listing is based on the reputation of the entire ASN 14061 (DigitalOcean, US) [1]. In other words, even if your IP did nothing wrong, it will still be listed because of its ASN. If your site is innocent and listed only because it's hosted on DigitalOcean, UCEPROTECT offers to whitelist it for about $30/month or $108/year [2]. I checked the ASNs of several other popular hosting providers, and they're all listed too. So if your site is hosted on DigitalOcean or any other major provider, it's probably blacklisted as well. That can cut you off from customers on mobile networks like Orange, whose "cybersecurity protection" uses blacklists like UCEPROTECT to filter traffic. Honestly, in my 20-year career, this is the first time I've seen a blacklist misbehave this badly and ask for money when there's clearly been no wrongdoing. [1] http://www.uceprotect.net/en/rblcheck.php?asn=14061 [2] https://www.whitelisted.org/ Comments URL: https://news.ycombinator.com/item?id=49964045 Points: 31 # Comments: 15
+Article URL: https://reflection.ai/blog/introducing-beam Comments URL: https://news.ycombinator.com/item?id=49969183 Points: 484 # Comments: 156
 
-Gitframes
+Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/gatewai-dev/gitframes
-Published: 2026-10-05T12:59:14+00:00
+URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors
+Published: 2026-10-05T21:00:21+00:00
 
-Article URL: https://github.com/gatewai-dev/gitframes Comments URL: https://news.ycombinator.com/item?id=49964265 Points: 37 # Comments: 18
+Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors Comments URL: https://news.ycombinator.com/item?id=49970667 Points: 400 # Comments: 268
 
-Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped
+Dust: Pretraining Transformers Without Backpropagation
 Source: Hacker News RSS
 Category: technology
-URL: https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped
-Published: 2026-10-05T13:02:25+00:00
+URL: https://qlabs.sh/research/dust
+Published: 2026-10-05T21:15:07+00:00
 
-Article URL: https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped Comments URL: https://news.ycombinator.com/item?id=49964303 Points: 110 # Comments: 67
+Article URL: https://qlabs.sh/research/dust Comments URL: https://news.ycombinator.com/item?id=49970871 Points: 232 # Comments: 61
 
-Spending on AI Is Becoming Almost Impossible for Businesses to Budget
+Find the flattest route between any two points in SF
 Source: Hacker News RSS
 Category: technology
-URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a
-Published: 2026-10-05T13:22:31+00:00
+URL: https://flattensf.com/
+Published: 2026-10-05T21:40:50+00:00
 
-Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a Comments URL: https://news.ycombinator.com/item?id=49964537 Points: 28 # Comments: 22
+Article URL: https://flattensf.com/ Comments URL: https://news.ycombinator.com/item?id=49971230 Points: 237 # Comments: 81
 
-Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]
+Friendship ended with Deno, now Node is my best friend
 Source: Hacker News RSS
 Category: technology
-URL: https://www.youtube.com/watch?v=RFTfANuLBF4
-Published: 2026-10-05T14:02:38+00:00
+URL: https://dbushell.com/2026/10/03/deno-to-node
+Published: 2026-10-05T22:30:02+00:00
 
-Article URL: https://www.youtube.com/watch?v=RFTfANuLBF4 Comments URL: https://news.ycombinator.com/item?id=49965042 Points: 3 # Comments: 0
+Article URL: https://dbushell.com/2026/10/03/deno-to-node/ Comments URL: https://news.ycombinator.com/item?id=49971719 Points: 222 # Comments: 137
+
+Example.com just launched the biggest redesign in decades
+Source: Hacker News RSS
+Category: technology
+URL: https://www.debugbear.com/blog/example-dot-com-redesign-history
+Published: 2026-10-05T22:55:11+00:00
+
+Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/item?id=49971921 Points: 263 # Comments: 170
+
+Ephemeral Testing
+Source: Hacker News RSS
+Category: technology
+URL: https://lemire.me/blog/2026/10/05/ephemeral-testing
+Published: 2026-10-05T23:06:36+00:00
+
+Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/ Comments URL: https://news.ycombinator.com/item?id=49972008 Points: 71 # Comments: 25
+
+Samon: Designing a Zen Garden Raking Puzzle
+Source: Hacker News RSS
+Category: technology
+URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html
+Published: 2026-10-05T23:35:35+00:00
+
+Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html Comments URL: https://news.ycombinator.com/item?id=49972211 Points: 51 # Comments: 24
+
+Why Common Lisp is now the best programming language
+Source: Hacker News RSS
+Category: technology
+URL: https://www.vivienhenz.com/common-lisp
+Published: 2026-10-06T02:51:51+00:00
+
+Article URL: https://www.vivienhenz.com/common-lisp Comments URL: https://news.ycombinator.com/item?id=49973598 Points: 233 # Comments: 293
+
+Resurrecting iChat Audio and Video Conferencing
+Source: Hacker News RSS
+Category: technology
+URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing
+Published: 2026-10-06T03:39:01+00:00
+
+Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/ Comments URL: https://news.ycombinator.com/item?id=49973878 Points: 74 # Comments: 15
+
+Gleam doesn't compile to Erlang source anymore
+Source: Hacker News RSS
+Category: technology
+URL: https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore
+Published: 2026-10-06T08:08:20+00:00
+
+Article URL: https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/ Comments URL: https://news.ycombinator.com/item?id=49975619 Points: 103 # Comments: 20
+
+Nobel Prize in Physics goes to Francis Halzen
+Source: Hacker News RSS
+Category: technology
+URL: https://www.nobelprize.org/prizes/physics/2026
+Published: 2026-10-06T09:48:46+00:00
+
+Article URL: https://www.nobelprize.org/prizes/physics/2026/ Comments URL: https://news.ycombinator.com/item?id=49976265 Points: 203 # Comments: 63
+
+ASOS app users receive push notifications apparently sent by hackers
+Source: Hacker News RSS
+Category: technology
+URL: https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o
+Published: 2026-10-06T10:15:40+00:00
+
+Article URL: https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o Comments URL: https://news.ycombinator.com/item?id=49976468 Points: 45 # Comments: 29
+
+Nature's capacity to 'bounce back' when species are lost is vastly overestimated
+Source: Hacker News RSS
+Category: technology
+URL: https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html
+Published: 2026-10-06T11:11:51+00:00
+
+Article URL: https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html Comments URL: https://news.ycombinator.com/item?id=49976823 Points: 56 # Comments: 20
+
+World's First enhanced geothermal power plant completed in just 23 months
+Source: Hacker News RSS
+Category: technology
+URL: https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months
+Published: 2026-10-06T11:34:14+00:00
+
+Article URL: https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/ Comments URL: https://news.ycombinator.com/item?id=49976993 Points: 33 # Comments: 4
+
+JetBrains reported a net financial loss first time in its tracked history
+Source: Hacker News RSS
+Category: technology
+URL: https://www.helgilibrary.com/companies/jetbrains
+Published: 2026-10-06T11:45:55+00:00
+
+Article URL: https://www.helgilibrary.com/companies/jetbrains Comments URL: https://news.ycombinator.com/item?id=49977072 Points: 142 # Comments: 126
+
+Release of Polars 2.0
+Source: Hacker News RSS
+Category: technology
+URL: https://pola.rs/posts/release-polars-2
+Published: 2026-10-06T11:59:01+00:00
+
+Article URL: https://pola.rs/posts/release-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49977177 Points: 47 # Comments: 7

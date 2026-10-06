@@ -1,0 +1,81 @@
+{
+  "topic": "Article Points News.ycombinator.com",
+  "topic_key": "article-points-news.ycombinator.com",
+  "confidence": 85.48,
+  "score_breakdown": {
+    "source_quality": 65.45,
+    "corroboration": 100.0,
+    "recency": 79.23,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.48,
+  "evidence": [
+    {
+      "title": "Release of Polars 2.0",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "publisher": "pola.rs",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-06T13:22:07.776356+00:00"
+    },
+    {
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "publisher": "www.helgilibrary.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-06T13:22:07.943280+00:00"
+    },
+    {
+      "title": "World's First enhanced geothermal power plant completed in just 23 months",
+      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "publisher": "techcrunch.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-06T13:22:08.051110+00:00"
+    },
+    {
+      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "publisher": "phys.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-06T13:22:08.664999+00:00"
+    },
+    {
+      "title": "ASOS app users receive push notifications apparently sent by hackers",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+      "publisher": "www.bbc.co.uk",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-06T13:22:08.958566+00:00"
+    },
+    {
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "publisher": "www.nobelprize.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-06T13:22:09.141362+00:00"
+    }
+  ]
+}
