@@ -1,0 +1,81 @@
+{
+  "topic": "Points Comments Url",
+  "topic_key": "points-comments-url",
+  "confidence": 85.35,
+  "score_breakdown": {
+    "source_quality": 65.43,
+    "corroboration": 100.0,
+    "recency": 78.61,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.35,
+  "evidence": [
+    {
+      "title": "Show HN: AstroHelm \u2013 Use your phone camera to aim a telescope or telephoto lens",
+      "url": "https://astrohelm.app/",
+      "publisher": "astrohelm.app",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-07T13:29:36.175657+00:00"
+    },
+    {
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+      "publisher": "www.readingchronicle.co.uk",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-07T13:29:36.531420+00:00"
+    },
+    {
+      "title": "Plastic Straw Ban Isn't Environmentalism\u2013It's Virtue Signaling \u2013 Oregon Catalyst",
+      "url": "https://oregoncatalyst.com/42230-plastic-straw-ban-isnt-environmentalismits-virtue-signaling.html",
+      "publisher": "oregoncatalyst.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-07T13:29:47.250391+00:00"
+    },
+    {
+      "title": "Google Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "publisher": "blog.google",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-07T13:29:47.606655+00:00"
+    },
+    {
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "publisher": "fiveminutesforward.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-07T13:29:47.789066+00:00"
+    },
+    {
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "publisher": "developer.chrome.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-07T13:29:48.100910+00:00"
+    }
+  ]
+}

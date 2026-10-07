@@ -1,79 +1,9 @@
-cathrynlavery / diagram-design
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cathrynlavery/diagram-design
-
-Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-
 DuarteSantos8 / openGym
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/DuarteSantos8/openGym
 
 Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-
-msitarzewski / agency-agents
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/msitarzewski/agency-agents
-
-A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-
-deepseek-ai / DeepGEMM
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/deepseek-ai/DeepGEMM
-
-DeepGEMM: clean and efficient BLAS kernel library on GPU
-
-morluto / rea
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/morluto/rea
-
-Reverse engineer anything with agents, from app behavior down to native binaries.
-
-ayghri / i-have-adhd
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ayghri/i-have-adhd
-
-A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-
-thedotmack / claude-mem
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/thedotmack/claude-mem
-
-Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-
-pbakaus / impeccable
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/pbakaus/impeccable
-
-The design language that makes your AI harness better at design.
-
-boykopovar / AnyPS5
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/boykopovar/AnyPS5
-
-Tool for automatic PS5 executables porting to Linux and Windows
-
-earthtojake / text-to-cad
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/earthtojake/text-to-cad
-
-Give your agent CAD superpowers.
-
-mattpocock / skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/mattpocock/skills
-
-Skills for Real Engineers. Straight from my .agents directory.
 
 tester-army / e2e
 Source: GitHub Trending
@@ -82,204 +12,281 @@ URL: https://github.com/tester-army/e2e
 
 Next generation e2e testing framework for web and mobile apps.
 
-Using A.I. and machine learning to decode communication of sperm whales
-Source: Hacker News
+cloudflare / security-audit-skill
+Source: GitHub Trending
 Category: technology
-URL: https://blue-continuum.com/the-man-who-listens-to-whales
-Published: 2026-10-04T10:15:13+00:00
-Score: 51
+URL: https://github.com/cloudflare/security-audit-skill
 
-Accountability mechanisms can be joyful (2024)
-Source: Hacker News
-Category: technology
-URL: https://liquidbrain.net/blog/accountability-and-joy
-Published: 2026-10-04T06:15:17+00:00
-Score: 56
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-Show HN: GrepJob – 67,000 SWE jobs scraped from a curated list of top companies
-Source: Hacker News
+trycua / cua
+Source: GitHub Trending
 Category: technology
-URL: https://grepjob.com/
-Published: 2026-10-06T13:05:23+00:00
-Score: 4
+URL: https://github.com/trycua/cua
 
-Any AI chat can join a machine network anonymously – no keys, no signup
-Source: Hacker News
-Category: technology
-URL: https://github.com/TheRealDalaiLama/glyphdna-mcp
-Published: 2026-10-06T13:04:37+00:00
-Score: 4
+Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 
-Mathematics of Geothermal Energy
+manaflow-ai / cmux
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/manaflow-ai/cmux
+
+Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+
+thedotmack / claude-mem
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/thedotmack/claude-mem
+
+Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+
+EpicGames / raddebugger
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/EpicGames/raddebugger
+
+A native, user-mode, multi-process, graphical debugger.
+
+addyosmani / agent-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/addyosmani/agent-skills
+
+Production-grade engineering skills for AI coding agents.
+
+cathrynlavery / diagram-design
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cathrynlavery/diagram-design
+
+Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+
+ayghri / i-have-adhd
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ayghri/i-have-adhd
+
+A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+
+boykopovar / AnyPS5
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/boykopovar/AnyPS5
+
+Tool for automatic PS5 executables porting to Linux and Windows
+
+mattpocock / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mattpocock/skills
+
+Skills for Real Engineers. Straight from my .agents directory.
+
+morluto / rea
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/morluto/rea
+
+Reverse engineer anything with agents, from app behavior down to native binaries.
+
+What is Codemode
 Source: Hacker News
 Category: technology
-URL: https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy
-Published: 2026-10-06T13:05:26+00:00
-Score: 5
+URL: https://lucumr.pocoo.org/2026/10/6/codemode
+Published: 2026-10-06T13:41:03+00:00
+Score: 110
+
+Mallet Head Angle
+Source: Hacker News
+Category: technology
+URL: http://www.timberframe-tools.com/tools/mallet-head-angle
+Published: 2026-10-06T03:29:20+00:00
+Score: 3
+
+EmbeddingGemma 2: An open, lightweight multimodal embedding model
+Source: Hacker News
+Category: technology
+URL: https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2
+Published: 2026-10-06T16:03:49+00:00
+Score: 369
 
 Mistral Large 4
 Source: Hacker News
 Category: technology
-URL: https://docs.mistral.ai/models/mistral-large-4-0
+URL: https://mistral.ai/news/mistral-large-4/\
 Published: 2026-10-06T13:15:49+00:00
-Score: 39
+Score: 1907
 
-Web Search API
+Rust's derive often implies inline
+Source: Hacker News
+Category: technology
+URL: https://yossarian.net/til/post/rust-s-derive-often-implies-inline
+Published: 2026-10-04T01:27:02+00:00
+Score: 35
+
+Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens
+Source: Hacker News
+Category: technology
+URL: https://astrohelm.app/
+Published: 2026-10-04T14:01:09+00:00
+Score: 37
+
+Claude Code’s suggested message feature: I think the real customer is the model
 Source: Hacker News RSS
 Category: technology
-URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api
-Published: 2026-10-05T10:47:06+00:00
+URL: https://www.zohaib.cc/blog/smartest-claude-code-feature
+Published: 2026-10-06T18:00:34+00:00
 
-Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ Comments URL: https://news.ycombinator.com/item?id=49963171 Points: 566 # Comments: 264
+Article URL: https://www.zohaib.cc/blog/smartest-claude-code-feature Comments URL: https://news.ycombinator.com/item?id=49981905 Points: 233 # Comments: 133
 
-The lamps in my house
+Tell HN: GitHub refuses to remove cracked copies of my software after a month
 Source: Hacker News RSS
 Category: technology
-URL: https://arslan.io/2026/10/05/the-lamps-in-my-house
-Published: 2026-10-05T14:12:14+00:00
+URL: https://news.ycombinator.com/item?id=49982498
+Published: 2026-10-06T18:54:01+00:00
 
-Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/ Comments URL: https://news.ycombinator.com/item?id=49965152 Points: 242 # Comments: 102
+I am a developer of https://www.photopea.com, a popular photo editor that runs in a web browser. Many people are asking AI models to take the Javascript code from my website, remove all ads from it, and they publish such a "new product" on Github for everyone to download. There exist tens of such repositories on Github. I want my website to be the only source of a stable version of my program Photopea. I even received emails from people complaining about something in Photopea, and it took several emails to figure out that they are not using Photopea.com (so it ruins my reputation a little). I reported it to Github on the 4th of September 2026: https://www.photopea.com/g/XKoqqIGv Today, a month later, I received this response: Thank you for submitting a DMCA takedown notice. We've reviewed the information you've provided, and based on the facts presented to us, we're unable to confirm a violation of 17 U.S. Code § 1201. What do you think I could do? Do you think I should look for a lawyer to deal with it outside the digital world? I really doubt that a real person ever looked at my report, and they probably send this response automatically to 99% of people. Comments URL: https://news.ycombinator.com/item?id=49982498 Points: 362 # Comments: 195
 
-Making a GTK application in Haskell, part 1
+Decisions API is in public beta
 Source: Hacker News RSS
 Category: technology
-URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1
-Published: 2026-10-05T14:23:47+00:00
+URL: https://developers.openai.com/api/docs/guides/decisions
+Published: 2026-10-06T20:57:25+00:00
 
-Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/ Comments URL: https://news.ycombinator.com/item?id=49965308 Points: 165 # Comments: 48
+Article URL: https://developers.openai.com/api/docs/guides/decisions Comments URL: https://news.ycombinator.com/item?id=49984025 Points: 350 # Comments: 188
 
-Beam: Reflection's 501B open-weight model
+Penguin Mail – open-source Rust email client for Linux with AI
 Source: Hacker News RSS
 Category: technology
-URL: https://reflection.ai/blog/introducing-beam
-Published: 2026-10-05T19:16:35+00:00
+URL: https://penguin-mail.com/
+Published: 2026-10-06T21:59:43+00:00
 
-Article URL: https://reflection.ai/blog/introducing-beam Comments URL: https://news.ycombinator.com/item?id=49969183 Points: 484 # Comments: 156
+Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 215 # Comments: 143
 
-Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates
+Sharing AI progress in mathematics
 Source: Hacker News RSS
 Category: technology
-URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors
-Published: 2026-10-05T21:00:21+00:00
+URL: https://openai.com/index/sharing-ai-progress-in-mathematics
+Published: 2026-10-06T22:17:21+00:00
 
-Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors Comments URL: https://news.ycombinator.com/item?id=49970667 Points: 400 # Comments: 268
+https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1040 # Comments: 1047
 
-Dust: Pretraining Transformers Without Backpropagation
+ESP32-C3 Adblock
 Source: Hacker News RSS
 Category: technology
-URL: https://qlabs.sh/research/dust
-Published: 2026-10-05T21:15:07+00:00
+URL: https://github.com/M-Abozaid/esp32-c3-adblock
+Published: 2026-10-07T01:39:21+00:00
 
-Article URL: https://qlabs.sh/research/dust Comments URL: https://news.ycombinator.com/item?id=49970871 Points: 232 # Comments: 61
+Article URL: https://github.com/M-Abozaid/esp32-c3-adblock Comments URL: https://news.ycombinator.com/item?id=49986862 Points: 142 # Comments: 55
 
-Find the flattest route between any two points in SF
+Strands Decider 2B: a small, open-source, decision model
 Source: Hacker News RSS
 Category: technology
-URL: https://flattensf.com/
-Published: 2026-10-05T21:40:50+00:00
+URL: https://strandsagents.com/blog/introducing-strands-decider
+Published: 2026-10-07T02:02:11+00:00
 
-Article URL: https://flattensf.com/ Comments URL: https://news.ycombinator.com/item?id=49971230 Points: 237 # Comments: 81
+Article URL: https://strandsagents.com/blog/introducing-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=49987076 Points: 224 # Comments: 65
 
-Friendship ended with Deno, now Node is my best friend
+La Cueva BBS in Mexico in 1993 (session replay)
 Source: Hacker News RSS
 Category: technology
-URL: https://dbushell.com/2026/10/03/deno-to-node
-Published: 2026-10-05T22:30:02+00:00
+URL: https://nanochess.org/la_cueva_bbs.html
+Published: 2026-10-07T03:16:45+00:00
 
-Article URL: https://dbushell.com/2026/10/03/deno-to-node/ Comments URL: https://news.ycombinator.com/item?id=49971719 Points: 222 # Comments: 137
+Article URL: https://nanochess.org/la_cueva_bbs.html Comments URL: https://news.ycombinator.com/item?id=49987675 Points: 61 # Comments: 22
 
-Example.com just launched the biggest redesign in decades
+Show HN: NanoMuse – An open-source AI agent for your phone and computer
 Source: Hacker News RSS
 Category: technology
-URL: https://www.debugbear.com/blog/example-dot-com-redesign-history
-Published: 2026-10-05T22:55:11+00:00
+URL: https://github.com/nano-muse/nanoMuse
+Published: 2026-10-07T03:30:44+00:00
 
-Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/item?id=49971921 Points: 263 # Comments: 170
+Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 34 # Comments: 10
 
-Ephemeral Testing
+Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer
 Source: Hacker News RSS
 Category: technology
-URL: https://lemire.me/blog/2026/10/05/ephemeral-testing
-Published: 2026-10-05T23:06:36+00:00
+URL: https://github.com/shader-effects-inc/shaders
+Published: 2026-10-07T05:38:35+00:00
 
-Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/ Comments URL: https://news.ycombinator.com/item?id=49972008 Points: 71 # Comments: 25
+Article URL: https://github.com/shader-effects-inc/shaders Comments URL: https://news.ycombinator.com/item?id=49988709 Points: 46 # Comments: 24
 
-Samon: Designing a Zen Garden Raking Puzzle
+Forever Junior: The Skills AI Can't Develop for You
 Source: Hacker News RSS
 Category: technology
-URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html
-Published: 2026-10-05T23:35:35+00:00
+URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers
+Published: 2026-10-07T08:00:06+00:00
 
-Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html Comments URL: https://news.ycombinator.com/item?id=49972211 Points: 51 # Comments: 24
+Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 28 # Comments: 18
 
-Why Common Lisp is now the best programming language
+A font recreated from photographs of classic Commodore 64 keycaps
 Source: Hacker News RSS
 Category: technology
-URL: https://www.vivienhenz.com/common-lisp
-Published: 2026-10-06T02:51:51+00:00
+URL: https://github.com/szabadkai/c64-keyboard-font
+Published: 2026-10-07T09:17:55+00:00
 
-Article URL: https://www.vivienhenz.com/common-lisp Comments URL: https://news.ycombinator.com/item?id=49973598 Points: 233 # Comments: 293
+Article URL: https://github.com/szabadkai/c64-keyboard-font/ Comments URL: https://news.ycombinator.com/item?id=49990224 Points: 173 # Comments: 32
 
-Resurrecting iChat Audio and Video Conferencing
+Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing
-Published: 2026-10-06T03:39:01+00:00
+URL: https://www.nobelprize.org/prizes/chemistry/2026/press-release
+Published: 2026-10-07T09:51:43+00:00
 
-Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/ Comments URL: https://news.ycombinator.com/item?id=49973878 Points: 74 # Comments: 15
+Article URL: https://www.nobelprize.org/prizes/chemistry/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=49990470 Points: 114 # Comments: 13
 
-Gleam doesn't compile to Erlang source anymore
+PS5 Jailbreaks Are Escalating at an Unprecedented Pace
 Source: Hacker News RSS
 Category: technology
-URL: https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore
-Published: 2026-10-06T08:08:20+00:00
+URL: https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating
+Published: 2026-10-07T10:24:19+00:00
 
-Article URL: https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/ Comments URL: https://news.ycombinator.com/item?id=49975619 Points: 103 # Comments: 20
+Article URL: https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating Comments URL: https://news.ycombinator.com/item?id=49990763 Points: 39 # Comments: 24
 
-Nobel Prize in Physics goes to Francis Halzen
+It may soon be possible to create "mirror life"
 Source: Hacker News RSS
 Category: technology
-URL: https://www.nobelprize.org/prizes/physics/2026
-Published: 2026-10-06T09:48:46+00:00
+URL: https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life
+Published: 2026-10-07T11:14:38+00:00
 
-Article URL: https://www.nobelprize.org/prizes/physics/2026/ Comments URL: https://news.ycombinator.com/item?id=49976265 Points: 203 # Comments: 63
+Article URL: https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life Comments URL: https://news.ycombinator.com/item?id=49991132 Points: 26 # Comments: 31
 
-ASOS app users receive push notifications apparently sent by hackers
+Shipping JPEG XL in Chrome
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o
-Published: 2026-10-06T10:15:40+00:00
+URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome
+Published: 2026-10-07T11:25:02+00:00
 
-Article URL: https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o Comments URL: https://news.ycombinator.com/item?id=49976468 Points: 45 # Comments: 29
+Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 157 # Comments: 74
 
-Nature's capacity to 'bounce back' when species are lost is vastly overestimated
+Write Like It's 1866: LLMs Relearn Telegraphese
 Source: Hacker News RSS
 Category: technology
-URL: https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html
-Published: 2026-10-06T11:11:51+00:00
+URL: https://fiveminutesforward.com/post/2026-10-04-telegraph-test
+Published: 2026-10-07T12:04:36+00:00
 
-Article URL: https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html Comments URL: https://news.ycombinator.com/item?id=49976823 Points: 56 # Comments: 20
+Article URL: https://fiveminutesforward.com/post/2026-10-04-telegraph-test/ Comments URL: https://news.ycombinator.com/item?id=49991580 Points: 19 # Comments: 14
 
-World's First enhanced geothermal power plant completed in just 23 months
+Google Playground: Create and play custom games
 Source: Hacker News RSS
 Category: technology
-URL: https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months
-Published: 2026-10-06T11:34:14+00:00
+URL: https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform
+Published: 2026-10-07T12:28:36+00:00
 
-Article URL: https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/ Comments URL: https://news.ycombinator.com/item?id=49976993 Points: 33 # Comments: 4
+Article URL: https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/ Comments URL: https://news.ycombinator.com/item?id=49991823 Points: 13 # Comments: 1
 
-JetBrains reported a net financial loss first time in its tracked history
+Plastic Straw Ban Isn't Environmentalism–It's Virtue Signaling – Oregon Catalyst
 Source: Hacker News RSS
 Category: technology
-URL: https://www.helgilibrary.com/companies/jetbrains
-Published: 2026-10-06T11:45:55+00:00
+URL: https://oregoncatalyst.com/42230-plastic-straw-ban-isnt-environmentalismits-virtue-signaling.html
+Published: 2026-10-07T12:50:10+00:00
 
-Article URL: https://www.helgilibrary.com/companies/jetbrains Comments URL: https://news.ycombinator.com/item?id=49977072 Points: 142 # Comments: 126
+Article URL: https://oregoncatalyst.com/42230-plastic-straw-ban-isnt-environmentalismits-virtue-signaling.html Comments URL: https://news.ycombinator.com/item?id=49992046 Points: 4 # Comments: 0
 
-Release of Polars 2.0
+House with 15m underground tunnels for sale for 300k
 Source: Hacker News RSS
 Category: technology
-URL: https://pola.rs/posts/release-polars-2
-Published: 2026-10-06T11:59:01+00:00
+URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k
+Published: 2026-10-07T12:57:10+00:00
 
-Article URL: https://pola.rs/posts/release-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49977177 Points: 47 # Comments: 7
+Article URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/ Comments URL: https://news.ycombinator.com/item?id=49992125 Points: 23 # Comments: 18
