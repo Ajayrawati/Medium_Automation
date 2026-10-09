@@ -1,0 +1,81 @@
+{
+  "topic": "News.ycombinator.com Https Points",
+  "topic_key": "news.ycombinator.com-https-points",
+  "confidence": 86.12,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 83.08,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.12,
+  "evidence": [
+    {
+      "title": "The Hetzner Cloud network stack \u2013 history and technical overview",
+      "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+      "publisher": "www.hetzner.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-09T13:22:16.753731+00:00"
+    },
+    {
+      "title": "US proposes $100k charge for international students to do post-graduate work",
+      "url": "https://www.nature.com/articles/d41586-026-02921-7",
+      "publisher": "www.nature.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-09T13:22:16.963968+00:00"
+    },
+    {
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-09T13:22:17.414704+00:00"
+    },
+    {
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "publisher": "www.nobelprize.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-09T13:22:17.683370+00:00"
+    },
+    {
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "publisher": "techcrunch.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-09T13:22:17.790848+00:00"
+    },
+    {
+      "title": "I'm in a Meeting",
+      "url": "https://iminafleeting.com/",
+      "publisher": "iminafleeting.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-09T13:22:17.939029+00:00"
+    }
+  ]
+}
