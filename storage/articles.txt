@@ -1,37 +1,9 @@
-twostraws / SwiftUI-Agent-Skill
+multica-ai / andrej-karpathy-skills
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/twostraws/SwiftUI-Agent-Skill
+URL: https://github.com/multica-ai/andrej-karpathy-skills
 
-SwiftUI agent skill for Claude Code, Codex, and other AI tools.
-
-Robbyant / lingbot-map
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Robbyant/lingbot-map
-
-[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
-
-storytold / artcraft
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/storytold/artcraft
-
-ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-
-addyosmani / agent-skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/addyosmani/agent-skills
-
-Production-grade engineering skills for AI coding agents.
-
-BerriAI / litellm
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/BerriAI/litellm
-
-The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
+A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
 anthropics / knowledge-work-plugins
 Source: GitHub Trending
@@ -40,19 +12,40 @@ URL: https://github.com/anthropics/knowledge-work-plugins
 
 Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
-alibaba / open-code-review
+huggingface / transformers
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/alibaba/open-code-review
+URL: https://github.com/huggingface/transformers
 
-Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
-cathrynlavery / diagram-design
+pytorch / pytorch
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/cathrynlavery/diagram-design
+URL: https://github.com/pytorch/pytorch
 
-Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+hugohe3 / ppt-master
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/hugohe3/ppt-master
+
+AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
+
+tensorflow / tensorflow
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/tensorflow/tensorflow
+
+An Open Source Machine Learning Framework for Everyone
+
+flutter / flutter
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/flutter/flutter
+
+Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 mattpocock / skills
 Source: GitHub Trending
@@ -60,6 +53,27 @@ Category: technology
 URL: https://github.com/mattpocock/skills
 
 Skills for Real Engineers. Straight from my .agents directory.
+
+mksglu / context-mode
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mksglu/context-mode
+
+Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+
+cathrynlavery / diagram-design
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cathrynlavery/diagram-design
+
+Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+
+storytold / artcraft
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/storytold/artcraft
+
+ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 
 boykopovar / AnyPS5
 Source: GitHub Trending
@@ -75,211 +89,204 @@ URL: https://github.com/morluto/rea
 
 Reverse engineer anything with agents, from app behavior down to native binaries.
 
-ETH-68: Ethernet Audio Interface for Linux
+Pointing AI at archives found a forgotten meteorite, lost rhinos, and more
 Source: Hacker News
 Category: technology
-URL: https://naturalsystems.io/eth68
-Published: 2026-10-07T13:58:05+00:00
-Score: 178
+URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives
+Published: 2026-10-09T11:36:20+00:00
+Score: 155
 
-Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?
+How to head into VR without wearing a headset
 Source: Hacker News
 Category: technology
-URL: https://news.ycombinator.com/item?id=49985548
-Published: 2026-10-06T23:16:56+00:00
-Score: 282
+URL: https://www.kyushu-u.ac.jp/en/researches/view/414
+Published: 2026-10-06T17:07:12+00:00
+Score: 41
 
-I hired an illustrator to draw my house. Now it's my Home Assistant dashboard
+WSL3 Performance is about 5-60% faster than WSL2 depending on the workload
 Source: Hacker News
 Category: technology
-URL: https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my
-Published: 2026-10-07T01:41:03+00:00
-Score: 725
+URL: https://tonym.us/wsl2-vs-wsl3-benchmarks.html
+Published: 2026-10-07T21:06:54+00:00
+Score: 84
 
-Man discovers his parents' coffee machine used 1TB of data in 10 days
+Noto means "no tofu": fixing dotted circles in Myanmar text
 Source: Hacker News
 Category: technology
-URL: https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399
-Published: 2026-10-07T16:56:30+00:00
-Score: 780
+URL: https://www.datocms.com/blog/handling-less-common-scripts
+Published: 2026-10-06T17:24:17+00:00
+Score: 13
 
-Why isn't the industry freaking out about DeepSeek 4.1 Flash?
+C for Rust Programmers
 Source: Hacker News
 Category: technology
-URL: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out
-Published: 2026-10-08T00:14:48+00:00
-Score: 869
+URL: https://bd103.dev/blog/2026-10-07-c-for-rust-programmers
+Published: 2026-10-08T13:44:36+00:00
+Score: 15
 
-Our $445M Series D
+Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)
 Source: Hacker News
 Category: technology
-URL: https://oxide.computer/blog/our-445m-series-d
-Published: 2026-10-09T13:12:47+00:00
-Score: 5
+URL: https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo
+Published: 2026-10-07T19:15:57+00:00
+Score: 189
 
-Deno Is Joining Cloudflare
-Source: Hacker News
+Cloudflare acquires Deno
+Source: Hacker News RSS
 Category: technology
 URL: https://deno.com/blog/cloudflare
 Published: 2026-10-09T13:03:48+00:00
-Score: 52
 
-Yes, and
+Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 1263 # Comments: 639
+
+Our $445M Series D
 Source: Hacker News RSS
 Category: technology
-URL: https://htmx.org/essays/yes-and
-Published: 2026-10-08T09:48:18+00:00
+URL: https://oxide.computer/blog/our-445m-series-d
+Published: 2026-10-09T13:12:47+00:00
 
-Article URL: https://htmx.org/essays/yes-and/ Comments URL: https://news.ycombinator.com/item?id=50003796 Points: 532 # Comments: 187
+Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 667 # Comments: 300
 
-Beauty in DVD Menus
+'Wallace and Gromit,' 90% Alone
 Source: Hacker News RSS
 Category: technology
-URL: https://vale.rocks/posts/dvd-menus
-Published: 2026-10-08T13:22:01+00:00
+URL: https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone
+Published: 2026-10-09T13:49:31+00:00
 
-Article URL: https://vale.rocks/posts/dvd-menus Comments URL: https://news.ycombinator.com/item?id=50005527 Points: 319 # Comments: 167
+Article URL: https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone Comments URL: https://news.ycombinator.com/item?id=50020533 Points: 231 # Comments: 33
 
-Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter
+Can you use autoregressive diffusion to generate market data?
 Source: Hacker News RSS
 Category: technology
-URL: https://openrouter.ai/stepfun/step-5-preview
-Published: 2026-10-08T16:20:20+00:00
+URL: https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data
+Published: 2026-10-09T14:56:13+00:00
 
-Article URL: https://openrouter.ai/stepfun/step-5-preview Comments URL: https://news.ycombinator.com/item?id=50007764 Points: 133 # Comments: 33
+Article URL: https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/ Comments URL: https://news.ycombinator.com/item?id=50021410 Points: 108 # Comments: 37
 
-Show HN: Making a flexible "neon" t-shirt with LED filaments
+Triple-A Minesweeper
 Source: Hacker News RSS
 Category: technology
-URL: http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html
-Published: 2026-10-08T16:37:24+00:00
+URL: https://minesweeper.mikelacher.com/
+Published: 2026-10-09T15:51:05+00:00
 
-Article URL: http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html Comments URL: https://news.ycombinator.com/item?id=50008047 Points: 189 # Comments: 33
+Article URL: https://minesweeper.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50022292 Points: 1057 # Comments: 204
 
-Whistle: Speech to Text in 16.9 MB
+Typesafe AI raises $870M at $7.5B
 Source: Hacker News RSS
 Category: technology
-URL: https://cactuscompute.com/blog/whistle
-Published: 2026-10-08T16:59:39+00:00
+URL: https://typesafe.ai/blog/series-ai
+Published: 2026-10-09T17:02:31+00:00
 
-Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 815 # Comments: 165
+Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 382 # Comments: 294
 
-Theranos.world
+Scam American companies are using to manipulate ingredient lists
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theranos.world/
-Published: 2026-10-08T17:51:49+00:00
+URL: https://twitter.com/WallStreetApes/status/2108594998656807078
+Published: 2026-10-09T17:35:40+00:00
 
-Article URL: https://www.theranos.world/ Comments URL: https://news.ycombinator.com/item?id=50009295 Points: 483 # Comments: 172
+Article URL: https://twitter.com/WallStreetApes/status/2108594998656807078 Comments URL: https://news.ycombinator.com/item?id=50023995 Points: 138 # Comments: 155
 
-The value of not getting to the point (2015)
+What mathematicians should know about the Lean Theorem Prover: reliability & AI
 Source: Hacker News RSS
 Category: technology
-URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point
-Published: 2026-10-08T19:04:56+00:00
+URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai
+Published: 2026-10-09T17:42:12+00:00
 
-Article URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/ Comments URL: https://news.ycombinator.com/item?id=50010470 Points: 188 # Comments: 65
+Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 135 # Comments: 31
 
-ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)
+Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded
 Source: Hacker News RSS
 Category: technology
-URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full
-Published: 2026-10-08T20:42:16+00:00
+URL: https://carrierexplode.com/
+Published: 2026-10-09T18:10:55+00:00
 
-Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full Comments URL: https://news.ycombinator.com/item?id=50011928 Points: 345 # Comments: 221
+Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands. carrier-explode also contains decoders and explanations for all the common baseband configurations, etc. There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups. Comments URL: https://news.ycombinator.com/item?id=50024499 Points: 343 # Comments: 42
 
-AI-ready biological data: $1.8B global commitment
+YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops
 Source: Hacker News RSS
 Category: technology
-URL: https://biohub.org/news/virtual-biology-initiative-expansion
-Published: 2026-10-08T20:46:25+00:00
+URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306
+Published: 2026-10-09T21:06:59+00:00
 
-Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 133 # Comments: 19
+Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 599 # Comments: 325
 
-OpenAI, the Partition Principle, and Mathematics
+Compiling Rust to readable C with Eurydice
 Source: Hacker News RSS
 Category: technology
-URL: https://karagila.org/2026/openai-pp
-Published: 2026-10-08T23:29:43+00:00
+URL: https://lwn.net/Articles/1055211
+Published: 2026-10-09T23:28:36+00:00
 
-Article URL: https://karagila.org/2026/openai-pp/ Comments URL: https://news.ycombinator.com/item?id=50013902 Points: 142 # Comments: 225
+Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 93 # Comments: 26
 
-Keyboard differences between Windows and Macs
+Clinical trial of a prion disease drug candidate begins enrolling participants
 Source: Hacker News RSS
 Category: technology
-URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs
-Published: 2026-10-09T03:08:05+00:00
+URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants
+Published: 2026-10-09T23:53:08+00:00
 
-Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 196 # Comments: 174
+Article URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants Comments URL: https://news.ycombinator.com/item?id=50028027 Points: 87 # Comments: 19
 
-Show HN: Quake ported to safe Rust, playable in browser
+REA Reverse – Engineer Anything
 Source: Hacker News RSS
 Category: technology
-URL: https://quake-srp.pages.dev/
-Published: 2026-10-09T05:22:58+00:00
+URL: https://rea.tools/
+Published: 2026-10-10T00:37:07+00:00
 
-Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 189 # Comments: 149
+Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 478 # Comments: 195
 
-MXC - a sandboxed code execution system
+Telegram Desktop vulnerability allowed any user's file to be stolen
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/microsoft/mxc
-Published: 2026-10-09T05:51:29+00:00
+URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover
+Published: 2026-10-10T03:02:47+00:00
 
-Article URL: https://github.com/microsoft/mxc Comments URL: https://news.ycombinator.com/item?id=50016489 Points: 74 # Comments: 41
+Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 220 # Comments: 106
 
-I'm in a Meeting
+Food processing influences metabolism and brain activity
 Source: Hacker News RSS
 Category: technology
-URL: https://iminafleeting.com/
-Published: 2026-10-09T09:21:48+00:00
+URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html
+Published: 2026-10-10T05:22:30+00:00
 
-Article URL: https://iminafleeting.com/ Comments URL: https://news.ycombinator.com/item?id=50018088 Points: 126 # Comments: 46
+Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 58 # Comments: 44
 
-Once: Cache CLI Commands
+Computers Cannot Make Decisions
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/alex0ptr/once
-Published: 2026-10-09T09:43:06+00:00
+URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions
+Published: 2026-10-10T05:47:46+00:00
 
-Article URL: https://github.com/alex0ptr/once Comments URL: https://news.ycombinator.com/item?id=50018239 Points: 23 # Comments: 8
+Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 124 # Comments: 102
 
-OpenAI fires three safety researchers for "mishandling research information"
+`123456' password used in Danish CPR data breach
 Source: Hacker News RSS
 Category: technology
-URL: https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect
-Published: 2026-10-09T10:00:26+00:00
+URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach
+Published: 2026-10-10T09:51:49+00:00
 
-Article URL: https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/ Comments URL: https://news.ycombinator.com/item?id=50018350 Points: 75 # Comments: 36
+Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinator.com/item?id=50031269 Points: 152 # Comments: 90
 
-Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay
+Talorys – A self-hosted personal AI agent on Cloudflare's free tier
 Source: Hacker News RSS
 Category: technology
-URL: https://www.nobelprize.org/prizes/peace/2026/press-release
-Published: 2026-10-09T10:12:11+00:00
+URL: https://github.com/rociiu/talorys
+Published: 2026-10-10T10:52:09+00:00
 
-Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=50018420 Points: 157 # Comments: 76
+Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 42 # Comments: 16
 
-Let your AI agents paint big arrows, boxes and text on your screen
+Apple/macOS silently removed from official Unix registry
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen
-Published: 2026-10-09T11:03:48+00:00
+URL: https://www.opengroup.org//openbrand/register
+Published: 2026-10-10T10:57:31+00:00
 
-Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 135 # Comments: 44
+Article URL: https://www.opengroup.org//openbrand/register/ Comments URL: https://news.ycombinator.com/item?id=50031653 Points: 30 # Comments: 13
 
-US proposes $100k charge for international students to do post-graduate work
+LLMs Aren't Inevitable
 Source: Hacker News RSS
 Category: technology
-URL: https://www.nature.com/articles/d41586-026-02921-7
-Published: 2026-10-09T11:40:30+00:00
+URL: https://deadsimpletech.com/blog/llms-arent-inevitable
+Published: 2026-10-10T12:04:04+00:00
 
-Article URL: https://www.nature.com/articles/d41586-026-02921-7 Comments URL: https://news.ycombinator.com/item?id=50019090 Points: 39 # Comments: 35
-
-The Hetzner Cloud network stack – history and technical overview
-Source: Hacker News RSS
-Category: technology
-URL: https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview
-Published: 2026-10-09T12:20:55+00:00
-
-Article URL: https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/ Comments URL: https://news.ycombinator.com/item?id=50019451 Points: 18 # Comments: 2
+Article URL: https://deadsimpletech.com/blog/llms-arent-inevitable Comments URL: https://news.ycombinator.com/item?id=50032064 Points: 5 # Comments: 0

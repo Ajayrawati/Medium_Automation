@@ -1,0 +1,81 @@
+{
+  "topic": "Https News.ycombinator.com Url",
+  "topic_key": "https-news.ycombinator.com-url",
+  "confidence": 85.41,
+  "score_breakdown": {
+    "source_quality": 65.25,
+    "corroboration": 100.0,
+    "recency": 79.15,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.41,
+  "evidence": [
+    {
+      "title": "LLMs Aren't Inevitable",
+      "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+      "publisher": "deadsimpletech.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-10T12:36:53.290447+00:00"
+    },
+    {
+      "title": "Apple/macOS silently removed from official Unix registry",
+      "url": "https://www.opengroup.org//openbrand/register/",
+      "publisher": "www.opengroup.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-10T12:36:53.827552+00:00"
+    },
+    {
+      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-10T12:36:54.367105+00:00"
+    },
+    {
+      "title": "`123456' password used in Danish CPR data breach",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "publisher": "cphpost.dk",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-10T12:36:55.523823+00:00"
+    },
+    {
+      "title": "Computers Cannot Make Decisions",
+      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "publisher": "wiki.cateat.fish",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-10T12:36:56.428262+00:00"
+    },
+    {
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "publisher": "news.vt.edu",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-10T12:36:56.537494+00:00"
+    }
+  ]
+}
