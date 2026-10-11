@@ -1,0 +1,81 @@
+{
+  "topic": "Comments Https Item",
+  "topic_key": "comments-https-item",
+  "confidence": 87.16,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 88.31,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.16,
+  "evidence": [
+    {
+      "title": "Don't Put Tilde In Your Path",
+      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "publisher": "disconnect3d.pl",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-11T12:55:47.549113+00:00"
+    },
+    {
+      "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
+      "url": "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html",
+      "publisher": "phys.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-11T12:55:47.969996+00:00"
+    },
+    {
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "url": "https://verdagon.dev/blog/valen-group-borrowing",
+      "publisher": "verdagon.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-11T12:55:48.146116+00:00"
+    },
+    {
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "publisher": "jobs.ashbyhq.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-11T12:55:48.225275+00:00"
+    },
+    {
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "publisher": "shkspr.mobi",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-11T12:55:48.847020+00:00"
+    },
+    {
+      "title": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
+      "url": "https://copilot.travel/tolls/europe-2026",
+      "publisher": "copilot.travel",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-11T12:55:49.845366+00:00"
+    }
+  ]
+}
