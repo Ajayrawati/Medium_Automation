@@ -1,9 +1,16 @@
-chrislgarry / Apollo-11
+Alishahryar1 / free-claude-code
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/chrislgarry/Apollo-11
+URL: https://github.com/Alishahryar1/free-claude-code
 
-Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+
+microsoft / BitNet
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/microsoft/BitNet
+
+Official inference framework for 1-bit LLMs
 
 lyogavin / airllm
 Source: GitHub Trending
@@ -12,26 +19,19 @@ URL: https://github.com/lyogavin/airllm
 
 AirLLM 70B inference with single 4GB GPU
 
-pytorch / pytorch
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/pytorch/pytorch
-
-Tensors and Dynamic neural networks in Python with strong GPU acceleration
-
-bilawalsidhu / gods-eye-view
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/bilawalsidhu/gods-eye-view
-
-A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-
 cathrynlavery / diagram-design
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/cathrynlavery/diagram-design
 
 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+
+open-webui / open-webui
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/open-webui/open-webui
+
+User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 storytold / artcraft
 Source: GitHub Trending
@@ -40,12 +40,19 @@ URL: https://github.com/storytold/artcraft
 
 ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 
-boykopovar / AnyPS5
+mksglu / context-mode
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/boykopovar/AnyPS5
+URL: https://github.com/mksglu/context-mode
 
-Tool for automatic PS5 executables porting to Linux and Windows
+Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+
+bilawalsidhu / gods-eye-view
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/bilawalsidhu/gods-eye-view
+
+A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
 morluto / rea
 Source: GitHub Trending
@@ -54,197 +61,218 @@ URL: https://github.com/morluto/rea
 
 Reverse engineer anything with agents, from app behavior down to native binaries.
 
-Retrofitting language models to operate over bytes
+Terence Tao: Math 2.0 [pdf]
 Source: Hacker News
 Category: technology
-URL: https://www.nature.com/articles/s41586-026-11111-4
-Published: 2026-10-08T02:15:16+00:00
-Score: 77
+URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
+Published: 2026-10-11T13:16:45+00:00
+Score: 461
 
-How big is a Git commit?
+Bag of Decisions Reranker
 Source: Hacker News
 Category: technology
-URL: https://ratfactor.com/cards/git-commit-size
-Published: 2026-10-09T08:13:44+00:00
-Score: 51
+URL: https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html
+Published: 2026-10-10T17:12:33+00:00
+Score: 47
 
-The Lightbulb Computer
+Running the unmodified Linux amdgpu driver on an iPad
 Source: Hacker News
 Category: technology
-URL: https://lightbulbcomputer.com/
-Published: 2026-10-10T04:12:26+00:00
-Score: 477
+URL: https://github.com/Geramy/LemonSeed-Studio
+Published: 2026-10-11T10:18:18+00:00
+Score: 63
 
-Rat's Register Allocator
+Calculus with Julia
 Source: Hacker News
 Category: technology
-URL: https://hexrat.cc/pages/blog/2026_10_07
-Published: 2026-10-10T07:10:17+00:00
-Score: 22
+URL: https://jverzani.github.io/CalculusWithJuliaNotes.jl
+Published: 2026-10-10T15:59:52+00:00
+Score: 194
 
-2D Vehicles
+Total Annihilation, rebuilt for modern computers
 Source: Hacker News
 Category: technology
-URL: https://patkerr.co.uk/2d-vehicles
-Published: 2026-10-07T12:30:40+00:00
-Score: 516
+URL: https://nanolathe.gg/
+Published: 2026-10-11T18:04:47+00:00
+Score: 605
 
-When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64
+Choreographic Programming in Rust
+Source: Hacker News
+Category: technology
+URL: https://github.com/hibanaworks/hibana
+Published: 2026-10-11T13:05:03+00:00
+Score: 31
+
+Secret of Orange Cats Revealed After 60-Year Search
+Source: Hacker News
+Category: technology
+URL: https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search
+Published: 2026-10-10T22:10:57+00:00
+Score: 110
+
+The Making Of Super Mario 64 – full Giles Goddard interview (2001)
+Source: Hacker News
+Category: technology
+URL: https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc
+Published: 2026-10-10T19:28:41+00:00
+Score: 98
+
+Chapter 1 of "Ways of Seeing" by John Berger (1972)
 Source: Hacker News RSS
 Category: technology
-URL: https://joelsiks.com/posts/aarch64-exclusive-access-cacheability
-Published: 2026-10-10T09:55:43+00:00
+URL: https://www.ways-of-seeing.com/ch1
+Published: 2026-10-11T18:26:24+00:00
 
-Article URL: https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/ Comments URL: https://news.ycombinator.com/item?id=50031289 Points: 8 # Comments: 1
+Article URL: https://www.ways-of-seeing.com/ch1 Comments URL: https://news.ycombinator.com/item?id=50046241 Points: 134 # Comments: 35
 
-Talorys – A self-hosted personal AI agent on Cloudflare's free tier
+Cartographers of North Korea (2019)
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/rociiu/talorys
-Published: 2026-10-10T10:52:09+00:00
+URL: https://cartographers-nk.wonyoung.so/
+Published: 2026-10-11T19:46:40+00:00
 
-Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 303 # Comments: 137
+Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 301 # Comments: 61
 
-Compression and Concatenation on the Web
+The gap in shared understanding of LLM capability is widening
 Source: Hacker News RSS
 Category: technology
-URL: https://theconsensus.dev/p/2026/10/04/compression-and-concatenation-on-the-web.html?focus=1
-Published: 2026-10-10T14:21:12+00:00
+URL: https://twitter.com/karpathy/status/2109361546505966046
+Published: 2026-10-11T20:20:52+00:00
 
-Article URL: https://theconsensus.dev/p/2026/10/04/compression-and-concatenation-on-the-web.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50033300 Points: 3 # Comments: 0
+Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 578 # Comments: 834
 
-Knuth reward check
+Passkeys are a trap
 Source: Hacker News RSS
 Category: technology
-URL: https://www.thomas-huehn.com/knuth-reward-check
-Published: 2026-10-10T15:47:01+00:00
+URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them
+Published: 2026-10-11T21:59:48+00:00
 
-Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 202 # Comments: 75
+Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 858 # Comments: 461
 
-A city-building game in which the city would prefer you didn't
+Fingerprints are the new cookies
 Source: Hacker News RSS
 Category: technology
-URL: https://housing.over.pizza/
-Published: 2026-10-10T20:31:50+00:00
+URL: https://royfish.dev/fingerprints-are-the-new-cookies
+Published: 2026-10-11T22:33:39+00:00
 
-Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 396 # Comments: 132
+Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 566 # Comments: 271
 
-Build your own decision model
+Illustration Beyond Proof
 Source: Hacker News RSS
 Category: technology
-URL: https://nishtahir.com/build-your-own-decision-model
-Published: 2026-10-10T22:50:10+00:00
+URL: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof
+Published: 2026-10-11T23:22:36+00:00
 
-Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 360 # Comments: 79
+Article URL: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/ Comments URL: https://news.ycombinator.com/item?id=50049133 Points: 90 # Comments: 14
 
-PSPi 6 – Raspberry Pi in a PSP
+Whatever became of holography? (2011)
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/othermod/PSPi-Version-6
-Published: 2026-10-11T00:45:49+00:00
+URL: https://www.americanscientist.org/article/whatever-became-of-holography
+Published: 2026-10-11T23:50:34+00:00
 
-Article URL: https://github.com/othermod/PSPi-Version-6 Comments URL: https://news.ycombinator.com/item?id=50038623 Points: 109 # Comments: 10
+Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 163 # Comments: 85
 
-LineageOS 24.0
+Local Indexing to reduce tool calling and token usage
 Source: Hacker News RSS
 Category: technology
-URL: https://lineageos.org/Changelog-32
-Published: 2026-10-11T06:18:59+00:00
+URL: https://tedhaley.ca/pensieve
+Published: 2026-10-12T00:03:53+00:00
 
-Article URL: https://lineageos.org/Changelog-32/ Comments URL: https://news.ycombinator.com/item?id=50040276 Points: 187 # Comments: 48
+Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 104 # Comments: 31
 
-3rd Yandex Cloud Data Center Was Hit
+Doory – Open-Source Canva
 Source: Hacker News RSS
 Category: technology
-URL: https://status.yandex.cloud/en/incidents/2136
-Published: 2026-10-11T07:34:45+00:00
+URL: https://github.com/shaongitbd/doory
+Published: 2026-10-12T00:48:27+00:00
 
-Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 289 # Comments: 349
+Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50049872 Points: 169 # Comments: 63
 
-IRCv3
+Type-safe HTML templating in Zig
 Source: Hacker News RSS
 Category: technology
-URL: https://ircv3.net/
-Published: 2026-10-11T10:11:27+00:00
+URL: https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html
+Published: 2026-10-12T05:02:34+00:00
 
-Article URL: https://ircv3.net/ Comments URL: https://news.ycombinator.com/item?id=50041540 Points: 128 # Comments: 110
+Article URL: https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html Comments URL: https://news.ycombinator.com/item?id=50051573 Points: 179 # Comments: 69
 
-Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter
+Show HN: PS2 games statically recompiled to WebAssembly
 Source: Hacker News RSS
 Category: technology
-URL: https://radar.cloudflare.com/bots/as13238?dateRange=7d
-Published: 2026-10-11T10:27:53+00:00
+URL: https://github.com/snuri00/ps2-web-recomp
+Published: 2026-10-12T06:46:53+00:00
 
-Article URL: https://radar.cloudflare.com/bots/as13238?dateRange=7d Comments URL: https://news.ycombinator.com/item?id=50041619 Points: 266 # Comments: 98
+Article URL: https://github.com/snuri00/ps2-web-recomp Comments URL: https://news.ycombinator.com/item?id=50052251 Points: 141 # Comments: 76
 
-"Robot" Is a Social Construct: Why Your Dishwasher Is Not a Robot
+I Found a $90k Remote Code Execution Vulnerability in Google
 Source: Hacker News RSS
 Category: technology
-URL: https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot
-Published: 2026-10-11T10:34:43+00:00
+URL: https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce
+Published: 2026-10-12T07:28:53+00:00
 
-Article URL: https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/ Comments URL: https://news.ycombinator.com/item?id=50041667 Points: 25 # Comments: 29
+Article URL: https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce Comments URL: https://news.ycombinator.com/item?id=50052638 Points: 25 # Comments: 9
 
-Nitter: Update Oct 10th seeking funding and legal help
+Deloitte falsified documents to evade tax on Abramovich's wealth
 Source: Hacker News RSS
 Category: technology
-URL: https://nitter.net/
-Published: 2026-10-11T10:37:55+00:00
+URL: https://www.bbc.com/news/articles/c64g1l5389kvo
+Published: 2026-10-12T10:21:27+00:00
 
-Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 162 # Comments: 50
+Article URL: https://www.bbc.com/news/articles/c64g1l5389kvo Comments URL: https://news.ycombinator.com/item?id=50054207 Points: 496 # Comments: 169
 
-AI is creating a 'human premium' for art created by people
+Living in the Weimar Era of Ruby
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo
-Published: 2026-10-11T11:34:28+00:00
+URL: https://blog.julik.nl/2026/10/the-weimar-of-ruby
+Published: 2026-10-12T10:53:41+00:00
 
-Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 45 # Comments: 42
+Article URL: https://blog.julik.nl/2026/10/the-weimar-of-ruby Comments URL: https://news.ycombinator.com/item?id=50054474 Points: 10 # Comments: 0
 
-What driving across Europe costs in tolls, vignettes, bridges and fuel
+QGIS bans AI assisted contributions
 Source: Hacker News RSS
 Category: technology
-URL: https://copilot.travel/tolls/europe-2026
-Published: 2026-10-11T11:39:10+00:00
+URL: https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387
+Published: 2026-10-12T11:22:24+00:00
 
-Article URL: https://copilot.travel/tolls/europe-2026 Comments URL: https://news.ycombinator.com/item?id=50042149 Points: 20 # Comments: 11
+Article URL: https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387 Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 275 # Comments: 279
 
-I paid people to try and follow my README
+Citroen revives the 2CV for an electric age
 Source: Hacker News RSS
 Category: technology
-URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme
-Published: 2026-10-11T11:47:29+00:00
+URL: https://www.bbc.co.uk/news/articles/c620r33plgppo
+Published: 2026-10-12T12:09:09+00:00
 
-Article URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/ Comments URL: https://news.ycombinator.com/item?id=50042219 Points: 60 # Comments: 34
+Article URL: https://www.bbc.co.uk/news/articles/c620r33plgppo Comments URL: https://news.ycombinator.com/item?id=50055220 Points: 110 # Comments: 110
 
-Weave (YC W25) is hiring ML, AI, product, & design engineers
+Incident with Actions, Pull Requests and Issues
 Source: Hacker News RSS
 Category: technology
-URL: https://jobs.ashbyhq.com/weave-os
-Published: 2026-10-11T12:01:08+00:00
+URL: https://www.githubstatus.com/incidents/93njd414rpbx
+Published: 2026-10-12T12:23:51+00:00
 
-Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50042330 Points: 0 # Comments: 0
+Article URL: https://www.githubstatus.com/incidents/93njd414rpbx Comments URL: https://news.ycombinator.com/item?id=50055375 Points: 94 # Comments: 66
 
-Valen's Memory Safety: A New Kind of Borrow Checking
+Solar Panels That Plug into Your Wall
 Source: Hacker News RSS
 Category: technology
-URL: https://verdagon.dev/blog/valen-group-borrowing
-Published: 2026-10-11T12:06:22+00:00
+URL: https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy
+Published: 2026-10-12T14:19:04+00:00
 
-Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 5 # Comments: 3
+Article URL: https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy Comments URL: https://news.ycombinator.com/item?id=50056822 Points: 39 # Comments: 31
 
-Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests
+An Unmade Film Shaped Hayao Miyazaki
 Source: Hacker News RSS
 Category: technology
-URL: https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html
-Published: 2026-10-11T12:07:22+00:00
+URL: https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki
+Published: 2026-10-12T14:34:25+00:00
 
-Article URL: https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html Comments URL: https://news.ycombinator.com/item?id=50042370 Points: 12 # Comments: 4
+Article URL: https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki Comments URL: https://news.ycombinator.com/item?id=50057030 Points: 11 # Comments: 1
 
-Don't Put Tilde In Your Path
+Why aren't AI companies being charged for hacking?
 Source: Hacker News RSS
 Category: technology
-URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path
-Published: 2026-10-11T12:13:13+00:00
+URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking
+Published: 2026-10-12T14:52:37+00:00
 
-Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 10 # Comments: 0
+Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 167 # Comments: 118
