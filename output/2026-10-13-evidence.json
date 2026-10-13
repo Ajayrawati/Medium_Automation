@@ -1,0 +1,81 @@
+{
+  "topic": "Https Comments Item",
+  "topic_key": "https-comments-item",
+  "confidence": 87.15,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 88.25,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.15,
+  "evidence": [
+    {
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "publisher": "www.apple.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-13T14:16:47.951321+00:00"
+    },
+    {
+      "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "publisher": "machinelearning.apple.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-13T14:16:48.182189+00:00"
+    },
+    {
+      "title": "Mozilla Introduces Firefox Enterprise",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "publisher": "www.firefox.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-13T14:16:48.296236+00:00"
+    },
+    {
+      "title": "A Visual Intro to Complex Numbers",
+      "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+      "publisher": "photonlines.substack.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-13T14:16:48.360430+00:00"
+    },
+    {
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "url": "https://eg2.haku.sh/",
+      "publisher": "eg2.haku.sh",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-13T14:16:48.533936+00:00"
+    },
+    {
+      "title": "Character.ai Files for Bankruptcy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "publisher": "www.theverge.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-13T14:16:48.751534+00:00"
+    }
+  ]
+}
