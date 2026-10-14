@@ -1,3 +1,17 @@
+NationalSecurityAgency / ghidra
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/NationalSecurityAgency/ghidra
+
+Ghidra is a software reverse engineering (SRE) framework
+
+ntdevlabs / tiny11builder
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ntdevlabs/tiny11builder
+
+WinUI app for building smaller, customized Windows 11 images.
+
 xtool-org / xtool
 Source: GitHub Trending
 Category: technology
@@ -5,33 +19,47 @@ URL: https://github.com/xtool-org/xtool
 
 Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
-storytold / artcraft
+rust-lang / rust
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/storytold/artcraft
+URL: https://github.com/rust-lang/rust
 
-ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+Empowering everyone to build reliable and efficient software.
 
-lyogavin / airllm
+vxcontrol / pentagi
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/lyogavin/airllm
+URL: https://github.com/vxcontrol/pentagi
 
-AirLLM 2.8T LLM inference with single 4GB GPU
+Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
-vercel-labs / skills
+ifixai-ai / iFixAi
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/vercel-labs/skills
+URL: https://github.com/ifixai-ai/iFixAi
 
-The open agent skills tool - npx skills
+Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
 
-cathrynlavery / diagram-design
+HKUDS / CLI-Anything
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/cathrynlavery/diagram-design
+URL: https://github.com/HKUDS/CLI-Anything
 
-Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+
+K-Dense-AI / scientific-agent-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/K-Dense-AI/scientific-agent-skills
+
+Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+
+nvm-sh / nvm
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/nvm-sh/nvm
+
+Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 
 mksglu / context-mode
 Source: GitHub Trending
@@ -47,13 +75,6 @@ URL: https://github.com/debpalash/VoiceStudio
 
 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
-bilawalsidhu / gods-eye-view
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/bilawalsidhu/gods-eye-view
-
-A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-
 morluto / rea
 Source: GitHub Trending
 Category: technology
@@ -61,197 +82,183 @@ URL: https://github.com/morluto/rea
 
 Reverse engineer anything with agents, from app behavior down to native binaries.
 
-Making big downloads resumable in Firefox
+FCSS 2: Utility CSS that reads like CSS
 Source: Hacker News
 Category: technology
-URL: https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html
-Published: 2026-10-12T19:36:02+00:00
-Score: 247
+URL: https://github.com/meerita/FCSS2
+Published: 2026-10-12T18:23:10+00:00
+Score: 3
 
-A Modern Web App in C
+900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)
 Source: Hacker News
 Category: technology
-URL: https://prophitt.me/writing/a-modern-web-app-in-c
-Published: 2026-10-12T16:13:10+00:00
-Score: 639
+URL: https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html
+Published: 2026-10-12T09:05:02+00:00
+Score: 184
 
-Hackers activate automatic defrosting in supermarket fridges across Europe
+Sound – Bartosz Ciechanowski (2022)
 Source: Hacker News
 Category: technology
-URL: https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident
-Published: 2026-10-12T12:16:42+00:00
-Score: 802
+URL: https://ciechanow.ski/sound
+Published: 2026-10-11T16:46:43+00:00
+Score: 145
 
-GLM-Legal
-Source: Hacker News
-Category: technology
-URL: https://z.ai/blog/glm-legal
-Published: 2026-10-12T16:11:45+00:00
-Score: 619
-
-The baffling intelligence of a single cell (2024)
-Source: Hacker News
-Category: technology
-URL: https://jsomers.net/e-coli-chemotaxis
-Published: 2026-10-11T11:02:30+00:00
-Score: 347
-
-Writing a Demoscene Intro for the ZX Spectrum
+Same Job, Two Engines: InnoDB and Iceberg Internals
 Source: Hacker News RSS
 Category: technology
-URL: https://www.markround.com/blog/2026/zx-spectrum-intro
-Published: 2026-10-12T19:40:00+00:00
+URL: https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals
+Published: 2026-10-13T13:31:43+00:00
 
-Article URL: https://www.markround.com/blog/2026/zx-spectrum-intro Comments URL: https://news.ycombinator.com/item?id=50061859 Points: 159 # Comments: 29
+Article URL: https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/ Comments URL: https://news.ycombinator.com/item?id=50071466 Points: 23 # Comments: 2
 
-Who is vfmaddrnd231pd?
+The United Kingdom generates less electricity per person than in the 1970s
 Source: Hacker News RSS
 Category: technology
-URL: https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd
-Published: 2026-10-12T21:12:43+00:00
+URL: https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak
+Published: 2026-10-13T15:12:57+00:00
 
-Article URL: https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/ Comments URL: https://news.ycombinator.com/item?id=50063138 Points: 234 # Comments: 21
+Article URL: https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak Comments URL: https://news.ycombinator.com/item?id=50072994 Points: 335 # Comments: 543
 
-Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X
+Redesigning source control at Anthropic
 Source: Hacker News RSS
 Category: technology
-URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html
-Published: 2026-10-12T21:35:35+00:00
+URL: https://www.anthropic.com/engineering/redesigning-source-control
+Published: 2026-10-13T15:49:56+00:00
 
-Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 271 # Comments: 143
+Article URL: https://www.anthropic.com/engineering/redesigning-source-control Comments URL: https://news.ycombinator.com/item?id=50073633 Points: 795 # Comments: 834
 
-AI is a tool and using it well takes skill
+Gemini 4 Argon
 Source: Hacker News RSS
 Category: technology
-URL: https://yyhh.org/blog/2026/10/ai-is-a-tool
-Published: 2026-10-12T21:40:18+00:00
+URL: https://deepmind.google/models/gemini
+Published: 2026-10-13T16:03:16+00:00
 
-Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 490 # Comments: 395
+See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869 Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 1338 # Comments: 931
 
-Janas: Run LLMs larger than RAM by streaming experts from SSD
+Show HN: How random are you?
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/prabanta-dev/janas
-Published: 2026-10-12T22:05:43+00:00
+URL: https://lab.specr.net/rigged-draw
+Published: 2026-10-13T16:57:57+00:00
 
-Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 186 # Comments: 68
+Article URL: https://lab.specr.net/rigged-draw/ Comments URL: https://news.ycombinator.com/item?id=50074909 Points: 162 # Comments: 82
 
-Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)
+Show HN: Guitoro, a virtual guitar you strum with your keyboard
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/bherbruck/solidcraft
-Published: 2026-10-13T00:11:04+00:00
+URL: https://guitoro.com/
+Published: 2026-10-13T19:11:48+00:00
 
-Article URL: https://github.com/bherbruck/solidcraft Comments URL: https://news.ycombinator.com/item?id=50064840 Points: 97 # Comments: 22
+Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download. 1 minute video demo: https://youtu.be/DtcluMLdSgs I would love feedback on how the strumming feels and sounds. Comments URL: https://news.ycombinator.com/item?id=50077020 Points: 465 # Comments: 120
 
-AI models can provably hide arbitrary capabilities
+AlphaNIST
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2610.13928
-Published: 2026-10-13T02:07:08+00:00
+URL: https://alpha-nist.github.io/
+Published: 2026-10-13T21:57:29+00:00
 
-Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 247 # Comments: 116
+Article URL: https://alpha-nist.github.io/ Comments URL: https://news.ycombinator.com/item?id=50079464 Points: 80 # Comments: 26
 
-A look at the math that OpenAI claims computes faster Fourier transforms
+Recreational Programming
 Source: Hacker News RSS
 Category: technology
-URL: https://www.argmin.net/p/faster-fourier-transforms
-Published: 2026-10-13T02:46:43+00:00
+URL: https://www.cphiri.dev/presentations/recreational-programming
+Published: 2026-10-13T22:33:33+00:00
 
-Article URL: https://www.argmin.net/p/faster-fourier-transforms Comments URL: https://news.ycombinator.com/item?id=50065932 Points: 195 # Comments: 126
+Article URL: https://www.cphiri.dev/presentations/recreational-programming Comments URL: https://news.ycombinator.com/item?id=50079865 Points: 215 # Comments: 83
 
-Hittite royal archive found in Turkey
+Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord
 Source: Hacker News RSS
 Category: technology
-URL: https://www.thehistoryblog.com/archives/77107
-Published: 2026-10-13T06:02:51+00:00
+URL: https://strafe.chat/
+Published: 2026-10-14T03:28:00+00:00
 
-Article URL: https://www.thehistoryblog.com/archives/77107 Comments URL: https://news.ycombinator.com/item?id=50067414 Points: 189 # Comments: 40
+Article URL: https://strafe.chat/ Comments URL: https://news.ycombinator.com/item?id=50082021 Points: 44 # Comments: 27
 
-Character.ai files for Chapter 11 bankruptcy
+Felix Rieseberg Homepage
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.character.ai/an-update-on-character-ai
-Published: 2026-10-13T07:28:34+00:00
+URL: https://felixrieseberg.com/
+Published: 2026-10-14T04:42:33+00:00
 
-Article URL: https://blog.character.ai/an-update-on-character-ai/ Comments URL: https://news.ycombinator.com/item?id=50068036 Points: 56 # Comments: 20
+Article URL: https://felixrieseberg.com/ Comments URL: https://news.ycombinator.com/item?id=50082470 Points: 204 # Comments: 80
 
-Document Review with Unsiloed and TypeSafe Jev
+AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs
 Source: Hacker News RSS
 Category: technology
-URL: https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev
-Published: 2026-10-13T08:24:51+00:00
+URL: https://github.com/android/ndk/issues/2260
+Published: 2026-10-14T06:18:01+00:00
 
-Article URL: https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev Comments URL: https://news.ycombinator.com/item?id=50068443 Points: 30 # Comments: 7
+Article URL: https://github.com/android/ndk/issues/2260 Comments URL: https://news.ycombinator.com/item?id=50083130 Points: 308 # Comments: 143
 
-CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades
+Iosevka is an open-source, sans-serif and slab-serif, monospace font
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran
-Published: 2026-10-13T10:08:00+00:00
+URL: https://typeof.net/Iosevka
+Published: 2026-10-14T08:27:59+00:00
 
-Article URL: https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran Comments URL: https://news.ycombinator.com/item?id=50069329 Points: 234 # Comments: 93
+Article URL: https://typeof.net/Iosevka/ Comments URL: https://news.ycombinator.com/item?id=50084240 Points: 198 # Comments: 71
 
-Show HN: Use your OpenAI subscription to create audiobooks
+What agents mean for Rust (and vice versa)
 Source: Hacker News RSS
 Category: technology
-URL: https://pdftomp3.com/connect-ai
-Published: 2026-10-13T10:08:34+00:00
+URL: https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust
+Published: 2026-10-14T08:49:06+00:00
 
-Article URL: https://pdftomp3.com/connect-ai/ Comments URL: https://news.ycombinator.com/item?id=50069337 Points: 95 # Comments: 51
+Article URL: https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/ Comments URL: https://news.ycombinator.com/item?id=50084416 Points: 30 # Comments: 23
 
-11 year old unsoundness bugs found in Rust borrow checker
+Amazon pushes up prices across the Internet
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/rust-lang/rust/issues/164250
-Published: 2026-10-13T10:27:00+00:00
+URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet
+Published: 2026-10-14T09:28:17+00:00
 
-Article URL: https://github.com/rust-lang/rust/issues/164250 Comments URL: https://news.ycombinator.com/item?id=50069499 Points: 366 # Comments: 178
+Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50084757 Points: 55 # Comments: 41
 
-Character.ai Files for Bankruptcy
+Who Is Planting Backdoors in Ledger Crypto Wallets?
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney
-Published: 2026-10-13T11:24:08+00:00
+URL: https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets
+Published: 2026-10-14T09:37:24+00:00
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 114 # Comments: 71
+Article URL: https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/ Comments URL: https://news.ycombinator.com/item?id=50084838 Points: 28 # Comments: 7
 
-An hour of audio transcribed in about 13s on MacBook Air
+Show HN: A guided 3D Leonardo da Vinci museum, built in code
 Source: Hacker News RSS
 Category: technology
-URL: https://eg2.haku.sh/
-Published: 2026-10-13T11:27:14+00:00
+URL: https://museumofages.org/w/vinci
+Published: 2026-10-14T10:00:24+00:00
 
-Article URL: https://eg2.haku.sh/ Comments URL: https://news.ycombinator.com/item?id=50069971 Points: 188 # Comments: 50
+Hello HN, I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and then his last house in Amboise. The entrance is free. At the different stops you can see for example his paintings close to their real size, or 15 of his machines rebuilt in code, and you can have a look at 29 of his anatomy sheets. We also selected 207 of his manuscript pages which you can read in a virtual reading table, mirror the view to read his writing and 131 of the 207 are translated. We also rebuilt his last house in Amboise on the later stops of the walk. The museum is available in seven languages. Each stop has one of four grades as a label, documented, reconstructed, conjectural and not known. In a detailed view the user can have a closer look at the sources. The materials of the rooms and machines are created in Three.js. The museum runs with WebGPU. If the browser doesn’t support it, the fallback is WebGL2. To create the textures we used Creative Commons Zero photo scans (CC0) and for a few small objects we use free 3D models (CC0). Our mission is to create digital museums you can walk as not everyone can get to a museum, because illness or disability keeps them away. Some cannot afford the trip or just reside far away. So our goal is also to make our digital museums as accessible as possible. Therefore we also pre-rendered the walk so that it also works on older phones and is easy to use for older people. We released the code under AGPL-3.0. The texts and pictures are CC BY-SA 4.0. Reproductions have their own licenses. https://github.com/chipmates/museumofages We put a lot of time and passion into the museum and hope you like it. We are happy about any feedback. Which digital museum would you like to see next? Comments URL: https://news.ycombinator.com/item?id=50085022 Points: 7 # Comments: 4
 
-A Visual Intro to Complex Numbers
+AI Laser Locking for Quantum Computers: How QuEra Automates It
 Source: Hacker News RSS
 Category: technology
-URL: https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers
-Published: 2026-10-13T12:00:04+00:00
+URL: https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers
+Published: 2026-10-14T10:26:24+00:00
 
-Article URL: https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers Comments URL: https://news.ycombinator.com/item?id=50070287 Points: 11 # Comments: 0
+Article URL: https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers Comments URL: https://news.ycombinator.com/item?id=50085302 Points: 10 # Comments: 1
 
-Mozilla Introduces Firefox Enterprise
+Pulsar at ESUG 2026 (new Smalltalk IDE)
 Source: Hacker News RSS
 Category: technology
-URL: https://www.firefox.com/en-US/enterprise
-Published: 2026-10-13T12:00:42+00:00
+URL: https://blog.lorenzano.eu/pulsar-at-esug-2026
+Published: 2026-10-14T10:26:53+00:00
 
-Article URL: https://www.firefox.com/en-US/enterprise/ Comments URL: https://news.ycombinator.com/item?id=50070302 Points: 176 # Comments: 87
+Article URL: https://blog.lorenzano.eu/pulsar-at-esug-2026/ Comments URL: https://news.ycombinator.com/item?id=50085306 Points: 21 # Comments: 0
 
-Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs
+Show HN: Building an LLM from Scratch in TypeScript
 Source: Hacker News RSS
 Category: technology
-URL: https://machinelearning.apple.com/research/distributed-gpu-cloud
-Published: 2026-10-13T12:26:36+00:00
+URL: https://book.humanexperiences.io/
+Published: 2026-10-14T10:29:56+00:00
 
-Article URL: https://machinelearning.apple.com/research/distributed-gpu-cloud Comments URL: https://news.ycombinator.com/item?id=50070593 Points: 70 # Comments: 28
+I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Python? I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation. Chapters cover dataloaders, embeddings, and the attention mechanism so far. Feedback welcome if anything's unclear. Comments URL: https://news.ycombinator.com/item?id=50085332 Points: 27 # Comments: 2
 
-Apple HomeView
+Xi's 'death watch' will become a global spectacle
 Source: Hacker News RSS
 Category: technology
-URL: https://www.apple.com/apple-homeview
-Published: 2026-10-13T13:02:12+00:00
+URL: https://www.semafor.com/article/10/13/2026/xis-death-watch-will-become-a-global-spectacle
+Published: 2026-10-14T10:55:57+00:00
 
-Article URL: https://www.apple.com/apple-homeview/ Comments URL: https://news.ycombinator.com/item?id=50071017 Points: 128 # Comments: 147
+Article URL: https://www.semafor.com/article/10/13/2026/xis-death-watch-will-become-a-global-spectacle Comments URL: https://news.ycombinator.com/item?id=50085607 Points: 17 # Comments: 0
