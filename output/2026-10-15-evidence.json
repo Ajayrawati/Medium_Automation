@@ -1,0 +1,81 @@
+{
+  "topic": "Points Comments Url",
+  "topic_key": "points-comments-url",
+  "confidence": 81.35,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 75.02,
+    "relevance": 100.0,
+    "momentum": 68.42
+  },
+  "final_vote": 91.35,
+  "evidence": [
+    {
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-15T11:34:40.963321+00:00"
+    },
+    {
+      "title": "The Double Headed Stack Allocator",
+      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "publisher": "blog.demofox.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-15T11:34:41.293100+00:00"
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "publisher": "www.liquid.ai",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-15T11:34:41.681160+00:00"
+    },
+    {
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "publisher": "tinylittleoffice.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-15T11:34:41.789445+00:00"
+    },
+    {
+      "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "publisher": "typesafe.ai",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-15T11:34:41.871587+00:00"
+    },
+    {
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "publisher": "anoma.ly",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-15T11:34:42.250220+00:00"
+    }
+  ]
+}

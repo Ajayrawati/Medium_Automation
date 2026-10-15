@@ -1,65 +1,30 @@
+xerj-org / xerj
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/xerj-org/xerj
+
+XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
+
+lightseekorg / tokenspeed
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/lightseekorg/tokenspeed
+
+TokenSpeed is a speed-of-light LLM inference engine.
+
+affaan-m / ECC
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/affaan-m/ECC
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
 NationalSecurityAgency / ghidra
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/NationalSecurityAgency/ghidra
 
 Ghidra is a software reverse engineering (SRE) framework
-
-ntdevlabs / tiny11builder
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ntdevlabs/tiny11builder
-
-WinUI app for building smaller, customized Windows 11 images.
-
-xtool-org / xtool
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/xtool-org/xtool
-
-Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-
-rust-lang / rust
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/rust-lang/rust
-
-Empowering everyone to build reliable and efficient software.
-
-vxcontrol / pentagi
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/vxcontrol/pentagi
-
-Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-
-ifixai-ai / iFixAi
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ifixai-ai/iFixAi
-
-Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
-
-HKUDS / CLI-Anything
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/HKUDS/CLI-Anything
-
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-
-K-Dense-AI / scientific-agent-skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/K-Dense-AI/scientific-agent-skills
-
-Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-
-nvm-sh / nvm
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/nvm-sh/nvm
-
-Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 
 mksglu / context-mode
 Source: GitHub Trending
@@ -68,12 +33,47 @@ URL: https://github.com/mksglu/context-mode
 
 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 
+ruvnet / ruflo
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ruvnet/ruflo
+
+🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+
+obra / superpowers
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/obra/superpowers
+
+An agentic skills framework & software development methodology that works.
+
 debpalash / VoiceStudio
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/debpalash/VoiceStudio
 
 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+
+JuliusBrussee / caveman
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/JuliusBrussee/caveman
+
+🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+
+K-Dense-AI / scientific-agent-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/K-Dense-AI/scientific-agent-skills
+
+Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+
+anthropics / claude-plugins-official
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/claude-plugins-official
+
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 morluto / rea
 Source: GitHub Trending
@@ -82,183 +82,211 @@ URL: https://github.com/morluto/rea
 
 Reverse engineer anything with agents, from app behavior down to native binaries.
 
-FCSS 2: Utility CSS that reads like CSS
+The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl
 Source: Hacker News
 Category: technology
-URL: https://github.com/meerita/FCSS2
-Published: 2026-10-12T18:23:10+00:00
-Score: 3
+URL: https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl
+Published: 2026-10-11T20:36:56+00:00
+Score: 45
 
-900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)
+It took me nine years to hack my Xbox 360
 Source: Hacker News
 Category: technology
-URL: https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html
-Published: 2026-10-12T09:05:02+00:00
-Score: 184
+URL: https://kennedn.com/blog/posts/glitching
+Published: 2026-10-13T12:33:18+00:00
+Score: 93
 
-Sound – Bartosz Ciechanowski (2022)
+Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction
 Source: Hacker News
 Category: technology
-URL: https://ciechanow.ski/sound
-Published: 2026-10-11T16:46:43+00:00
-Score: 145
+URL: https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html
+Published: 2026-10-12T18:20:17+00:00
+Score: 45
 
-Same Job, Two Engines: InnoDB and Iceberg Internals
+Catch a Bird – I made it for my own sanity
+Source: Hacker News
+Category: technology
+URL: https://catchabird.com/
+Published: 2026-10-12T08:51:18+00:00
+Score: 209
+
+Do dentists know what they're doing?
+Source: Hacker News
+Category: technology
+URL: https://mapwriting.substack.com/p/dentists
+Published: 2026-10-12T02:21:54+00:00
+Score: 739
+
+Show HN: Indigene – Native plants for where you stand
+Source: Hacker News
+Category: technology
+URL: https://indigene.app/
+Published: 2026-10-12T23:25:20+00:00
+Score: 41
+
+Wanted to download an ISO, ended up writing a kernel exploit
+Source: Hacker News
+Category: technology
+URL: https://blog.dfb.sh/blog/eap770-root-for-two-zeros
+Published: 2026-10-13T12:30:08+00:00
+Score: 132
+
+Your C is not standard C
 Source: Hacker News RSS
 Category: technology
-URL: https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals
-Published: 2026-10-13T13:31:43+00:00
+URL: https://sebsite.pw/w/20261012-notstdc.html
+Published: 2026-10-13T13:36:21+00:00
 
-Article URL: https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/ Comments URL: https://news.ycombinator.com/item?id=50071466 Points: 23 # Comments: 2
+Article URL: https://sebsite.pw/w/20261012-notstdc.html Comments URL: https://news.ycombinator.com/item?id=50071546 Points: 97 # Comments: 62
 
-The United Kingdom generates less electricity per person than in the 1970s
+Bookofjoe's Favorite Thing: Best Pill Splitter
 Source: Hacker News RSS
 Category: technology
-URL: https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak
-Published: 2026-10-13T15:12:57+00:00
+URL: https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html
+Published: 2026-10-13T14:00:06+00:00
 
-Article URL: https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak Comments URL: https://news.ycombinator.com/item?id=50072994 Points: 335 # Comments: 543
+Article URL: https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html Comments URL: https://news.ycombinator.com/item?id=50071902 Points: 10 # Comments: 5
 
-Redesigning source control at Anthropic
+Donaldson Futuro House in Idyllwild, California, USA
 Source: Hacker News RSS
 Category: technology
-URL: https://www.anthropic.com/engineering/redesigning-source-control
-Published: 2026-10-13T15:49:56+00:00
+URL: https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa
+Published: 2026-10-13T19:55:41+00:00
 
-Article URL: https://www.anthropic.com/engineering/redesigning-source-control Comments URL: https://news.ycombinator.com/item?id=50073633 Points: 795 # Comments: 834
+Article URL: https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/ Comments URL: https://news.ycombinator.com/item?id=50077709 Points: 50 # Comments: 17
 
-Gemini 4 Argon
+The First Social Network: In rural Argentina residents send messages w AM radio
 Source: Hacker News RSS
 Category: technology
-URL: https://deepmind.google/models/gemini
-Published: 2026-10-13T16:03:16+00:00
+URL: https://www.newyorker.com/magazine/2026/10/19/the-first-social-network
+Published: 2026-10-13T22:17:41+00:00
 
-See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869 Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 1338 # Comments: 931
+Article URL: https://www.newyorker.com/magazine/2026/10/19/the-first-social-network Comments URL: https://news.ycombinator.com/item?id=50079701 Points: 30 # Comments: 15
 
-Show HN: How random are you?
+Why is every rationalist blog post way too long?
 Source: Hacker News RSS
 Category: technology
-URL: https://lab.specr.net/rigged-draw
-Published: 2026-10-13T16:57:57+00:00
+URL: https://alexwennerberg.com/blog/2026-10-13-long.html
+Published: 2026-10-14T06:02:16+00:00
 
-Article URL: https://lab.specr.net/rigged-draw/ Comments URL: https://news.ycombinator.com/item?id=50074909 Points: 162 # Comments: 82
+Article URL: https://alexwennerberg.com/blog/2026-10-13-long.html Comments URL: https://news.ycombinator.com/item?id=50083028 Points: 374 # Comments: 349
 
-Show HN: Guitoro, a virtual guitar you strum with your keyboard
-Source: Hacker News RSS
-Category: technology
-URL: https://guitoro.com/
-Published: 2026-10-13T19:11:48+00:00
-
-Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download. 1 minute video demo: https://youtu.be/DtcluMLdSgs I would love feedback on how the strumming feels and sounds. Comments URL: https://news.ycombinator.com/item?id=50077020 Points: 465 # Comments: 120
-
-AlphaNIST
-Source: Hacker News RSS
-Category: technology
-URL: https://alpha-nist.github.io/
-Published: 2026-10-13T21:57:29+00:00
-
-Article URL: https://alpha-nist.github.io/ Comments URL: https://news.ycombinator.com/item?id=50079464 Points: 80 # Comments: 26
-
-Recreational Programming
-Source: Hacker News RSS
-Category: technology
-URL: https://www.cphiri.dev/presentations/recreational-programming
-Published: 2026-10-13T22:33:33+00:00
-
-Article URL: https://www.cphiri.dev/presentations/recreational-programming Comments URL: https://news.ycombinator.com/item?id=50079865 Points: 215 # Comments: 83
-
-Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord
-Source: Hacker News RSS
-Category: technology
-URL: https://strafe.chat/
-Published: 2026-10-14T03:28:00+00:00
-
-Article URL: https://strafe.chat/ Comments URL: https://news.ycombinator.com/item?id=50082021 Points: 44 # Comments: 27
-
-Felix Rieseberg Homepage
-Source: Hacker News RSS
-Category: technology
-URL: https://felixrieseberg.com/
-Published: 2026-10-14T04:42:33+00:00
-
-Article URL: https://felixrieseberg.com/ Comments URL: https://news.ycombinator.com/item?id=50082470 Points: 204 # Comments: 80
-
-AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/android/ndk/issues/2260
-Published: 2026-10-14T06:18:01+00:00
-
-Article URL: https://github.com/android/ndk/issues/2260 Comments URL: https://news.ycombinator.com/item?id=50083130 Points: 308 # Comments: 143
-
-Iosevka is an open-source, sans-serif and slab-serif, monospace font
-Source: Hacker News RSS
-Category: technology
-URL: https://typeof.net/Iosevka
-Published: 2026-10-14T08:27:59+00:00
-
-Article URL: https://typeof.net/Iosevka/ Comments URL: https://news.ycombinator.com/item?id=50084240 Points: 198 # Comments: 71
-
-What agents mean for Rust (and vice versa)
-Source: Hacker News RSS
-Category: technology
-URL: https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust
-Published: 2026-10-14T08:49:06+00:00
-
-Article URL: https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/ Comments URL: https://news.ycombinator.com/item?id=50084416 Points: 30 # Comments: 23
-
-Amazon pushes up prices across the Internet
+How Amazon pushes up prices all across the Internet
 Source: Hacker News RSS
 Category: technology
 URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet
 Published: 2026-10-14T09:28:17+00:00
 
-Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50084757 Points: 55 # Comments: 41
+Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50084757 Points: 850 # Comments: 652
 
-Who Is Planting Backdoors in Ledger Crypto Wallets?
+Americans' social activity has steeply declined in the past 30 years
 Source: Hacker News RSS
 Category: technology
-URL: https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets
-Published: 2026-10-14T09:37:24+00:00
+URL: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years
+Published: 2026-10-14T16:09:00+00:00
 
-Article URL: https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/ Comments URL: https://news.ycombinator.com/item?id=50084838 Points: 28 # Comments: 7
+Article URL: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years Comments URL: https://news.ycombinator.com/item?id=50089921 Points: 430 # Comments: 391
 
-Show HN: A guided 3D Leonardo da Vinci museum, built in code
+Better HTTP/1 connection reuse in Go 1.27
 Source: Hacker News RSS
 Category: technology
-URL: https://museumofages.org/w/vinci
-Published: 2026-10-14T10:00:24+00:00
+URL: https://go.dev/blog/http-connection-reuse
+Published: 2026-10-14T16:29:33+00:00
 
-Hello HN, I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and then his last house in Amboise. The entrance is free. At the different stops you can see for example his paintings close to their real size, or 15 of his machines rebuilt in code, and you can have a look at 29 of his anatomy sheets. We also selected 207 of his manuscript pages which you can read in a virtual reading table, mirror the view to read his writing and 131 of the 207 are translated. We also rebuilt his last house in Amboise on the later stops of the walk. The museum is available in seven languages. Each stop has one of four grades as a label, documented, reconstructed, conjectural and not known. In a detailed view the user can have a closer look at the sources. The materials of the rooms and machines are created in Three.js. The museum runs with WebGPU. If the browser doesn’t support it, the fallback is WebGL2. To create the textures we used Creative Commons Zero photo scans (CC0) and for a few small objects we use free 3D models (CC0). Our mission is to create digital museums you can walk as not everyone can get to a museum, because illness or disability keeps them away. Some cannot afford the trip or just reside far away. So our goal is also to make our digital museums as accessible as possible. Therefore we also pre-rendered the walk so that it also works on older phones and is easy to use for older people. We released the code under AGPL-3.0. The texts and pictures are CC BY-SA 4.0. Reproductions have their own licenses. https://github.com/chipmates/museumofages We put a lot of time and passion into the museum and hope you like it. We are happy about any feedback. Which digital museum would you like to see next? Comments URL: https://news.ycombinator.com/item?id=50085022 Points: 7 # Comments: 4
+Article URL: https://go.dev/blog/http-connection-reuse Comments URL: https://news.ycombinator.com/item?id=50090369 Points: 263 # Comments: 41
 
-AI Laser Locking for Quantum Computers: How QuEra Automates It
+Containment and monitoring failures are to blame for AI hacking reports: experts
 Source: Hacker News RSS
 Category: technology
-URL: https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers
-Published: 2026-10-14T10:26:24+00:00
+URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html
+Published: 2026-10-14T17:45:23+00:00
 
-Article URL: https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers Comments URL: https://news.ycombinator.com/item?id=50085302 Points: 10 # Comments: 1
+Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 911 # Comments: 545
 
-Pulsar at ESUG 2026 (new Smalltalk IDE)
+Virtual Oxide Labs: Emulating a Full Oxide Rack
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.lorenzano.eu/pulsar-at-esug-2026
-Published: 2026-10-14T10:26:53+00:00
+URL: https://oxide.computer/blog/voxel-labs
+Published: 2026-10-14T18:21:14+00:00
 
-Article URL: https://blog.lorenzano.eu/pulsar-at-esug-2026/ Comments URL: https://news.ycombinator.com/item?id=50085306 Points: 21 # Comments: 0
+Article URL: https://oxide.computer/blog/voxel-labs Comments URL: https://news.ycombinator.com/item?id=50092423 Points: 126 # Comments: 13
 
-Show HN: Building an LLM from Scratch in TypeScript
+Show HN: Petal, open-source CoScreen/ScreenHero finally free
 Source: Hacker News RSS
 Category: technology
-URL: https://book.humanexperiences.io/
-Published: 2026-10-14T10:29:56+00:00
+URL: https://petal.live/
+Published: 2026-10-14T18:23:14+00:00
 
-I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Python? I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation. Chapters cover dataloaders, embeddings, and the attention mechanism so far. Feedback welcome if anything's unclear. Comments URL: https://news.ycombinator.com/item?id=50085332 Points: 27 # Comments: 2
+Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal ( https://github.com/kiruna-labs/petal ) Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry. Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could click your partner’s editor, and just start typing. It felt like magic while we had it. Then Slack bought it in 2015, and shut down the standalone app in December 2017. When Till, Max, and I started CoScreen, we were aware of this history, and wanted to build an even more magical collaboration and screen sharing experience: the entire concept was “throw a window from your laptop up on someone else’s screen, and start collaborating with zero friction.” Datadog acquired us in 2022, and thus began the great adventure of adapting our real-time technology into Datadog products, while also continue developing CoScreen as a standalone tool from the Datadog ecosystem. Datadog invested in the product for years and we’re thankful for that. But CoScreen itself proved, like so many other screen sharing tool acquisitions, to be too tangential from the customer base and core mission. We instead built other communication features in Datadog, the integrations with other video platforms, and also its wildly successful MCP server. We weren't the only ones. Around was bought by Miro and shut down in March 2025. Multi (formerly Remotion) was acqui-hired by OpenAI in 2024 and shut down about a month later. It's nearly always the same story: a small team builds something hard that people love, a platform buys it for the team or the feature, and the standalone product doesn't survive the integration. So we decided firmly to do things differently this time. Petal is completely free and open source and we aren't monetizing it. If we lose interest or get hit by a bus, you can self-host it or fork it, and nobody can sunset it on you. Honestly it's a love letter to everyone in this community that supported us, believed in us, and to liberate collaborative screen sharing from this vicious cycle. We hope through this we can help foster a large and vibrant community around innovating in this product sector. What Petal does: shared windows show up as real windows on your desktop, movable and resizable, not tiles in a grid. Several people can share at once, everyone gets a labeled cursor, and you can click into any shared window to type and scroll. Rooms are persistent, so you click once to join "eng-sync" instead of passing links around. It runs on macOS and Windows (Linux is next, this time for real and you can help us!), plus a web app. Media goes over LiveKit. You can use our hosted instance with zero config, or point the app at your own LiveKit server with one docker-compose if you want the traffic to stay on your network or even use an entirely different video backend if you want to. The part that still feels strange to us: CoScreen took almost six years to build. The first version of Petal took under eight weeks, from scratch, with frontier models like Fable and Astra doing a lot of the work. Real-time video and window capture is some of the most unforgiving code we have ever written, so we didn't expect that. We will do a proper writeup on what worked and what didn't, and are happy to answer questions about it here. Till, Darren, Max and I will be in the thread. Comments URL: https://news.ycombinator.com/item?id=50092470 Points: 179 # Comments: 39
 
-Xi's 'death watch' will become a global spectacle
+Things to know when you get cancer
 Source: Hacker News RSS
 Category: technology
-URL: https://www.semafor.com/article/10/13/2026/xis-death-watch-will-become-a-global-spectacle
-Published: 2026-10-14T10:55:57+00:00
+URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer
+Published: 2026-10-14T19:26:30+00:00
 
-Article URL: https://www.semafor.com/article/10/13/2026/xis-death-watch-will-become-a-global-spectacle Comments URL: https://news.ycombinator.com/item?id=50085607 Points: 17 # Comments: 0
+Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 1450 # Comments: 358
+
+OpenCode 2.0
+Source: Hacker News RSS
+Category: technology
+URL: https://anoma.ly/notes/opencode-2-0
+Published: 2026-10-14T20:48:24+00:00
+
+Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 646 # Comments: 258
+
+We’re releasing Jev 1.14.0 along with experimental features for dreamers
+Source: Hacker News RSS
+Category: technology
+URL: https://typesafe.ai/blog/jev-1-14
+Published: 2026-10-14T21:11:03+00:00
+
+Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 304 # Comments: 96
+
+Tiny Little Office
+Source: Hacker News RSS
+Category: technology
+URL: https://tinylittleoffice.com/
+Published: 2026-10-14T22:10:08+00:00
+
+Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 472 # Comments: 85
+
+Show HN: Ito – Build Terminal UIs in Lua
+Source: Hacker News RSS
+Category: technology
+URL: https://uji.sh/ito
+Published: 2026-10-14T22:23:53+00:00
+
+My friend and I are huge Neovim nerds. We like to rice our terminals and our editors. We just wanted a harness that we can do the same with, rice it till our hearts' desire. So, we started looking out for harnesses. Pi was great, Pi was good. But in the end, it was JavaScript. I don't have anything against JavaScript, but Lua is more fitting, and I can just as easily base it in Rust to make it even faster. So, we started cooking, and we ended up with a design that's minimal at its core and is built using Lua. Every built-in abstraction, the way you define providers, the way you rice it up, everything, literally everything, you can do in Lua. But how? How does it all work? I proposed we just do it the Ratatui way, but my friend was like, nah! We shall make it possible to build TUIs in Lua. (Weirdo!) But it paid off, and we got ourselves a shiny new Lua library, ito!!! He didn't get the gravity of the situation. We had an awesome terminal UI library in Lua! I wanted everyone to know how cool that is, so I got cooking, wrote myself a custom canvas implementation of this library instead of the usual terminal adaptor, exported it as wasm, and made this super cool website where you can experiment building awesome UIs in Lua. For vibe-coders, we got an llms.txt too. Have at it, and see if you can build something really cool with it. The library's at github.com/uji-labs/ito, and the awesome sauce harness is at github.com/uji-labs/uji. I hope you like it! Comments URL: https://news.ycombinator.com/item?id=50096300 Points: 32 # Comments: 8
+
+LFM2.5-24B-A2B: Built for fast on-device agents
+Source: Hacker News RSS
+Category: technology
+URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b
+Published: 2026-10-14T23:59:37+00:00
+
+Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 224 # Comments: 53
+
+The Double Headed Stack Allocator
+Source: Hacker News RSS
+Category: technology
+URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator
+Published: 2026-10-15T02:06:36+00:00
+
+Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/ Comments URL: https://news.ycombinator.com/item?id=50098274 Points: 69 # Comments: 23
+
+Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/andunieee/flipflop
+Published: 2026-10-15T04:25:28+00:00
+
+This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on. Comments URL: https://news.ycombinator.com/item?id=50099136 Points: 45 # Comments: 14
+
+Aidlc: Adaptive workflow steering rules for AI coding agents
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/awslabs/aidlc-workflows
+Published: 2026-10-15T07:20:39+00:00
+
+Article URL: https://github.com/awslabs/aidlc-workflows Comments URL: https://news.ycombinator.com/item?id=50100387 Points: 11 # Comments: 12
