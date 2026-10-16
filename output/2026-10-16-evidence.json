@@ -1,0 +1,81 @@
+{
+  "topic": "Item Comments Https",
+  "topic_key": "item-comments-https",
+  "confidence": 84.61,
+  "score_breakdown": {
+    "source_quality": 64.76,
+    "corroboration": 100.0,
+    "recency": 75.91,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 94.61,
+  "evidence": [
+    {
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "publisher": "www.pcmag.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-16T11:29:13.240904+00:00"
+    },
+    {
+      "title": "Japanese people still aren't having sex. And nobody knows why",
+      "url": "https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience",
+      "publisher": "www.sciencefocus.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-16T11:29:13.331620+00:00"
+    },
+    {
+      "title": "The insider trading you're allowed to do",
+      "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+      "publisher": "coached.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-16T11:29:13.437026+00:00"
+    },
+    {
+      "title": "The Folders Programming Language",
+      "url": "https://danieltemkin.com/esolangs/folders",
+      "publisher": "danieltemkin.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-16T11:29:13.518820+00:00"
+    },
+    {
+      "title": "Comparing Chromium Development at Google and Igalia",
+      "url": "https://lwn.net/Articles/1094721/",
+      "publisher": "lwn.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-16T11:29:13.730980+00:00"
+    },
+    {
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "url": "https://github.com/Saffsanity/sill",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-16T11:29:14.179660+00:00"
+    }
+  ]
+}
