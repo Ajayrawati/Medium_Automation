@@ -1,0 +1,81 @@
+{
+  "topic": "Https Comments News.ycombinator.com",
+  "topic_key": "https-comments-news.ycombinator.com",
+  "confidence": 85.22,
+  "score_breakdown": {
+    "source_quality": 65.45,
+    "corroboration": 100.0,
+    "recency": 77.9,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.22,
+  "evidence": [
+    {
+      "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+      "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+      "publisher": "contextetech.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-17T10:49:03.567942+00:00"
+    },
+    {
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "publisher": "openrouter.ai",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-17T10:49:03.806794+00:00"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "publisher": "huggingface.co",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-17T10:49:03.997979+00:00"
+    },
+    {
+      "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+      "url": "https://github.com/CLoaKY233/siltop",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-17T10:49:04.519179+00:00"
+    },
+    {
+      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "publisher": "llmspeed.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-17T10:49:04.692105+00:00"
+    },
+    {
+      "title": "Butlerian Jihad",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "publisher": "dune.fandom.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-17T10:49:04.799108+00:00"
+    }
+  ]
+}

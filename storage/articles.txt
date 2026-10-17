@@ -5,19 +5,19 @@ URL: https://github.com/xerj-org/xerj
 
 XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
 
-hmjz100 / LinkSwift
+ruvnet / ruflo
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/hmjz100/LinkSwift
+URL: https://github.com/ruvnet/ruflo
 
-一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
-MadsLorentzen / ai-job-search
+anomalyco / opencode
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/MadsLorentzen/ai-job-search
+URL: https://github.com/anomalyco/opencode
 
-The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+The open source coding agent.
 
 debpalash / VoiceStudio
 Source: GitHub Trending
@@ -26,38 +26,38 @@ URL: https://github.com/debpalash/VoiceStudio
 
 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
-cursor / plugins
+anthropics / claude-code
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/cursor/plugins
+URL: https://github.com/anthropics/claude-code
 
-Cursor plugin specification and official plugins
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
-obra / superpowers
+stablyai / orca
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/obra/superpowers
+URL: https://github.com/stablyai/orca
 
-An agentic skills framework & software development methodology that works.
+Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 android / skills
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/android/skills
 
-ruvnet / ruflo
+akitaonrails / ai-memory
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/ruvnet/ruflo
+URL: https://github.com/akitaonrails/ai-memory
 
-🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
-mksglu / context-mode
+K-Dense-AI / scientific-agent-skills
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/mksglu/context-mode
+URL: https://github.com/K-Dense-AI/scientific-agent-skills
 
-Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 
 HKUDS / CLI-Anything
 Source: GitHub Trending
@@ -73,12 +73,12 @@ URL: https://github.com/affaan-m/ECC
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-K-Dense-AI / scientific-agent-skills
+MadsLorentzen / ai-job-search
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/K-Dense-AI/scientific-agent-skills
+URL: https://github.com/MadsLorentzen/ai-job-search
 
-Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 
 anthropics / claude-plugins-official
 Source: GitHub Trending
@@ -87,204 +87,211 @@ URL: https://github.com/anthropics/claude-plugins-official
 
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete
+I built the RealWorld app in Lean 4
 Source: Hacker News
 Category: technology
-URL: https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete
-Published: 2026-10-13T21:42:38+00:00
-Score: 16
+URL: https://leangineer.com/blog/realworld-in-lean
+Published: 2026-10-14T15:03:14+00:00
+Score: 63
 
-Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat
+0/1 Knapsack Problem in PyTorch
 Source: Hacker News
 Category: technology
-URL: https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge
-Published: 2026-10-13T07:52:54+00:00
-Score: 147
+URL: https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg
+Published: 2026-10-14T15:04:33+00:00
+Score: 26
 
-Two-Stack Sliding-Window Aggregation
+Recipes Are Moving from Maven Central to the Code Genome Project
 Source: Hacker News
 Category: technology
-URL: https://orlp.net/blog/two-stack-sliding-window-aggregation
-Published: 2026-10-13T14:40:03+00:00
-Score: 36
+URL: https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module
+Published: 2026-10-15T15:06:52+00:00
+Score: 10
 
-The Economic Complexity of the Western Roman Empire
+Tell HN: Remember to migrate away from .name domain
 Source: Hacker News
 Category: technology
-URL: https://www.michelecoscia.com/?p=2613
-Published: 2026-10-14T09:32:09+00:00
-Score: 34
+URL: https://news.ycombinator.com/item?id=50089577
+Published: 2026-10-14T15:49:31+00:00
+Score: 48
 
-Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]
+Intuitive concurrent programming in any language
 Source: Hacker News
 Category: technology
-URL: https://www.youtube.com/watch?v=sjNpfz4UzqU
-Published: 2026-10-13T02:32:53+00:00
-Score: 389
+URL: https://www.lf-lang.org/
+Published: 2026-10-15T13:18:44+00:00
+Score: 52
 
-Yet another way to invoke functions without parentheses
+Tesla Roadster
 Source: Hacker News
 Category: technology
-URL: https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses
-Published: 2026-10-13T19:25:18+00:00
-Score: 51
+URL: https://www.tesla.com/roadster
+Published: 2026-10-16T01:32:45+00:00
+Score: 1447
 
-Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support
+Ultramarine 1 Flash
+Source: Hacker News
+Category: technology
+URL: https://www.paperinstruments.com/ultramarine
+Published: 2026-10-15T17:06:01+00:00
+Score: 255
+
+Apple ML Research: Muse Spark Open with MLX on Mac Studio
 Source: Hacker News RSS
 Category: technology
-URL: https://libreboot.org/news/libreboot2610.html
-Published: 2026-10-15T12:52:16+00:00
+URL: https://machinelearning.apple.com/research/mlx-distributed-inference
+Published: 2026-10-16T13:43:48+00:00
 
-Article URL: https://libreboot.org/news/libreboot2610.html Comments URL: https://news.ycombinator.com/item?id=50102923 Points: 290 # Comments: 181
+Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference Comments URL: https://news.ycombinator.com/item?id=50118320 Points: 322 # Comments: 161
 
-Wayland desktop for Linux with skeuomorphic design
+Show HN: Gemini 4 Argon plays StarCraft
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/fyzugx/DEsk
-Published: 2026-10-15T13:23:44+00:00
+URL: https://starskirmish.com/bench/v0-2
+Published: 2026-10-16T14:18:44+00:00
 
-Article URL: https://github.com/fyzugx/DEsk Comments URL: https://news.ycombinator.com/item?id=50103338 Points: 622 # Comments: 251
+I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 224 # Comments: 101
 
-Using AI to reverse engineer hardware
+A story of WiFi secrets, UART lockdowns and a damaged flash memory chip
 Source: Hacker News RSS
 Category: technology
-URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware
-Published: 2026-10-15T14:35:15+00:00
+URL: https://adepts.of0x.cc/eufy-homestation2-firmware
+Published: 2026-10-16T15:38:28+00:00
 
-Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 204 # Comments: 183
+Article URL: https://adepts.of0x.cc/eufy-homestation2-firmware/ Comments URL: https://news.ycombinator.com/item?id=50119751 Points: 48 # Comments: 3
 
-Celebrating 70 Years of Fortran
+JPEG XL vs. AVIF for web use-cases
 Source: Hacker News RSS
 Category: technology
-URL: https://fortran-lang.org/news/2026/09-15-Fortran-birthday
-Published: 2026-10-15T15:03:17+00:00
+URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif
+Published: 2026-10-16T16:12:02+00:00
 
-Article URL: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/ Comments URL: https://news.ycombinator.com/item?id=50104726 Points: 283 # Comments: 122
+Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 266 # Comments: 184
 
-Neural networks are clean
+90% of US working hours are spent on tasks not covered well by AI benchmarks
 Source: Hacker News RSS
 Category: technology
-URL: https://already-clean.goodfire.com/
-Published: 2026-10-15T16:04:01+00:00
+URL: https://www.mercor.com/research/labor-index/benchmark-map
+Published: 2026-10-16T17:08:38+00:00
 
-https://twitter.com/nickcammarata/status/2110757819427574056 Comments URL: https://news.ycombinator.com/item?id=50105647 Points: 708 # Comments: 266
+Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 509 # Comments: 432
 
-Krea 3 – An image model built for editing at scale
+Designing more efficient quantum circuits with Claude
 Source: Hacker News RSS
 Category: technology
-URL: https://www.krea.ai/krea-3
-Published: 2026-10-15T16:04:05+00:00
+URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits
+Published: 2026-10-16T18:00:18+00:00
 
-Article URL: https://www.krea.ai/krea-3 Comments URL: https://news.ycombinator.com/item?id=50105648 Points: 314 # Comments: 100
+Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 143 # Comments: 32
 
-BIPM decides to stop adding leap seconds to UTC
+eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bipm.org/en/cgpm-2026/resolution-5
-Published: 2026-10-15T16:11:36+00:00
+URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15
+Published: 2026-10-16T18:06:17+00:00
 
-Article URL: https://www.bipm.org/en/cgpm-2026/resolution-5 Comments URL: https://news.ycombinator.com/item?id=50105777 Points: 195 # Comments: 93
+Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 226 # Comments: 199
 
-Jev meets the Trolley Problem
+Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console
 Source: Hacker News RSS
 Category: technology
-URL: https://zachlandes.com/trolley-problem
-Published: 2026-10-15T16:24:52+00:00
+URL: https://github.com/cobanov/PS5LM
+Published: 2026-10-16T18:32:35+00:00
 
-Article URL: https://zachlandes.com/trolley-problem/ Comments URL: https://news.ycombinator.com/item?id=50106023 Points: 481 # Comments: 204
+Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 295 # Comments: 73
 
-Muse Spark Open
+Claude reveals ECDSA curve origins
 Source: Hacker News RSS
 Category: technology
-URL: https://research.meta.ai/blog/muse-spark-open
-Published: 2026-10-15T17:47:39+00:00
+URL: https://www.anthropic.com/research/ecdsa-curve-origins
+Published: 2026-10-16T18:55:59+00:00
 
-https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 831 # Comments: 417
+https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 879 # Comments: 327
 
-Someone on Torrent Sites Kept Fucking with My Sonarr
+You could have invented transformers from memory
 Source: Hacker News RSS
 Category: technology
-URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup
-Published: 2026-10-15T19:21:38+00:00
+URL: https://alexwang.ai/posts/associative-memory
+Published: 2026-10-16T19:01:17+00:00
 
-Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 358 # Comments: 164
+Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 314 # Comments: 73
 
-New Withings Users Must Pay $99/Year for Apple Health Syncing
+How the Claude Code team does code review
 Source: Hacker News RSS
 Category: technology
-URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts
-Published: 2026-10-15T19:55:49+00:00
+URL: https://claude.dev/blog/solving-code-review-at-anthropic
+Published: 2026-10-16T19:04:47+00:00
 
-Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts Comments URL: https://news.ycombinator.com/item?id=50109375 Points: 313 # Comments: 201
+Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 351 # Comments: 332
 
-What I self-host
+FLUX 3 Image Klein
 Source: Hacker News RSS
 Category: technology
-URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host
-Published: 2026-10-15T20:23:25+00:00
+URL: https://bfl.ai/blog/flux-3-image-klein
+Published: 2026-10-16T19:47:13+00:00
 
-Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ Comments URL: https://news.ycombinator.com/item?id=50109715 Points: 512 # Comments: 325
+Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 167 # Comments: 47
 
-Meta’s new commercial terms will allow the scraping of news sites: experts
+Nine-Inch Snails
 Source: Hacker News RSS
 Category: technology
-URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say
-Published: 2026-10-15T23:37:42+00:00
+URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850
+Published: 2026-10-16T22:21:05+00:00
 
-Article URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/ Comments URL: https://news.ycombinator.com/item?id=50111852 Points: 325 # Comments: 115
+Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 71 # Comments: 35
 
-RPKI now protects 70% of internet routes
+Flexport Is Hiring a Biz Ops Leader in Office of CEO
 Source: Hacker News RSS
 Category: technology
-URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes
-Published: 2026-10-16T00:52:35+00:00
+URL: https://www.flexport.com/company/careers
+Published: 2026-10-17T01:01:51+00:00
 
-Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes Comments URL: https://news.ycombinator.com/item?id=50112330 Points: 168 # Comments: 59
+Article URL: https://www.flexport.com/company/careers/ Comments URL: https://news.ycombinator.com/item?id=50126774 Points: 0 # Comments: 0
 
-Thank You, Deno
+Butlerian Jihad
 Source: Hacker News RSS
 Category: technology
-URL: https://www.vlt.io/blog/competition-keeps-javascript-moving
-Published: 2026-10-16T00:52:40+00:00
+URL: https://dune.fandom.com/wiki/Butlerian_Jihad
+Published: 2026-10-17T02:21:08+00:00
 
-Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving Comments URL: https://news.ycombinator.com/item?id=50112331 Points: 94 # Comments: 19
+Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 236 # Comments: 129
 
-Any window from your Mac, on your iPhone and iPad
+Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/Saffsanity/sill
-Published: 2026-10-16T01:43:17+00:00
+URL: https://llmspeed.dev/
+Published: 2026-10-17T04:36:53+00:00
 
-Article URL: https://github.com/Saffsanity/sill Comments URL: https://news.ycombinator.com/item?id=50112739 Points: 167 # Comments: 37
+Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 82 # Comments: 35
 
-Comparing Chromium Development at Google and Igalia
+Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop
 Source: Hacker News RSS
 Category: technology
-URL: https://lwn.net/Articles/1094721
-Published: 2026-10-16T01:56:37+00:00
+URL: https://github.com/CLoaKY233/siltop
+Published: 2026-10-17T07:01:07+00:00
 
-Article URL: https://lwn.net/Articles/1094721/ Comments URL: https://news.ycombinator.com/item?id=50112887 Points: 56 # Comments: 17
+btop is beautiful. But on my M-series Mac it can't tell me the one thing I actually want to know: what is the chip doing? No watts, no GPU, no per-core clocks. So I built siltop: btop's calm, with eyes on the silicon. Real power, clocks and temps straight from the SMC and IOReport, no sudo, about 1.3% of one core (btop is ~2.5% on the same machine). It also tells you what's wrong in plain words ("Busy: rustc using 9.1 cores", "Hot: fans at 80%") before you read a single graph. 10-second try, no load needed: brew install cloaky233/tap/siltop && siltop --demo Rust, MIT/Apache, no telemetry, no network unless you turn on update checks. Curious what your Mac shows. M1/M2 Ultra and M5 Max owners especially, I haven't seen yours yet. Comments URL: https://news.ycombinator.com/item?id=50128654 Points: 6 # Comments: 4
 
-The Folders Programming Language
+DeepSeek-v4.1-Flash-1017
 Source: Hacker News RSS
 Category: technology
-URL: https://danieltemkin.com/esolangs/folders
-Published: 2026-10-16T05:11:28+00:00
+URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
+Published: 2026-10-17T08:21:25+00:00
 
-Article URL: https://danieltemkin.com/esolangs/folders Comments URL: https://news.ycombinator.com/item?id=50114342 Points: 90 # Comments: 11
+Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 165 # Comments: 69
 
-The insider trading you're allowed to do
+DeepSeek: DeepSeek v4.1 Flash 1017
 Source: Hacker News RSS
 Category: technology
-URL: https://coached.com/essays/the-insider-trading-youre-allowed-to-do
-Published: 2026-10-16T07:12:09+00:00
+URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017
+Published: 2026-10-17T08:37:46+00:00
 
-Article URL: https://coached.com/essays/the-insider-trading-youre-allowed-to-do/ Comments URL: https://news.ycombinator.com/item?id=50115144 Points: 54 # Comments: 34
+Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 153 # Comments: 20
 
-Japanese people still aren't having sex. And nobody knows why
+Is MCP becoming the common foundation of smart, decentralised search?
 Source: Hacker News RSS
 Category: technology
-URL: https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience
-Published: 2026-10-16T09:54:55+00:00
+URL: https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search
+Published: 2026-10-17T09:01:30+00:00
 
-Article URL: https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience Comments URL: https://news.ycombinator.com/item?id=50116367 Points: 19 # Comments: 28
+Article URL: https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search Comments URL: https://news.ycombinator.com/item?id=50129235 Points: 13 # Comments: 9
