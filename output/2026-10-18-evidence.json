@@ -1,0 +1,81 @@
+{
+  "topic": "Https Item Points",
+  "topic_key": "https-item-points",
+  "confidence": 84.93,
+  "score_breakdown": {
+    "source_quality": 65.26,
+    "corroboration": 100.0,
+    "recency": 76.76,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 94.93,
+  "evidence": [
+    {
+      "title": "It's time to talk about TEEs",
+      "url": "https://alinush.github.io//tee",
+      "publisher": "alinush.github.io",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-18T11:12:24.286871+00:00"
+    },
+    {
+      "title": "Parser Combinators",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "publisher": "t3.at",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-18T11:12:24.643854+00:00"
+    },
+    {
+      "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "publisher": "api-docs.deepseek.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-18T11:12:24.961957+00:00"
+    },
+    {
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+      "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "publisher": "webmasters.stackexchange.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-18T11:12:25.028448+00:00"
+    },
+    {
+      "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+      "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+      "publisher": "www.propublica.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-18T11:12:25.340828+00:00"
+    },
+    {
+      "title": "Notes on the Complex Roots of Unity",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+      "publisher": "eli.thegreenplace.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-18T11:12:25.560433+00:00"
+    }
+  ]
+}
