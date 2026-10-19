@@ -1,0 +1,81 @@
+{
+  "topic": "Https Points Comments",
+  "topic_key": "https-points-comments",
+  "confidence": 85.4,
+  "score_breakdown": {
+    "source_quality": 65.91,
+    "corroboration": 100.0,
+    "recency": 78.13,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.4,
+  "evidence": [
+    {
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "url": "https://100toolkit.com/blog/deslop-model/",
+      "publisher": "100toolkit.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-19T13:23:56.443302+00:00"
+    },
+    {
+      "title": "8 in 10 Americans oppose live-streaming execution",
+      "url": "https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows/",
+      "publisher": "www.washingtonpost.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-19T13:24:11.567397+00:00"
+    },
+    {
+      "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-19T13:24:12.121756+00:00"
+    },
+    {
+      "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+      "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+      "publisher": "spectrum.ieee.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-19T13:24:12.469133+00:00"
+    },
+    {
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "publisher": "community.letsencrypt.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-19T13:24:12.784247+00:00"
+    },
+    {
+      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "publisher": "www.wjcl.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-19T13:24:12.951901+00:00"
+    }
+  ]
+}
