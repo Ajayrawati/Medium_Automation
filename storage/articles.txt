@@ -1,3 +1,10 @@
+vllm-project / vllm
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/vllm-project/vllm
+
+A high-throughput and memory-efficient inference and serving engine for LLMs
+
 shiyu-coder / Kronos
 Source: GitHub Trending
 Category: technology
@@ -5,31 +12,19 @@ URL: https://github.com/shiyu-coder/Kronos
 
 Kronos: A Foundation Model for the Language of Financial Markets
 
-anthropics / claude-code
+sickn33 / agentic-awesome-skills
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/anthropics/claude-code
+URL: https://github.com/sickn33/agentic-awesome-skills
 
-Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 
-HKUDS / CLI-Anything
+anthropics / knowledge-work-plugins
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/HKUDS/CLI-Anything
+URL: https://github.com/anthropics/knowledge-work-plugins
 
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-
-Kruk2 / jasna
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Kruk2/jasna
-
-Video restoration tool
-
-withmarbleapp / os-taxonomy
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/withmarbleapp/os-taxonomy
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 headroomlabs-ai / headroom
 Source: GitHub Trending
@@ -38,12 +33,33 @@ URL: https://github.com/headroomlabs-ai/headroom
 
 Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 
-stablyai / orca
+msitarzewski / agency-agents
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/stablyai/orca
+URL: https://github.com/msitarzewski/agency-agents
 
-Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+
+anomalyco / opencode
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anomalyco/opencode
+
+The open source coding agent.
+
+YuJunZhiXue / dsh-purge
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/YuJunZhiXue/dsh-purge
+
+DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
+
+Graphify-Labs / graphify
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Graphify-Labs/graphify
+
+Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
 ruvnet / ruflo
 Source: GitHub Trending
@@ -59,19 +75,26 @@ URL: https://github.com/Comfy-Org/ComfyUI
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 
-akitaonrails / ai-memory
+DietrichGebert / ponytail
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/akitaonrails/ai-memory
+URL: https://github.com/DietrichGebert/ponytail
 
-Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-anomalyco / opencode
+stablyai / orca
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/anomalyco/opencode
+URL: https://github.com/stablyai/orca
 
-The open source coding agent.
+Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+
+cloudflare / security-audit-skill
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cloudflare/security-audit-skill
+
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 MadsLorentzen / ai-job-search
 Source: GitHub Trending
@@ -80,211 +103,211 @@ URL: https://github.com/MadsLorentzen/ai-job-search
 
 The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 
-RepRapMicron
+I built a drone with only one motor [video]
 Source: Hacker News
 Category: technology
-URL: https://github.com/VikOlliver/RepRapMicron/wiki
-Published: 2026-10-18T13:48:48+00:00
-Score: 414
+URL: https://www.youtube.com/watch?v=Ndftcft6XhU
+Published: 2026-10-19T09:05:07+00:00
+Score: 566
 
-Laptop Based on 6502 CPU
+It's still ok to enjoy programming
 Source: Hacker News
 Category: technology
-URL: https://www.maddox.pro/?p=448
-Published: 2026-10-15T22:56:23+00:00
-Score: 158
+URL: https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming
+Published: 2026-10-17T19:53:20+00:00
+Score: 625
 
-Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky
+Weball: Play Katamari on Websites
 Source: Hacker News
 Category: technology
-URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky
-Published: 2026-10-18T01:38:08+00:00
-Score: 280
+URL: https://www.funwithcomputervision.com/weball
+Published: 2026-10-18T12:39:56+00:00
+Score: 230
 
-Rabbits were a medieval royal luxury in England until the Black Death
+Making a 88x31 button book using ImageMagick
 Source: Hacker News
 Category: technology
-URL: https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html
-Published: 2026-10-17T14:07:36+00:00
-Score: 107
+URL: https://k.sosnierz.me/08-11-24
+Published: 2026-10-17T15:55:43+00:00
+Score: 49
 
-How to Train Your Robot
+'Der Viener Schlinger': The meat cannon that launched 20k hot dogs
 Source: Hacker News
 Category: technology
-URL: https://www.construction-physics.com/p/how-to-train-your-robot
-Published: 2026-10-15T15:13:21+00:00
-Score: 79
+URL: https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs
+Published: 2026-10-19T00:43:01+00:00
+Score: 11
 
-There's never been a better time to go into math (by: 3blue1brown) [video]
+Restoration of Retinal Regenerative Potential (2025)
 Source: Hacker News
 Category: technology
-URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc
-Published: 2026-10-17T23:26:35+00:00
-Score: 432
+URL: https://www.nature.com/articles/s41467-025-58290-8
+Published: 2026-10-18T11:32:38+00:00
+Score: 71
 
-Gdynia and the Dream of a Maritime Poland
+Nordwand Mono – A monospace font for coders and adventurers
 Source: Hacker News
 Category: technology
-URL: https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland
-Published: 2026-10-16T21:13:08+00:00
-Score: 41
+URL: https://github.com/tywr/Nordwand-Mono
+Published: 2026-10-18T14:48:01+00:00
+Score: 319
 
-Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN
+Ask HN: How to deal with shipping AI-written code you don't understand?
 Source: Hacker News RSS
 Category: technology
-URL: https://ranet3.com/
-Published: 2026-10-18T14:31:52+00:00
+URL: https://news.ycombinator.com/item?id=50151036
+Published: 2026-10-19T11:24:34+00:00
 
-btw this is already running on all my machines (including a macbook), and i've configured all of them to have routable public ip addresses ;) especially for the mac, my ISP is SFR (over coaxial connection) with only dynamic ipv4, i can use this to get stable v4/v6 addresses very easily for all my devices behind the router ios/android app soon^{TM} Comments URL: https://news.ycombinator.com/item?id=50141436 Points: 34 # Comments: 9
+I saw this LinkedIn post from a Meta engineer and it resonated with me: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m... > I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever. That means you can end up with systems you've built where you don't truly understand how all the code works. You understand the high level, but not every detail. And maybe this is becoming the new standard. It goes against every instinct of being a software engineer. I'm used to understanding what I'm building. Now I'm trying to figure out how much I need to understand before I'm comfortable moving forward. Are other engineers feeling this too? How are you handling this? Comments URL: https://news.ycombinator.com/item?id=50151036 Points: 484 # Comments: 615
 
-Someone behind the software
+Wine ported to OpenBSD
 Source: Hacker News RSS
 Category: technology
-URL: https://karrisaarinen.com/posts/someone-behind-the-software
-Published: 2026-10-18T16:32:00+00:00
+URL: https://marc.info/?l=openbsd-ports&m=179236125692175
+Published: 2026-10-19T13:35:34+00:00
 
-Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 488 # Comments: 176
+Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 575 # Comments: 195
 
-PalmOS Lemmings
+Maxwell: A new kind of model that sits between code and hardware
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/ardiri/palmos-lemmings
-Published: 2026-10-18T17:56:59+00:00
+URL: https://heymaxwell.ai/
+Published: 2026-10-19T13:47:56+00:00
 
-Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 138 # Comments: 33
+Hi HN, I'm Gal from doubleAI. We've built Maxwell, a new kind of frontier model we call a Code Execution Model. It sits between your code and the hardware. No humans in the loop! Maxwell makes the code run faster as it runs, without ever changing a single line. Maxwell sees programs from the inside: traces, profiling information, and the data flowing through them. It adapts dynamically to the environment, including the hardware, what else is running, and what the inputs look like. Code execution models change the way we approach coding. Today, Claude/Codex (and humans) keep re-optimising code for every different use-case hardware and data flow (think of LLM inference engines, like vLLM!). Our bet is that this is unnecessary, suboptimal, and that it does not scale. Instead, we think the right answer is to make code a living, thinking, thing. Early access is open at heymaxwell.ai. Happy to answer questions here. Comments URL: https://news.ycombinator.com/item?id=50152466 Points: 85 # Comments: 42
 
-Free Pascal compiler now supports dynamic packages
+Why Is Speculative Decoding Fast?
 Source: Hacker News RSS
 Category: technology
-URL: https://www.getlazarus.org/dynamic
-Published: 2026-10-18T18:48:04+00:00
+URL: https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast
+Published: 2026-10-19T13:53:41+00:00
 
-Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 171 # Comments: 44
+Article URL: https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/ Comments URL: https://news.ycombinator.com/item?id=50152539 Points: 19 # Comments: 0
 
-Hybrid Reasoning Agents: LLM agents that think in latent space, act through text
+Ukraine claims first drone evacuation of wounded soldier
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2610.18861
-Published: 2026-10-18T20:48:14+00:00
+URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310
+Published: 2026-10-19T15:31:34+00:00
 
-https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 447 # Comments: 217
+Article URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310 Comments URL: https://news.ycombinator.com/item?id=50153664 Points: 315 # Comments: 242
 
-If you don't run your own LLM proxy, how do you know whats going on?
+DeepSeek banned from U.S. federal civilian agencies under new DHS order
 Source: Hacker News RSS
 Category: technology
-URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on
-Published: 2026-10-18T21:09:12+00:00
+URL: https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19
+Published: 2026-10-19T16:16:46+00:00
 
-Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 216 # Comments: 154
+https://public-inspection.federalregister.gov/2026-21447.pdf Comments URL: https://news.ycombinator.com/item?id=50154244 Points: 306 # Comments: 270
 
-Show HN: WhatsApp MCP running free on Cloudflare
+MiniMax M3.1 Flash
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/finereli/whatsapp-mcp
-Published: 2026-10-18T21:36:10+00:00
+URL: https://www.minimax.io/blog/minimax-m31f
+Published: 2026-10-19T16:39:09+00:00
 
-I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly. This is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up. Comments URL: https://news.ycombinator.com/item?id=50145715 Points: 124 # Comments: 69
+Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154540 Points: 479 # Comments: 206
 
-How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?
+One Hash Bloom Filters
 Source: Hacker News RSS
 Category: technology
-URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base
-Published: 2026-10-18T23:37:54+00:00
+URL: https://calabro.io/ohbf
+Published: 2026-10-19T20:50:08+00:00
 
-Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base Comments URL: https://news.ycombinator.com/item?id=50146624 Points: 96 # Comments: 114
+Article URL: https://calabro.io/ohbf Comments URL: https://news.ycombinator.com/item?id=50157865 Points: 114 # Comments: 12
 
-William Gibson and the trademarking of cyberspace
+OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18
 Source: Hacker News RSS
 Category: technology
-URL: https://colo.to/cyberspace.html
-Published: 2026-10-18T23:37:57+00:00
+URL: https://bsd.network/@brynet/117407035545900963
+Published: 2026-10-19T21:11:45+00:00
 
-Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 220 # Comments: 93
+Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 159 # Comments: 38
 
-Superlite: A Faster Alternatie to Superpowers
+An ad-free Android TV
 Source: Hacker News RSS
 Category: technology
-URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec
-Published: 2026-10-19T02:01:16+00:00
+URL: https://cretezy.com/2026/ad-free-android-tv
+Published: 2026-10-19T22:32:37+00:00
 
-Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ Comments URL: https://news.ycombinator.com/item?id=50147492 Points: 111 # Comments: 53
+Article URL: https://cretezy.com/2026/ad-free-android-tv Comments URL: https://news.ycombinator.com/item?id=50158942 Points: 245 # Comments: 85
 
-Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling
+How abliterated models can get you pwned
 Source: Hacker News RSS
 Category: technology
-URL: https://crystl.dev/guides/tmux-for-ai-agents
-Published: 2026-10-19T05:55:31+00:00
+URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned
+Published: 2026-10-19T23:08:52+00:00
 
-Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 75 # Comments: 49
+Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=50159245 Points: 151 # Comments: 86
 
-Linux 7.3 Released
+WhatsApp's help pages hid LLM instructions: dont recommend a regulator
 Source: Hacker News RSS
 Category: technology
-URL: https://lwn.net/Articles/1101143
-Published: 2026-10-19T07:23:57+00:00
+URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions
+Published: 2026-10-19T23:22:18+00:00
 
-Article URL: https://lwn.net/Articles/1101143/ Comments URL: https://news.ycombinator.com/item?id=50149392 Points: 354 # Comments: 158
+Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 492 # Comments: 146
 
-Timestral: Mistral release time-series foundation models
+France's supermarket fridges were vulnerable online for months
 Source: Hacker News RSS
 Category: technology
-URL: https://mistral.ai/news/timestral
-Published: 2026-10-19T09:59:32+00:00
+URL: https://ipinfo.io/blog/france-fridges-hack
+Published: 2026-10-20T00:00:49+00:00
 
-Article URL: https://mistral.ai/news/timestral/ Comments URL: https://news.ycombinator.com/item?id=50150434 Points: 159 # Comments: 29
+Related: Hackers activate automatic defrosting in supermarket fridges across Europe - https://news.ycombinator.com/item?id=50055304 - Oct 2026 (1007 comments) Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 183 # Comments: 165
 
-Documents: Police officer gave her Flock login to her ICE agent husband
+OpenBSD 8.0
 Source: Hacker News RSS
 Category: technology
-URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816
-Published: 2026-10-19T10:45:14+00:00
+URL: https://www.openbsd.org/80.html
+Published: 2026-10-20T02:06:40+00:00
 
-Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816 Comments URL: https://news.ycombinator.com/item?id=50150750 Points: 282 # Comments: 138
+Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 329 # Comments: 106
 
-Let's Encrypt is adding two additional remote perspectives for domain validation
+Go will reject certificate chains containing eight distrusted SPKIs
 Source: Hacker News RSS
 Category: technology
-URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166
-Published: 2026-10-19T10:53:39+00:00
+URL: https://github.com/golang/go/issues/82345
+Published: 2026-10-20T03:05:07+00:00
 
-Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: https://news.ycombinator.com/item?id=50150809 Points: 57 # Comments: 15
+Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 109 # Comments: 41
 
-Alternatives to Animal Testing Are Finally Taking Off
+MicroG: Free-libre re-implementation of Google's proprietary Android user space
 Source: Hacker News RSS
 Category: technology
-URL: https://spectrum.ieee.org/alternatives-to-animal-testing
-Published: 2026-10-19T11:10:54+00:00
+URL: https://github.com/microg/GmsCore/wiki
+Published: 2026-10-20T06:37:07+00:00
 
-Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing Comments URL: https://news.ycombinator.com/item?id=50150927 Points: 45 # Comments: 7
+Article URL: https://github.com/microg/GmsCore/wiki Comments URL: https://news.ycombinator.com/item?id=50162177 Points: 97 # Comments: 6
 
-ESA's Hera Will View Asteroid Scars from DART's Strike
+There is no official XScreenSaver GitHub repository
 Source: Hacker News RSS
 Category: technology
-URL: https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous
-Published: 2026-10-19T11:12:02+00:00
+URL: https://github.com/xscreensaver-official/xscreensaver
+Published: 2026-10-20T08:51:31+00:00
 
-Article URL: https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous Comments URL: https://news.ycombinator.com/item?id=50150935 Points: 27 # Comments: 0
+Article URL: https://github.com/xscreensaver-official/xscreensaver Comments URL: https://news.ycombinator.com/item?id=50163142 Points: 43 # Comments: 19
 
-Harness Engineering 101: The LLM is the brain, the harness is the body
+DeepSeek just open-sourced its inference engine
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/IsuruMaduranga/harness-engineering-101
-Published: 2026-10-19T12:07:41+00:00
+URL: https://github.com/deepseek-ai/DeepInfer
+Published: 2026-10-20T09:08:54+00:00
 
-Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 50 # Comments: 21
+Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 495 # Comments: 173
 
-8 in 10 Americans oppose live-streaming execution
+Revolut down as users report app not working
 Source: Hacker News RSS
 Category: technology
-URL: https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows
-Published: 2026-10-19T13:00:29+00:00
+URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo
+Published: 2026-10-20T09:54:48+00:00
 
-Article URL: https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows/ Comments URL: https://news.ycombinator.com/item?id=50151922 Points: 13 # Comments: 4
+Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 57 # Comments: 30
 
-Show HN: Qwen3-4B with the AI writing tics trained out
+Google cloud outage takes down banks
 Source: Hacker News RSS
 Category: technology
-URL: https://100toolkit.com/blog/deslop-model
-Published: 2026-10-19T13:00:47+00:00
+URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more
+Published: 2026-10-20T10:26:02+00:00
 
-Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 14 # Comments: 3
+Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombinator.com/item?id=50163961 Points: 40 # Comments: 12
