@@ -1,37 +1,23 @@
-Graphify-Labs / graphify
+Meloong-Git / PCL
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Graphify-Labs/graphify
+URL: https://github.com/Meloong-Git/PCL
 
-Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+Minecraft 启动器 Plain Craft Launcher（PCL）。
 
-akitaonrails / ai-memory
+luongnv89 / claude-howto
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/akitaonrails/ai-memory
+URL: https://github.com/luongnv89/claude-howto
 
-Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
-strelov1 / freehire
+fastapi / fastapi
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/strelov1/freehire
+URL: https://github.com/fastapi/fastapi
 
-freehire — the open-source search engine for job seekers
-
-shiyu-coder / Kronos
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/shiyu-coder/Kronos
-
-Kronos: A Foundation Model for the Language of Financial Markets
-
-twentyhq / twenty
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/twentyhq/twenty
-
-The open alternative to Salesforce, designed for AI.
+FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 supabase / supabase
 Source: GitHub Trending
@@ -40,40 +26,12 @@ URL: https://github.com/supabase/supabase
 
 The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
-Comfy-Org / ComfyUI
+Graphify-Labs / graphify
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Comfy-Org/ComfyUI
+URL: https://github.com/Graphify-Labs/graphify
 
-The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
-
-DietrichGebert / ponytail
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/DietrichGebert/ponytail
-
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-headroomlabs-ai / headroom
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/headroomlabs-ai/headroom
-
-Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-
-stablyai / orca
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/stablyai/orca
-
-Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-
-vllm-project / vllm
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/vllm-project/vllm
-
-A high-throughput and memory-efficient inference and serving engine for LLMs
+Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
 cloudflare / security-audit-skill
 Source: GitHub Trending
@@ -82,149 +40,218 @@ URL: https://github.com/cloudflare/security-audit-skill
 
 A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-MadsLorentzen / ai-job-search
+DietrichGebert / ponytail
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/MadsLorentzen/ai-job-search
+URL: https://github.com/DietrichGebert/ponytail
 
-The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-Google open-sources TorchTPU, a native PyTorch back end for TPUs
+anthropics / knowledge-work-plugins
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/knowledge-work-plugins
+
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+
+php / php-src
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/php/php-src
+
+The PHP Interpreter
+
+Tiny possum and glider thought extinct for 6000 years found in remote West Papua
 Source: Hacker News
 Category: technology
-URL: https://github.com/google-pytorch/torch_tpu
-Published: 2026-10-20T16:40:24+00:00
-Score: 351
+URL: https://www.bbc.com/news/articles/cp814l80pw2o
+Published: 2026-10-20T06:20:54+00:00
+Score: 231
 
-ZX Spectrum Next Laptop
+What Is the Karakoram Anomaly?
 Source: Hacker News
 Category: technology
-URL: https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2
-Published: 2026-10-19T02:48:11+00:00
-Score: 94
+URL: https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real
+Published: 2026-10-20T01:26:53+00:00
+Score: 44
 
-C# now beats Rust on WASM size
+The Robot I Didn't Expect to Build
 Source: Hacker News
 Category: technology
-URL: https://github.com/zion-sati/NetWasm
-Published: 2026-10-21T02:53:47+00:00
-Score: 95
-
-Bonanza of new dates rewrites the history of the Inca
-Source: Hacker News
-Category: technology
-URL: https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca
-Published: 2026-10-19T12:13:36+00:00
+URL: https://spectrum.ieee.org/agility-robotics-digit-5-redesign
+Published: 2026-10-19T17:57:18+00:00
 Score: 19
 
-The Other Epidemic: Trying to get off benzodiazepines
+No more icons in every menu by default
 Source: Hacker News
 Category: technology
-URL: https://www.thebeliever.net/the-other-epidemic
-Published: 2026-10-20T23:04:09+00:00
-Score: 209
+URL: https://blog.jim-nielsen.com/2026/icons-in-every-menu
+Published: 2026-10-20T04:27:08+00:00
+Score: 352
 
-In Hilbert space, all things are quantumly possible
+Startup taps underwater volcano as energy source in "proof point" test
 Source: Hacker News
 Category: technology
-URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826
-Published: 2026-10-21T02:04:15+00:00
-Score: 102
+URL: https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test
+Published: 2026-10-19T20:12:49+00:00
+Score: 16
 
-Good type against all odds
-Source: Hacker News
+PingCap TiDB Leaks
+Source: Hacker News RSS
 Category: technology
-URL: https://unsung.aresluna.org/good-type-against-all-odds
-Published: 2026-10-21T01:45:07+00:00
-Score: 140
+URL: https://fulcrumsec.vg/pingcap
+Published: 2026-10-20T22:45:39+00:00
 
-Feds suspect ransom negotiator ran ShinyHunters extortion site
-Source: Hacker News
-Category: technology
-URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site
-Published: 2026-10-20T22:21:05+00:00
-Score: 217
+Article URL: https://fulcrumsec.vg/pingcap/ Comments URL: https://news.ycombinator.com/item?id=50173716 Points: 368 # Comments: 59
 
-Voxtral 3
-Source: Hacker News
+Using LLM for confidence scoring is a bad idea
+Source: Hacker News RSS
 Category: technology
-URL: https://mistral.ai/news/voxtral-3
-Published: 2026-10-20T16:02:07+00:00
-Score: 703
+URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html
+Published: 2026-10-21T04:27:51+00:00
 
-eMudhra intermediate CA compromise
-Source: Hacker News
-Category: technology
-URL: https://emudhra.we-have-a-problem.com/
-Published: 2026-10-20T13:58:33+00:00
-Score: 1020
+Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 115 # Comments: 61
 
-The Decoherence Trap
-Source: Hacker News
+OpenAI models are coming to Google Cloud
+Source: Hacker News RSS
 Category: technology
-URL: https://maevyn.codes/decoherence
-Published: 2026-10-19T08:35:44+00:00
-Score: 63
+URL: https://openai.com/index/openai-models-google-cloud
+Published: 2026-10-21T12:53:11+00:00
 
-Way to Play Super Mario 64: On Apple Vision Pro
-Source: Hacker News
-Category: technology
-URL: https://www.pagetable.com/303
-Published: 2026-10-19T09:21:34+00:00
-Score: 37
+Article URL: https://openai.com/index/openai-models-google-cloud/ Comments URL: https://news.ycombinator.com/item?id=50180079 Points: 300 # Comments: 123
 
-Muse exposes users' personal and business secrets when they share conversations
-Source: Hacker News
+Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor
+Source: Hacker News RSS
 Category: technology
-URL: https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations
-Published: 2026-10-21T00:45:59+00:00
-Score: 208
+URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor
+Published: 2026-10-21T14:00:26+00:00
 
-Show HN: SimCity, but with Permits
-Source: Hacker News
-Category: technology
-URL: https://permit.petercai.com/
-Published: 2026-10-20T18:29:09+00:00
-Score: 825
+Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 540 # Comments: 173
 
-Does Ruby on Rails still make sense?
-Source: Hacker News
+DuckDB 2.0.0 LTS “Cinnamon Teal”
+Source: Hacker News RSS
 Category: technology
-URL: https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense
-Published: 2026-10-19T21:29:58+00:00
-Score: 28
+URL: https://duckdb.org/2026/10/21/announcing-duckdb-200
+Published: 2026-10-21T14:01:22+00:00
 
-Upcoming critical PHP security release (CVE-2026-109618 / -109619)
-Source: Hacker News
-Category: technology
-URL: https://news-web.php.net/php.announce/509
-Published: 2026-10-20T20:15:50+00:00
-Score: 1069
+Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 429 # Comments: 57
 
-The Future of CSS
-Source: Hacker News
+Today's PHP security release, and how we're strengthening security
+Source: Hacker News RSS
 Category: technology
-URL: https://www.joshwcomeau.com/css/interop-2027
-Published: 2026-10-21T01:47:28+00:00
-Score: 415
+URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security
+Published: 2026-10-21T15:48:56+00:00
 
-The 1.5°C goal of the Paris Agreement is no longer viable
-Source: Hacker News
-Category: technology
-URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot
-Published: 2026-10-21T09:07:49+00:00
-Score: 354
+Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873 (links to more at https://news.ycombinator.com/item?id=50184935 ) Comments URL: https://news.ycombinator.com/item?id=50182987 Points: 754 # Comments: 374
 
-Whatever Happened to Fire Escapes
-Source: Hacker News
+Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case
+Source: Hacker News RSS
 Category: technology
-URL: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes
-Published: 2026-10-21T10:14:43+00:00
-Score: 35
+URL: https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html
+Published: 2026-10-21T17:45:13+00:00
 
-Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds
-Source: Hacker News
+https://nmdoj.gov/press-release/the-new-mexico-department-of... Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 590 # Comments: 339
+
+GitLab critical patch release
+Source: Hacker News RSS
 Category: technology
-URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds
-Published: 2026-10-21T09:08:08+00:00
-Score: 226
+URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released
+Published: 2026-10-21T19:01:12+00:00
+
+Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 363 # Comments: 85
+
+Rust Style Guide
+Source: Hacker News RSS
+Category: technology
+URL: https://google.github.io/styleguide/rustguide.html
+Published: 2026-10-21T19:11:57+00:00
+
+Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 324 # Comments: 194
+
+Claude Duet
+Source: Hacker News RSS
+Category: technology
+URL: https://claude.com/product/claude-duet
+Published: 2026-10-21T19:14:01+00:00
+
+Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 425 # Comments: 384
+
+Security Disclosure
+Source: Hacker News RSS
+Category: technology
+URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st
+Published: 2026-10-21T21:58:03+00:00
+
+Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 490 # Comments: 285
+
+There isn't an easy exploit for this PHP vulnerability
+Source: Hacker News RSS
+Category: technology
+URL: https://eliastaylor.com/noexploit
+Published: 2026-10-21T23:13:27+00:00
+
+Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 556 # Comments: 339
+
+mitmproxy adds --emudhra option
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b
+Published: 2026-10-21T23:51:37+00:00
+
+Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 515 # Comments: 122
+
+WorldTUI: I trained a 360M model to pretend to be a terminal
+Source: Hacker News RSS
+Category: technology
+URL: https://simedw.com/2026/10/21/world-model-terminal
+Published: 2026-10-22T02:18:41+00:00
+
+Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 276 # Comments: 88
+
+The recently proposed o(n log n) integer multiplication algorithm [pdf]
+Source: Hacker News RSS
+Category: technology
+URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf
+Published: 2026-10-22T02:30:52+00:00
+
+Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 220 # Comments: 160
+
+OpenAI CLI
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/openai/openai-cli
+Published: 2026-10-22T05:23:11+00:00
+
+Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 145 # Comments: 79
+
+Jailbreaking the Switch 2
+Source: Hacker News RSS
+Category: technology
+URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb
+Published: 2026-10-22T08:01:52+00:00
+
+Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 75 # Comments: 17
+
+CVE-2026-111943: Compromised Intermediate Certificate Authority
+Source: Hacker News RSS
+Category: technology
+URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943
+Published: 2026-10-22T08:51:31+00:00
+
+Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943 Comments URL: https://news.ycombinator.com/item?id=50192900 Points: 169 # Comments: 42
+
+Faster than earcut: triangulating 3.7M map polygons in 489 ms
+Source: Hacker News RSS
+Category: technology
+URL: https://globus.software/blog/2026/10/16/cutting-map-polygons
+Published: 2026-10-22T09:31:18+00:00
+
+Article URL: https://globus.software/blog/2026/10/16/cutting-map-polygons/ Comments URL: https://news.ycombinator.com/item?id=50193170 Points: 57 # Comments: 10
+
+Several Linux kernel vulnerabilities accidentally posted to public mailing list
+Source: Hacker News RSS
+Category: technology
+URL: https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities
+Published: 2026-10-22T11:12:37+00:00
+
+Article URL: https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50193804 Points: 36 # Comments: 5
