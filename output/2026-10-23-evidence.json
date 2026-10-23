@@ -1,0 +1,81 @@
+{
+  "topic": "Comments Points Url",
+  "topic_key": "comments-points-url",
+  "confidence": 86.4,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 84.49,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.4,
+  "evidence": [
+    {
+      "title": "Is this the new cyber normal?",
+      "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+      "publisher": "drew.silcock.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-23T11:43:49.726904+00:00"
+    },
+    {
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "publisher": "twitter.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-23T11:43:50.591277+00:00"
+    },
+    {
+      "title": "Job Loss and Cortisone Mania",
+      "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+      "publisher": "tilschuenemann.de",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-23T11:43:50.886481+00:00"
+    },
+    {
+      "title": "The Rise and Fall of Jev",
+      "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+      "publisher": "blog.alexewerlof.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-23T11:43:51.118177+00:00"
+    },
+    {
+      "title": "Remove pgrust: the entry is cheating",
+      "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-23T11:43:51.384790+00:00"
+    },
+    {
+      "title": "This I Believe (1952)",
+      "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+      "publisher": "www.awakin.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-23T11:43:52.112340+00:00"
+    }
+  ]
+}

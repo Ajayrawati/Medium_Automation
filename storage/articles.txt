@@ -1,51 +1,30 @@
-Meloong-Git / PCL
+nodejs / node
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Meloong-Git/PCL
+URL: https://github.com/nodejs/node
 
-Minecraft 启动器 Plain Craft Launcher（PCL）。
+Node.js JavaScript runtime ✨🐢🚀✨
 
-luongnv89 / claude-howto
+OpenBMB / VoxCPM
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/luongnv89/claude-howto
+URL: https://github.com/OpenBMB/VoxCPM
 
-A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 
-fastapi / fastapi
+SnailSploit / Claude-Red
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/fastapi/fastapi
+URL: https://github.com/SnailSploit/Claude-Red
 
-FastAPI framework, high performance, easy to learn, fast to code, ready for production
+claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
 
-supabase / supabase
+Renhuai123 / ziwei-doushu
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/supabase/supabase
+URL: https://github.com/Renhuai123/ziwei-doushu
 
-The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-
-Graphify-Labs / graphify
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Graphify-Labs/graphify
-
-Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-
-cloudflare / security-audit-skill
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cloudflare/security-audit-skill
-
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-
-DietrichGebert / ponytail
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/DietrichGebert/ponytail
-
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 
 anthropics / knowledge-work-plugins
 Source: GitHub Trending
@@ -61,197 +40,197 @@ URL: https://github.com/php/php-src
 
 The PHP Interpreter
 
-Tiny possum and glider thought extinct for 6000 years found in remote West Papua
+cloudflare / security-audit-skill
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cloudflare/security-audit-skill
+
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+
+Quad9 to exit France
 Source: Hacker News
 Category: technology
-URL: https://www.bbc.com/news/articles/cp814l80pw2o
-Published: 2026-10-20T06:20:54+00:00
-Score: 231
-
-What Is the Karakoram Anomaly?
-Source: Hacker News
-Category: technology
-URL: https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real
-Published: 2026-10-20T01:26:53+00:00
-Score: 44
-
-The Robot I Didn't Expect to Build
-Source: Hacker News
-Category: technology
-URL: https://spectrum.ieee.org/agility-robotics-digit-5-redesign
-Published: 2026-10-19T17:57:18+00:00
-Score: 19
-
-No more icons in every menu by default
-Source: Hacker News
-Category: technology
-URL: https://blog.jim-nielsen.com/2026/icons-in-every-menu
-Published: 2026-10-20T04:27:08+00:00
-Score: 352
-
-Startup taps underwater volcano as energy source in "proof point" test
-Source: Hacker News
-Category: technology
-URL: https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test
-Published: 2026-10-19T20:12:49+00:00
-Score: 16
-
-PingCap TiDB Leaks
-Source: Hacker News RSS
-Category: technology
-URL: https://fulcrumsec.vg/pingcap
-Published: 2026-10-20T22:45:39+00:00
-
-Article URL: https://fulcrumsec.vg/pingcap/ Comments URL: https://news.ycombinator.com/item?id=50173716 Points: 368 # Comments: 59
-
-Using LLM for confidence scoring is a bad idea
-Source: Hacker News RSS
-Category: technology
-URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html
-Published: 2026-10-21T04:27:51+00:00
-
-Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 115 # Comments: 61
-
-OpenAI models are coming to Google Cloud
-Source: Hacker News RSS
-Category: technology
-URL: https://openai.com/index/openai-models-google-cloud
-Published: 2026-10-21T12:53:11+00:00
-
-Article URL: https://openai.com/index/openai-models-google-cloud/ Comments URL: https://news.ycombinator.com/item?id=50180079 Points: 300 # Comments: 123
-
-Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor
-Source: Hacker News RSS
-Category: technology
-URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor
-Published: 2026-10-21T14:00:26+00:00
-
-Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 540 # Comments: 173
-
-DuckDB 2.0.0 LTS “Cinnamon Teal”
-Source: Hacker News RSS
-Category: technology
-URL: https://duckdb.org/2026/10/21/announcing-duckdb-200
-Published: 2026-10-21T14:01:22+00:00
-
-Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 429 # Comments: 57
-
-Today's PHP security release, and how we're strengthening security
-Source: Hacker News RSS
-Category: technology
-URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security
-Published: 2026-10-21T15:48:56+00:00
-
-Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873 (links to more at https://news.ycombinator.com/item?id=50184935 ) Comments URL: https://news.ycombinator.com/item?id=50182987 Points: 754 # Comments: 374
-
-Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case
-Source: Hacker News RSS
-Category: technology
-URL: https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html
-Published: 2026-10-21T17:45:13+00:00
-
-https://nmdoj.gov/press-release/the-new-mexico-department-of... Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 590 # Comments: 339
-
-GitLab critical patch release
-Source: Hacker News RSS
-Category: technology
-URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released
-Published: 2026-10-21T19:01:12+00:00
-
-Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 363 # Comments: 85
-
-Rust Style Guide
-Source: Hacker News RSS
-Category: technology
-URL: https://google.github.io/styleguide/rustguide.html
-Published: 2026-10-21T19:11:57+00:00
-
-Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 324 # Comments: 194
-
-Claude Duet
-Source: Hacker News RSS
-Category: technology
-URL: https://claude.com/product/claude-duet
-Published: 2026-10-21T19:14:01+00:00
-
-Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 425 # Comments: 384
-
-Security Disclosure
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st
-Published: 2026-10-21T21:58:03+00:00
-
-Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 490 # Comments: 285
-
-There isn't an easy exploit for this PHP vulnerability
-Source: Hacker News RSS
-Category: technology
-URL: https://eliastaylor.com/noexploit
-Published: 2026-10-21T23:13:27+00:00
-
-Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 556 # Comments: 339
-
-mitmproxy adds --emudhra option
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b
-Published: 2026-10-21T23:51:37+00:00
-
-Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 515 # Comments: 122
+URL: https://quad9.net/news/blog/au-revoir-france
+Published: 2026-10-22T14:32:38+00:00
+Score: 1251
 
 WorldTUI: I trained a 360M model to pretend to be a terminal
-Source: Hacker News RSS
+Source: Hacker News
 Category: technology
 URL: https://simedw.com/2026/10/21/world-model-terminal
 Published: 2026-10-22T02:18:41+00:00
+Score: 554
 
-Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 276 # Comments: 88
+I reverse engineered a board game
+Source: Hacker News
+Category: technology
+URL: https://wuemeli.com/blog/reversing-hitster-game
+Published: 2026-10-21T13:40:31+00:00
+Score: 51
 
-The recently proposed o(n log n) integer multiplication algorithm [pdf]
+The alien space of science: Coherent but cognitively unavailable directions
+Source: Hacker News
+Category: technology
+URL: https://arxiv.org/abs/2603.01092
+Published: 2026-10-22T13:25:01+00:00
+Score: 91
+
+Run full iOS 16.5 firmware on Android Devices
 Source: Hacker News RSS
 Category: technology
-URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf
-Published: 2026-10-22T02:30:52+00:00
+URL: https://github.com/oosexgang/hackios-xnu-kernel
+Published: 2026-10-22T15:26:22+00:00
 
-Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 220 # Comments: 160
+https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 458 # Comments: 167
 
-OpenAI CLI
+Every AI model has the same "controversial" take on humans
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/openai/openai-cli
-Published: 2026-10-22T05:23:11+00:00
+URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans
+Published: 2026-10-22T16:08:00+00:00
 
-Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 145 # Comments: 79
+Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 462 # Comments: 464
 
-Jailbreaking the Switch 2
+Getting ready to operate GNU Taler in Germany
 Source: Hacker News RSS
 Category: technology
-URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb
-Published: 2026-10-22T08:01:52+00:00
+URL: https://www.taler.net/en/news/2026-13.html
+Published: 2026-10-22T16:14:31+00:00
 
-Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 75 # Comments: 17
+Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 311 # Comments: 135
 
-CVE-2026-111943: Compromised Intermediate Certificate Authority
+OpenShell – A safe, private runtime for fleets of autonomous AI agents
 Source: Hacker News RSS
 Category: technology
-URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943
-Published: 2026-10-22T08:51:31+00:00
+URL: https://github.com/NVIDIA/OpenShell
+Published: 2026-10-22T17:44:06+00:00
 
-Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943 Comments URL: https://news.ycombinator.com/item?id=50192900 Points: 169 # Comments: 42
+Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 414 # Comments: 196
 
-Faster than earcut: triangulating 3.7M map polygons in 489 ms
+Hedra is a 3D open world game I wrote from scratch while in highschool
 Source: Hacker News RSS
 Category: technology
-URL: https://globus.software/blog/2026/10/16/cutting-map-polygons
-Published: 2026-10-22T09:31:18+00:00
+URL: https://github.com/maxilevi/project-hedra/tree/pre-ai
+Published: 2026-10-22T18:44:36+00:00
 
-Article URL: https://globus.software/blog/2026/10/16/cutting-map-polygons/ Comments URL: https://news.ycombinator.com/item?id=50193170 Points: 57 # Comments: 10
+Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 212 # Comments: 40
 
-Several Linux kernel vulnerabilities accidentally posted to public mailing list
+The HTML-in-Canvas API origin trial
 Source: Hacker News RSS
 Category: technology
-URL: https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities
-Published: 2026-10-22T11:12:37+00:00
+URL: https://developer.chrome.com/blog/html-in-canvas-origin-trial
+Published: 2026-10-22T19:54:04+00:00
 
-Article URL: https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50193804 Points: 36 # Comments: 5
+Article URL: https://developer.chrome.com/blog/html-in-canvas-origin-trial Comments URL: https://news.ycombinator.com/item?id=50200164 Points: 64 # Comments: 29
+
+Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?
+Source: Hacker News RSS
+Category: technology
+URL: https://news.ycombinator.com/item?id=50200997
+Published: 2026-10-22T21:03:55+00:00
+
+Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker? Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products? Is selling tokens really the best strategy? Especially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side Comments URL: https://news.ycombinator.com/item?id=50200997 Points: 202 # Comments: 195
+
+How does Fable 5.1 hide messages in images?
+Source: Hacker News RSS
+Category: technology
+URL: https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images
+Published: 2026-10-22T21:41:13+00:00
+
+Article URL: https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images Comments URL: https://news.ycombinator.com/item?id=50201445 Points: 114 # Comments: 36
+
+LLMs are making formal software verification feasible at a much larger scale
+Source: Hacker News RSS
+Category: technology
+URL: https://www.anthropic.com/research/formal-verification
+Published: 2026-10-22T22:54:43+00:00
+
+Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 360 # Comments: 216
+
+Local Wikipedia: Wikipedia, but only for things a half hour walk from you
+Source: Hacker News RSS
+Category: technology
+URL: https://edjefferson.com/localwiki
+Published: 2026-10-22T23:01:18+00:00
+
+Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 513 # Comments: 119
+
+Docker is weird
+Source: Hacker News RSS
+Category: technology
+URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird
+Published: 2026-10-22T23:45:56+00:00
+
+Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 552 # Comments: 238
+
+Jank – The native Clojure dialect with seamless C++ interop
+Source: Hacker News RSS
+Category: technology
+URL: https://jank-lang.org/
+Published: 2026-10-22T23:56:36+00:00
+
+Article URL: https://jank-lang.org/ Comments URL: https://news.ycombinator.com/item?id=50202762 Points: 112 # Comments: 17
+
+Show HN: Making a smart TV dumb and then smart
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/anubhavmalhotra/r2d2-tv
+Published: 2026-10-23T00:10:45+00:00
+
+A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working. My daughter enjoys navigating TV through speech while I get to browse on the biggest screen at home. While all of the code was written by ML models, there were decisions I had to help with. In specific: using WebRTC to cut down latency, repurposing vendor logic for buffering voice samples and designing user experience. It was liberating to finally free the TV of bloatware and make it truly personalized! Comments URL: https://news.ycombinator.com/item?id=50202865 Points: 32 # Comments: 5
+
+The foolishness of "natural language programming" (1978)
+Source: Hacker News RSS
+Category: technology
+URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
+Published: 2026-10-23T00:52:01+00:00
+
+Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 207 # Comments: 121
+
+This I Believe (1952)
+Source: Hacker News RSS
+Category: technology
+URL: https://www.awakin.org/v2/read/view.php?tid=468
+Published: 2026-10-23T02:19:38+00:00
+
+Article URL: https://www.awakin.org/v2/read/view.php?tid=468 Comments URL: https://news.ycombinator.com/item?id=50203759 Points: 99 # Comments: 37
+
+Remove pgrust: the entry is cheating
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/ClickHouse/ClickBench/pull/2165
+Published: 2026-10-23T08:05:33+00:00
+
+Article URL: https://github.com/ClickHouse/ClickBench/pull/2165 Comments URL: https://news.ycombinator.com/item?id=50205816 Points: 23 # Comments: 4
+
+The Rise and Fall of Jev
+Source: Hacker News RSS
+Category: technology
+URL: https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm
+Published: 2026-10-23T09:21:00+00:00
+
+Article URL: https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm Comments URL: https://news.ycombinator.com/item?id=50206361 Points: 51 # Comments: 35
+
+Job Loss and Cortisone Mania
+Source: Hacker News RSS
+Category: technology
+URL: https://tilschuenemann.de/job-loss-cortisone-mania
+Published: 2026-10-23T10:31:24+00:00
+
+Article URL: https://tilschuenemann.de/job-loss-cortisone-mania Comments URL: https://news.ycombinator.com/item?id=50206840 Points: 6 # Comments: 0
+
+Dutch government had hacked into Jared Kushner's phone
+Source: Hacker News RSS
+Category: technology
+URL: https://twitter.com/jaredkushner/status/2113376217415958767
+Published: 2026-10-23T10:41:32+00:00
+
+Article URL: https://twitter.com/jaredkushner/status/2113376217415958767 Comments URL: https://news.ycombinator.com/item?id=50206914 Points: 53 # Comments: 15
+
+Is this the new cyber normal?
+Source: Hacker News RSS
+Category: technology
+URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal
+Published: 2026-10-23T11:04:53+00:00
+
+Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/ Comments URL: https://news.ycombinator.com/item?id=50207115 Points: 14 # Comments: 0
