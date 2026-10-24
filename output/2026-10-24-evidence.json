@@ -1,0 +1,81 @@
+{
+  "topic": "Https Comments Url",
+  "topic_key": "https-comments-url",
+  "confidence": 85.54,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 80.2,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.54,
+  "evidence": [
+    {
+      "title": "I Don't Understand Quantum Physics",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "publisher": "www.southampton.ac.uk",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-24T11:06:53.390485+00:00"
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "publisher": "www.aikido.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-24T11:06:53.563193+00:00"
+    },
+    {
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "publisher": "www.reddit.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-24T11:06:53.666140+00:00"
+    },
+    {
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-24T11:06:54.252447+00:00"
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "publisher": "rtfeldman.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-24T11:06:54.466564+00:00"
+    },
+    {
+      "title": "How Block Blast harvests its players for ad money",
+      "url": "https://ayoships.com/breakdowns/block-blast",
+      "publisher": "ayoships.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-24T11:06:54.583975+00:00"
+    }
+  ]
+}
