@@ -1,51 +1,9 @@
-nodejs / node
+AgriciDaniel / claude-seo
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/nodejs/node
+URL: https://github.com/AgriciDaniel/claude-seo
 
-Node.js JavaScript runtime ✨🐢🚀✨
-
-OpenBMB / VoxCPM
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/OpenBMB/VoxCPM
-
-VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-
-SnailSploit / Claude-Red
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/SnailSploit/Claude-Red
-
-claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-
-Renhuai123 / ziwei-doushu
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Renhuai123/ziwei-doushu
-
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-
-NVIDIA / OpenShell
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/NVIDIA/OpenShell
-
-OpenShell is the safe, private runtime for autonomous AI agents.
-
-anthropics / knowledge-work-plugins
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/anthropics/knowledge-work-plugins
-
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-
-php / php-src
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/php/php-src
-
-The PHP Interpreter
+Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
 
 cloudflare / security-audit-skill
 Source: GitHub Trending
@@ -54,204 +12,274 @@ URL: https://github.com/cloudflare/security-audit-skill
 
 A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-The Best Monopoly Strategy, Tested on 300M Games [video]
+coollabsio / coolify
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/coollabsio/coolify
+
+An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
+
+JetBrains / thinkrail
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/JetBrains/thinkrail
+
+Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+
+Renhuai123 / ziwei-doushu
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Renhuai123/ziwei-doushu
+
+紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+
+TauricResearch / TradingAgents
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/TauricResearch/TradingAgents
+
+TradingAgents: Multi-Agents LLM Financial Trading Framework
+
+pollen-robotics / microduck
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/pollen-robotics/microduck
+
+A Tiny biped duck robot 🦆
+
+pbakaus / impeccable
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/pbakaus/impeccable
+
+The design language that makes your AI harness better at design.
+
+debpalash / VoiceStudio
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/debpalash/VoiceStudio
+
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+
+Nutlope / hallmark
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Nutlope/hallmark
+
+Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+
+makecindy / cindy
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/makecindy/cindy
+
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+
+A story of a Figma bug that wasn't a bug at all (2021)
 Source: Hacker News
 Category: technology
-URL: https://www.youtube.com/watch?v=S_2eVAaw1UM
-Published: 2026-10-21T03:30:11+00:00
-Score: 28
+URL: https://aresluna.org/this-is-a-story-of-a-figma-bug
+Published: 2026-10-21T19:30:52+00:00
+Score: 38
 
-The Real Kevin Bacon
+Social dynamics of toxic metal industry in medieval Europe
 Source: Hacker News
 Category: technology
-URL: https://pudding.cool/2026/10/kevin-bacon
-Published: 2026-10-20T17:10:05+00:00
-Score: 316
+URL: https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829
+Published: 2026-10-20T17:06:48+00:00
+Score: 55
 
-Bringing uv and ty together
+I Built a Stereo Vision Board for Hardware Hackers
 Source: Hacker News
 Category: technology
-URL: https://astral.sh/blog/uv-ty-integration
-Published: 2026-10-20T21:30:56+00:00
-Score: 164
-
-A practical guide to AI image generation, from diffusion to agents
-Source: Hacker News
-Category: technology
-URL: https://danielball.com/notes/ai_image_generation.html
-Published: 2026-10-20T19:22:39+00:00
-Score: 103
-
-How to run a city builder on 16 MHz
-Source: Hacker News
-Category: technology
-URL: https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz
-Published: 2026-10-22T12:40:56+00:00
-Score: 24
-
-Physicists trap a single antimatter particle for a month
-Source: Hacker News
-Category: technology
-URL: https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month
-Published: 2026-10-21T19:40:01+00:00
-Score: 64
-
-Canadians are running out of time to oppose Bill C-22
-Source: Hacker News RSS
-Category: technology
-URL: https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill
-Published: 2026-10-22T22:43:19+00:00
-
-Article URL: https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill Comments URL: https://news.ycombinator.com/item?id=50202114 Points: 418 # Comments: 223
-
-Local Wikipedia: Wikipedia, but only for things a half hour walk from you
-Source: Hacker News RSS
-Category: technology
-URL: https://edjefferson.com/localwiki
-Published: 2026-10-22T23:01:18+00:00
-
-Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 1391 # Comments: 236
-
-Apple Music 404 Not Found
-Source: Hacker News RSS
-Category: technology
-URL: https://music.apple.com/this-url-doesnt-exist
-Published: 2026-10-23T12:28:47+00:00
-
-https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde... Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 779 # Comments: 237
-
-Today, we hacked what we'd set out to hack: the iPhone
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.calif.io/p/iphone
-Published: 2026-10-23T16:21:50+00:00
-
-Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 900 # Comments: 588
-
-UUIDv7: Timestamps aren’t time-ordered and other oddities
-Source: Hacker News RSS
-Category: technology
-URL: https://alexsci.com/blog/uuidv7-is-weird
-Published: 2026-10-23T16:39:45+00:00
-
-Article URL: https://alexsci.com/blog/uuidv7-is-weird/ Comments URL: https://news.ycombinator.com/item?id=50211746 Points: 150 # Comments: 121
-
-Kimi K3.1 Pro and K3.1 Pro Highspeed
-Source: Hacker News RSS
-Category: technology
-URL: https://www.kimi.ai/blog/kimi-k3-1-pro
-Published: 2026-10-23T16:59:08+00:00
-
-https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 926 # Comments: 548
-
-Air Purifiers as White Noise Machines
-Source: Hacker News RSS
-Category: technology
-URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines
-Published: 2026-10-23T17:28:36+00:00
-
-Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 135 # Comments: 124
-
-Dessa: Conversation Model trained only on speech
-Source: Hacker News RSS
-Category: technology
-URL: https://block.xyz/dessa
-Published: 2026-10-23T19:09:54+00:00
-
-Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 395 # Comments: 146
-
-Show HN: Corgi, a helpful {agent, terminal} multiplexer
-Source: Hacker News RSS
-Category: technology
-URL: https://corgi.computer/
-Published: 2026-10-23T19:46:38+00:00
-
-Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their activity. There's also a simple shortcut (F1) to go to the next unread agent. I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi. Theres some careful ergonomics there: fast search and resume over sessions, inline usage tracking etc. Many small quality of life improvements to the terminal experience: - Links can be copied with a click, so no need to drag-select over many lines - cmd+v just pastes images (even on SSH) - images have a thumbnail preview. - Built-in CPU/Memory/GPU usage tracking, broken down by workspace I assume you have access to cheap inference (Luna/Haiku/etc). It just reuses the agents to organize things for you: what is this http link? what is this worktree about? what is each agent doing? It's small but it made my environment feel more cozy. On a personal note, I've been on a frustrating sick leave for a while now. I created Corgi to challenge myself, and see if I can go back. The answer is more mixed than I had hoped, but I am happy with the result and thankful for the experience. I hope you like it! a few friends & myself have been using it for a few weeks and it's been pretty nice. There's still a lot to improve and some rough edges, so feedback would be greatly appreciated. Thank you :) Comments URL: https://news.ycombinator.com/item?id=50214373 Points: 87 # Comments: 24
-
-CVE Tracker
-Source: Hacker News RSS
-Category: technology
-URL: https://cve.0xosprey.com/
-Published: 2026-10-23T21:21:47+00:00
-
-Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 172 # Comments: 64
-
-One Man's Pan Am 747 Replica [video]
-Source: Hacker News RSS
-Category: technology
-URL: https://www.youtube.com/watch?v=vAFwHGGfPz4
-Published: 2026-10-23T21:46:51+00:00
-
-Article URL: https://www.youtube.com/watch?v=vAFwHGGfPz4 Comments URL: https://news.ycombinator.com/item?id=50215828 Points: 38 # Comments: 2
-
-Around a dozen banking apps began specifically permitting GrapheneOS
-Source: Hacker News RSS
-Category: technology
-URL: https://grapheneos.social/@GrapheneOS/117492375462459244
-Published: 2026-10-24T01:15:14+00:00
-
-Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244 Comments URL: https://news.ycombinator.com/item?id=50217495 Points: 125 # Comments: 20
-
-Twelve years of distributed SQLite
-Source: Hacker News RSS
-Category: technology
-URL: https://philipotoole.com/twelve-years-of-distributed-sqlite
-Published: 2026-10-24T01:16:58+00:00
-
-Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 216 # Comments: 32
-
-Apple Security Research Device
-Source: Hacker News RSS
-Category: technology
-URL: https://security.apple.com/research-device
-Published: 2026-10-24T02:36:38+00:00
-
-Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 74 # Comments: 26
-
-How Block Blast harvests its players for ad money
-Source: Hacker News RSS
-Category: technology
-URL: https://ayoships.com/breakdowns/block-blast
-Published: 2026-10-24T02:43:43+00:00
-
-Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 56 # Comments: 21
-
-How close can pure functional programming get to C?
-Source: Hacker News RSS
-Category: technology
-URL: https://rtfeldman.com/fp-vs-c
-Published: 2026-10-24T03:43:54+00:00
-
-Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 132 # Comments: 19
-
-OBS Studio 33
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0
-Published: 2026-10-24T04:49:58+00:00
-
-Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 170 # Comments: 52
-
-Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended
-Source: Hacker News RSS
-Category: technology
-URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds
-Published: 2026-10-24T05:49:57+00:00
-
-Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 169 # Comments: 38
+URL: https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers
+Published: 2026-10-20T20:45:52+00:00
+Score: 86
 
 Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps
-Source: Hacker News RSS
+Source: Hacker News
 Category: technology
 URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497
 Published: 2026-10-24T08:06:39+00:00
+Score: 332
 
-Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 12 # Comments: 2
+Local Wikipedia: Wikipedia, but only for things a half hour walk from you
+Source: Hacker News
+Category: technology
+URL: https://edjefferson.com/localwiki
+Published: 2026-10-22T23:01:18+00:00
+Score: 1603
 
-I Don't Understand Quantum Physics
+Rewriting a Commercial Engine in Jai
+Source: Hacker News
+Category: technology
+URL: https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch
+Published: 2026-10-22T12:50:43+00:00
+Score: 33
+
+How Japanese Dried Bonito Is Made
+Source: Hacker News
+Category: technology
+URL: https://kottke.org/26/10/how-japanese-dried-bonito-is-made
+Published: 2026-10-22T11:31:03+00:00
+Score: 55
+
+I don't understand quantum physics (2018)
 Source: Hacker News RSS
 Category: technology
 URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html
 Published: 2026-10-24T09:53:26+00:00
 
-Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 64 # Comments: 27
+Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 321 # Comments: 257
+
+GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/Zagitta/gpu-unlock
+Published: 2026-10-24T09:58:27+00:00
+
+Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 262 # Comments: 73
+
+FreeDNS
+Source: Hacker News RSS
+Category: technology
+URL: https://freedns.afraid.org/
+Published: 2026-10-24T15:20:01+00:00
+
+Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 299 # Comments: 83
+
+Neural chip decodes interactions between brain regions
+Source: Hacker News RSS
+Category: technology
+URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2
+Published: 2026-10-24T15:57:17+00:00
+
+Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 110 # Comments: 43
+
+Roku developer repositories moved from GitHub to GitLab
+Source: Hacker News RSS
+Category: technology
+URL: https://blog.roku.com/developer/gitlab-move
+Published: 2026-10-24T16:06:26+00:00
+
+Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 288 # Comments: 203
+
+The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise
+Source: Hacker News RSS
+Category: technology
+URL: https://de.numista.com/9866
+Published: 2026-10-24T16:41:55+00:00
+
+Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 120 # Comments: 39
+
+Bbtree: Fastest Ordered Map
+Source: Hacker News RSS
+Category: technology
+URL: https://bbtree.xiangpeng.systems/post
+Published: 2026-10-24T18:22:14+00:00
+
+Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 119 # Comments: 14
+
+The Goose Programming Language
+Source: Hacker News RSS
+Category: technology
+URL: https://aardappel.github.io/goose
+Published: 2026-10-24T19:06:55+00:00
+
+https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 430 # Comments: 261
+
+SpeedCrunch 1.1
+Source: Hacker News RSS
+Category: technology
+URL: https://www.speedcrunch.org/
+Published: 2026-10-24T19:19:43+00:00
+
+Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 160 # Comments: 29
+
+The Importance of Limitations for Creativity and Learning (2023)
+Source: Hacker News RSS
+Category: technology
+URL: https://ratfactor.com/cards/limitations
+Published: 2026-10-24T21:42:47+00:00
+
+Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 81 # Comments: 22
+
+Small Programs and Languages
+Source: Hacker News RSS
+Category: technology
+URL: https://ratfactor.com/cards/pl-small
+Published: 2026-10-24T21:44:23+00:00
+
+Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 125 # Comments: 17
+
+We should be more ambitious with the software we build
+Source: Hacker News RSS
+Category: technology
+URL: https://danluu.com/ambitious
+Published: 2026-10-24T21:47:31+00:00
+
+Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 459 # Comments: 408
+
+America has lost 200k of jobs in media, film and the arts. How much is AI?
+Source: Hacker News RSS
+Category: technology
+URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
+Published: 2026-10-24T23:11:54+00:00
+
+Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 379 # Comments: 384
+
+Why Gopher in 2026?
+Source: Hacker News RSS
+Category: technology
+URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt
+Published: 2026-10-24T23:33:19+00:00
+
+Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 83 # Comments: 33
+
+Cerebras Deploys Trillion-Parameter AI Models
+Source: Hacker News RSS
+Category: technology
+URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
+Published: 2026-10-25T01:33:49+00:00
+
+Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 191 # Comments: 63
+
+Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism
+Source: Hacker News RSS
+Category: technology
+URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order
+Published: 2026-10-25T09:00:40+00:00
+
+Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 202 # Comments: 135
+
+Online censorship is crushing indie webcomics
+Source: Hacker News RSS
+Category: technology
+URL: https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463
+Published: 2026-10-25T09:04:13+00:00
+
+Article URL: https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463 Comments URL: https://news.ycombinator.com/item?id=50229599 Points: 71 # Comments: 55
+
+Nikon photography contest winner loses title after scientists spot signs of AI
+Source: Hacker News RSS
+Category: technology
+URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html
+Published: 2026-10-25T09:51:17+00:00
+
+Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 8 # Comments: 0
+
+France asked ISPs to prepare temporary DNS blocks for major social platforms
+Source: Hacker News RSS
+Category: technology
+URL: https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ
+Published: 2026-10-25T09:56:49+00:00
+
+Article URL: https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ Comments URL: https://news.ycombinator.com/item?id=50229861 Points: 66 # Comments: 47
+
+Samsung running a TensorFlow lite model on 960x540 image to track you
+Source: Hacker News RSS
+Category: technology
+URL: https://twitter.com/mike64_t/status/2114150399406202896
+Published: 2026-10-25T10:42:01+00:00
+
+Article URL: https://twitter.com/mike64_t/status/2114150399406202896 Comments URL: https://news.ycombinator.com/item?id=50230181 Points: 12 # Comments: 2
