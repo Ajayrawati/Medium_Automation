@@ -1,0 +1,81 @@
+{
+  "topic": "Item Https Article",
+  "topic_key": "item-https-article",
+  "confidence": 86.4,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 84.48,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.4,
+  "evidence": [
+    {
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "publisher": "www.sec.gov",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-26T13:09:35.966333+00:00"
+    },
+    {
+      "title": "Peter Thiel, the tech oligarch who believes in the Antichrist",
+      "url": "https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html",
+      "publisher": "english.elpais.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-26T13:09:36.176965+00:00"
+    },
+    {
+      "title": "Writing Is Closer to Thought Than Code",
+      "url": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code",
+      "publisher": "danielmiessler.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-26T13:09:36.302823+00:00"
+    },
+    {
+      "title": "Tasks as Code: Move Your Tickets into the Repository",
+      "url": "https://typemill.net/knowledge-hub/tasks-as-code",
+      "publisher": "typemill.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-26T13:09:36.775141+00:00"
+    },
+    {
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "publisher": "brennenputh.me",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-10-26T13:09:36.804392+00:00"
+    },
+    {
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "publisher": "blocks.manifold3d.ch",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-26T13:09:37.415165+00:00"
+    }
+  ]
+}

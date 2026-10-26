@@ -1,58 +1,23 @@
-AgriciDaniel / claude-seo
+multica-ai / andrej-karpathy-skills
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/AgriciDaniel/claude-seo
+URL: https://github.com/multica-ai/andrej-karpathy-skills
 
-Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
-cloudflare / security-audit-skill
+alchaincyf / huashu-design
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/cloudflare/security-audit-skill
+URL: https://github.com/alchaincyf/huashu-design
 
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 
-coollabsio / coolify
+gitroomhq / postiz-app
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/coollabsio/coolify
+URL: https://github.com/gitroomhq/postiz-app
 
-An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
-
-JetBrains / thinkrail
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/JetBrains/thinkrail
-
-Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
-
-Renhuai123 / ziwei-doushu
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Renhuai123/ziwei-doushu
-
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-
-TauricResearch / TradingAgents
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/TauricResearch/TradingAgents
-
-TradingAgents: Multi-Agents LLM Financial Trading Framework
-
-pollen-robotics / microduck
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/pollen-robotics/microduck
-
-A Tiny biped duck robot 🦆
-
-pbakaus / impeccable
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/pbakaus/impeccable
-
-The design language that makes your AI harness better at design.
+📨 The ultimate agentic social media scheduling tool 🤖
 
 debpalash / VoiceStudio
 Source: GitHub Trending
@@ -61,12 +26,47 @@ URL: https://github.com/debpalash/VoiceStudio
 
 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
-Nutlope / hallmark
+Panniantong / Agent-Reach
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Nutlope/hallmark
+URL: https://github.com/Panniantong/Agent-Reach
 
-Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+nightly-labs / openbot
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/nightly-labs/openbot
+
+A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+
+pollen-robotics / microduck
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/pollen-robotics/microduck
+
+A Tiny biped duck robot 🦆
+
+NVIDIA / SkillSpector
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/NVIDIA/SkillSpector
+
+Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+
+pbakaus / impeccable
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/pbakaus/impeccable
+
+The design language that makes your AI harness better at design.
+
+affaan-m / ECC
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/affaan-m/ECC
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 makecindy / cindy
 Source: GitHub Trending
@@ -75,211 +75,225 @@ URL: https://github.com/makecindy/cindy
 
 Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
-A story of a Figma bug that wasn't a bug at all (2021)
+JetBrains / thinkrail
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/JetBrains/thinkrail
+
+Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+
+TauricResearch / TradingAgents
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/TauricResearch/TradingAgents
+
+TradingAgents: Multi-Agents LLM Financial Trading Framework
+
+Nutlope / hallmark
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Nutlope/hallmark
+
+Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+
+Iron Age salt-mining complex found beneath Hallstatt in Austria
 Source: Hacker News
 Category: technology
-URL: https://aresluna.org/this-is-a-story-of-a-figma-bug
-Published: 2026-10-21T19:30:52+00:00
-Score: 38
+URL: https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt
+Published: 2026-10-22T21:00:14+00:00
+Score: 95
 
-Social dynamics of toxic metal industry in medieval Europe
+Superhuman Hardware Design Is the Easy Part
 Source: Hacker News
 Category: technology
-URL: https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829
-Published: 2026-10-20T17:06:48+00:00
-Score: 55
+URL: https://www.a16z.news/p/superhuman-hardware-design-is-the
+Published: 2026-10-23T14:59:09+00:00
+Score: 43
 
-I Built a Stereo Vision Board for Hardware Hackers
+Overgrown, when plants invade your abandoned tabs
 Source: Hacker News
 Category: technology
-URL: https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers
-Published: 2026-10-20T20:45:52+00:00
-Score: 86
+URL: https://charliegerard.dev/blog/overgrown-extension
+Published: 2026-10-22T15:52:21+00:00
+Score: 328
 
-Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps
+Growing Trees
 Source: Hacker News
 Category: technology
-URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497
-Published: 2026-10-24T08:06:39+00:00
-Score: 332
+URL: https://brashandplucky.com/2026/10/15/growing-trees.html
+Published: 2026-10-23T14:07:42+00:00
+Score: 117
 
-Local Wikipedia: Wikipedia, but only for things a half hour walk from you
+One of the Greatest Inventions in the History of Human Transport
 Source: Hacker News
 Category: technology
-URL: https://edjefferson.com/localwiki
-Published: 2026-10-22T23:01:18+00:00
-Score: 1603
+URL: https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html
+Published: 2026-10-22T19:52:50+00:00
+Score: 15
 
-Rewriting a Commercial Engine in Jai
+Birdwatching rewires the brain and slows cognitive decline
 Source: Hacker News
 Category: technology
-URL: https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch
-Published: 2026-10-22T12:50:43+00:00
-Score: 33
+URL: https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline
+Published: 2026-10-23T22:04:55+00:00
+Score: 164
 
-How Japanese Dried Bonito Is Made
-Source: Hacker News
-Category: technology
-URL: https://kottke.org/26/10/how-japanese-dried-bonito-is-made
-Published: 2026-10-22T11:31:03+00:00
-Score: 55
-
-I don't understand quantum physics (2018)
+Show HN: A Truly Modular Keyboard
 Source: Hacker News RSS
 Category: technology
-URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html
-Published: 2026-10-24T09:53:26+00:00
+URL: https://github.com/notaroomba/keybytes
+Published: 2026-10-25T03:47:56+00:00
 
-Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 321 # Comments: 257
+Article URL: https://github.com/notaroomba/keybytes Comments URL: https://news.ycombinator.com/item?id=50228115 Points: 200 # Comments: 67
 
-GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards
+A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/Zagitta/gpu-unlock
-Published: 2026-10-24T09:58:27+00:00
+URL: https://lynchlab.net/llm-skin-cancer
+Published: 2026-10-25T17:15:38+00:00
 
-Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 262 # Comments: 73
+Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 599 # Comments: 252
 
-FreeDNS
+Dolly Parton's Imagination Library
 Source: Hacker News RSS
 Category: technology
-URL: https://freedns.afraid.org/
-Published: 2026-10-24T15:20:01+00:00
+URL: https://imaginationlibrary.com/
+Published: 2026-10-25T18:23:54+00:00
 
-Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 299 # Comments: 83
+With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer. The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.” Comments URL: https://news.ycombinator.com/item?id=50234474 Points: 585 # Comments: 99
 
-Neural chip decodes interactions between brain regions
+Where the Romans Fought (interactive map)
 Source: Hacker News RSS
 Category: technology
-URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2
-Published: 2026-10-24T15:57:17+00:00
+URL: https://iosiflazaridis.github.io/battles-of-the-romans
+Published: 2026-10-25T18:58:14+00:00
 
-Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 110 # Comments: 43
+Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 124 # Comments: 49
 
-Roku developer repositories moved from GitHub to GitLab
+Why I Am a Programmer
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.roku.com/developer/gitlab-move
-Published: 2026-10-24T16:06:26+00:00
+URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html
+Published: 2026-10-25T19:11:31+00:00
 
-Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 288 # Comments: 203
+Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 264 # Comments: 85
 
-The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise
+The State of Context Engineering
 Source: Hacker News RSS
 Category: technology
-URL: https://de.numista.com/9866
-Published: 2026-10-24T16:41:55+00:00
+URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html
+Published: 2026-10-25T20:32:31+00:00
 
-Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 120 # Comments: 39
+Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 213 # Comments: 53
 
-Bbtree: Fastest Ordered Map
+OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?
 Source: Hacker News RSS
 Category: technology
-URL: https://bbtree.xiangpeng.systems/post
-Published: 2026-10-24T18:22:14+00:00
+URL: https://minimaxir.com/2026/10/cheap-llms
+Published: 2026-10-25T21:11:31+00:00
 
-Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 119 # Comments: 14
+Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 371 # Comments: 361
 
-The Goose Programming Language
+F-Zero X on Nintendo 3DS
 Source: Hacker News RSS
 Category: technology
-URL: https://aardappel.github.io/goose
-Published: 2026-10-24T19:06:55+00:00
+URL: https://hypnotize.works/gdx-3ds/postmortem/index.html
+Published: 2026-10-25T23:27:30+00:00
 
-https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 430 # Comments: 261
+Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 139 # Comments: 76
 
-SpeedCrunch 1.1
+Attention Is Not What You Need (2025)
 Source: Hacker News RSS
 Category: technology
-URL: https://www.speedcrunch.org/
-Published: 2026-10-24T19:19:43+00:00
+URL: https://arxiv.org/abs/2512.19428
+Published: 2026-10-25T23:52:05+00:00
 
-Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 160 # Comments: 29
+Article URL: https://arxiv.org/abs/2512.19428 Comments URL: https://news.ycombinator.com/item?id=50237224 Points: 141 # Comments: 50
 
-The Importance of Limitations for Creativity and Learning (2023)
+Steal My Bitcoin CTF PoC
 Source: Hacker News RSS
 Category: technology
-URL: https://ratfactor.com/cards/limitations
-Published: 2026-10-24T21:42:47+00:00
+URL: https://github.com/KillaBoi/StealMyBitcoin-PoC
+Published: 2026-10-26T00:15:17+00:00
 
-Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 81 # Comments: 22
+Article URL: https://github.com/KillaBoi/StealMyBitcoin-PoC Comments URL: https://news.ycombinator.com/item?id=50237379 Points: 139 # Comments: 36
 
-Small Programs and Languages
+IBM CEO says open weight models are now good and cheap on-prem
 Source: Hacker News RSS
 Category: technology
-URL: https://ratfactor.com/cards/pl-small
-Published: 2026-10-24T21:44:23+00:00
+URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640
+Published: 2026-10-26T01:47:46+00:00
 
-Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 125 # Comments: 17
+Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 330 # Comments: 237
 
-We should be more ambitious with the software we build
+Show HN: TitleArt – Make text like it's 1997
 Source: Hacker News RSS
 Category: technology
-URL: https://danluu.com/ambitious
-Published: 2026-10-24T21:47:31+00:00
+URL: https://titleart.dvy.io/
+Published: 2026-10-26T03:23:57+00:00
 
-Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 459 # Comments: 408
+Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 289 # Comments: 51
 
-America has lost 200k of jobs in media, film and the arts. How much is AI?
+PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP
 Source: Hacker News RSS
 Category: technology
-URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
-Published: 2026-10-24T23:11:54+00:00
+URL: https://github.com/KrushnaVardhanReddy/PaperPilot
+Published: 2026-10-26T03:29:05+00:00
 
-Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 379 # Comments: 384
+Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 178 # Comments: 66
 
-Why Gopher in 2026?
+Behind the scenes at the NeXT Computer office
 Source: Hacker News RSS
 Category: technology
-URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt
-Published: 2026-10-24T23:33:19+00:00
+URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry
+Published: 2026-10-26T03:31:11+00:00
 
-Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 83 # Comments: 33
+Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 164 # Comments: 86
 
-Cerebras Deploys Trillion-Parameter AI Models
+Switzerland. Block by block. At 1:1 scale
 Source: Hacker News RSS
 Category: technology
-URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
-Published: 2026-10-25T01:33:49+00:00
+URL: https://blocks.manifold3d.ch/
+Published: 2026-10-26T08:46:09+00:00
 
-Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 191 # Comments: 63
+Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 255 # Comments: 107
 
-Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism
+Websites Should Be Printable
 Source: Hacker News RSS
 Category: technology
-URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order
-Published: 2026-10-25T09:00:40+00:00
+URL: https://brennenputh.me/blog/printable-websites
+Published: 2026-10-26T10:32:14+00:00
 
-Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 202 # Comments: 135
+Article URL: https://brennenputh.me/blog/printable-websites/ Comments URL: https://news.ycombinator.com/item?id=50241664 Points: 71 # Comments: 59
 
-Online censorship is crushing indie webcomics
+Tasks as Code: Move Your Tickets into the Repository
 Source: Hacker News RSS
 Category: technology
-URL: https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463
-Published: 2026-10-25T09:04:13+00:00
+URL: https://typemill.net/knowledge-hub/tasks-as-code
+Published: 2026-10-26T11:15:43+00:00
 
-Article URL: https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463 Comments URL: https://news.ycombinator.com/item?id=50229599 Points: 71 # Comments: 55
+Article URL: https://typemill.net/knowledge-hub/tasks-as-code Comments URL: https://news.ycombinator.com/item?id=50241924 Points: 14 # Comments: 13
 
-Nikon photography contest winner loses title after scientists spot signs of AI
+Writing Is Closer to Thought Than Code
 Source: Hacker News RSS
 Category: technology
-URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html
-Published: 2026-10-25T09:51:17+00:00
+URL: https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code
+Published: 2026-10-26T12:32:15+00:00
 
-Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 8 # Comments: 0
+Article URL: https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code Comments URL: https://news.ycombinator.com/item?id=50242555 Points: 5 # Comments: 1
 
-France asked ISPs to prepare temporary DNS blocks for major social platforms
+Peter Thiel, the tech oligarch who believes in the Antichrist
 Source: Hacker News RSS
 Category: technology
-URL: https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ
-Published: 2026-10-25T09:56:49+00:00
+URL: https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html
+Published: 2026-10-26T12:49:31+00:00
 
-Article URL: https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ Comments URL: https://news.ycombinator.com/item?id=50229861 Points: 66 # Comments: 47
+Article URL: https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html Comments URL: https://news.ycombinator.com/item?id=50242734 Points: 16 # Comments: 1
 
-Samsung running a TensorFlow lite model on 960x540 image to track you
+Anthropic S-1
 Source: Hacker News RSS
 Category: technology
-URL: https://twitter.com/mike64_t/status/2114150399406202896
-Published: 2026-10-25T10:42:01+00:00
+URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
+Published: 2026-10-26T13:04:50+00:00
 
-Article URL: https://twitter.com/mike64_t/status/2114150399406202896 Comments URL: https://news.ycombinator.com/item?id=50230181 Points: 12 # Comments: 2
+Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 16 # Comments: 3
