@@ -1,79 +1,9 @@
-multica-ai / andrej-karpathy-skills
+togg53192-cmd / jailbreaks
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/multica-ai/andrej-karpathy-skills
+URL: https://github.com/togg53192-cmd/jailbreaks
 
-A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-
-alchaincyf / huashu-design
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/alchaincyf/huashu-design
-
-Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
-
-gitroomhq / postiz-app
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/gitroomhq/postiz-app
-
-📨 The ultimate agentic social media scheduling tool 🤖
-
-debpalash / VoiceStudio
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/debpalash/VoiceStudio
-
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-
-Panniantong / Agent-Reach
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Panniantong/Agent-Reach
-
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-
-nightly-labs / openbot
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/nightly-labs/openbot
-
-A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-
-pollen-robotics / microduck
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/pollen-robotics/microduck
-
-A Tiny biped duck robot 🦆
-
-NVIDIA / SkillSpector
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/NVIDIA/SkillSpector
-
-Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
-
-pbakaus / impeccable
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/pbakaus/impeccable
-
-The design language that makes your AI harness better at design.
-
-affaan-m / ECC
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/affaan-m/ECC
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-makecindy / cindy
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/makecindy/cindy
-
-Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+LIST OF ALL MY JAILBREAKS
 
 JetBrains / thinkrail
 Source: GitHub Trending
@@ -82,12 +12,54 @@ URL: https://github.com/JetBrains/thinkrail
 
 Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 
-TauricResearch / TradingAgents
+HKUDS / DeepTutor
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/TauricResearch/TradingAgents
+URL: https://github.com/HKUDS/DeepTutor
 
-TradingAgents: Multi-Agents LLM Financial Trading Framework
+DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .
+
+affaan-m / ECC
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/affaan-m/ECC
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+gitroomhq / postiz-app
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/gitroomhq/postiz-app
+
+📨 The ultimate agentic social media scheduling tool 🤖
+
+makecindy / cindy
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/makecindy/cindy
+
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+
+pbakaus / impeccable
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/pbakaus/impeccable
+
+The design language that makes your AI harness better at design.
+
+obra / superpowers
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/obra/superpowers
+
+An agentic skills framework & software development methodology that works.
+
+nightly-labs / openbot
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/nightly-labs/openbot
+
+A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
 
 Nutlope / hallmark
 Source: GitHub Trending
@@ -96,204 +68,176 @@ URL: https://github.com/Nutlope/hallmark
 
 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
-Iron Age salt-mining complex found beneath Hallstatt in Austria
+How to grow a cacao tree at home (2024)
 Source: Hacker News
 Category: technology
-URL: https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt
-Published: 2026-10-22T21:00:14+00:00
-Score: 95
+URL: https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home
+Published: 2026-10-26T07:50:17+00:00
+Score: 92
 
-Superhuman Hardware Design Is the Easy Part
+A Printer Printing onto Paper
 Source: Hacker News
 Category: technology
-URL: https://www.a16z.news/p/superhuman-hardware-design-is-the
-Published: 2026-10-23T14:59:09+00:00
-Score: 43
+URL: https://twitter.com/macrofying/status/2112904628509528219
+Published: 2026-10-23T05:01:30+00:00
+Score: 148
 
-Overgrown, when plants invade your abandoned tabs
-Source: Hacker News
-Category: technology
-URL: https://charliegerard.dev/blog/overgrown-extension
-Published: 2026-10-22T15:52:21+00:00
-Score: 328
-
-Growing Trees
-Source: Hacker News
-Category: technology
-URL: https://brashandplucky.com/2026/10/15/growing-trees.html
-Published: 2026-10-23T14:07:42+00:00
-Score: 117
-
-One of the Greatest Inventions in the History of Human Transport
-Source: Hacker News
-Category: technology
-URL: https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html
-Published: 2026-10-22T19:52:50+00:00
-Score: 15
-
-Birdwatching rewires the brain and slows cognitive decline
-Source: Hacker News
-Category: technology
-URL: https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline
-Published: 2026-10-23T22:04:55+00:00
-Score: 164
-
-Show HN: A Truly Modular Keyboard
+Sebastian Raschka's from-scratch video course on building reasoning models
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/notaroomba/keybytes
-Published: 2026-10-25T03:47:56+00:00
+URL: https://magazine.sebastianraschka.com/p/building-reasoning-models
+Published: 2026-10-26T15:11:59+00:00
 
-Article URL: https://github.com/notaroomba/keybytes Comments URL: https://news.ycombinator.com/item?id=50228115 Points: 200 # Comments: 67
+Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 739 # Comments: 102
 
-A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis
+Solar power is becoming bigger than nuclear
 Source: Hacker News RSS
 Category: technology
-URL: https://lynchlab.net/llm-skin-cancer
-Published: 2026-10-25T17:15:38+00:00
+URL: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear
+Published: 2026-10-26T15:26:17+00:00
 
-Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 599 # Comments: 252
+Article URL: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear Comments URL: https://news.ycombinator.com/item?id=50245385 Points: 384 # Comments: 553
 
-Dolly Parton's Imagination Library
+CSS-Tricks has a new owner
 Source: Hacker News RSS
 Category: technology
-URL: https://imaginationlibrary.com/
-Published: 2026-10-25T18:23:54+00:00
+URL: https://css-tricks.com/css-tricks-has-a-new-owner
+Published: 2026-10-26T15:51:23+00:00
 
-With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer. The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.” Comments URL: https://news.ycombinator.com/item?id=50234474 Points: 585 # Comments: 99
+Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 497 # Comments: 107
 
-Where the Romans Fought (interactive map)
+Nietzschian Debugger
 Source: Hacker News RSS
 Category: technology
-URL: https://iosiflazaridis.github.io/battles-of-the-romans
-Published: 2026-10-25T18:58:14+00:00
+URL: https://github.com/DilawarShafiq/nietzschian-debugger
+Published: 2026-10-26T17:25:30+00:00
 
-Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 124 # Comments: 49
+Article URL: https://github.com/DilawarShafiq/nietzschian-debugger Comments URL: https://news.ycombinator.com/item?id=50247493 Points: 191 # Comments: 56
 
-Why I Am a Programmer
+A Man from the Future: Why Johnny Can't Stop Abstracting
 Source: Hacker News RSS
 Category: technology
-URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html
-Published: 2026-10-25T19:11:31+00:00
+URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html
+Published: 2026-10-26T17:49:55+00:00
 
-Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 264 # Comments: 85
+Article URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html Comments URL: https://news.ycombinator.com/item?id=50247928 Points: 185 # Comments: 85
 
-The State of Context Engineering
+Oldest GUI application that still runs on Windows 11
 Source: Hacker News RSS
 Category: technology
-URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html
-Published: 2026-10-25T20:32:31+00:00
+URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11
+Published: 2026-10-26T17:56:55+00:00
 
-Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 213 # Comments: 53
+Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 461 # Comments: 271
 
-OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?
+Type Server Protocol
 Source: Hacker News RSS
 Category: technology
-URL: https://minimaxir.com/2026/10/cheap-llms
-Published: 2026-10-25T21:11:31+00:00
+URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md
+Published: 2026-10-26T18:14:49+00:00
 
-Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 371 # Comments: 361
+Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 249 # Comments: 169
 
-F-Zero X on Nintendo 3DS
+Three new discoveries in mathematics, computer science, and physics
 Source: Hacker News RSS
 Category: technology
-URL: https://hypnotize.works/gdx-3ds/postmortem/index.html
-Published: 2026-10-25T23:27:30+00:00
+URL: https://openai.com/index/building-scientific-understanding-with-academic-communities
+Published: 2026-10-26T21:35:28+00:00
 
-Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 139 # Comments: 76
+Related: The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661 Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 969 # Comments: 512
 
-Attention Is Not What You Need (2025)
+The Exponential Time Hypothesis Is False [pdf]
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2512.19428
-Published: 2026-10-25T23:52:05+00:00
+URL: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf
+Published: 2026-10-26T21:59:15+00:00
 
-Article URL: https://arxiv.org/abs/2512.19428 Comments URL: https://news.ycombinator.com/item?id=50237224 Points: 141 # Comments: 50
+See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 664 # Comments: 250
 
-Steal My Bitcoin CTF PoC
+Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/KillaBoi/StealMyBitcoin-PoC
-Published: 2026-10-26T00:15:17+00:00
+URL: https://blog.cloudflare.com/kv-cache-exposure-remediation
+Published: 2026-10-26T22:41:48+00:00
 
-Article URL: https://github.com/KillaBoi/StealMyBitcoin-PoC Comments URL: https://news.ycombinator.com/item?id=50237379 Points: 139 # Comments: 36
+Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 145 # Comments: 47
 
-IBM CEO says open weight models are now good and cheap on-prem
+16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640
-Published: 2026-10-26T01:47:46+00:00
+URL: https://github.com/otya128/winevdm
+Published: 2026-10-27T01:15:04+00:00
 
-Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 330 # Comments: 237
+Article URL: https://github.com/otya128/winevdm Comments URL: https://news.ycombinator.com/item?id=50253529 Points: 102 # Comments: 27
 
-Show HN: TitleArt – Make text like it's 1997
+I still teach OpenGL ES 3.0
 Source: Hacker News RSS
 Category: technology
-URL: https://titleart.dvy.io/
-Published: 2026-10-26T03:23:57+00:00
+URL: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html
+Published: 2026-10-27T02:15:10+00:00
 
-Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 289 # Comments: 51
+Article URL: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html Comments URL: https://news.ycombinator.com/item?id=50253939 Points: 82 # Comments: 49
 
-PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP
+Writing about pratt parsing so I remember it
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/KrushnaVardhanReddy/PaperPilot
-Published: 2026-10-26T03:29:05+00:00
+URL: https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html
+Published: 2026-10-27T06:02:23+00:00
 
-Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 178 # Comments: 66
+Article URL: https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html Comments URL: https://news.ycombinator.com/item?id=50255177 Points: 47 # Comments: 6
 
-Behind the scenes at the NeXT Computer office
+The Mythical Man-Month in the Age of AI
 Source: Hacker News RSS
 Category: technology
-URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry
-Published: 2026-10-26T03:31:11+00:00
+URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai
+Published: 2026-10-27T06:25:37+00:00
 
-Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 164 # Comments: 86
+Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 220 # Comments: 156
 
-Switzerland. Block by block. At 1:1 scale
+I will no longer upload to NEW
 Source: Hacker News RSS
 Category: technology
-URL: https://blocks.manifold3d.ch/
-Published: 2026-10-26T08:46:09+00:00
+URL: https://lists.debian.org/debian-devel/2026/10/msg00263.html
+Published: 2026-10-27T09:59:05+00:00
 
-Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 255 # Comments: 107
+Article URL: https://lists.debian.org/debian-devel/2026/10/msg00263.html Comments URL: https://news.ycombinator.com/item?id=50256738 Points: 123 # Comments: 50
 
-Websites Should Be Printable
+Gforth 1.0
 Source: Hacker News RSS
 Category: technology
-URL: https://brennenputh.me/blog/printable-websites
-Published: 2026-10-26T10:32:14+00:00
+URL: https://gforth.org/manual/1.0/NEWS.html
+Published: 2026-10-27T10:23:21+00:00
 
-Article URL: https://brennenputh.me/blog/printable-websites/ Comments URL: https://news.ycombinator.com/item?id=50241664 Points: 71 # Comments: 59
+Article URL: https://gforth.org/manual/1.0/NEWS.html Comments URL: https://news.ycombinator.com/item?id=50256952 Points: 27 # Comments: 1
 
-Tasks as Code: Move Your Tickets into the Repository
+Roblox downloaded 145GB models from us (including adult content) without asking
 Source: Hacker News RSS
 Category: technology
-URL: https://typemill.net/knowledge-hub/tasks-as-code
-Published: 2026-10-26T11:15:43+00:00
+URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites
+Published: 2026-10-27T10:27:50+00:00
 
-Article URL: https://typemill.net/knowledge-hub/tasks-as-code Comments URL: https://news.ycombinator.com/item?id=50241924 Points: 14 # Comments: 13
+Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 143 # Comments: 105
 
-Writing Is Closer to Thought Than Code
+Wikipedia's Cleanup of AI-Generated Content
 Source: Hacker News RSS
 Category: technology
-URL: https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code
-Published: 2026-10-26T12:32:15+00:00
+URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup
+Published: 2026-10-27T11:08:15+00:00
 
-Article URL: https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code Comments URL: https://news.ycombinator.com/item?id=50242555 Points: 5 # Comments: 1
+Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 33 # Comments: 12
 
-Peter Thiel, the tech oligarch who believes in the Antichrist
+Python's experimental JIT to be removed
 Source: Hacker News RSS
 Category: technology
-URL: https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html
-Published: 2026-10-26T12:49:31+00:00
+URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c
+Published: 2026-10-27T11:17:57+00:00
 
-Article URL: https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html Comments URL: https://news.ycombinator.com/item?id=50242734 Points: 16 # Comments: 1
+Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/ Comments URL: https://news.ycombinator.com/item?id=50257419 Points: 21 # Comments: 0
 
-Anthropic S-1
+Software may be getting worse, but it used to be horrible
 Source: Hacker News RSS
 Category: technology
-URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
-Published: 2026-10-26T13:04:50+00:00
+URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible
+Published: 2026-10-27T11:30:35+00:00
 
-Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 16 # Comments: 3
+Article URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/ Comments URL: https://news.ycombinator.com/item?id=50257548 Points: 42 # Comments: 15
