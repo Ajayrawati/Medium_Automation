@@ -1,3 +1,31 @@
+xiaolai / the-craft-of-selfteaching
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/xiaolai/the-craft-of-selfteaching
+
+One has no future if one couldn't teach themself.
+
+ruvnet / RuView
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ruvnet/RuView
+
+π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+
+expo / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/expo/skills
+
+A collection of AI agent skills for working with Expo projects and Expo Application Services
+
+hmjz100 / LinkSwift
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/hmjz100/LinkSwift
+
+一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+
 togg53192-cmd / jailbreaks
 Source: GitHub Trending
 Category: technology
@@ -5,33 +33,12 @@ URL: https://github.com/togg53192-cmd/jailbreaks
 
 LIST OF ALL MY JAILBREAKS
 
-JetBrains / thinkrail
+nightly-labs / openbot
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/JetBrains/thinkrail
+URL: https://github.com/nightly-labs/openbot
 
-Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
-
-HKUDS / DeepTutor
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/HKUDS/DeepTutor
-
-DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .
-
-affaan-m / ECC
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/affaan-m/ECC
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-gitroomhq / postiz-app
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/gitroomhq/postiz-app
-
-📨 The ultimate agentic social media scheduling tool 🤖
+A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
 
 makecindy / cindy
 Source: GitHub Trending
@@ -45,21 +52,7 @@ Source: GitHub Trending
 Category: technology
 URL: https://github.com/pbakaus/impeccable
 
-The design language that makes your AI harness better at design.
-
-obra / superpowers
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/obra/superpowers
-
-An agentic skills framework & software development methodology that works.
-
-nightly-labs / openbot
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/nightly-labs/openbot
-
-A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 Nutlope / hallmark
 Source: GitHub Trending
@@ -68,163 +61,74 @@ URL: https://github.com/Nutlope/hallmark
 
 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
-How to grow a cacao tree at home (2024)
+macro-inc / macro
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/macro-inc/macro
+
+Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+
+HKUDS / DeepTutor
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/HKUDS/DeepTutor
+
+DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .
+
+obra / superpowers
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/obra/superpowers
+
+An agentic skills framework & software development methodology that works.
+
+elayadesign / ai-design-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/elayadesign/ai-design-skills
+
+JetBrains / thinkrail
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/JetBrains/thinkrail
+
+Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+
+Decompiling Fast Food Tycoon 2: Drawing the World
 Source: Hacker News
 Category: technology
-URL: https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home
-Published: 2026-10-26T07:50:17+00:00
+URL: https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world
+Published: 2026-10-24T18:17:57+00:00
 Score: 92
 
-A Printer Printing onto Paper
+MacOS Extensions Pack for the Apple Network Server v1.0
 Source: Hacker News
 Category: technology
-URL: https://twitter.com/macrofying/status/2112904628509528219
-Published: 2026-10-23T05:01:30+00:00
-Score: 148
+URL: http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html
+Published: 2026-10-25T01:39:51+00:00
+Score: 74
 
-Sebastian Raschka's from-scratch video course on building reasoning models
+Ink droplets in motion snag top prize in Nikon Small World contest
+Source: Hacker News
+Category: technology
+URL: https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest
+Published: 2026-10-25T18:49:48+00:00
+Score: 288
+
+Start Doing Graph Theory
+Source: Hacker News
+Category: technology
+URL: https://vertex.degree/
+Published: 2026-10-23T13:49:50+00:00
+Score: 186
+
+Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen
 Source: Hacker News RSS
 Category: technology
-URL: https://magazine.sebastianraschka.com/p/building-reasoning-models
-Published: 2026-10-26T15:11:59+00:00
+URL: https://www.circuithub.com/post/unveiling-the-grid
+Published: 2026-10-26T13:13:31+00:00
 
-Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 739 # Comments: 102
-
-Solar power is becoming bigger than nuclear
-Source: Hacker News RSS
-Category: technology
-URL: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear
-Published: 2026-10-26T15:26:17+00:00
-
-Article URL: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear Comments URL: https://news.ycombinator.com/item?id=50245385 Points: 384 # Comments: 553
-
-CSS-Tricks has a new owner
-Source: Hacker News RSS
-Category: technology
-URL: https://css-tricks.com/css-tricks-has-a-new-owner
-Published: 2026-10-26T15:51:23+00:00
-
-Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 497 # Comments: 107
-
-Nietzschian Debugger
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/DilawarShafiq/nietzschian-debugger
-Published: 2026-10-26T17:25:30+00:00
-
-Article URL: https://github.com/DilawarShafiq/nietzschian-debugger Comments URL: https://news.ycombinator.com/item?id=50247493 Points: 191 # Comments: 56
-
-A Man from the Future: Why Johnny Can't Stop Abstracting
-Source: Hacker News RSS
-Category: technology
-URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html
-Published: 2026-10-26T17:49:55+00:00
-
-Article URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html Comments URL: https://news.ycombinator.com/item?id=50247928 Points: 185 # Comments: 85
-
-Oldest GUI application that still runs on Windows 11
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11
-Published: 2026-10-26T17:56:55+00:00
-
-Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 461 # Comments: 271
-
-Type Server Protocol
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md
-Published: 2026-10-26T18:14:49+00:00
-
-Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 249 # Comments: 169
-
-Three new discoveries in mathematics, computer science, and physics
-Source: Hacker News RSS
-Category: technology
-URL: https://openai.com/index/building-scientific-understanding-with-academic-communities
-Published: 2026-10-26T21:35:28+00:00
-
-Related: The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661 Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 969 # Comments: 512
-
-The Exponential Time Hypothesis Is False [pdf]
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf
-Published: 2026-10-26T21:59:15+00:00
-
-See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 664 # Comments: 250
-
-Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.cloudflare.com/kv-cache-exposure-remediation
-Published: 2026-10-26T22:41:48+00:00
-
-Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 145 # Comments: 47
-
-16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/otya128/winevdm
-Published: 2026-10-27T01:15:04+00:00
-
-Article URL: https://github.com/otya128/winevdm Comments URL: https://news.ycombinator.com/item?id=50253529 Points: 102 # Comments: 27
-
-I still teach OpenGL ES 3.0
-Source: Hacker News RSS
-Category: technology
-URL: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html
-Published: 2026-10-27T02:15:10+00:00
-
-Article URL: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html Comments URL: https://news.ycombinator.com/item?id=50253939 Points: 82 # Comments: 49
-
-Writing about pratt parsing so I remember it
-Source: Hacker News RSS
-Category: technology
-URL: https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html
-Published: 2026-10-27T06:02:23+00:00
-
-Article URL: https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html Comments URL: https://news.ycombinator.com/item?id=50255177 Points: 47 # Comments: 6
-
-The Mythical Man-Month in the Age of AI
-Source: Hacker News RSS
-Category: technology
-URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai
-Published: 2026-10-27T06:25:37+00:00
-
-Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 220 # Comments: 156
-
-I will no longer upload to NEW
-Source: Hacker News RSS
-Category: technology
-URL: https://lists.debian.org/debian-devel/2026/10/msg00263.html
-Published: 2026-10-27T09:59:05+00:00
-
-Article URL: https://lists.debian.org/debian-devel/2026/10/msg00263.html Comments URL: https://news.ycombinator.com/item?id=50256738 Points: 123 # Comments: 50
-
-Gforth 1.0
-Source: Hacker News RSS
-Category: technology
-URL: https://gforth.org/manual/1.0/NEWS.html
-Published: 2026-10-27T10:23:21+00:00
-
-Article URL: https://gforth.org/manual/1.0/NEWS.html Comments URL: https://news.ycombinator.com/item?id=50256952 Points: 27 # Comments: 1
-
-Roblox downloaded 145GB models from us (including adult content) without asking
-Source: Hacker News RSS
-Category: technology
-URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites
-Published: 2026-10-27T10:27:50+00:00
-
-Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 143 # Comments: 105
-
-Wikipedia's Cleanup of AI-Generated Content
-Source: Hacker News RSS
-Category: technology
-URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup
-Published: 2026-10-27T11:08:15+00:00
-
-Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 33 # Comments: 12
+Article URL: https://www.circuithub.com/post/unveiling-the-grid Comments URL: https://news.ycombinator.com/item?id=50243060 Points: 27 # Comments: 11
 
 Python's experimental JIT to be removed
 Source: Hacker News RSS
@@ -232,12 +136,148 @@ Category: technology
 URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c
 Published: 2026-10-27T11:17:57+00:00
 
-Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/ Comments URL: https://news.ycombinator.com/item?id=50257419 Points: 21 # Comments: 0
+Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/ Comments URL: https://news.ycombinator.com/item?id=50257419 Points: 536 # Comments: 292
 
-Software may be getting worse, but it used to be horrible
+New iMac with M6
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible
-Published: 2026-10-27T11:30:35+00:00
+URL: https://www.apple.com/imac
+Published: 2026-10-27T13:02:02+00:00
 
-Article URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/ Comments URL: https://news.ycombinator.com/item?id=50257548 Points: 42 # Comments: 15
+Article URL: https://www.apple.com/imac/ Comments URL: https://news.ycombinator.com/item?id=50258538 Points: 348 # Comments: 437
+
+US Government is hiding a secret court ruling about how it spies on Americans
+Source: Hacker News RSS
+Category: technology
+URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans
+Published: 2026-10-27T14:06:42+00:00
+
+Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 987 # Comments: 379
+
+Genie 4
+Source: Hacker News RSS
+Category: technology
+URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation
+Published: 2026-10-27T16:06:01+00:00
+
+Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 934 # Comments: 538
+
+New 14‑inch MacBook Pro with M6
+Source: Hacker News RSS
+Category: technology
+URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6
+Published: 2026-10-27T16:08:32+00:00
+
+Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 380 # Comments: 522
+
+Classification of Finite Simple Groups Formalized in Lean
+Source: Hacker News RSS
+Category: technology
+URL: https://cfsg.axiommath.ai/
+Published: 2026-10-27T16:29:02+00:00
+
+Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 218 # Comments: 68
+
+Ghostty 1.4
+Source: Hacker News RSS
+Category: technology
+URL: https://ghostty.org/docs/install/release-notes/1-4-0
+Published: 2026-10-27T16:51:22+00:00
+
+Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 1102 # Comments: 351
+
+Survival LLM: AI assistant and emergency library that runs on your own computer
+Source: Hacker News RSS
+Category: technology
+URL: https://www.brangus.io/survival-llm
+Published: 2026-10-27T19:55:06+00:00
+
+Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 397 # Comments: 149
+
+Tailscale SSH: Investigation and remediation update
+Source: Hacker News RSS
+Category: technology
+URL: https://tailscale.com/ssh-investigation-update
+Published: 2026-10-27T19:55:21+00:00
+
+Article URL: https://tailscale.com/ssh-investigation-update Comments URL: https://news.ycombinator.com/item?id=50264857 Points: 311 # Comments: 168
+
+Four Months of Zig
+Source: Hacker News RSS
+Category: technology
+URL: https://gracefulliberty.com/articles/four-months-of-zig
+Published: 2026-10-27T20:13:27+00:00
+
+Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 147 # Comments: 102
+
+Code-execution flaw in UEFI firmware threatens most servers on planet Earth
+Source: Hacker News RSS
+Category: technology
+URL: https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth
+Published: 2026-10-27T20:35:09+00:00
+
+Article URL: https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/ Comments URL: https://news.ycombinator.com/item?id=50265393 Points: 183 # Comments: 110
+
+Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees
+Source: Hacker News RSS
+Category: technology
+URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a
+Published: 2026-10-27T20:48:49+00:00
+
+Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/ Comments URL: https://news.ycombinator.com/item?id=50265594 Points: 183 # Comments: 106
+
+Early progress on accelerating drug development with Claude
+Source: Hacker News RSS
+Category: technology
+URL: https://www.anthropic.com/research/early-progress-drug-development
+Published: 2026-10-27T20:50:42+00:00
+
+Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 253 # Comments: 247
+
+Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/maharmstone/moxnox
+Published: 2026-10-27T23:53:41+00:00
+
+Article URL: https://github.com/maharmstone/moxnox Comments URL: https://news.ycombinator.com/item?id=50267569 Points: 82 # Comments: 20
+
+Git for the US Code
+Source: Hacker News RSS
+Category: technology
+URL: https://lexifina.com/blog/git-for-the-us-code
+Published: 2026-10-28T01:47:50+00:00
+
+Article URL: https://lexifina.com/blog/git-for-the-us-code Comments URL: https://news.ycombinator.com/item?id=50268380 Points: 315 # Comments: 166
+
+Ten days later, Git on macOS still trusts the compromised eMudhra certificates
+Source: Hacker News RSS
+Category: technology
+URL: https://emudhra.we-have-a-problem.com/apple.html
+Published: 2026-10-28T11:03:40+00:00
+
+Article URL: https://emudhra.we-have-a-problem.com/apple.html Comments URL: https://news.ycombinator.com/item?id=50271640 Points: 167 # Comments: 64
+
+About the compromised eMudhra intermediate CAs
+Source: Hacker News RSS
+Category: technology
+URL: https://support.apple.com/en-us/149555
+Published: 2026-10-28T11:08:49+00:00
+
+Article URL: https://support.apple.com/en-us/149555 Comments URL: https://news.ycombinator.com/item?id=50271685 Points: 28 # Comments: 16
+
+Amazon to buy satellite firm Globalstar in $11.57B deal
+Source: Hacker News RSS
+Category: technology
+URL: https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14
+Published: 2026-10-28T11:54:23+00:00
+
+Article URL: https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/ Comments URL: https://news.ycombinator.com/item?id=50272145 Points: 50 # Comments: 14
+
+Two high-speed trains collide near Toledo, Spain
+Source: Hacker News RSS
+Category: technology
+URL: https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash
+Published: 2026-10-28T12:35:41+00:00
+
+Article URL: https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash Comments URL: https://news.ycombinator.com/item?id=50272596 Points: 5 # Comments: 2
