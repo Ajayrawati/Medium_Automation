@@ -1,0 +1,81 @@
+{
+  "topic": "Comments Item Article",
+  "topic_key": "comments-item-article",
+  "confidence": 86.22,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 83.61,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.22,
+  "evidence": [
+    {
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "publisher": "the-decoder.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-29T13:07:44.648998+00:00"
+    },
+    {
+      "title": "DoorDash to Acquire Instacart",
+      "url": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
+      "publisher": "ir.doordash.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-29T13:07:45.008462+00:00"
+    },
+    {
+      "title": "Hackers expose the identities of more than 40k DHS employees",
+      "url": "https://text.npr.org/nx-s1-6021497",
+      "publisher": "text.npr.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-29T13:07:45.145271+00:00"
+    },
+    {
+      "title": "If IPv4 Were Land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "publisher": "iptrust.co",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-29T13:07:46.308333+00:00"
+    },
+    {
+      "title": "NetBSD adds a new beginner-friendly text editor called atto",
+      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "publisher": "mastodon.sdf.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-29T13:07:46.787012+00:00"
+    },
+    {
+      "title": "Google determines the names for bodies of water in Google Earth (2008)",
+      "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+      "publisher": "publicpolicy.googleblog.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-29T13:07:47.010861+00:00"
+    }
+  ]
+}
