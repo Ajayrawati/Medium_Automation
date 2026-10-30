@@ -1,0 +1,37 @@
+{
+  "topic": "Code Claude Extensions",
+  "topic_key": "code-claude-extensions",
+  "confidence": 82.73,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 66.17,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 86.73,
+  "evidence": [
+    {
+      "title": "Backdoors in official Claude Code extensions",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "publisher": "cyberplace.social",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-30T13:00:36.501762+00:00"
+    },
+    {
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "publisher": "GitHub",
+      "source": "GitHub Trending",
+      "reliability": 0.7,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-10-30T13:00:37.159692+00:00"
+    }
+  ]
+}
