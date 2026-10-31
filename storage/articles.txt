@@ -1,3 +1,38 @@
+vorssaint / vorssaint-utils
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/vorssaint/vorssaint-utils
+
+Free and open-source macOS menu bar toolkit.
+
+bregman-arie / devops-exercises
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/bregman-arie/devops-exercises
+
+Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+THU-MAIC / OpenMAIC
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/THU-MAIC/OpenMAIC
+
+Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+
+Orkas-AI / Orkas
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Orkas-AI/Orkas
+
+Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
+
+HKUDS / DeepTutor
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/HKUDS/DeepTutor
+
+DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .
+
 lightpanda-io / browser
 Source: GitHub Trending
 Category: technology
@@ -11,74 +46,6 @@ Category: technology
 URL: https://github.com/obra/superpowers
 
 An agentic skills framework & software development methodology that works.
-
-togg53192-cmd / jailbreaks
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/togg53192-cmd/jailbreaks
-
-LIST OF ALL MY JAILBREAKS
-
-JetBrains / thinkrail
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/JetBrains/thinkrail
-
-Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
-
-anthropics / skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/anthropics/skills
-
-Public repository for Agent Skills
-
-HKUDS / DeepTutor
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/HKUDS/DeepTutor
-
-DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .
-
-pingdotgg / t3code
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/pingdotgg/t3code
-
-mattpocock / skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/mattpocock/skills
-
-Skills for Real Engineers. Straight from my .agents directory.
-
-macro-inc / macro
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/macro-inc/macro
-
-Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-
-expo / skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/expo/skills
-
-A collection of AI agent skills for working with Expo projects and Expo Application Services
-
-Renhuai123 / ziwei-doushu
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Renhuai123/ziwei-doushu
-
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-
-CopilotKit / OpenBot
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/CopilotKit/OpenBot
-
-Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
 pbakaus / impeccable
 Source: GitHub Trending
@@ -94,6 +61,32 @@ URL: https://github.com/milind-soni/OpenMausBot
 
 Open-source Grok Bot alternative with a virtual machine that bots can use
 
+Renhuai123 / ziwei-doushu
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Renhuai123/ziwei-doushu
+
+紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+
+pingdotgg / t3code
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/pingdotgg/t3code
+
+Donchitos / Claude-Code-Game-Studios
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Donchitos/Claude-Code-Game-Studios
+
+Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+
+mattpocock / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mattpocock/skills
+
+Skills for Real Engineers. Straight from my .agents directory.
+
 thedotmack / claude-mem
 Source: GitHub Trending
 Category: technology
@@ -101,142 +94,204 @@ URL: https://github.com/thedotmack/claude-mem
 
 Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
-LLM Voice
+Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death
 Source: Hacker News
 Category: technology
-URL: https://martinfowler.com/bliki/LLM-Voice.html
-Published: 2026-10-29T14:57:55+00:00
-Score: 513
+URL: https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397
+Published: 2026-10-28T15:04:12+00:00
+Score: 42
 
-A tiny world model running games on a Raspberry Pi Pico 2 W
+Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
 Source: Hacker News
 Category: technology
-URL: https://github.com/SheepSeb/tinyworldformer
-Published: 2026-10-29T20:32:28+00:00
-Score: 237
+URL: https://phorion.io/blog/offical-claude-code-vsx-compromise
+Published: 2026-10-30T07:09:12+00:00
+Score: 917
 
-Finding Panics with Call Graph Analyzer
+Breaking the open web won't stop the bad bots
 Source: Hacker News
 Category: technology
-URL: https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer
-Published: 2026-10-28T13:48:26+00:00
-Score: 8
+URL: https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots
+Published: 2026-10-27T18:42:55+00:00
+Score: 278
 
-H.264 Is Magic (2016)
+Cloudflare Turnstile solver library (no headless browser required)
 Source: Hacker News
 Category: technology
-URL: https://sidbala.com/h-264-is-magic
-Published: 2026-10-29T15:53:03+00:00
-Score: 464
+URL: https://github.com/chris124567/cfsolve
+Published: 2026-10-28T17:29:23+00:00
+Score: 240
 
-Artificial Analysis v5 and the benchmarker's dilemma
+AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura
 Source: Hacker News
 Category: technology
-URL: https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers
-Published: 2026-10-28T13:38:04+00:00
-Score: 35
+URL: https://thedataexchange.media/leo-de-moura-lean-aws
+Published: 2026-10-29T15:29:48+00:00
+Score: 67
 
-Cuis: The Modern Smalltalk-80
+Show HN: Marelleo, an open-source story box I built for my kids using ESP32
 Source: Hacker News
 Category: technology
-URL: https://cuis.st/
-Published: 2026-10-27T06:33:16+00:00
-Score: 144
+URL: https://zebra.rodeo/en/blog/marelleo
+Published: 2026-10-27T15:24:36+00:00
+Score: 90
 
-Astroterm: A Planetarium for Your Terminal
-Source: Hacker News
+The $6.3B Binance hack was pulled off in just 20 minutes
+Source: Hacker News RSS
 Category: technology
-URL: https://github.com/da-luce/astroterm
-Published: 2026-10-28T08:29:55+00:00
-Score: 170
+URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes
+Published: 2026-10-30T12:50:01+00:00
 
-We ran AI agent swarms in Minecraft and Mindustry
-Source: Hacker News
-Category: technology
-URL: https://labs.ycombinator.com/projects/games/index.html
-Published: 2026-10-29T21:40:28+00:00
-Score: 324
+Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ Comments URL: https://news.ycombinator.com/item?id=50303172 Points: 481 # Comments: 334
 
-I'm so bad at billiards that I ended up in the hyperbolic plane [video]
-Source: Hacker News
+Cisco gives engineer unlimited AI tokens to rewrite legacy code
+Source: Hacker News RSS
 Category: technology
-URL: https://www.youtube.com/watch?v=kL9BTbIGxLg
-Published: 2026-10-28T13:20:05+00:00
-Score: 168
+URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs
+Published: 2026-10-30T14:08:20+00:00
 
-US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech
-Source: Hacker News
-Category: technology
-URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead
-Published: 2026-10-30T12:08:00+00:00
-Score: 21
+Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 212 # Comments: 258
 
-Herdr has released native app
-Source: Hacker News
+Northflank Breached
+Source: Hacker News RSS
 Category: technology
-URL: https://github.com/herdrdev/herdr-app
-Published: 2026-10-30T00:42:41+00:00
-Score: 257
+URL: https://status.northflank.com/
+Published: 2026-10-30T15:10:31+00:00
 
-Why a program doesn't work when run from a batch file, but works when clicked
-Source: Hacker News
-Category: technology
-URL: https://devblogs.microsoft.com/oldnewthing/20261026-00?p=112797%2F
-Published: 2026-10-26T21:14:43+00:00
-Score: 46
+Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 447 # Comments: 320
 
-Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated
-Source: Hacker News
+The federated code forge
+Source: Hacker News RSS
 Category: technology
-URL: https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times
-Published: 2026-10-27T17:54:57+00:00
-Score: 80
+URL: https://tangled.org/blog/forge
+Published: 2026-10-30T15:44:29+00:00
 
-How Do You Take a Picture of a Black Hole?
-Source: Hacker News
-Category: technology
-URL: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029
-Published: 2026-10-30T09:49:02+00:00
-Score: 34
+Article URL: https://tangled.org/blog/forge/ Comments URL: https://news.ycombinator.com/item?id=50305573 Points: 298 # Comments: 86
 
-Anthropic hacked to deliver remote access trojan
-Source: Hacker News
+Florilegium: Procedural Flowers in LaTeX
+Source: Hacker News RSS
 Category: technology
-URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2
-Published: 2026-10-30T10:22:51+00:00
-Score: 230
+URL: https://github.com/kevinraymond/florilegium
+Published: 2026-10-30T15:48:12+00:00
 
-We're releasing the weights of Mistral Large 4
-Source: Hacker News
-Category: technology
-URL: https://mistral.ai/news/mistral-large-4-oss
-Published: 2026-10-29T14:13:21+00:00
-Score: 1557
+Article URL: https://github.com/kevinraymond/florilegium Comments URL: https://news.ycombinator.com/item?id=50305637 Points: 300 # Comments: 48
 
-Binance-hacker-1029 – $5.6B stolen from Binance
-Source: Hacker News
+Show HN: A working Nintendo in ~1GB of Qwen weights
+Source: Hacker News RSS
 Category: technology
-URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8
-Published: 2026-10-29T21:38:59+00:00
-Score: 1522
+URL: https://github.com/dbreunig/nesformer
+Published: 2026-10-30T16:40:22+00:00
 
-Azure's Weakest Link – Five Full Cross-Tenant Compromises
-Source: Hacker News
-Category: technology
-URL: https://www.binarysecurity.no/posts/2026/10/one-root-case
-Published: 2026-10-30T10:06:15+00:00
-Score: 61
+Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 257 # Comments: 125
 
-Backdoors in official Claude Code extensions
-Source: Hacker News
+My favourite PowerMac is a Nintendo Wii
+Source: Hacker News RSS
 Category: technology
-URL: https://cyberplace.social/@GossiTheDog/117528831681803563
-Published: 2026-10-30T11:05:53+00:00
-Score: 343
+URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii
+Published: 2026-10-30T17:25:15+00:00
 
-elect.horse
-Source: Hacker News
+Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 323 # Comments: 95
+
+Infinite Mac: BeOS
+Source: Hacker News RSS
 Category: technology
-URL: https://elect.horse/
-Published: 2026-10-30T09:14:34+00:00
-Score: 202
+URL: https://blog.persistent.info/2026/10/infinite-mac-beos.html
+Published: 2026-10-30T19:30:09+00:00
+
+Article URL: https://blog.persistent.info/2026/10/infinite-mac-beos.html Comments URL: https://news.ycombinator.com/item?id=50309029 Points: 167 # Comments: 100
+
+The oldest ice disappears and the Stone Age emerges from it
+Source: Hacker News RSS
+Category: technology
+URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921
+Published: 2026-10-30T19:51:33+00:00
+
+Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 Comments URL: https://news.ycombinator.com/item?id=50309266 Points: 161 # Comments: 63
+
+Jules Verne's Lost Novel
+Source: Hacker News RSS
+Category: technology
+URL: https://blue-continuum.com/verne-paris
+Published: 2026-10-30T19:55:10+00:00
+
+Article URL: https://blue-continuum.com/verne-paris Comments URL: https://news.ycombinator.com/item?id=50309314 Points: 122 # Comments: 30
+
+Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
+Source: Hacker News RSS
+Category: technology
+URL: https://tng.episodle.com/
+Published: 2026-10-30T23:51:24+00:00
+
+Article URL: https://tng.episodle.com/ Comments URL: https://news.ycombinator.com/item?id=50311686 Points: 200 # Comments: 56
+
+Tell HN: Scribd Breached
+Source: Hacker News RSS
+Category: technology
+URL: https://news.ycombinator.com/item?id=50312756
+Published: 2026-10-31T02:46:36+00:00
+
+Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner. Hello, We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data. We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have accessed your email address and the following of your information: last 4 digits of your credit card and country, credit card issuer, credit card expiry date, payment history (not including credit card details). We have no evidence that this data has been misused, but we are notifying you out of an abundance of caution so that you can take steps to protect your information. Watch for phishing We encourage you to stay vigilant for phishing attempts by bad actors pretending to be Scribd, Inc. or Scribd, Slideshare, Everand or Fable. Remember that Scribd, Inc. will never ask you for your username and password or other sensitive information via email or text. If you did receive a message like that: Don't click on any links in it. Instead type scribd.com, slideshare.net, everand.com, or fable.co directly into your browser. Call us at: +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m., Central European Time. Report it through Scribd, Inc.'s Help Center. For more information We regret that this incident occurred and any concern it may cause you. If you have additional questions, contact the dedicated call center at +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m. Central European Time. The National Cyber Security Center has helpful guidance on how to recognize and avoid phishing scams here. What Scribd, Inc. is doing We have secured the affected system and ended the unauthorized access. We have notified law enforcement as well as the relevant data protection authorities. We are working with an expert third party cybersecurity firm to strengthen our access controls and monitoring. We value the trust you place in us with your information, and don’t take that lightly. We are deeply sorry this happened and will keep you updated if anything further changes. Scribd, Inc. Comments URL: https://news.ycombinator.com/item?id=50312756 Points: 249 # Comments: 96
+
+Digital Minimalism
+Source: Hacker News RSS
+Category: technology
+URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html
+Published: 2026-10-31T06:16:36+00:00
+
+Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 89 # Comments: 57
+
+Switch Lowering in GCC
+Source: Hacker News RSS
+Category: technology
+URL: https://xoranth.net/gcc-switch
+Published: 2026-10-31T08:02:26+00:00
+
+Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 90 # Comments: 16
+
+How long do you need to hold down the power button to turn off a PC?
+Source: Hacker News RSS
+Category: technology
+URL: https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc
+Published: 2026-10-31T08:43:32+00:00
+
+Article URL: https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/ Comments URL: https://news.ycombinator.com/item?id=50314243 Points: 36 # Comments: 5
+
+Serbia just elected the world's brainiest parliament
+Source: Hacker News RSS
+Category: technology
+URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament
+Published: 2026-10-31T10:21:30+00:00
+
+Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 259 # Comments: 161
+
+Molly(Signal fork) has not been updated since 3 months and is vulnerable
+Source: Hacker News RSS
+Category: technology
+URL: https://piefed.world/post/1503394
+Published: 2026-10-31T10:23:41+00:00
+
+Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 46 # Comments: 10
+
+We Took over ChatGPT Accounts
+Source: Hacker News RSS
+Category: technology
+URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai
+Published: 2026-10-31T10:30:11+00:00
+
+Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 30 # Comments: 19
+
+Shiny Object Syndrome
+Source: Hacker News RSS
+Category: technology
+URL: https://en.wikipedia.org/wiki/Shiny_object_syndrome
+Published: 2026-10-31T11:02:14+00:00
+
+Article URL: https://en.wikipedia.org/wiki/Shiny_object_syndrome Comments URL: https://news.ycombinator.com/item?id=50314872 Points: 20 # Comments: 9
+
+French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic
+Source: Hacker News RSS
+Category: technology
+URL: https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026
+Published: 2026-10-31T11:28:46+00:00
+
+Article URL: https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026 Comments URL: https://news.ycombinator.com/item?id=50315047 Points: 68 # Comments: 63
