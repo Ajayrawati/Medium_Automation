@@ -1,0 +1,81 @@
+{
+  "topic": "Item News.ycombinator.com Comments",
+  "topic_key": "item-news.ycombinator.com-comments",
+  "confidence": 87.06,
+  "score_breakdown": {
+    "source_quality": 64.74,
+    "corroboration": 100.0,
+    "recency": 88.21,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.06,
+  "evidence": [
+    {
+      "title": "Technofeudalism",
+      "url": "https://en.wikipedia.org/wiki/Technofeudalism",
+      "publisher": "en.wikipedia.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-02T16:01:57.316337+00:00"
+    },
+    {
+      "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+      "url": "https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1",
+      "publisher": "www.quora.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-02T16:01:57.390532+00:00"
+    },
+    {
+      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+      "url": "https://longcat.ai/blog/longcat-2.5/",
+      "publisher": "longcat.ai",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-02T16:01:58.174930+00:00"
+    },
+    {
+      "title": "Napping Characteristics and Incident Dementia",
+      "url": "https://academic.oup.com/biomedgerontology/article/81/10/glag208/8769491?login=false",
+      "publisher": "academic.oup.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-02T16:01:58.271643+00:00"
+    },
+    {
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "publisher": "chalmovsky.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-02T16:01:58.515456+00:00"
+    },
+    {
+      "title": "Jobless Tech Workers Are Being Left Out of San Francisco's AI Boom",
+      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+      "publisher": "www.bloomberg.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-02T16:01:58.704797+00:00"
+    }
+  ]
+}
