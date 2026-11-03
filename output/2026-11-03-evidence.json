@@ -1,0 +1,81 @@
+{
+  "topic": "Https Points Comments",
+  "topic_key": "https-points-comments",
+  "confidence": 86.33,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 84.15,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.33,
+  "evidence": [
+    {
+      "title": "Show HN: Kvittas, an Expense Splitting App",
+      "url": "https://kvittas.app",
+      "publisher": "kvittas.app",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-03T14:21:28.613852+00:00"
+    },
+    {
+      "title": "Show HN: Bema: Work messaging built for humans",
+      "url": "https://getbema.app/",
+      "publisher": "getbema.app",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-03T14:21:28.687184+00:00"
+    },
+    {
+      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+      "publisher": "dfarq.homeip.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-03T14:21:28.933770+00:00"
+    },
+    {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "publisher": "honnibal.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-03T14:21:29.076382+00:00"
+    },
+    {
+      "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
+      "url": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
+      "publisher": "www.ycombinator.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-03T14:21:29.337790+00:00"
+    },
+    {
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "publisher": "nicholas.carlini.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-03T14:21:29.380192+00:00"
+    }
+  ]
+}
