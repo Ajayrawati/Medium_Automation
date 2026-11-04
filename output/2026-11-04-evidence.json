@@ -1,0 +1,81 @@
+{
+  "topic": "Comments News.ycombinator.com Article",
+  "topic_key": "comments-news.ycombinator.com-article",
+  "confidence": 87.34,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 89.19,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.34,
+  "evidence": [
+    {
+      "title": "Jaron Lanier on parallels between AI and social media",
+      "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+      "publisher": "www.youtube.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-04T14:37:39.343965+00:00"
+    },
+    {
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "publisher": "www.theregister.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-04T14:37:39.808836+00:00"
+    },
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "publisher": "spectrum.ieee.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-04T14:37:40.007047+00:00"
+    },
+    {
+      "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+      "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+      "publisher": "www.phoronix.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-04T14:37:40.277843+00:00"
+    },
+    {
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "publisher": "www.theguardian.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-04T14:37:40.382544+00:00"
+    },
+    {
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "publisher": "www.githubstatus.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-04T14:37:40.463052+00:00"
+    }
+  ]
+}

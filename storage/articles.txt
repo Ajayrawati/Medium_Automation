@@ -1,16 +1,16 @@
-Donchitos / Claude-Code-Game-Studios
+scenario-labs / skills
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Donchitos/Claude-Code-Game-Studios
+URL: https://github.com/scenario-labs/skills
 
-Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
 
-shiyu-coder / Kronos
+Thysrael / Horizon
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/shiyu-coder/Kronos
+URL: https://github.com/Thysrael/Horizon
 
-Kronos: A Foundation Model for the Language of Financial Markets
+📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 
 D4Vinci / Scrapling
 Source: GitHub Trending
@@ -19,59 +19,52 @@ URL: https://github.com/D4Vinci/Scrapling
 
 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 
-anomalyco / hex
+MichaelCade / 90DaysOfDevOps
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/anomalyco/hex
+URL: https://github.com/MichaelCade/90DaysOfDevOps
 
-Local voice dictation for mac, windows and linux
+This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
 
-Usagi-org / ai-goofish-monitor
+JiaFeiMiao-K-Cat / DiscImageStudio
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Usagi-org/ai-goofish-monitor
+URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
 
-基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
-
-floci-io / floci
+FareedKhan-dev / kimi-k3-in-c
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/floci-io/floci
+URL: https://github.com/FareedKhan-dev/kimi-k3-in-c
 
-Light, fluffy, and always free - The AWS Local Emulator alternative
+A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 
-spotify / portal-ai-plugins
+garrytan / gstack
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/spotify/portal-ai-plugins
+URL: https://github.com/garrytan/gstack
 
-p-e-w / heretic
+Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+
+harry0703 / MoneyPrinterTurbo
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/p-e-w/heretic
+URL: https://github.com/harry0703/MoneyPrinterTurbo
 
-Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
+利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
-mattpocock / skills
+The-PR-Agent / pr-agent
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/mattpocock/skills
+URL: https://github.com/The-PR-Agent/pr-agent
 
-Skills for Real Engineers. Straight from my .agents directory.
+🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
-JustVugg / colibri
+github / spec-kit
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/JustVugg/colibri
+URL: https://github.com/github/spec-kit
 
-A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
-
-max-sixty / worktrunk
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/max-sixty/worktrunk
-
-Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+💫 Toolkit to help you get started with SDD or any other process!
 
 vercel-labs / agent-desktop
 Source: GitHub Trending
@@ -87,218 +80,218 @@ URL: https://github.com/thedotmack/claude-mem
 
 Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
-Resisting Cognitive Surrender
-Source: Hacker News
+floci-io / floci
+Source: GitHub Trending
 Category: technology
-URL: https://knlb.dev/essays/surrender
-Published: 2026-11-01T06:13:30+00:00
-Score: 246
+URL: https://github.com/floci-io/floci
 
-Writing seen in PHerc. 306B, for the first time in 2000 years
-Source: Hacker News
+Light, fluffy, and always free - The AWS Local Emulator alternative
+
+mattpocock / skills
+Source: GitHub Trending
 Category: technology
-URL: https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the
-Published: 2026-11-02T19:18:46+00:00
-Score: 3
+URL: https://github.com/mattpocock/skills
 
-Killing what can't be handled – putting a spaghetti demon to eternal rest
-Source: Hacker News
+Skills for Real Engineers. Straight from my .agents directory.
+
+max-sixty / worktrunk
+Source: GitHub Trending
 Category: technology
-URL: https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest
-Published: 2026-11-02T15:18:49+00:00
-Score: 3
+URL: https://github.com/max-sixty/worktrunk
 
-European RISC-V Industrial Computing Initiative
-Source: Hacker News
-Category: technology
-URL: https://erici.eu/
-Published: 2026-11-02T08:58:33+00:00
-Score: 165
+Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
-Why Don't We Live in an Art Nouveau World?
-Source: Hacker News
-Category: technology
-URL: https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world
-Published: 2026-11-02T05:05:11+00:00
-Score: 25
-
-Toit v2.0.0
-Source: Hacker News
-Category: technology
-URL: https://toit.io/blog/toit-v2-0-0
-Published: 2026-11-01T00:25:04+00:00
-Score: 161
-
-Katamari Damacy but it's The Met collection
-Source: Hacker News
-Category: technology
-URL: https://katamari.vaguespac.es/
-Published: 2026-11-02T02:21:07+00:00
-Score: 77
-
-Life with Down Syndrome
-Source: Hacker News
-Category: technology
-URL: https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome
-Published: 2026-11-01T16:26:21+00:00
-Score: 64
-
-If you love a website, back it up
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up
-Published: 2026-11-02T13:25:35+00:00
-
-Article URL: https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/ Comments URL: https://news.ycombinator.com/item?id=50336518 Points: 608 # Comments: 143
-
-433MHz TUI scanner: using a FT232H connected to a CC1101
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h
-Published: 2026-11-02T13:28:14+00:00
-
-Article URL: https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h/ Comments URL: https://news.ycombinator.com/item?id=50336557 Points: 20 # Comments: 7
-
-Ask HN: Who is hiring? (November 2026)
-Source: Hacker News RSS
-Category: technology
-URL: https://news.ycombinator.com/item?id=50338728
-Published: 2026-11-02T16:01:37+00:00
-
-Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a household name, explain what your company does. Please only post if you are actively filling a position and are committed to replying to applicants. Commenters: please don't reply to job posts to complain about something. It's off topic here. Readers: please only email if you are personally interested in the job. Searchers: try https://gethnjobs.com/ , https://hnwork.app , https://dheerajck.github.io/hnwhoishiring/ , http://nchelluri.github.io/hnjobs/ , https://hnjobs.emilburzo.com . Don't miss this other fine thread: Who wants to be hired? https://news.ycombinator.com/item?id=50338726 Comments URL: https://news.ycombinator.com/item?id=50338728 Points: 231 # Comments: 196
-
-Show HN: Warsaw in voxels – An interactive 3D map of the city centre
-Source: Hacker News RSS
-Category: technology
-URL: https://p.migdal.pl/warsaw-vibe-voxel
-Published: 2026-11-02T16:25:26+00:00
-
-Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. You can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here a bit of inspiration from Dungeon Keeper). Works best on desktop, but I tried to make it usable on mobile too. The initial load can take a while. It's based on several open datasets, including: - OpenStreetMap ( https://www.openstreetmap.org/#map=6/52.02/19.14 ) - buildings, streets, sidewalks, tram tracks, etc - GUGiK / Geoportal ( https://www.geoportal.gov.pl/ ) - LiDAR for building heights and trees, aerial imagery for colours - Warsaw's city tree database ( https://mapa.um.warszawa.pl/ ) - individual tree species, used for seasonal foliage Open-source ( https://github.com/stared/warsaw-vibe-voxel ), so feel invited to (re)use it as you wish! Comments URL: https://news.ycombinator.com/item?id=50339221 Points: 299 # Comments: 48
-
-US boy names that became girl names and vice versa
-Source: Hacker News RSS
-Category: technology
-URL: https://namedaisy.com/blog/boy-names-that-became-girl-names
-Published: 2026-11-02T16:34:36+00:00
-
-Article URL: https://namedaisy.com/blog/boy-names-that-became-girl-names Comments URL: https://news.ycombinator.com/item?id=50339397 Points: 441 # Comments: 421
-
-Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app
-Source: Hacker News RSS
-Category: technology
-URL: https://momentic.ai/
-Published: 2026-11-02T17:05:25+00:00
-
-Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs. Here’s a demo: https://youtu.be/BFsM-Se1Fh8 We’re both software engineers that spent our careers on dev tooling and infra across companies like Robinhood, Retool, WeWork, and Qualtrics. Testing was always a pain in the ass (esp Playwright and Selenium), so we built agents to do it for us. Modern day software has a ton of bugs and the change failure rate is only growing faster as coding agent adoption scales. LLMs are really good at generating code, but reinforce their own assumptions, write a ton of useless tests, and are bad at visual understanding. On DeepSWE v1.1, Sonnet 5.5 hit 66.2% pass rate when banned from writing tests, versus 65.3% when allowed. OSS end-to-end testing frameworks like Playwright, Selenium, or Maestro force you to hardcode implementation details like XPath, text, or aria-* attributes in your tests. Even with agents, these take a nontrivial amount of time and tokens to build and maintain. In 2023, we saw Nat Friedman drive a browser with GPT-3 via natbot. We were inspired to use this technology to automate the most painful and tedious parts of software engineering: testing. We started with using LLMs to generate and maintain Playwright, but quickly realized that those primitives were fundamentally misaligned with the agentic SDLC. We think the future of QA is agents testing themselves, not writing scripts. Mo is a custom agent harness for catching bugs that builds on the past 3 years of Momentic and millions of test traces from complex, real-world applications. Mo is built for recall: it finds the most real bugs, though Codex is a bit more precise at 86% vs 84%. The tradeoff is cost: Mo costs $2.67 per bug vs $0.80 for Codex, less than Claude Code and Devin. - Self-organizing agent graph. Mo builds a directed acyclic graph (DAG) as it explores. Large product areas automatically fork into parallel sub-agents, each with their own browser or device for concurrent execution. - Specialized agents for domain specific tasks. Planner agents reason over screenshots and video while dedicated locator agents inspect page structure to resolve plain-English interaction targets. Others include image analysis, video understanding, audio generation, and more. - Parallel agents coordinate through cooperative resource leases. Agents can announce that they’re “using” or “modifying” overlapping resources or fixtures. Multiple “using” claims can coexist, but only a single “modifying” claim can be active on any particular one. - Scaled infrastructure. Mo ships with a tunnel that lets users expose private sites and local apps to our hosted agents and infra. A single bug bash can spin up 100s of concurrent browsers and devices. We benchmarked Mo against coding agents on 4 popular open-source apps: Gitea (58.8k stars), Metabase, Twenty (YC), and Saleor, with 1,396 human-labeled bugs. Each agent got the same brief, a fresh E2B sandbox, and no access to source code. Codex and Claude Code used hosted Browserbase browsers, while Devin used its built-in browser. For evaluators, we implemented LLM as a judge (GPT-6.1 Sol) with a human reviewer. Results from a time-boxed 60-minute run: - Mo: 269 bugs, 19.3% recall, 84% precision, $2.67 per bug - Codex (GPT-6.1 Sol + Playwright MCP): 86 bugs, 6.2% recall, 86% precision, $0.80 per bug - Claude Code (Opus 5.5 + Playwright MCP): 59 bugs, 4.2% recall, 80% precision, $4.09 per bug - Devin: 27 bugs, 1.9% recall, 84% precision, $3.89 per bug Mo finds more bugs the more time it has. From 30 to 60 minutes, it went from 177 to 269 bugs (+52%), while Codex gained only 16%. Results: https://momentic.ai/qa-bench Write-up: https://momentic.ai/blog/qa-bench Dataset: https://huggingface.co/datasets/momentic/qa-bench Harness: https://github.com/momentic-ai/qa-bench We just shipped PR testing for Vercel and Cloudflare deploy previews and we’re giving every new signup $250 in Mo spend. Paid plans have higher infra capacity and included usage along with options to top up. We’d love for you to try it out and give us feedback. Feel free to comment here, we’ll be around all day! Comments URL: https://news.ycombinator.com/item?id=50339913 Points: 152 # Comments: 101
-
-Show HN: Subvocal – Talk to your computer without making noise
-Source: Hacker News RSS
-Category: technology
-URL: https://news.ycombinator.com/item?id=50340088
-Published: 2026-11-02T17:16:17+00:00
-
-Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26) ( https://subvocal.company/ ). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed of speech. Here's a video of Dave from YC trying it out: https://www.youtube.com/watch?v=9QdX1eObVYI (Edit: you don't actually have to move your lips or even open your mouth for this to work! Since the RF can see inside your mouth the system can be fine tuned on "internal speech". This isn't the automatic tongue movements that occur when "thinking" words to yourself, but more like mouthing with your lips closed. It's a bit weird to do, but with practice, we have been able to get it down pretty well.) Arnav and I were studying CS at Georgia Tech at the beginning of the year, with no experience in silent speech or sensing. We were both AI-native builders and power users of Wispr Flow. What bugged us was not being able to use these tools in the library (or an office) or in public. At Stanford’s TreeHacks in February, we decided to build the most technically ridiculous thing we could think of. We’d read about AlterEgo, a silent speech system out of MIT’s Media Lab, and wanted to recreate it in 36 hours. We built a crude prototype, sticking EMG electrodes onto my face: https://drive.google.com/file/d/1mwhv5HZMz3UTevdrgwS5O7g2jWV... We got it to kind of work at a letter level in a very janky way. It wasn’t good enough to win the hackathon, but convinced us to go all in. The first time I typed a sentence without anyone noticing, I felt the magic of the technology. We quickly realized EMG (reading muscle electrical signals) wouldn’t work: - Signal changes due to sweat - Electrical interference - Placement variability - Most importantly, no one wants to stick electrodes onto their face!! So we switched to RF and built the glasses you see now. They emit radio waves, similar to Bluetooth, that pass through your face. As they cross the tongue, lips and soft palate, they’re modulated by silent mouthing. We train foundation models on this data to decode these perturbations to text. Despite prior academic research, getting this to work was a huge engineering challenge. First we built an extremely low noise RF sensing stack. Then we had to place antennas so their fields overlapped maximally with the articulators. Our first attempt on glasses failed completely, so we reverted to old habits and taped antennas on our face: https://drive.google.com/file/d/1ks0dS0eZiTV9EqSFsyB_w5BBjpc... Since taping antennas consistently in the same spot and angle was hard, we created this weird but effective head rig to hold them in place: https://drive.google.com/file/d/1rhzNFpdDzr7oHk0isFY70dkoV4C... This worked, but obviously wasn’t a product yet. So we worked deep in simulations to design glasses that could hold the antennas. That evolved into our design now, with antennas embedded within the frames. Once we established there was a signal, the next hurdle was cross-user generalization. Everyone’s facial anatomy, and hence RF signal patterns, are vastly different. We tried algorithmic workarounds but realized the only lever was to massively scale pretraining data. So that’s what we did. We set up booths in our office and paid people to read prompts wearing our glasses, to pretrain our models on. This produced a beautiful scaling curve, with errors falling quickly as we scaled our dataset and cross-user performance becoming genuinely compelling (as you see in the video above; Dave only had a short 20-sentence calibration). We always heard about building things from first principles but never understood it before this. We tried tackling it top down but completely failed. Only when we broke each component (the antenna, electronics, ML) down to its fundamentals to understand and optimize it did we get it to work really well. Over the next few months we’re continuing R&D to turn our prototype glasses into the slick product on our website and ship in Q1 2027. We’re also scaling up our dataset to improve performance on edge cases. For anyone who loves voice dictation but hates using it around people, we’ve opened preorders for our first batch of 500 units, with a $200 discount off the final price. Allocation is running out quickly, so get yours at https://subvocal.co/preorder ! Comments URL: https://news.ycombinator.com/item?id=50340088 Points: 757 # Comments: 355
-
-Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You
-Source: Hacker News RSS
-Category: technology
-URL: https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you
-Published: 2026-11-02T17:47:40+00:00
-
-Article URL: https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you Comments URL: https://news.ycombinator.com/item?id=50340619 Points: 280 # Comments: 82
-
-Astra can read and write weights to improve Qwen
-Source: Hacker News RSS
-Category: technology
-URL: https://rikiyat.github.io/blog/weight-space-programming
-Published: 2026-11-02T18:21:28+00:00
-
-Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 2856 # Comments: 862
-
-DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
-Published: 2026-11-03T01:33:43+00:00
-
-Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 295 # Comments: 59
-
-Show HN: Hacker Times, a New York Times-inspired version of Hacker News
-Source: Hacker News RSS
-Category: technology
-URL: https://hackertimes.ca/
-Published: 2026-11-03T01:53:34+00:00
-
-I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 359 # Comments: 114
-
-Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities
-Source: Hacker News RSS
-Category: technology
-URL: https://arxiv.org/abs/2608.25820
-Published: 2026-11-03T02:58:44+00:00
-
-Article URL: https://arxiv.org/abs/2608.25820 Comments URL: https://news.ycombinator.com/item?id=50347464 Points: 47 # Comments: 4
-
-Show HN: I built a little browser game to practice Vim commands
-Source: Hacker News RSS
-Category: technology
-URL: https://hjkl.duy.run/
-Published: 2026-11-03T03:10:04+00:00
-
-I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in. There are still a lot of commands I want to add, but I hope someone finds it useful in the meantime :) Comments URL: https://news.ycombinator.com/item?id=50347552 Points: 55 # Comments: 36
-
-Nvidia – open-source auto-ontology
-Source: Hacker News RSS
+NVIDIA / auto-ontology
+Source: GitHub Trending
 Category: technology
 URL: https://github.com/NVIDIA/auto-ontology
-Published: 2026-11-03T07:04:50+00:00
 
-Article URL: https://github.com/NVIDIA/auto-ontology Comments URL: https://news.ycombinator.com/item?id=50348962 Points: 183 # Comments: 60
+Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 
-Could a modern chess engine on a Pentium have defeated Kasparov in 1996?
+Fujifilm to boost tape production 5x as AI fuels archiving demand
+Source: Hacker News
+Category: technology
+URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand
+Published: 2026-11-02T14:02:42+00:00
+Score: 505
+
+Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels
+Source: Hacker News
+Category: technology
+URL: https://hackertv.org/
+Published: 2026-11-03T01:18:09+00:00
+Score: 393
+
+Stringman, an $800 open-source room scale gripper robot
+Source: Hacker News
+Category: technology
+URL: https://neufangled.com/
+Published: 2026-11-03T16:47:29+00:00
+Score: 685
+
+Jailbreaking my car's navigation system just so I can change the time
+Source: Hacker News
+Category: technology
+URL: https://blog.nns.ee/2026/11/02/renault-hack
+Published: 2026-11-02T16:29:19+00:00
+Score: 889
+
+Show HN: Uncracked City, detective game where you question LLM suspects that lie
 Source: Hacker News RSS
 Category: technology
-URL: https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html
-Published: 2026-11-03T07:56:21+00:00
+URL: https://uncracked.city/
+Published: 2026-11-03T21:20:03+00:00
 
-Article URL: https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html Comments URL: https://news.ycombinator.com/item?id=50349276 Points: 148 # Comments: 67
+To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other hand invented. The part that I care most is the playable aspect of the game, a model plays the detective and must solve the case before it goes live. As of today: it's free on Android, the iOS version is still waiting to be reviewed by Apple. It's available in six popular languages, but adding more languages is just a matter of time and demand.My long term vision if it takes off: weekly cases, private parties like a team-building escape game, an MCP so a game master can build their own scenario from ChatGPT or Claude, and maybe tourism offices since players travel the world. Comments URL: https://news.ycombinator.com/item?id=50358352 Points: 92 # Comments: 46
 
-Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC
+Safari introduces Adaptive Dark Mode in 27.3
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ycombinator.com/companies/sava-trust-company/jobs
-Published: 2026-11-03T12:01:01+00:00
+URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode
+Published: 2026-11-03T21:39:05+00:00
 
-Article URL: https://www.ycombinator.com/companies/sava-trust-company/jobs Comments URL: https://news.ycombinator.com/item?id=50350924 Points: 0 # Comments: 0
+Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=50358562 Points: 468 # Comments: 244
 
-The 'Astra can read and write weights to improve Qwen' post is misleading
+The Internals of PostgreSQL
 Source: Hacker News RSS
 Category: technology
-URL: https://honnibal.dev/blog/astra-read-write-misleading
-Published: 2026-11-03T12:21:17+00:00
+URL: https://www.interdb.jp/pg/index.html
+Published: 2026-11-03T21:51:06+00:00
 
-Article URL: https://honnibal.dev/blog/astra-read-write-misleading Comments URL: https://news.ycombinator.com/item?id=50351111 Points: 255 # Comments: 51
+Article URL: https://www.interdb.jp/pg/index.html Comments URL: https://news.ycombinator.com/item?id=50358702 Points: 318 # Comments: 23
 
-Charles Tandy, the mastermind behind Radio Shack
+C++26 Disapproved
 Source: Hacker News RSS
 Category: technology
-URL: https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack
-Published: 2026-11-03T12:42:30+00:00
+URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive
+Published: 2026-11-04T00:33:22+00:00
 
-Article URL: https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/ Comments URL: https://news.ycombinator.com/item?id=50351319 Points: 13 # Comments: 3
+Article URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/ Comments URL: https://news.ycombinator.com/item?id=50360164 Points: 366 # Comments: 261
 
-Show HN: Bema: Work messaging built for humans
+Giant canyon on Mars is still tectonically active
 Source: Hacker News RSS
 Category: technology
-URL: https://getbema.app/
-Published: 2026-11-03T12:51:11+00:00
+URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today
+Published: 2026-11-04T01:40:42+00:00
 
-Hi HN! I'm Ben, the founder of Bema. I've been frustrated with the current state of work messaging software for a while now, and I've heard similar complaints from friends and coworkers. (Too many channels, easy to lose things, distracted from actual work.) I set out to build a platform that would encourage asynchronous communication with an option to break glass if needed. Here's the result, let me know what you think. Comments URL: https://news.ycombinator.com/item?id=50351404 Points: 6 # Comments: 4
+Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 115 # Comments: 23
 
-Show HN: Kvittas, an Expense Splitting App
+Arrows to arrows, categories to queries (2025)
 Source: Hacker News RSS
 Category: technology
-URL: https://kvittas.app/
-Published: 2026-11-03T12:53:48+00:00
+URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows
+Published: 2026-11-04T03:11:27+00:00
 
-I built this to replace Cost Split, which I've used for several years and always thought was great but lacking in the UI. No account required. Comments URL: https://news.ycombinator.com/item?id=50351427 Points: 5 # Comments: 2
+Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/ Comments URL: https://news.ycombinator.com/item?id=50361107 Points: 65 # Comments: 5
+
+Distinct cellular and genetic differences in colorectal cancer in young patients
+Source: Hacker News RSS
+Category: technology
+URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients
+Published: 2026-11-04T03:20:13+00:00
+
+Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients Comments URL: https://news.ycombinator.com/item?id=50361154 Points: 96 # Comments: 36
+
+Jelly Sheet
+Source: Hacker News RSS
+Category: technology
+URL: https://mrdoob.github.io/codevember-2026/01
+Published: 2026-11-04T03:40:50+00:00
+
+Article URL: https://mrdoob.github.io/codevember-2026/01/ Comments URL: https://news.ycombinator.com/item?id=50361268 Points: 329 # Comments: 85
+
+The lost malloc()
+Source: Hacker News RSS
+Category: technology
+URL: https://napcakes.nekoweb.org/posts/malloc
+Published: 2026-11-04T07:37:30+00:00
+
+Article URL: https://napcakes.nekoweb.org/posts/malloc/ Comments URL: https://news.ycombinator.com/item?id=50362466 Points: 93 # Comments: 27
+
+Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux
+Source: Hacker News RSS
+Category: technology
+URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop
+Published: 2026-11-04T08:46:29+00:00
+
+Article URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop Comments URL: https://news.ycombinator.com/item?id=50362905 Points: 272 # Comments: 138
+
+Kitty 0.50
+Source: Hacker News RSS
+Category: technology
+URL: https://sw.kovidgoyal.net/kitty/changelog
+Published: 2026-11-04T08:57:10+00:00
+
+Article URL: https://sw.kovidgoyal.net/kitty/changelog/# Comments URL: https://news.ycombinator.com/item?id=50362980 Points: 241 # Comments: 150
+
+Milkman – The Better Alternative to Postman
+Source: Hacker News RSS
+Category: technology
+URL: https://milkman.dev/
+Published: 2026-11-04T08:58:03+00:00
+
+Article URL: https://milkman.dev/ Comments URL: https://news.ycombinator.com/item?id=50362993 Points: 64 # Comments: 67
+
+Verification Is Not Knowledge: Science needs more than answers
+Source: Hacker News RSS
+Category: technology
+URL: https://blog.cosmos-institute.org/p/verification-is-not-knowledge
+Published: 2026-11-04T09:01:58+00:00
+
+Article URL: https://blog.cosmos-institute.org/p/verification-is-not-knowledge Comments URL: https://news.ycombinator.com/item?id=50363019 Points: 116 # Comments: 69
+
+Incident with Pull Requests, Git Operations and Issues
+Source: Hacker News RSS
+Category: technology
+URL: https://www.githubstatus.com/incidents/smtdswd1h2w4
+Published: 2026-11-04T10:00:06+00:00
+
+Article URL: https://www.githubstatus.com/incidents/smtdswd1h2w4 Comments URL: https://news.ycombinator.com/item?id=50363378 Points: 145 # Comments: 72
+
+Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)
+Source: Hacker News RSS
+Category: technology
+URL: https://news.ycombinator.com/item?id=50363461
+Published: 2026-11-04T10:10:27+00:00
+
+If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn not to enter confidential information . https://support.google.com/gemini/answer/16836988 “[Gemini app activity] is used to improve Google services for everyone, including by training generative AI models, if your Keep Activity setting is on.“ https://support.google.com/gemini/answer/13594961?hl=en#human_review “A subset of chats are reviewed by human reviewers” https://support.google.com/gemini/answer/13594961?hl=en#pn_retain_data “Chats reviewed by human reviewers [...] are not deleted when you delete your activity. Instead, they are retained for up to three years.” https://support.google.com/gemini/answer/13594961?hl=en#pn_data_usage “Please don’t enter confidential information that you wouldn’t want a reviewer to see or Google to use to improve our services, including machine-learning technologies.” To disable their training on your chat sessions, you need to turn off “Keep Activity” in Gemini’s settings. Turning that off means you’ll lose any chat sessions after 72 hours. I learned this too late, thinking that having a paid subscription = not being turned into the product. Apparently paying is not enough. Thank you to this user on HN for mentioning in another thread: https://news.ycombinator.com/item?id=50355424 Comments URL: https://news.ycombinator.com/item?id=50363461 Points: 250 # Comments: 63
+
+Geoffrey Hinton: it might turn out we were better off without AI
+Source: Hacker News RSS
+Category: technology
+URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai
+Published: 2026-11-04T10:23:34+00:00
+
+Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 187 # Comments: 135
+
+Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver
+Source: Hacker News RSS
+Category: technology
+URL: https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver
+Published: 2026-11-04T11:14:12+00:00
+
+Article URL: https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver Comments URL: https://news.ycombinator.com/item?id=50363968 Points: 59 # Comments: 17
+
+AI is forcing us to pay off 40 years of technical debt
+Source: Hacker News RSS
+Category: technology
+URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
+Published: 2026-11-04T11:52:17+00:00
+
+Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 306 # Comments: 193
+
+North Korean fake job interview led to $6.3B Binance heist
+Source: Hacker News RSS
+Category: technology
+URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398
+Published: 2026-11-04T14:09:55+00:00
+
+Article URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398 Comments URL: https://news.ycombinator.com/item?id=50365755 Points: 8 # Comments: 1
+
+Jaron Lanier on parallels between AI and social media
+Source: Hacker News RSS
+Category: technology
+URL: https://www.youtube.com/watch?v=WxaRn8kX2eI
+Published: 2026-11-04T14:10:14+00:00
+
+Article URL: https://www.youtube.com/watch?v=WxaRn8kX2eI Comments URL: https://news.ycombinator.com/item?id=50365760 Points: 4 # Comments: 0
