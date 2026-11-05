@@ -1,84 +1,7 @@
-scenario-labs / skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/scenario-labs/skills
-
-Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
-
-Thysrael / Horizon
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Thysrael/Horizon
-
-📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
-
-D4Vinci / Scrapling
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/D4Vinci/Scrapling
-
-🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
-
-MichaelCade / 90DaysOfDevOps
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/MichaelCade/90DaysOfDevOps
-
-This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
-
 JiaFeiMiao-K-Cat / DiscImageStudio
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
-
-FareedKhan-dev / kimi-k3-in-c
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/FareedKhan-dev/kimi-k3-in-c
-
-A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-
-garrytan / gstack
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/garrytan/gstack
-
-Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-
-harry0703 / MoneyPrinterTurbo
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/harry0703/MoneyPrinterTurbo
-
-利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-
-The-PR-Agent / pr-agent
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/The-PR-Agent/pr-agent
-
-🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
-
-github / spec-kit
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/github/spec-kit
-
-💫 Toolkit to help you get started with SDD or any other process!
-
-vercel-labs / agent-desktop
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/vercel-labs/agent-desktop
-
-Computer use CLI for AI agents
-
-thedotmack / claude-mem
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/thedotmack/claude-mem
-
-Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 floci-io / floci
 Source: GitHub Trending
@@ -87,12 +10,47 @@ URL: https://github.com/floci-io/floci
 
 Light, fluffy, and always free - The AWS Local Emulator alternative
 
-mattpocock / skills
+microsoft / VibeVoice
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/mattpocock/skills
+URL: https://github.com/microsoft/VibeVoice
 
-Skills for Real Engineers. Straight from my .agents directory.
+Open-Source Frontier Voice AI
+
+ConardLi / garden-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ConardLi/garden-skills
+
+ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+
+scenario-labs / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/scenario-labs/skills
+
+Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
+
+vercel-labs / agent-browser
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/vercel-labs/agent-browser
+
+Browser automation CLI for AI agents
+
+google / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/google/skills
+
+Agent Skills for Google products and technologies
+
+lz4 / lz4
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/lz4/lz4
+
+Extremely Fast Compression algorithm
 
 max-sixty / worktrunk
 Source: GitHub Trending
@@ -101,6 +59,41 @@ URL: https://github.com/max-sixty/worktrunk
 
 Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
+vercel-labs / agent-desktop
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/vercel-labs/agent-desktop
+
+Computer use CLI for AI agents
+
+D4Vinci / Scrapling
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/D4Vinci/Scrapling
+
+🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
+
+Usagi-org / ai-goofish-monitor
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Usagi-org/ai-goofish-monitor
+
+基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+
+garrytan / gstack
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/garrytan/gstack
+
+Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+
+mattpocock / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mattpocock/skills
+
+Skills for Real Engineers. Straight from my .agents directory.
+
 NVIDIA / auto-ontology
 Source: GitHub Trending
 Category: technology
@@ -108,190 +101,190 @@ URL: https://github.com/NVIDIA/auto-ontology
 
 Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 
-Fujifilm to boost tape production 5x as AI fuels archiving demand
+A new Go API for JSON
 Source: Hacker News
 Category: technology
-URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand
-Published: 2026-11-02T14:02:42+00:00
-Score: 505
+URL: https://go.dev/blog/jsonv2
+Published: 2026-11-04T17:52:11+00:00
+Score: 359
 
-Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels
+Spreading Liquid with Three.js
 Source: Hacker News
 Category: technology
-URL: https://hackertv.org/
-Published: 2026-11-03T01:18:09+00:00
-Score: 393
+URL: https://mofu-dev.com/en/blog/fluid-foundation
+Published: 2026-11-02T18:45:54+00:00
+Score: 180
 
-Stringman, an $800 open-source room scale gripper robot
+Partial Operator Precedence
 Source: Hacker News
 Category: technology
-URL: https://neufangled.com/
-Published: 2026-11-03T16:47:29+00:00
-Score: 685
+URL: https://ziglang.org/devlog/2026
+Published: 2026-11-02T17:22:20+00:00
+Score: 80
 
-Jailbreaking my car's navigation system just so I can change the time
+Kimi K3.1 Pro model weights are out
 Source: Hacker News
 Category: technology
-URL: https://blog.nns.ee/2026/11/02/renault-hack
-Published: 2026-11-02T16:29:19+00:00
-Score: 889
+URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro
+Published: 2026-11-04T15:30:30+00:00
+Score: 590
 
-Show HN: Uncracked City, detective game where you question LLM suspects that lie
+Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding
 Source: Hacker News RSS
 Category: technology
-URL: https://uncracked.city/
-Published: 2026-11-03T21:20:03+00:00
+URL: https://www.ricursive.com/ripple
+Published: 2026-11-04T18:53:29+00:00
 
-To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other hand invented. The part that I care most is the playable aspect of the game, a model plays the detective and must solve the case before it goes live. As of today: it's free on Android, the iOS version is still waiting to be reviewed by Apple. It's available in six popular languages, but adding more languages is just a matter of time and demand.My long term vision if it takes off: weekly cases, private parties like a team-building escape game, an MCP so a game master can build their own scenario from ChatGPT or Claude, and maybe tourism offices since players travel the world. Comments URL: https://news.ycombinator.com/item?id=50358352 Points: 92 # Comments: 46
+Article URL: https://www.ricursive.com/ripple Comments URL: https://news.ycombinator.com/item?id=50369925 Points: 315 # Comments: 113
 
-Safari introduces Adaptive Dark Mode in 27.3
+Insects don't swarm at LED lights
 Source: Hacker News RSS
 Category: technology
-URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode
-Published: 2026-11-03T21:39:05+00:00
+URL: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights
+Published: 2026-11-04T19:50:23+00:00
 
-Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=50358562 Points: 468 # Comments: 244
+Article URL: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/ Comments URL: https://news.ycombinator.com/item?id=50370610 Points: 296 # Comments: 151
 
-The Internals of PostgreSQL
+Residential proxies detected on White House network
 Source: Hacker News RSS
 Category: technology
-URL: https://www.interdb.jp/pg/index.html
-Published: 2026-11-03T21:51:06+00:00
+URL: https://layer3intel.com/blog/residential-proxies-white-house-network
+Published: 2026-11-04T20:45:18+00:00
 
-Article URL: https://www.interdb.jp/pg/index.html Comments URL: https://news.ycombinator.com/item?id=50358702 Points: 318 # Comments: 23
+https://krebsonsecurity.com/2026/11/want-to-rent-an-internet... Comments URL: https://news.ycombinator.com/item?id=50371246 Points: 1183 # Comments: 383
 
-C++26 Disapproved
+A thousand fewer paths to root
 Source: Hacker News RSS
 Category: technology
-URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive
-Published: 2026-11-04T00:33:22+00:00
+URL: https://openai.com/index/a-thousand-fewer-paths-to-root
+Published: 2026-11-04T23:33:14+00:00
 
-Article URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/ Comments URL: https://news.ycombinator.com/item?id=50360164 Points: 366 # Comments: 261
+Article URL: https://openai.com/index/a-thousand-fewer-paths-to-root/ Comments URL: https://news.ycombinator.com/item?id=50372929 Points: 430 # Comments: 316
 
-Giant canyon on Mars is still tectonically active
+Images 2.6
 Source: Hacker News RSS
 Category: technology
-URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today
-Published: 2026-11-04T01:40:42+00:00
+URL: https://openai.com/index/introducing-images-2-6
+Published: 2026-11-04T23:35:44+00:00
 
-Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 115 # Comments: 23
+Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 347 # Comments: 209
 
-Arrows to arrows, categories to queries (2025)
+Lemmings CSS Animation
 Source: Hacker News RSS
 Category: technology
-URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows
-Published: 2026-11-04T03:11:27+00:00
+URL: https://markblah.github.io/lemmings
+Published: 2026-11-05T04:54:10+00:00
 
-Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/ Comments URL: https://news.ycombinator.com/item?id=50361107 Points: 65 # Comments: 5
+Article URL: https://markblah.github.io/lemmings/ Comments URL: https://news.ycombinator.com/item?id=50375354 Points: 289 # Comments: 54
 
-Distinct cellular and genetic differences in colorectal cancer in young patients
+Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio
 Source: Hacker News RSS
 Category: technology
-URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients
-Published: 2026-11-04T03:20:13+00:00
+URL: https://www.altera.com/newsroom/agilex-2x
+Published: 2026-11-05T05:47:14+00:00
 
-Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients Comments URL: https://news.ycombinator.com/item?id=50361154 Points: 96 # Comments: 36
+Article URL: https://www.altera.com/newsroom/agilex-2x Comments URL: https://news.ycombinator.com/item?id=50375653 Points: 48 # Comments: 16
 
-Jelly Sheet
+Being a kid making games in the early 2000s
 Source: Hacker News RSS
 Category: technology
-URL: https://mrdoob.github.io/codevember-2026/01
-Published: 2026-11-04T03:40:50+00:00
+URL: https://jaytholen.net/teengamedev
+Published: 2026-11-05T05:53:53+00:00
 
-Article URL: https://mrdoob.github.io/codevember-2026/01/ Comments URL: https://news.ycombinator.com/item?id=50361268 Points: 329 # Comments: 85
+Article URL: https://jaytholen.net/teengamedev/ Comments URL: https://news.ycombinator.com/item?id=50375691 Points: 70 # Comments: 28
 
-The lost malloc()
+GPT-6 Astra covertly underperforms on safety research
 Source: Hacker News RSS
 Category: technology
-URL: https://napcakes.nekoweb.org/posts/malloc
-Published: 2026-11-04T07:37:30+00:00
+URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks
+Published: 2026-11-05T07:44:30+00:00
 
-Article URL: https://napcakes.nekoweb.org/posts/malloc/ Comments URL: https://news.ycombinator.com/item?id=50362466 Points: 93 # Comments: 27
+Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 62 # Comments: 21
 
-Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux
+Baidu released ERNIE 5.5 Flash Base
 Source: Hacker News RSS
 Category: technology
-URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop
-Published: 2026-11-04T08:46:29+00:00
+URL: https://ernie.baidu.com/release/ernie-5-5-flash-base
+Published: 2026-11-05T09:29:12+00:00
 
-Article URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop Comments URL: https://news.ycombinator.com/item?id=50362905 Points: 272 # Comments: 138
+Article URL: https://ernie.baidu.com/release/ernie-5-5-flash-base/ Comments URL: https://news.ycombinator.com/item?id=50377078 Points: 112 # Comments: 63
 
-Kitty 0.50
+OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability
 Source: Hacker News RSS
 Category: technology
-URL: https://sw.kovidgoyal.net/kitty/changelog
-Published: 2026-11-04T08:57:10+00:00
+URL: https://hachyderm.io/@damienmiller/117563026759098135
+Published: 2026-11-05T09:46:17+00:00
 
-Article URL: https://sw.kovidgoyal.net/kitty/changelog/# Comments URL: https://news.ycombinator.com/item?id=50362980 Points: 241 # Comments: 150
+Article URL: https://hachyderm.io/@damienmiller/117563026759098135 Comments URL: https://news.ycombinator.com/item?id=50377221 Points: 131 # Comments: 45
 
-Milkman – The Better Alternative to Postman
+Awesome repositories are no longer awesome
 Source: Hacker News RSS
 Category: technology
-URL: https://milkman.dev/
-Published: 2026-11-04T08:58:03+00:00
+URL: https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome
+Published: 2026-11-05T11:16:51+00:00
 
-Article URL: https://milkman.dev/ Comments URL: https://news.ycombinator.com/item?id=50362993 Points: 64 # Comments: 67
+Article URL: https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/ Comments URL: https://news.ycombinator.com/item?id=50377821 Points: 132 # Comments: 66
 
-Verification Is Not Knowledge: Science needs more than answers
+OpenSSH 10.6p2 Critical workaround for alpine without PAM
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.cosmos-institute.org/p/verification-is-not-knowledge
-Published: 2026-11-04T09:01:58+00:00
+URL: https://www.openssh.org/releasenotes.html
+Published: 2026-11-05T11:40:30+00:00
 
-Article URL: https://blog.cosmos-institute.org/p/verification-is-not-knowledge Comments URL: https://news.ycombinator.com/item?id=50363019 Points: 116 # Comments: 69
+Article URL: https://www.openssh.org/releasenotes.html#10.6p2 Comments URL: https://news.ycombinator.com/item?id=50377976 Points: 69 # Comments: 3
 
-Incident with Pull Requests, Git Operations and Issues
+Sshole
 Source: Hacker News RSS
 Category: technology
-URL: https://www.githubstatus.com/incidents/smtdswd1h2w4
-Published: 2026-11-04T10:00:06+00:00
+URL: https://sshhole.com/
+Published: 2026-11-05T12:19:02+00:00
 
-Article URL: https://www.githubstatus.com/incidents/smtdswd1h2w4 Comments URL: https://news.ycombinator.com/item?id=50363378 Points: 145 # Comments: 72
+Article URL: https://sshhole.com Comments URL: https://news.ycombinator.com/item?id=50378228 Points: 645 # Comments: 181
 
-Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)
+Vivaldi 8.3 for Desktop: make bad ads sad
 Source: Hacker News RSS
 Category: technology
-URL: https://news.ycombinator.com/item?id=50363461
-Published: 2026-11-04T10:10:27+00:00
+URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-3
+Published: 2026-11-05T12:39:12+00:00
 
-If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn not to enter confidential information . https://support.google.com/gemini/answer/16836988 “[Gemini app activity] is used to improve Google services for everyone, including by training generative AI models, if your Keep Activity setting is on.“ https://support.google.com/gemini/answer/13594961?hl=en#human_review “A subset of chats are reviewed by human reviewers” https://support.google.com/gemini/answer/13594961?hl=en#pn_retain_data “Chats reviewed by human reviewers [...] are not deleted when you delete your activity. Instead, they are retained for up to three years.” https://support.google.com/gemini/answer/13594961?hl=en#pn_data_usage “Please don’t enter confidential information that you wouldn’t want a reviewer to see or Google to use to improve our services, including machine-learning technologies.” To disable their training on your chat sessions, you need to turn off “Keep Activity” in Gemini’s settings. Turning that off means you’ll lose any chat sessions after 72 hours. I learned this too late, thinking that having a paid subscription = not being turned into the product. Apparently paying is not enough. Thank you to this user on HN for mentioning in another thread: https://news.ycombinator.com/item?id=50355424 Comments URL: https://news.ycombinator.com/item?id=50363461 Points: 250 # Comments: 63
+Article URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-3/ Comments URL: https://news.ycombinator.com/item?id=50378398 Points: 13 # Comments: 9
 
-Geoffrey Hinton: it might turn out we were better off without AI
+Why This Obscure Audio Codec Is a Perfect Fit for the N64
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai
-Published: 2026-11-04T10:23:34+00:00
+URL: https://phoboslab.org/log/2026/11/n64-ulc-codec
+Published: 2026-11-05T12:51:48+00:00
 
-Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 187 # Comments: 135
+Article URL: https://phoboslab.org/log/2026/11/n64-ulc-codec Comments URL: https://news.ycombinator.com/item?id=50378508 Points: 5 # Comments: 0
 
-Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver
+Download your favourite YouTube videos
 Source: Hacker News RSS
 Category: technology
-URL: https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver
-Published: 2026-11-04T11:14:12+00:00
+URL: https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos
+Published: 2026-11-05T13:00:11+00:00
 
-Article URL: https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver Comments URL: https://news.ycombinator.com/item?id=50363968 Points: 59 # Comments: 17
+Article URL: https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/ Comments URL: https://news.ycombinator.com/item?id=50378571 Points: 5 # Comments: 1
 
-AI is forcing us to pay off 40 years of technical debt
+Discord is ditching Electron and its new app uses less RAM
 Source: Hacker News RSS
 Category: technology
-URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
-Published: 2026-11-04T11:52:17+00:00
+URL: https://www.theverge.com/news/1027379/discord-ditching-electron-web-app
+Published: 2026-11-05T13:05:28+00:00
 
-Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 306 # Comments: 193
+Article URL: https://www.theverge.com/news/1027379/discord-ditching-electron-web-app Comments URL: https://news.ycombinator.com/item?id=50378625 Points: 71 # Comments: 40
 
-North Korean fake job interview led to $6.3B Binance heist
+I wish tech companies knew more about me
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398
-Published: 2026-11-04T14:09:55+00:00
+URL: https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me
+Published: 2026-11-05T13:40:52+00:00
 
-Article URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398 Comments URL: https://news.ycombinator.com/item?id=50365755 Points: 8 # Comments: 1
+Article URL: https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me Comments URL: https://news.ycombinator.com/item?id=50378942 Points: 15 # Comments: 0
 
-Jaron Lanier on parallels between AI and social media
+MCP Explained
 Source: Hacker News RSS
 Category: technology
-URL: https://www.youtube.com/watch?v=WxaRn8kX2eI
-Published: 2026-11-04T14:10:14+00:00
+URL: https://mcp-explained.com/
+Published: 2026-11-05T14:08:35+00:00
 
-Article URL: https://www.youtube.com/watch?v=WxaRn8kX2eI Comments URL: https://news.ycombinator.com/item?id=50365760 Points: 4 # Comments: 0
+Article URL: https://mcp-explained.com/ Comments URL: https://news.ycombinator.com/item?id=50379249 Points: 31 # Comments: 7

@@ -1,0 +1,81 @@
+{
+  "topic": "Item Comments Url",
+  "topic_key": "item-comments-url",
+  "confidence": 87.42,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 89.62,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.42,
+  "evidence": [
+    {
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "publisher": "mcp-explained.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-05T14:43:18.802866+00:00"
+    },
+    {
+      "title": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "publisher": "rakhim.exotext.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-05T14:43:18.941183+00:00"
+    },
+    {
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "publisher": "www.theverge.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-05T14:43:19.046692+00:00"
+    },
+    {
+      "title": "Download your favourite YouTube videos",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "publisher": "criminallyvulgar.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-05T14:43:19.160524+00:00"
+    },
+    {
+      "title": "Why This Obscure Audio Codec Is a Perfect Fit for the N64",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "publisher": "phoboslab.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-05T14:43:19.935851+00:00"
+    },
+    {
+      "title": "Vivaldi 8.3 for Desktop: make bad ads sad",
+      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-3/",
+      "publisher": "vivaldi.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-05T14:43:20.838856+00:00"
+    }
+  ]
+}
