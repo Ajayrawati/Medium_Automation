@@ -1,0 +1,81 @@
+{
+  "topic": "Https Url Item",
+  "topic_key": "https-url-item",
+  "confidence": 86.7,
+  "score_breakdown": {
+    "source_quality": 65.24,
+    "corroboration": 100.0,
+    "recency": 85.63,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.7,
+  "evidence": [
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "publisher": "blog.google",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-06T14:21:08.119914+00:00"
+    },
+    {
+      "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
+      "url": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
+      "publisher": "www.msn.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-06T14:21:08.223569+00:00"
+    },
+    {
+      "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "publisher": "www.ycombinator.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-06T14:21:08.642997+00:00"
+    },
+    {
+      "title": "We've built an open-source feature flag server for 11 years",
+      "url": "https://github.com/Unleash/unleash",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-06T14:21:09.360457+00:00"
+    },
+    {
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "url": "https://jhr.pensoft.net/articles.php?id=9096",
+      "publisher": "jhr.pensoft.net",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-06T14:21:10.128396+00:00"
+    },
+    {
+      "title": "Chomsky and the Two Cultures of Statistical Learning",
+      "url": "https://www.norvig.com/chomsky.html",
+      "publisher": "www.norvig.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-06T14:21:10.841103+00:00"
+    }
+  ]
+}

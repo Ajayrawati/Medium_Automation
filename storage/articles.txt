@@ -1,91 +1,16 @@
-JiaFeiMiao-K-Cat / DiscImageStudio
+astral-sh / ruff
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
+URL: https://github.com/astral-sh/ruff
 
-floci-io / floci
+An extremely fast Python linter and code formatter, written in Rust.
+
+cloudflare / security-audit-skill
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/floci-io/floci
+URL: https://github.com/cloudflare/security-audit-skill
 
-Light, fluffy, and always free - The AWS Local Emulator alternative
-
-microsoft / VibeVoice
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/microsoft/VibeVoice
-
-Open-Source Frontier Voice AI
-
-ConardLi / garden-skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ConardLi/garden-skills
-
-ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
-
-scenario-labs / skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/scenario-labs/skills
-
-Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
-
-vercel-labs / agent-browser
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/vercel-labs/agent-browser
-
-Browser automation CLI for AI agents
-
-google / skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/google/skills
-
-Agent Skills for Google products and technologies
-
-lz4 / lz4
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/lz4/lz4
-
-Extremely Fast Compression algorithm
-
-max-sixty / worktrunk
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/max-sixty/worktrunk
-
-Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-
-vercel-labs / agent-desktop
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/vercel-labs/agent-desktop
-
-Computer use CLI for AI agents
-
-D4Vinci / Scrapling
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/D4Vinci/Scrapling
-
-🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
-
-Usagi-org / ai-goofish-monitor
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Usagi-org/ai-goofish-monitor
-
-基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
-
-garrytan / gstack
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/garrytan/gstack
-
-Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 mattpocock / skills
 Source: GitHub Trending
@@ -94,6 +19,97 @@ URL: https://github.com/mattpocock/skills
 
 Skills for Real Engineers. Straight from my .agents directory.
 
+openssl / openssl
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/openssl/openssl
+
+General purpose TLS and crypto library
+
+etcd-io / etcd
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/etcd-io/etcd
+
+Distributed reliable key-value store for the most critical data of a distributed system
+
+nushell / nushell
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/nushell/nushell
+
+A new type of shell
+
+lz4 / lz4
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/lz4/lz4
+
+Extremely Fast Compression algorithm
+
+microsoft / vscode
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/microsoft/vscode
+
+Visual Studio Code
+
+google / skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/google/skills
+
+Agent Skills for Google products and technologies
+
+prometheus / prometheus
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/prometheus/prometheus
+
+The Prometheus monitoring system and time series database.
+
+symfony / symfony
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/symfony/symfony
+
+The Symfony PHP framework
+
+angular / angular
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/angular/angular
+
+Deliver web apps with confidence 🚀
+
+react / react
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/react/react
+
+The library for web and native user interfaces.
+
+rust-lang / rust
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/rust-lang/rust
+
+Empowering everyone to build reliable and efficient software.
+
+mpv-player / mpv
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/mpv-player/mpv
+
+🎥 Command line media player
+
+rails / rails
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/rails/rails
+
+Ruby on Rails
+
 NVIDIA / auto-ontology
 Source: GitHub Trending
 Category: technology
@@ -101,190 +117,190 @@ URL: https://github.com/NVIDIA/auto-ontology
 
 Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 
-A new Go API for JSON
+zed-industries / zed
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/zed-industries/zed
+
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+Window Sweaters
 Source: Hacker News
 Category: technology
-URL: https://go.dev/blog/jsonv2
-Published: 2026-11-04T17:52:11+00:00
-Score: 359
+URL: https://github.com/saragordic/window-sweaters
+Published: 2026-11-05T16:50:14+00:00
+Score: 396
 
-Spreading Liquid with Three.js
+The Hackintosh Reborn
 Source: Hacker News
 Category: technology
-URL: https://mofu-dev.com/en/blog/fluid-foundation
-Published: 2026-11-02T18:45:54+00:00
-Score: 180
+URL: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai
+Published: 2026-11-05T19:08:22+00:00
+Score: 355
 
-Partial Operator Precedence
+sshole
 Source: Hacker News
-Category: technology
-URL: https://ziglang.org/devlog/2026
-Published: 2026-11-02T17:22:20+00:00
-Score: 80
-
-Kimi K3.1 Pro model weights are out
-Source: Hacker News
-Category: technology
-URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro
-Published: 2026-11-04T15:30:30+00:00
-Score: 590
-
-Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding
-Source: Hacker News RSS
-Category: technology
-URL: https://www.ricursive.com/ripple
-Published: 2026-11-04T18:53:29+00:00
-
-Article URL: https://www.ricursive.com/ripple Comments URL: https://news.ycombinator.com/item?id=50369925 Points: 315 # Comments: 113
-
-Insects don't swarm at LED lights
-Source: Hacker News RSS
-Category: technology
-URL: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights
-Published: 2026-11-04T19:50:23+00:00
-
-Article URL: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/ Comments URL: https://news.ycombinator.com/item?id=50370610 Points: 296 # Comments: 151
-
-Residential proxies detected on White House network
-Source: Hacker News RSS
-Category: technology
-URL: https://layer3intel.com/blog/residential-proxies-white-house-network
-Published: 2026-11-04T20:45:18+00:00
-
-https://krebsonsecurity.com/2026/11/want-to-rent-an-internet... Comments URL: https://news.ycombinator.com/item?id=50371246 Points: 1183 # Comments: 383
-
-A thousand fewer paths to root
-Source: Hacker News RSS
-Category: technology
-URL: https://openai.com/index/a-thousand-fewer-paths-to-root
-Published: 2026-11-04T23:33:14+00:00
-
-Article URL: https://openai.com/index/a-thousand-fewer-paths-to-root/ Comments URL: https://news.ycombinator.com/item?id=50372929 Points: 430 # Comments: 316
-
-Images 2.6
-Source: Hacker News RSS
-Category: technology
-URL: https://openai.com/index/introducing-images-2-6
-Published: 2026-11-04T23:35:44+00:00
-
-Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 347 # Comments: 209
-
-Lemmings CSS Animation
-Source: Hacker News RSS
-Category: technology
-URL: https://markblah.github.io/lemmings
-Published: 2026-11-05T04:54:10+00:00
-
-Article URL: https://markblah.github.io/lemmings/ Comments URL: https://news.ycombinator.com/item?id=50375354 Points: 289 # Comments: 54
-
-Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio
-Source: Hacker News RSS
-Category: technology
-URL: https://www.altera.com/newsroom/agilex-2x
-Published: 2026-11-05T05:47:14+00:00
-
-Article URL: https://www.altera.com/newsroom/agilex-2x Comments URL: https://news.ycombinator.com/item?id=50375653 Points: 48 # Comments: 16
-
-Being a kid making games in the early 2000s
-Source: Hacker News RSS
-Category: technology
-URL: https://jaytholen.net/teengamedev
-Published: 2026-11-05T05:53:53+00:00
-
-Article URL: https://jaytholen.net/teengamedev/ Comments URL: https://news.ycombinator.com/item?id=50375691 Points: 70 # Comments: 28
-
-GPT-6 Astra covertly underperforms on safety research
-Source: Hacker News RSS
-Category: technology
-URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks
-Published: 2026-11-05T07:44:30+00:00
-
-Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 62 # Comments: 21
-
-Baidu released ERNIE 5.5 Flash Base
-Source: Hacker News RSS
-Category: technology
-URL: https://ernie.baidu.com/release/ernie-5-5-flash-base
-Published: 2026-11-05T09:29:12+00:00
-
-Article URL: https://ernie.baidu.com/release/ernie-5-5-flash-base/ Comments URL: https://news.ycombinator.com/item?id=50377078 Points: 112 # Comments: 63
-
-OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability
-Source: Hacker News RSS
-Category: technology
-URL: https://hachyderm.io/@damienmiller/117563026759098135
-Published: 2026-11-05T09:46:17+00:00
-
-Article URL: https://hachyderm.io/@damienmiller/117563026759098135 Comments URL: https://news.ycombinator.com/item?id=50377221 Points: 131 # Comments: 45
-
-Awesome repositories are no longer awesome
-Source: Hacker News RSS
-Category: technology
-URL: https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome
-Published: 2026-11-05T11:16:51+00:00
-
-Article URL: https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/ Comments URL: https://news.ycombinator.com/item?id=50377821 Points: 132 # Comments: 66
-
-OpenSSH 10.6p2 Critical workaround for alpine without PAM
-Source: Hacker News RSS
-Category: technology
-URL: https://www.openssh.org/releasenotes.html
-Published: 2026-11-05T11:40:30+00:00
-
-Article URL: https://www.openssh.org/releasenotes.html#10.6p2 Comments URL: https://news.ycombinator.com/item?id=50377976 Points: 69 # Comments: 3
-
-Sshole
-Source: Hacker News RSS
 Category: technology
 URL: https://sshhole.com/
 Published: 2026-11-05T12:19:02+00:00
+Score: 2802
 
-Article URL: https://sshhole.com Comments URL: https://news.ycombinator.com/item?id=50378228 Points: 645 # Comments: 181
-
-Vivaldi 8.3 for Desktop: make bad ads sad
+Pangram Image 1.0
 Source: Hacker News RSS
 Category: technology
-URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-3
-Published: 2026-11-05T12:39:12+00:00
+URL: https://www.pangram.com/blog/introducing-pangram-image-1-0
+Published: 2026-11-05T19:27:52+00:00
 
-Article URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-3/ Comments URL: https://news.ycombinator.com/item?id=50378398 Points: 13 # Comments: 9
+Article URL: https://www.pangram.com/blog/introducing-pangram-image-1-0 Comments URL: https://news.ycombinator.com/item?id=50383294 Points: 129 # Comments: 59
 
-Why This Obscure Audio Codec Is a Perfect Fit for the N64
+MS Paint Remote Code Execution Vulnerability
 Source: Hacker News RSS
 Category: technology
-URL: https://phoboslab.org/log/2026/11/n64-ulc-codec
-Published: 2026-11-05T12:51:48+00:00
+URL: https://www.cve.org/CVERecord?id=CVE-2026-83844
+Published: 2026-11-05T20:43:42+00:00
 
-Article URL: https://phoboslab.org/log/2026/11/n64-ulc-codec Comments URL: https://news.ycombinator.com/item?id=50378508 Points: 5 # Comments: 0
+Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 609 # Comments: 226
 
-Download your favourite YouTube videos
+Claude Code sends your email address to websites
 Source: Hacker News RSS
 Category: technology
-URL: https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos
-Published: 2026-11-05T13:00:11+00:00
+URL: https://github.com/anthropics/claude-code/issues/107757
+Published: 2026-11-05T22:17:15+00:00
 
-Article URL: https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/ Comments URL: https://news.ycombinator.com/item?id=50378571 Points: 5 # Comments: 1
+Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1318 # Comments: 417
 
-Discord is ditching Electron and its new app uses less RAM
+Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theverge.com/news/1027379/discord-ditching-electron-web-app
-Published: 2026-11-05T13:05:28+00:00
+URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html
+Published: 2026-11-05T23:09:57+00:00
 
-Article URL: https://www.theverge.com/news/1027379/discord-ditching-electron-web-app Comments URL: https://news.ycombinator.com/item?id=50378625 Points: 71 # Comments: 40
+Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 425 # Comments: 193
 
-I wish tech companies knew more about me
+Inkling 2 Small
 Source: Hacker News RSS
 Category: technology
-URL: https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me
-Published: 2026-11-05T13:40:52+00:00
+URL: https://thinkingmachines.ai/news/inkling-2-small
+Published: 2026-11-06T00:00:24+00:00
 
-Article URL: https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me Comments URL: https://news.ycombinator.com/item?id=50378942 Points: 15 # Comments: 0
+Article URL: https://thinkingmachines.ai/news/inkling-2-small/ Comments URL: https://news.ycombinator.com/item?id=50386338 Points: 238 # Comments: 75
 
-MCP Explained
+Nvidia Kubernetes Engine (NVKE)
 Source: Hacker News RSS
 Category: technology
-URL: https://mcp-explained.com/
-Published: 2026-11-05T14:08:35+00:00
+URL: https://github.com/dsx-ai-factory/nvke
+Published: 2026-11-06T03:16:26+00:00
 
-Article URL: https://mcp-explained.com/ Comments URL: https://news.ycombinator.com/item?id=50379249 Points: 31 # Comments: 7
+Article URL: https://github.com/dsx-ai-factory/nvke Comments URL: https://news.ycombinator.com/item?id=50387738 Points: 103 # Comments: 23
+
+Pwn.college
+Source: Hacker News RSS
+Category: technology
+URL: https://pwn.college/
+Published: 2026-11-06T03:27:14+00:00
+
+Article URL: https://pwn.college/ Comments URL: https://news.ycombinator.com/item?id=50387796 Points: 211 # Comments: 33
+
+From Linux to Wikipedia: How Volunteers Build the Internet
+Source: Hacker News RSS
+Category: technology
+URL: https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet
+Published: 2026-11-06T04:17:49+00:00
+
+Article URL: https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50388122 Points: 169 # Comments: 54
+
+Britain to make salary disclosure in job ads mandatory
+Source: Hacker News RSS
+Category: technology
+URL: https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05
+Published: 2026-11-06T07:22:04+00:00
+
+Article URL: https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50389222 Points: 358 # Comments: 299
+
+Hardcoded credentials and other issues in Tata Motors App
+Source: Hacker News RSS
+Category: technology
+URL: https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537
+Published: 2026-11-06T07:28:39+00:00
+
+Article URL: https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537 Comments URL: https://news.ycombinator.com/item?id=50389260 Points: 58 # Comments: 10
+
+Blender's UI and Runtime: Much Faster Than GPUI
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/ppmpreetham/BUI
+Published: 2026-11-06T07:40:35+00:00
+
+Article URL: https://github.com/ppmpreetham/BUI Comments URL: https://news.ycombinator.com/item?id=50389333 Points: 385 # Comments: 157
+
+Kugelblitz – Mac-Native Google Earth Alternative
+Source: Hacker News RSS
+Category: technology
+URL: https://apps.metaebene.me/en/kugelblitz
+Published: 2026-11-06T07:47:38+00:00
+
+Article URL: https://apps.metaebene.me/en/kugelblitz Comments URL: https://news.ycombinator.com/item?id=50389370 Points: 143 # Comments: 44
+
+Multiplayer tanks that demolish real buildings from OpenStreetMap
+Source: Hacker News RSS
+Category: technology
+URL: https://worldstrike.fun/
+Published: 2026-11-06T07:55:48+00:00
+
+Article URL: https://worldstrike.fun/ Comments URL: https://news.ycombinator.com/item?id=50389420 Points: 103 # Comments: 65
+
+Chomsky and the Two Cultures of Statistical Learning
+Source: Hacker News RSS
+Category: technology
+URL: https://www.norvig.com/chomsky.html
+Published: 2026-11-06T08:18:36+00:00
+
+Article URL: https://www.norvig.com/chomsky.html Comments URL: https://news.ycombinator.com/item?id=50389570 Points: 23 # Comments: 5
+
+Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105
+Published: 2026-11-06T09:27:12+00:00
+
+Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 340 # Comments: 208
+
+Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)
+Source: Hacker News RSS
+Category: technology
+URL: https://jhr.pensoft.net/articles.php?id=9096
+Published: 2026-11-06T10:21:15+00:00
+
+Article URL: https://jhr.pensoft.net/articles.php?id=9096 Comments URL: https://news.ycombinator.com/item?id=50390525 Points: 78 # Comments: 26
+
+We've built an open-source feature flag server for 11 years
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/Unleash/unleash
+Published: 2026-11-06T11:40:06+00:00
+
+Article URL: https://github.com/Unleash/unleash Comments URL: https://news.ycombinator.com/item?id=50391145 Points: 39 # Comments: 21
+
+Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers
+Source: Hacker News RSS
+Category: technology
+URL: https://www.ycombinator.com/companies/mbodi-ai/jobs
+Published: 2026-11-06T12:00:42+00:00
+
+Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs Comments URL: https://news.ycombinator.com/item?id=50391342 Points: 0 # Comments: 0
+
+Tesla winds down Cybertruck production after years of poor sales in few markets
+Source: Hacker News RSS
+Category: technology
+URL: https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv
+Published: 2026-11-06T12:13:51+00:00
+
+Article URL: https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 119 # Comments: 106
+
+Gemini Omni 1.2 Flash
+Source: Hacker News RSS
+Category: technology
+URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash
+Published: 2026-11-06T13:35:27+00:00
+
+Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 24 # Comments: 10
