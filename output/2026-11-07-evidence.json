@@ -1,0 +1,81 @@
+{
+  "topic": "Item Https Points",
+  "topic_key": "item-https-points",
+  "confidence": 85.32,
+  "score_breakdown": {
+    "source_quality": 65.45,
+    "corroboration": 100.0,
+    "recency": 78.43,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.32,
+  "evidence": [
+    {
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "publisher": "www.windowslatest.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-07T13:08:17.642119+00:00"
+    },
+    {
+      "title": "Upload Your RAM",
+      "url": "https://uploadyourram.org",
+      "publisher": "uploadyourram.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-07T13:08:17.889703+00:00"
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "publisher": "8rank.ai",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-07T13:08:19.277712+00:00"
+    },
+    {
+      "title": "Running a law firm on Free software",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "publisher": "decoded.legal",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-07T13:08:20.452361+00:00"
+    },
+    {
+      "title": "Port 0: The Port That Does Not Exist",
+      "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "publisher": "acid.vegas",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-07T13:08:35.645628+00:00"
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "publisher": "nfsu2.xyz",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-07T13:08:35.984318+00:00"
+    }
+  ]
+}
