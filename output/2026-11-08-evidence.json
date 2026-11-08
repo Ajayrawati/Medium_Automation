@@ -1,0 +1,81 @@
+{
+  "topic": "News.ycombinator.com Points Comments",
+  "topic_key": "news.ycombinator.com-points-comments",
+  "confidence": 85.82,
+  "score_breakdown": {
+    "source_quality": 65.48,
+    "corroboration": 100.0,
+    "recency": 80.89,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.82,
+  "evidence": [
+    {
+      "title": "A lack of male protagonists is making it harder to get young boys into books",
+      "url": "https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/",
+      "publisher": "www.theatlantic.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-08T13:29:57.462898+00:00"
+    },
+    {
+      "title": "I will not be using LLMs in my coding",
+      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "publisher": "www.polso.info",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-08T13:29:57.683741+00:00"
+    },
+    {
+      "title": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "publisher": "krthr.co",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-08T13:29:57.776455+00:00"
+    },
+    {
+      "title": "Petered (what happens after the Peter Principle)",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "publisher": "aworkinglibrary.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-08T13:29:57.854486+00:00"
+    },
+    {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "publisher": "linebender.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-11-08T13:29:57.942857+00:00"
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-11-08T13:29:58.427868+00:00"
+    }
+  ]
+}

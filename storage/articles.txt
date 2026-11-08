@@ -1,10 +1,3 @@
-dsx-ai-factory / nvke
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/dsx-ai-factory/nvke
-
-NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
-
 ranxianglei / billion-context
 Source: GitHub Trending
 Category: technology
@@ -12,61 +5,12 @@ URL: https://github.com/ranxianglei/billion-context
 
 A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
 
-zed-industries / zed
+google-deepmind / mujoco
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/zed-industries/zed
+URL: https://github.com/google-deepmind/mujoco
 
-Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-mbillow / localthings
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/mbillow/localthings
-
-Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
-
-tailwindlabs / tailwindcss
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/tailwindlabs/tailwindcss
-
-A utility-first CSS framework for rapid UI development.
-
-astral-sh / ruff
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/astral-sh/ruff
-
-An extremely fast Python linter and code formatter, written in Rust.
-
-milind-soni / OpenMausBot
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/milind-soni/OpenMausBot
-
-Open-source Grok Bot alternative with a virtual machine that bots can use
-
-sherlock-project / sherlock
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/sherlock-project/sherlock
-
-Hunt down social media accounts by username across social networks
-
-prometheus / prometheus
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/prometheus/prometheus
-
-The Prometheus monitoring system and time series database.
-
-meta / astryx
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/meta/astryx
-
-An open source design system that's fully customizable and agent ready
+Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 anthropics / skills
 Source: GitHub Trending
@@ -75,26 +19,12 @@ URL: https://github.com/anthropics/skills
 
 Public repository for Agent Skills
 
-mattpocock / skills
+meta / astryx
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/mattpocock/skills
+URL: https://github.com/meta/astryx
 
-Skills for Real Engineers. Straight from my .agents directory.
-
-google / skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/google/skills
-
-Agent Skills for Google products and technologies
-
-cloudflare / security-audit-skill
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/cloudflare/security-audit-skill
-
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+An open source design system that's fully customizable and agent ready
 
 vercel-labs / agent-browser
 Source: GitHub Trending
@@ -103,206 +33,89 @@ URL: https://github.com/vercel-labs/agent-browser
 
 Browser automation CLI for AI agents
 
-8088 Domination Post-Mortem
+anthropics / claude-quickstarts
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/anthropics/claude-quickstarts
+
+A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+
+milind-soni / OpenMausBot
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/milind-soni/OpenMausBot
+
+Open-source Grok Bot alternative with a virtual machine that bots can use
+
+dsx-ai-factory / nvke
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/dsx-ai-factory/nvke
+
+NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
+
+sherlock-project / sherlock
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/sherlock-project/sherlock
+
+Hunt down social media accounts by username across social networks
+
+Uranium cubes reveal why the German nuclear project failed
 Source: Hacker News
 Category: technology
-URL: https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1
-Published: 2026-11-04T18:06:14+00:00
-Score: 30
-
-Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5
-Source: Hacker News
-Category: technology
-URL: https://github.com/hyphatech/spindle
-Published: 2026-11-05T10:45:28+00:00
-Score: 6
-
-PostgreSQL Internals [pdf]
-Source: Hacker News
-Category: technology
-URL: https://edu.postgrespro.com/postgresql_internals-14_en.pdf
-Published: 2026-11-04T05:22:43+00:00
-Score: 42
-
-ToothPaste
-Source: Hacker News
-Category: technology
-URL: https://brisk4t.github.io/blog/toothpaste
-Published: 2026-11-03T18:27:27+00:00
-Score: 13
-
-US FAA says it will phase out floppy disks from air traffic control by 2028
-Source: Hacker News
-Category: technology
-URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05
-Published: 2026-11-06T04:00:28+00:00
-Score: 356
-
-Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE
-Source: Hacker News
-Category: technology
-URL: https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747
-Published: 2026-11-04T02:19:16+00:00
-Score: 134
-
-Tesla to wind down Cybertruck production
-Source: Hacker News
-Category: technology
-URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817
-Published: 2026-11-06T12:13:51+00:00
-Score: 1050
-
-Gemini Omni 1.2 Flash
-Source: Hacker News RSS
-Category: technology
-URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash
-Published: 2026-11-06T13:35:27+00:00
-
-Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 346 # Comments: 233
-
-First steps in bare-metal programming using UEFI
-Source: Hacker News RSS
-Category: technology
-URL: https://kevinboone.me/efitest_index.html
-Published: 2026-11-06T16:50:29+00:00
-
-Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 230 # Comments: 43
-
-Notes on San Marino
-Source: Hacker News RSS
-Category: technology
-URL: https://mattlakeman.org/2026/11/05/notes-on-san-marino
-Published: 2026-11-06T17:12:05+00:00
-
-Article URL: https://mattlakeman.org/2026/11/05/notes-on-san-marino/ Comments URL: https://news.ycombinator.com/item?id=50395183 Points: 88 # Comments: 30
-
-Devvm.dev: One VM for every project
-Source: Hacker News RSS
-Category: technology
-URL: https://devvm.dev/
-Published: 2026-11-06T17:30:22+00:00
-
-Article URL: https://devvm.dev/ Comments URL: https://news.ycombinator.com/item?id=50395450 Points: 165 # Comments: 62
-
-Restaurant Delivery Payment-Skimming Campaign
-Source: Hacker News RSS
-Category: technology
-URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming
-Published: 2026-11-06T19:19:27+00:00
-
-Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 136 # Comments: 69
-
-GitHub's new Git storage architecture
-Source: Hacker News RSS
-Category: technology
-URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture
-Published: 2026-11-06T19:24:21+00:00
-
-Article URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/ Comments URL: https://news.ycombinator.com/item?id=50397099 Points: 165 # Comments: 36
-
-Firecracker VM Escape: PwnEscape Part 2
-Source: Hacker News RSS
-Category: technology
-URL: https://pwn.ai/blog/firecracker-escape
-Published: 2026-11-06T19:33:38+00:00
-
-Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 254 # Comments: 110
-
-A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
-Source: Hacker News RSS
-Category: technology
-URL: https://hightouch.com/blog/llm-judges-identity-resolution
-Published: 2026-11-06T19:48:51+00:00
-
-Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 510 # Comments: 122
-
-Google has acquired Crusoe's data center site in southeast Wyoming
-Source: Hacker News RSS
-Category: technology
-URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update
-Published: 2026-11-06T20:09:14+00:00
-
-Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update Comments URL: https://news.ycombinator.com/item?id=50397711 Points: 82 # Comments: 29
-
-AI is dramatically accelerating AI research
-Source: Hacker News RSS
-Category: technology
-URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai
-Published: 2026-11-06T20:27:23+00:00
-
-Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 331 # Comments: 294
-
-Libghostty 1.0
-Source: Hacker News RSS
-Category: technology
-URL: https://mitchellh.com/writing/libghostty-1-0
-Published: 2026-11-06T23:30:52+00:00
-
-Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 738 # Comments: 121
-
-RealPage rent-pricing case wraps with nearly $360M to renters
-Source: Hacker News RSS
-Category: technology
-URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553
-Published: 2026-11-06T23:37:19+00:00
-
-Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/ Comments URL: https://news.ycombinator.com/item?id=50399991 Points: 140 # Comments: 79
-
-A barbarian tribe's mythic origin story is true, ancient DNA reveals
-Source: Hacker News RSS
-Category: technology
-URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals
-Published: 2026-11-07T04:54:36+00:00
-
-Article URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals Comments URL: https://news.ycombinator.com/item?id=50401740 Points: 130 # Comments: 98
-
-The Components of Agent Memory
-Source: Hacker News RSS
-Category: technology
-URL: https://www.anthropic.com/research/components-of-agent-memory
-Published: 2026-11-07T06:39:04+00:00
-
-Article URL: https://www.anthropic.com/research/components-of-agent-memory Comments URL: https://news.ycombinator.com/item?id=50402212 Points: 71 # Comments: 38
-
-Need for Speed Underground 2 online in the browser
-Source: Hacker News RSS
-Category: technology
-URL: https://nfsu2.xyz/
-Published: 2026-11-07T09:36:36+00:00
-
-Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 106 # Comments: 37
-
-Port 0: The Port That Does Not Exist
-Source: Hacker News RSS
-Category: technology
-URL: https://acid.vegas/blog/the-port-that-does-not-exist
-Published: 2026-11-07T09:38:26+00:00
-
-Article URL: https://acid.vegas/blog/the-port-that-does-not-exist/ Comments URL: https://news.ycombinator.com/item?id=50403063 Points: 20 # Comments: 4
-
-Running a law firm on Free software
-Source: Hacker News RSS
-Category: technology
-URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition
-Published: 2026-11-07T09:39:06+00:00
-
-Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 16 # Comments: 0
+URL: https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed
+Published: 2026-11-05T10:52:04+00:00
+Score: 157
 
 Every Mac comes with an (undocumented) family member classifier
-Source: Hacker News RSS
+Source: Hacker News
 Category: technology
 URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph
 Published: 2026-11-07T09:46:03+00:00
+Score: 760
 
-Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 184 # Comments: 98
-
-Upload Your RAM
-Source: Hacker News RSS
+Earliest evidence of cannabis use found in ancient Siberian tomb
+Source: Hacker News
 Category: technology
-URL: https://uploadyourram.org/
-Published: 2026-11-07T10:15:26+00:00
+URL: https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl
+Published: 2026-11-06T02:27:08+00:00
+Score: 19
 
-Article URL: https://uploadyourram.org Comments URL: https://news.ycombinator.com/item?id=50403214 Points: 155 # Comments: 101
+Need for Speed Underground 2 online in the browser
+Source: Hacker News
+Category: technology
+URL: https://nfsu2.xyz/
+Published: 2026-11-07T09:36:36+00:00
+Score: 1038
+
+New typeface using intricate designs from Shakespeare's First Folio (2023)
+Source: Hacker News
+Category: technology
+URL: https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323
+Published: 2026-11-04T20:53:54+00:00
+Score: 22
+
+Finding Xanadu: Inside a JRPG classic translation 15 years in the making
+Source: Hacker News
+Category: technology
+URL: https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of
+Published: 2026-11-05T13:44:07+00:00
+Score: 36
+
+Porting Android 16 to my blind mother's keypad phone
+Source: Hacker News
+Category: technology
+URL: https://z1x.us/blog/four-hundred-bucks-of-e-waste
+Published: 2026-11-04T15:18:59+00:00
+Score: 12
+
+Clj.rs – a Clojure dialect implemented in Rust
+Source: Hacker News
+Category: technology
+URL: https://clj.rs/
+Published: 2026-11-04T15:23:16+00:00
+Score: 86
 
 Every Windows 11 app should kill Electron, and Discord just showed why
 Source: Hacker News RSS
@@ -310,4 +123,156 @@ Category: technology
 URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in
 Published: 2026-11-07T11:11:15+00:00
 
-Article URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ Comments URL: https://news.ycombinator.com/item?id=50403507 Points: 32 # Comments: 20
+Article URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ Comments URL: https://news.ycombinator.com/item?id=50403507 Points: 367 # Comments: 360
+
+MaxxBench – "Nice DeepSWE score. But is it true?"
+Source: Hacker News RSS
+Category: technology
+URL: https://maxxbench.unlap.ai/research/why-maxxbench
+Published: 2026-11-07T17:19:00+00:00
+
+Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 334 # Comments: 91
+
+Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/hedgerow-dev/coldframe
+Published: 2026-11-07T17:27:30+00:00
+
+I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on eppser/danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers. Things that were fun to get right: - Matching real units. I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions. The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A. The Dixell persona sends no Server header and pads its page to exactly 8,202 bytes. - Recognising exploit attempts. It recognises CVE-2025-41450, the Danfoss “code of the day” login bypass, and records whether the submitted code is correct for today. It also tags attempts targeting three other Danfoss CVEs and the XWEB vulnerabilities. - Letting them in. Default logins open a fake store dashboard with defrost buttons, so you see the second move, not just the first. Nothing behind it is real. Two instances have been live for a day. So far they’ve only seen generic scanners and Shodan’s crawler, which is called refrigerator.census.shodan.io. Feedback welcome, especially from anyone who has seen these devices in the field! Comments URL: https://news.ycombinator.com/item?id=50406292 Points: 254 # Comments: 61
+
+The end of Microsoft Research's AI Frontiers group
+Source: Hacker News RSS
+Category: technology
+URL: https://hunch.net/?p=13764006
+Published: 2026-11-07T18:02:17+00:00
+
+https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 472 # Comments: 282
+
+What I run on my $10 USD OpenStick homelab
+Source: Hacker News RSS
+Category: technology
+URL: https://blog.bosscher.ch/posts/openstick
+Published: 2026-11-07T18:12:12+00:00
+
+Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 643 # Comments: 118
+
+Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files
+Source: Hacker News RSS
+Category: technology
+URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+Published: 2026-11-07T20:45:32+00:00
+
+Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 450 # Comments: 313
+
+Making any integer with four 2s (2025)
+Source: Hacker News RSS
+Category: technology
+URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s
+Published: 2026-11-07T22:38:58+00:00
+
+Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 159 # Comments: 41
+
+GitHub New pull request overview page in public preview
+Source: Hacker News RSS
+Category: technology
+URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview
+Published: 2026-11-07T23:09:40+00:00
+
+Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 151 # Comments: 102
+
+Consumer brain wave headsets threaten privacy
+Source: Hacker News RSS
+Category: technology
+URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F
+Published: 2026-11-08T02:02:38+00:00
+
+Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 78 # Comments: 44
+
+Goodbye Claude, Hello Pi
+Source: Hacker News RSS
+Category: technology
+URL: https://caleb.software/posts/claude-to-pi.html
+Published: 2026-11-08T03:11:48+00:00
+
+Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 410 # Comments: 261
+
+ISponsorBlockTV: SponsorBlock client for all YouTube TV clients
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/dmunozv04/isponsorblocktv
+Published: 2026-11-08T03:47:19+00:00
+
+Article URL: https://github.com/dmunozv04/isponsorblocktv Comments URL: https://news.ycombinator.com/item?id=50410249 Points: 62 # Comments: 19
+
+Kirlian Photography: Building Your Own Equipment
+Source: Hacker News RSS
+Category: technology
+URL: https://imagesco.com/articles/kirlian/kirlian-photography.html
+Published: 2026-11-08T04:14:12+00:00
+
+Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 55 # Comments: 14
+
+WaveDudeNext 2D Wave Simulator
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/graealex/WaveDudeNext
+Published: 2026-11-08T07:09:02+00:00
+
+Article URL: https://github.com/graealex/WaveDudeNext Comments URL: https://news.ycombinator.com/item?id=50411083 Points: 28 # Comments: 6
+
+Agent memory needs its OpenTelemetry moment
+Source: Hacker News RSS
+Category: technology
+URL: https://www.lorekit.io/blog/open-agent-memory-format
+Published: 2026-11-08T08:40:23+00:00
+
+Article URL: https://www.lorekit.io/blog/open-agent-memory-format Comments URL: https://news.ycombinator.com/item?id=50411467 Points: 74 # Comments: 68
+
+Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/synchopate/llama-modchip
+Published: 2026-11-08T10:22:04+00:00
+
+Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 37 # Comments: 16
+
+JIT bitmap text rendering for microcontrollers
+Source: Hacker News RSS
+Category: technology
+URL: https://linebender.org/blog/jit-bitmap-text
+Published: 2026-11-08T10:42:15+00:00
+
+Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 28 # Comments: 5
+
+Petered (what happens after the Peter Principle)
+Source: Hacker News RSS
+Category: technology
+URL: https://aworkinglibrary.com/writing/petered
+Published: 2026-11-08T10:56:43+00:00
+
+Article URL: https://aworkinglibrary.com/writing/petered Comments URL: https://news.ycombinator.com/item?id=50412152 Points: 55 # Comments: 28
+
+Person of Interest
+Source: Hacker News RSS
+Category: technology
+URL: https://krthr.co/person-of-interest
+Published: 2026-11-08T11:23:28+00:00
+
+Article URL: https://krthr.co/person-of-interest/ Comments URL: https://news.ycombinator.com/item?id=50412318 Points: 102 # Comments: 64
+
+I will not be using LLMs in my coding
+Source: Hacker News RSS
+Category: technology
+URL: https://www.polso.info/why-i-will-not-be-using-llms-coding
+Published: 2026-11-08T12:14:10+00:00
+
+Article URL: https://www.polso.info/why-i-will-not-be-using-llms-coding Comments URL: https://news.ycombinator.com/item?id=50412591 Points: 36 # Comments: 23
+
+A lack of male protagonists is making it harder to get young boys into books
+Source: Hacker News RSS
+Category: technology
+URL: https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285
+Published: 2026-11-08T13:07:37+00:00
+
+Article URL: https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/ Comments URL: https://news.ycombinator.com/item?id=50412954 Points: 5 # Comments: 2
