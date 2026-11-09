@@ -1,0 +1,81 @@
+{
+  "topic": "News.ycombinator.com Item Url",
+  "topic_key": "news.ycombinator.com-item-url",
+  "confidence": 86.32,
+  "score_breakdown": {
+    "source_quality": 65.45,
+    "corroboration": 100.0,
+    "recency": 83.42,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.32,
+  "evidence": [
+    {
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "publisher": "www.payments.ca",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-09T16:27:44.675879+00:00"
+    },
+    {
+      "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+      "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-09T16:27:45.237192+00:00"
+    },
+    {
+      "title": "Crypto foundation demanded employees endorse suicide pledge",
+      "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+      "publisher": "www.denverpost.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-09T16:27:45.378469+00:00"
+    },
+    {
+      "title": "I Saw Your HN Comment",
+      "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+      "publisher": "joshstrange.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-09T16:27:45.548394+00:00"
+    },
+    {
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "publisher": "www.anthropocenemagazine.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-09T16:27:45.706499+00:00"
+    },
+    {
+      "title": "Humans will never again create a project like Wikipedia",
+      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "publisher": "www.economist.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-09T16:27:45.789943+00:00"
+    }
+  ]
+}
