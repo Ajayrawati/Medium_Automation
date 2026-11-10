@@ -1,0 +1,81 @@
+{
+  "topic": "Comments Item Article",
+  "topic_key": "comments-item-article",
+  "confidence": 86.62,
+  "score_breakdown": {
+    "source_quality": 64.76,
+    "corroboration": 100.0,
+    "recency": 85.95,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.62,
+  "evidence": [
+    {
+      "title": "Show HN: Ghanaian street games you can play in the browser",
+      "url": "https://www.ghanastreetgames.com/",
+      "publisher": "www.ghanastreetgames.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-10T14:57:15.076710+00:00"
+    },
+    {
+      "title": "The U.S. Is Driving Away Young Scientists",
+      "url": "https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html",
+      "publisher": "www.nytimes.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-10T14:57:15.190347+00:00"
+    },
+    {
+      "title": "Don't buy AR glasses",
+      "url": "https://blog.yaros.ae/dont-buy-ar-glasses/",
+      "publisher": "blog.yaros.ae",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-10T14:57:15.548826+00:00"
+    },
+    {
+      "title": "Ableton Live 13",
+      "url": "https://www.ableton.com/en/live/",
+      "publisher": "www.ableton.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-10T14:57:16.355940+00:00"
+    },
+    {
+      "title": "Let over Lambda\u201350 Years of Lisp (2008)",
+      "url": "https://letoverlambda.com/",
+      "publisher": "letoverlambda.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-10T14:57:16.720688+00:00"
+    },
+    {
+      "title": "What's new in the .NET 11 runtime",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "publisher": "learn.microsoft.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-11-10T14:57:16.825134+00:00"
+    }
+  ]
+}
