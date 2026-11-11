@@ -1,37 +1,16 @@
-mattpocock / skills
+TheAlgorithms / Java
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/mattpocock/skills
+URL: https://github.com/TheAlgorithms/Java
 
-Skills for Real Engineers. Straight from my .agents directory.
+All Algorithms implemented in Java
 
-ranxianglei / billion-context
+openai / codex-security
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/ranxianglei/billion-context
+URL: https://github.com/openai/codex-security
 
-A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
-
-tokio-rs / topcoat
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/tokio-rs/topcoat
-
-A batteries-included framework for building web apps
-
-sherlock-project / sherlock
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/sherlock-project/sherlock
-
-Hunt down social media accounts by username across social networks
-
-vercel-labs / agent-browser
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/vercel-labs/agent-browser
-
-Browser automation CLI for AI agents
+OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 
 homeassistant-ai / ha-mcp
 Source: GitHub Trending
@@ -47,19 +26,12 @@ URL: https://github.com/we-promise/sure
 
 The personal finance app for everyone (by everyone)
 
-google-deepmind / mujoco
+vercel-labs / agent-browser
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/google-deepmind/mujoco
+URL: https://github.com/vercel-labs/agent-browser
 
-Multi-Joint dynamics with Contact. A general purpose physics simulator.
-
-anthropics / claude-quickstarts
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/anthropics/claude-quickstarts
-
-A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+Browser automation CLI for AI agents
 
 addyosmani / agent-skills
 Source: GitHub Trending
@@ -68,12 +40,24 @@ URL: https://github.com/addyosmani/agent-skills
 
 Production-grade engineering skills for AI coding agents.
 
-anthropics / skills
+shadcn / improve
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/anthropics/skills
+URL: https://github.com/shadcn/improve
 
-Public repository for Agent Skills
+Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
+GoogleChrome / modern-web-guidance-src
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/GoogleChrome/modern-web-guidance-src
+
+ZhuLinsen / daily_stock_analysis
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ZhuLinsen/daily_stock_analysis
+
+LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 
 meta / astryx
 Source: GitHub Trending
@@ -82,218 +66,190 @@ URL: https://github.com/meta/astryx
 
 An open source design system that's fully customizable and agent ready
 
-Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system
+Why I wrote the BEAM book (2025)
 Source: Hacker News
 Category: technology
-URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
-Published: 2026-11-09T16:00:45+00:00
-Score: 559
+URL: https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook
+Published: 2026-11-09T15:41:35+00:00
+Score: 141
 
-How hard is it to check for whitespace?
+.name Grandfathered
 Source: Hacker News
 Category: technology
-URL: https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace
-Published: 2026-11-06T14:31:22+00:00
-Score: 82
+URL: https://neil.fraser.name/news/2026/11/10
+Published: 2026-11-10T16:37:44+00:00
+Score: 902
 
-Taking another shot at the cheap IP camera, part 2
+Smart home devices should work without the internet
 Source: Hacker News
 Category: technology
-URL: https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2
-Published: 2026-11-09T14:40:42+00:00
-Score: 8
+URL: https://docodethatmatters.com/home-automation-overnight-success
+Published: 2026-11-10T15:25:20+00:00
+Score: 1086
 
-Foldable Flight: The Best Paper Airplanes
+Pharo in the Browser with WebAssembly
 Source: Hacker News
 Category: technology
-URL: https://www.foldableflight.com/
-Published: 2026-11-09T12:19:22+00:00
-Score: 1118
+URL: https://massimo-nocentini.github.io/pharo-vm/world.html
+Published: 2026-11-11T14:21:27+00:00
+Score: 4
 
-Show HN: Ghanaian street games you can play in the browser
-Source: Hacker News
-Category: technology
-URL: https://www.ghanastreetgames.com/
-Published: 2026-11-08T15:31:52+00:00
-Score: 40
-
-Simon Winchester, Author of 'The Professor and the Madman,' Has Died
-Source: Hacker News
-Category: technology
-URL: https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html
-Published: 2026-11-08T04:07:21+00:00
-Score: 30
-
-Claude Fable 5.2 and Mythos 5.2
-Source: Hacker News
-Category: technology
-URL: https://www.anthropic.com/claude-fable-and-mythos-5-2
-Published: 2026-11-09T18:01:10+00:00
-Score: 738
-
-NetBSD 11 desktop on a Raspberry Pi 4
-Source: Hacker News
-Category: technology
-URL: https://neongd.com/articles/netbsd11-rpi4.gmi
-Published: 2026-11-08T12:07:17+00:00
-Score: 35
-
-E-means: Outperforming k-means in one-tenth the epochs
+Synaptics patent claims stop work on DisplayLink drivers
 Source: Hacker News RSS
 Category: technology
-URL: https://e-means.github.io/
-Published: 2026-11-09T18:45:43+00:00
+URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f
+Published: 2026-11-10T18:02:02+00:00
 
-Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 449 # Comments: 57
+Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 435 # Comments: 246
 
-USPS now offers official ZIP Code boundary polygons
+Starlink Mini 2
 Source: Hacker News RSS
 Category: technology
-URL: https://postalpro.usps.com/zcb
-Published: 2026-11-09T19:58:59+00:00
+URL: https://starlink.com/mini-2
+Published: 2026-11-10T18:22:32+00:00
 
-Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 680 # Comments: 345
+Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 455 # Comments: 494
 
-Here comes the sun[light]:An ambient Daylight Clock with time and space controls
+Scion is back and is going to sell a kei truck in America
 Source: Hacker News RSS
 Category: technology
-URL: https://hannahilea.com/blog/daylight-clock
-Published: 2026-11-09T20:00:32+00:00
+URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america
+Published: 2026-11-10T19:50:46+00:00
 
-Article URL: https://hannahilea.com/blog/daylight-clock/ Comments URL: https://news.ycombinator.com/item?id=50431075 Points: 7 # Comments: 0
+Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 512 # Comments: 332
 
-Horible public key tricks
+Six Math Essentials
 Source: Hacker News RSS
 Category: technology
-URL: https://maurycyz.com/projects/badcert
-Published: 2026-11-10T00:07:17+00:00
+URL: https://teorth.github.io/tao-web/six-math-essentials.html
+Published: 2026-11-10T20:58:44+00:00
 
-Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 208 # Comments: 71
+Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 289 # Comments: 56
 
-Locating the source of a mysterious beep
+Apple has new Mac app coming to make running local AI models easy
 Source: Hacker News RSS
 Category: technology
-URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps
-Published: 2026-11-10T00:10:46+00:00
+URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy
+Published: 2026-11-10T21:25:03+00:00
 
-Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 257 # Comments: 131
+Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 365 # Comments: 365
 
-Ultorg: The User Interface for Relational Databases
+Tracking Anthropic-discovered vulnerabilities
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ultorg.com/
-Published: 2026-11-10T03:59:39+00:00
+URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
+Published: 2026-11-10T22:17:56+00:00
 
-Article URL: https://www.ultorg.com/ Comments URL: https://news.ycombinator.com/item?id=50435898 Points: 111 # Comments: 33
+Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 430 # Comments: 203
 
-Your TV can see through walls
+A great old-timey game-programming hack (2013)
 Source: Hacker News RSS
 Category: technology
-URL: https://maurycyz.com/projects/fading
-Published: 2026-11-10T05:24:45+00:00
+URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html
+Published: 2026-11-11T01:56:31+00:00
 
-Article URL: https://maurycyz.com/projects/fading/ Comments URL: https://news.ycombinator.com/item?id=50436410 Points: 206 # Comments: 84
+Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 213 # Comments: 43
 
-Amazon saves millions by replacing Sonnet 4.6 with Strands Decider
+To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA
 Source: Hacker News RSS
 Category: technology
-URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider
-Published: 2026-11-10T06:01:08+00:00
+URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna
+Published: 2026-11-11T02:57:08+00:00
 
-Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 474 # Comments: 173
+Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna Comments URL: https://news.ycombinator.com/item?id=50449275 Points: 132 # Comments: 105
 
-ClickHouse Acquires Xata
+Protecting SSH Keys with macOS Secure Enclave
 Source: Hacker News RSS
 Category: technology
-URL: https://xata.io/blog/xata-is-joining-clickhouse
-Published: 2026-11-10T06:14:51+00:00
+URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys
+Published: 2026-11-11T04:28:57+00:00
 
-Article URL: https://xata.io/blog/xata-is-joining-clickhouse Comments URL: https://news.ycombinator.com/item?id=50436706 Points: 72 # Comments: 7
+Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ Comments URL: https://news.ycombinator.com/item?id=50449748 Points: 286 # Comments: 107
 
-Fireworks AI security breach impacts Notion and their customers
+Show HN: Black Ops II statically recompiled to native ARM64 macOS
 Source: Hacker News RSS
 Category: technology
-URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor
-Published: 2026-11-10T07:19:38+00:00
+URL: https://github.com/adrbn/bo2-mac
+Published: 2026-11-11T04:56:47+00:00
 
-Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 100 # Comments: 33
+I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta. The best thing is the performance, although some heat issues are still to fix. You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps. Split-screen was not in the PC version, but I've been working on it lately; it's coming soon! LAN mode is on the roadmap for later too :) Comments URL: https://news.ycombinator.com/item?id=50449891 Points: 64 # Comments: 26
 
-Fossil CO2 emissions decrease by 0.4% in 2026
+Greg Kurtzer's Ginux is now a userspace kernel
 Source: Hacker News RSS
 Category: technology
-URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026
-Published: 2026-11-10T08:59:41+00:00
+URL: https://github.com/gmkurtzer/ginux
+Published: 2026-11-11T05:25:54+00:00
 
-Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/ Comments URL: https://news.ycombinator.com/item?id=50437752 Points: 105 # Comments: 127
+Article URL: https://github.com/gmkurtzer/ginux Comments URL: https://news.ycombinator.com/item?id=50450007 Points: 98 # Comments: 52
 
-Queens Public library under ransomware attack e-borrowing suspended
+Using voltage glitching to unleash the A100 in my mining card
 Source: Hacker News RSS
 Category: technology
-URL: https://connect.queenslibrary.org/
-Published: 2026-11-10T09:04:39+00:00
+URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100
+Published: 2026-11-11T10:48:40+00:00
 
-Article URL: https://connect.queenslibrary.org/ Comments URL: https://news.ycombinator.com/item?id=50437790 Points: 96 # Comments: 71
+Article URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/ Comments URL: https://news.ycombinator.com/item?id=50451903 Points: 74 # Comments: 24
 
-'C:\> FORMAT C:' – relax, it's just a screen saver
+Physically Controllable Relighting of Photographs
 Source: Hacker News RSS
 Category: technology
-URL: https://fakedos.com/
-Published: 2026-11-10T10:32:36+00:00
+URL: https://yaksoy.github.io/PhysicalRelighting
+Published: 2026-11-11T11:38:43+00:00
 
-Article URL: https://fakedos.com/ Comments URL: https://news.ycombinator.com/item?id=50438377 Points: 40 # Comments: 27
+Article URL: https://yaksoy.github.io/PhysicalRelighting/ Comments URL: https://news.ycombinator.com/item?id=50452224 Points: 15 # Comments: 2
 
-Show HN: A 15 MB self-hosted Netflix and Spotify for your media server
+Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/HolyArrs/HolyArrs
-Published: 2026-11-10T11:51:19+00:00
+URL: https://news.ycombinator.com/item?id=50452404
+Published: 2026-11-11T12:00:35+00:00
 
-Article URL: https://github.com/HolyArrs/HolyArrs Comments URL: https://news.ycombinator.com/item?id=50439000 Points: 86 # Comments: 48
+Comments URL: https://news.ycombinator.com/item?id=50452404 Points: 0 # Comments: 0
 
-AlphaProof Code
+Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h
 Source: Hacker News RSS
 Category: technology
-URL: https://deepmind.google/blog/introducing-alphaproof-code
-Published: 2026-11-10T12:11:12+00:00
+URL: https://pietromiotti.com/latest/maya-site?maya=
+Published: 2026-11-11T12:05:22+00:00
 
-Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 259 # Comments: 97
+Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 273 # Comments: 112
 
-What's new in the .NET 11 runtime
+Next-Level Benchmarking Overfitting – Thomas Neumann
 Source: Hacker News RSS
 Category: technology
-URL: https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime
-Published: 2026-11-10T12:20:07+00:00
+URL: http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html
+Published: 2026-11-11T12:09:49+00:00
 
-Article URL: https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime Comments URL: https://news.ycombinator.com/item?id=50439284 Points: 45 # Comments: 11
+Article URL: http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html Comments URL: https://news.ycombinator.com/item?id=50452496 Points: 24 # Comments: 1
 
-Let over Lambda–50 Years of Lisp (2008)
+We need more goat sacrifices
 Source: Hacker News RSS
 Category: technology
-URL: https://letoverlambda.com/
-Published: 2026-11-10T12:35:27+00:00
+URL: https://www.experimental-history.com/p/we-need-more-goat-sacrifices
+Published: 2026-11-11T12:29:48+00:00
 
-Article URL: https://letoverlambda.com/ Comments URL: https://news.ycombinator.com/item?id=50439448 Points: 7 # Comments: 0
+Article URL: https://www.experimental-history.com/p/we-need-more-goat-sacrifices Comments URL: https://news.ycombinator.com/item?id=50452652 Points: 9 # Comments: 3
 
-Ableton Live 13
+Can a Linear Program Do Weight-Space Programming?
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ableton.com/en/live
-Published: 2026-11-10T12:58:04+00:00
+URL: https://nathan.rs/posts/weight-space-lp
+Published: 2026-11-11T12:30:17+00:00
 
-Article URL: https://www.ableton.com/en/live/ Comments URL: https://news.ycombinator.com/item?id=50439695 Points: 90 # Comments: 98
+Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 61 # Comments: 10
 
-Don't buy AR glasses
+Open research, stronger privacy: Making Firefox users harder to fingerprint
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.yaros.ae/dont-buy-ar-glasses
-Published: 2026-11-10T13:10:25+00:00
+URL: https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint
+Published: 2026-11-11T12:44:06+00:00
 
-Article URL: https://blog.yaros.ae/dont-buy-ar-glasses/ Comments URL: https://news.ycombinator.com/item?id=50439805 Points: 94 # Comments: 98
+Article URL: https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/ Comments URL: https://news.ycombinator.com/item?id=50452742 Points: 16 # Comments: 0
 
-The U.S. Is Driving Away Young Scientists
+I asked every TV manufacturer 17 questions about how they spy on you
 Source: Hacker News RSS
 Category: technology
-URL: https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html
-Published: 2026-11-10T14:12:59+00:00
+URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions
+Published: 2026-11-11T13:56:05+00:00
 
-Article URL: https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html Comments URL: https://news.ycombinator.com/item?id=50440668 Points: 34 # Comments: 20
+Article URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions Comments URL: https://news.ycombinator.com/item?id=50453474 Points: 6 # Comments: 1
