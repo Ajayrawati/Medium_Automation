@@ -1,63 +1,23 @@
-TheAlgorithms / Java
+ggml-org / llama.cpp
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/TheAlgorithms/Java
+URL: https://github.com/ggml-org/llama.cpp
 
-All Algorithms implemented in Java
+LLM inference in C/C++
 
-openai / codex-security
+Alishahryar1 / free-claude-code
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/openai/codex-security
+URL: https://github.com/Alishahryar1/free-claude-code
 
-OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 
-homeassistant-ai / ha-mcp
+CopilotKit / OpenBot
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/homeassistant-ai/ha-mcp
+URL: https://github.com/CopilotKit/OpenBot
 
-Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
-
-we-promise / sure
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/we-promise/sure
-
-The personal finance app for everyone (by everyone)
-
-vercel-labs / agent-browser
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/vercel-labs/agent-browser
-
-Browser automation CLI for AI agents
-
-addyosmani / agent-skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/addyosmani/agent-skills
-
-Production-grade engineering skills for AI coding agents.
-
-shadcn / improve
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/shadcn/improve
-
-Use your most capable model to audit your codebase and write plans for cheaper models to execute.
-
-GoogleChrome / modern-web-guidance-src
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/GoogleChrome/modern-web-guidance-src
-
-ZhuLinsen / daily_stock_analysis
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ZhuLinsen/daily_stock_analysis
-
-LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
 meta / astryx
 Source: GitHub Trending
@@ -66,190 +26,265 @@ URL: https://github.com/meta/astryx
 
 An open source design system that's fully customizable and agent ready
 
-Why I wrote the BEAM book (2025)
+addyosmani / agent-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/addyosmani/agent-skills
+
+Production-grade engineering skills for AI coding agents.
+
+nodejs / node
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/nodejs/node
+
+Node.js JavaScript runtime ✨🐢🚀✨
+
+ashhart / TensorFold
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ashhart/TensorFold
+
+LLM Inference Engine for Metal, CUDA and Vulkan.
+
+QwenLM / qwen-code
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/QwenLM/qwen-code
+
+An open-source AI coding agent that lives in your terminal.
+
+we-promise / sure
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/we-promise/sure
+
+The personal finance app for everyone (by everyone)
+
+pookjw / HermesEnabler
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/pookjw/HermesEnabler
+
+Enable Hermès Watch Faces on any Apple Watch devices
+
+nvm-sh / nvm
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/nvm-sh/nvm
+
+Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+
+openai / codex-security
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/openai/codex-security
+
+OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+
+GoogleChrome / modern-web-guidance-src
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/GoogleChrome/modern-web-guidance-src
+
+Research taste in history: the importance of learning Babylonian math
 Source: Hacker News
 Category: technology
-URL: https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook
-Published: 2026-11-09T15:41:35+00:00
-Score: 141
+URL: https://resobscura.substack.com/p/research-taste-in-history-the-importance
+Published: 2026-11-10T19:42:44+00:00
+Score: 37
 
-.name Grandfathered
+Making a €40 USB-C hub work as a Nintendo Switch 2 dock
 Source: Hacker News
 Category: technology
-URL: https://neil.fraser.name/news/2026/11/10
-Published: 2026-11-10T16:37:44+00:00
-Score: 902
+URL: http://blog.nozomi.space/posts/sw2_dock
+Published: 2026-11-09T20:54:02+00:00
+Score: 88
 
-Smart home devices should work without the internet
+AWS emulator
 Source: Hacker News
 Category: technology
-URL: https://docodethatmatters.com/home-automation-overnight-success
-Published: 2026-11-10T15:25:20+00:00
-Score: 1086
+URL: https://github.com/aws/aws-emulator
+Published: 2026-11-11T18:21:38+00:00
+Score: 915
 
-Pharo in the Browser with WebAssembly
+Tim Peters has died
 Source: Hacker News
 Category: technology
-URL: https://massimo-nocentini.github.io/pharo-vm/world.html
-Published: 2026-11-11T14:21:27+00:00
-Score: 4
+URL: https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028
+Published: 2026-11-11T07:03:17+00:00
+Score: 1326
 
-Synaptics patent claims stop work on DisplayLink drivers
+A live tree of systemd jobs on the boot console
+Source: Hacker News
+Category: technology
+URL: https://codeberg.org/wvhulle/bootvine
+Published: 2026-11-09T13:02:44+00:00
+Score: 230
+
+Jane Street: Socratic Tutor
+Source: Hacker News
+Category: technology
+URL: https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md
+Published: 2026-11-10T10:18:22+00:00
+Score: 482
+
+Emacs in the Age of Magic
 Source: Hacker News RSS
 Category: technology
-URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f
-Published: 2026-11-10T18:02:02+00:00
+URL: https://commandlinesystems.com/magic.txt
+Published: 2026-11-11T20:26:32+00:00
 
-Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 435 # Comments: 246
+Article URL: https://commandlinesystems.com/magic.txt Comments URL: https://news.ycombinator.com/item?id=50458208 Points: 281 # Comments: 129
 
-Starlink Mini 2
+United Airlines bans AI agents from booking flights on behalf of travelers
 Source: Hacker News RSS
 Category: technology
-URL: https://starlink.com/mini-2
-Published: 2026-11-10T18:22:32+00:00
+URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights
+Published: 2026-11-11T21:24:35+00:00
 
-Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 455 # Comments: 494
+Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 619 # Comments: 637
 
-Scion is back and is going to sell a kei truck in America
+Lock Your GitHub Actions
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america
-Published: 2026-11-10T19:50:46+00:00
+URL: https://hugovk.dev/blog/2026/lock-github-actions
+Published: 2026-11-11T22:16:41+00:00
 
-Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 512 # Comments: 332
+Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 307 # Comments: 60
 
-Six Math Essentials
+Nvidia is preparing to oust Jensen Huang
 Source: Hacker News RSS
 Category: technology
-URL: https://teorth.github.io/tao-web/six-math-essentials.html
-Published: 2026-11-10T20:58:44+00:00
+URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad
+Published: 2026-11-11T22:31:06+00:00
 
-Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 289 # Comments: 56
+Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 1184 # Comments: 1572
 
-Apple has new Mac app coming to make running local AI models easy
+93% of paint splatters are valid Perl programs (2019)
 Source: Hacker News RSS
 Category: technology
-URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy
-Published: 2026-11-10T21:25:03+00:00
+URL: https://www.mcmillen.dev/sigbovik
+Published: 2026-11-11T22:34:23+00:00
 
-Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 365 # Comments: 365
+Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 516 # Comments: 66
 
-Tracking Anthropic-discovered vulnerabilities
+Critical RCE Vulnerability in Apache HTTP Server
 Source: Hacker News RSS
 Category: technology
-URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
-Published: 2026-11-10T22:17:56+00:00
+URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability
+Published: 2026-11-12T02:11:11+00:00
 
-Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 430 # Comments: 203
+Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 301 # Comments: 141
 
-A great old-timey game-programming hack (2013)
+I'm Working on a FOSS Linux Pinbal Simulation Engine
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html
-Published: 2026-11-11T01:56:31+00:00
+URL: https://www.getlazarus.org/forums/topic/17
+Published: 2026-11-12T05:49:34+00:00
 
-Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 213 # Comments: 43
+Article URL: https://www.getlazarus.org/forums/topic/17/ Comments URL: https://news.ycombinator.com/item?id=50463540 Points: 90 # Comments: 33
 
-To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA
+Why Writing Correct Software Is Hard
 Source: Hacker News RSS
 Category: technology
-URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna
-Published: 2026-11-11T02:57:08+00:00
+URL: https://pron.github.io/posts/correctness-and-complexity
+Published: 2026-11-12T10:28:26+00:00
 
-Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna Comments URL: https://news.ycombinator.com/item?id=50449275 Points: 132 # Comments: 105
+Article URL: https://pron.github.io/posts/correctness-and-complexity Comments URL: https://news.ycombinator.com/item?id=50465352 Points: 202 # Comments: 84
 
-Protecting SSH Keys with macOS Secure Enclave
+Researchers discover rare star system that emits radio signals every 8 minutes
 Source: Hacker News RSS
 Category: technology
-URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys
-Published: 2026-11-11T04:28:57+00:00
+URL: https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes
+Published: 2026-11-12T10:46:20+00:00
 
-Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ Comments URL: https://news.ycombinator.com/item?id=50449748 Points: 286 # Comments: 107
+Article URL: https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/ Comments URL: https://news.ycombinator.com/item?id=50465453 Points: 53 # Comments: 17
 
-Show HN: Black Ops II statically recompiled to native ARM64 macOS
+Anthropic IPO
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/adrbn/bo2-mac
-Published: 2026-11-11T04:56:47+00:00
+URL: https://ipo.anthropic.com/us
+Published: 2026-11-12T11:46:41+00:00
 
-I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta. The best thing is the performance, although some heat issues are still to fix. You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps. Split-screen was not in the PC version, but I've been working on it lately; it's coming soon! LAN mode is on the roadmap for later too :) Comments URL: https://news.ycombinator.com/item?id=50449891 Points: 64 # Comments: 26
+Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 284 # Comments: 317
 
-Greg Kurtzer's Ginux is now a userspace kernel
+NVIDIA Announces CEO Transition
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/gmkurtzer/ginux
-Published: 2026-11-11T05:25:54+00:00
+URL: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
+Published: 2026-11-12T13:52:29+00:00
 
-Article URL: https://github.com/gmkurtzer/ginux Comments URL: https://news.ycombinator.com/item?id=50450007 Points: 98 # Comments: 52
+Article URL: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 799 # Comments: 592
 
-Using voltage glitching to unleash the A100 in my mining card
+Jensen Huang resigns as Nvidia CEO immediately
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100
-Published: 2026-11-11T10:48:40+00:00
+URL: https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12
+Published: 2026-11-12T13:56:11+00:00
 
-Article URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/ Comments URL: https://news.ycombinator.com/item?id=50451903 Points: 74 # Comments: 24
+Article URL: https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/ Comments URL: https://news.ycombinator.com/item?id=50467132 Points: 233 # Comments: 109
 
-Physically Controllable Relighting of Photographs
+Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal
 Source: Hacker News RSS
 Category: technology
-URL: https://yaksoy.github.io/PhysicalRelighting
-Published: 2026-11-11T11:38:43+00:00
+URL: https://www.bbc.co.uk/news/live/c6zjry11v8w1t
+Published: 2026-11-12T13:56:38+00:00
 
-Article URL: https://yaksoy.github.io/PhysicalRelighting/ Comments URL: https://news.ycombinator.com/item?id=50452224 Points: 15 # Comments: 2
+Article URL: https://www.bbc.co.uk/news/live/c6zjry11v8w1t Comments URL: https://news.ycombinator.com/item?id=50467139 Points: 109 # Comments: 49
 
-Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco
+Nvidia CEO Jensen Huang resigns after reports of extramarital relationships
 Source: Hacker News RSS
 Category: technology
-URL: https://news.ycombinator.com/item?id=50452404
-Published: 2026-11-11T12:00:35+00:00
+URL: https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402
+Published: 2026-11-12T14:00:54+00:00
 
-Comments URL: https://news.ycombinator.com/item?id=50452404 Points: 0 # Comments: 0
+Article URL: https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402 Comments URL: https://news.ycombinator.com/item?id=50467191 Points: 40 # Comments: 12
 
-Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h
+Jane Street – Our software engineering interviews are changing (a little)
 Source: Hacker News RSS
 Category: technology
-URL: https://pietromiotti.com/latest/maya-site?maya=
-Published: 2026-11-11T12:05:22+00:00
+URL: https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little
+Published: 2026-11-12T14:05:28+00:00
 
-Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 273 # Comments: 112
+Article URL: https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/ Comments URL: https://news.ycombinator.com/item?id=50467297 Points: 25 # Comments: 11
 
-Next-Level Benchmarking Overfitting – Thomas Neumann
+Electric Ship Batteries Promise Compact, Cooler Power
 Source: Hacker News RSS
 Category: technology
-URL: http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html
-Published: 2026-11-11T12:09:49+00:00
+URL: https://spectrum.ieee.org/electric-ship-batteries
+Published: 2026-11-12T14:06:03+00:00
 
-Article URL: http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html Comments URL: https://news.ycombinator.com/item?id=50452496 Points: 24 # Comments: 1
+Article URL: https://spectrum.ieee.org/electric-ship-batteries Comments URL: https://news.ycombinator.com/item?id=50467305 Points: 8 # Comments: 0
 
-We need more goat sacrifices
+Libreagi – Save OSS Models
 Source: Hacker News RSS
 Category: technology
-URL: https://www.experimental-history.com/p/we-need-more-goat-sacrifices
-Published: 2026-11-11T12:29:48+00:00
+URL: https://libreagi.com/
+Published: 2026-11-12T14:11:58+00:00
 
-Article URL: https://www.experimental-history.com/p/we-need-more-goat-sacrifices Comments URL: https://news.ycombinator.com/item?id=50452652 Points: 9 # Comments: 3
+Article URL: https://libreagi.com/ Comments URL: https://news.ycombinator.com/item?id=50467439 Points: 16 # Comments: 7
 
-Can a Linear Program Do Weight-Space Programming?
+Talking Zen 6 with Mike Clark at AMD In-Depth
 Source: Hacker News RSS
 Category: technology
-URL: https://nathan.rs/posts/weight-space-lp
-Published: 2026-11-11T12:30:17+00:00
+URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at
+Published: 2026-11-12T14:12:37+00:00
 
-Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 61 # Comments: 10
+Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 24 # Comments: 0
 
-Open research, stronger privacy: Making Firefox users harder to fingerprint
+Abandoned Quake 4 expansion finished by modders and now playable
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint
-Published: 2026-11-11T12:44:06+00:00
+URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64
+Published: 2026-11-12T14:18:49+00:00
 
-Article URL: https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/ Comments URL: https://news.ycombinator.com/item?id=50452742 Points: 16 # Comments: 0
+Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 23 # Comments: 4
 
-I asked every TV manufacturer 17 questions about how they spy on you
+PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions
-Published: 2026-11-11T13:56:05+00:00
+URL: https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442
+Published: 2026-11-12T14:25:23+00:00
 
-Article URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions Comments URL: https://news.ycombinator.com/item?id=50453474 Points: 6 # Comments: 1
+Article URL: https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/ Comments URL: https://news.ycombinator.com/item?id=50467763 Points: 11 # Comments: 0
