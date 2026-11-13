@@ -1,0 +1,81 @@
+{
+  "topic": "News.ycombinator.com Comments Points",
+  "topic_key": "news.ycombinator.com-comments-points",
+  "confidence": 86.58,
+  "score_breakdown": {
+    "source_quality": 64.55,
+    "corroboration": 100.0,
+    "recency": 86.08,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.58,
+  "evidence": [
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "publisher": "github.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-11-13T14:38:42.723655+00:00"
+    },
+    {
+      "title": "Building collapses in Brooklyn with 8 people dead so far",
+      "url": "https://www.nytimes.com/live/2026/11/12/nyregion/building-collapse-nyc-brooklyn",
+      "publisher": "www.nytimes.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-13T14:38:43.135821+00:00"
+    },
+    {
+      "title": "US test reactor cleared for operations",
+      "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
+      "publisher": "www.world-nuclear-news.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-13T14:38:43.781615+00:00"
+    },
+    {
+      "title": "Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims",
+      "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+      "publisher": "garymarcus.substack.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-13T14:38:43.859046+00:00"
+    },
+    {
+      "title": "The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
+      "url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
+      "publisher": "www.youtube.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-13T14:38:44.809338+00:00"
+    },
+    {
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "publisher": "www.science.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-13T14:38:44.912911+00:00"
+    }
+  ]
+}

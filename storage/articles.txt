@@ -1,58 +1,51 @@
-ggml-org / llama.cpp
+ChromeDevTools / chrome-devtools-mcp
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/ggml-org/llama.cpp
+URL: https://github.com/ChromeDevTools/chrome-devtools-mcp
 
-LLM inference in C/C++
+Chrome DevTools for coding agents
 
-Alishahryar1 / free-claude-code
+Likely7 / Veyra-NRVideo
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/Alishahryar1/free-claude-code
+URL: https://github.com/Likely7/Veyra-NRVideo
 
-Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
 
-CopilotKit / OpenBot
+tailscale / tailcat
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/CopilotKit/OpenBot
+URL: https://github.com/tailscale/tailcat
 
-Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
-meta / astryx
+tradermonty / claude-trading-skills
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/meta/astryx
+URL: https://github.com/tradermonty/claude-trading-skills
 
-An open source design system that's fully customizable and agent ready
+Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
 
-addyosmani / agent-skills
+block / buzz
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/addyosmani/agent-skills
+URL: https://github.com/block/buzz
 
-Production-grade engineering skills for AI coding agents.
+A hive mind communication platform
 
-nodejs / node
+louislam / uptime-kuma
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/nodejs/node
+URL: https://github.com/louislam/uptime-kuma
 
-Node.js JavaScript runtime ✨🐢🚀✨
+A fancy self-hosted monitoring tool
 
-ashhart / TensorFold
+backnotprop / plannotator
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/ashhart/TensorFold
+URL: https://github.com/backnotprop/plannotator
 
-LLM Inference Engine for Metal, CUDA and Vulkan.
-
-QwenLM / qwen-code
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/QwenLM/qwen-code
-
-An open-source AI coding agent that lives in your terminal.
+The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 we-promise / sure
 Source: GitHub Trending
@@ -61,19 +54,12 @@ URL: https://github.com/we-promise/sure
 
 The personal finance app for everyone (by everyone)
 
-pookjw / HermesEnabler
+ZhuLinsen / daily_stock_analysis
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/pookjw/HermesEnabler
+URL: https://github.com/ZhuLinsen/daily_stock_analysis
 
-Enable Hermès Watch Faces on any Apple Watch devices
-
-nvm-sh / nvm
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/nvm-sh/nvm
-
-Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 
 openai / codex-security
 Source: GitHub Trending
@@ -87,204 +73,206 @@ Source: GitHub Trending
 Category: technology
 URL: https://github.com/GoogleChrome/modern-web-guidance-src
 
-Research taste in history: the importance of learning Babylonian math
+Keep your coding agent up to date with the latest web best practices
+
+alibaba / open-code-review
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/alibaba/open-code-review
+
+Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+Service degradation on Microsoft 365
 Source: Hacker News
 Category: technology
-URL: https://resobscura.substack.com/p/research-taste-in-history-the-importance
-Published: 2026-11-10T19:42:44+00:00
-Score: 37
+URL: https://status.cloud.microsoft/
+Published: 2026-11-12T18:20:48+00:00
+Score: 1055
 
-Making a €40 USB-C hub work as a Nintendo Switch 2 dock
+I'm making LLMs work on small and old devices
 Source: Hacker News
 Category: technology
-URL: http://blog.nozomi.space/posts/sw2_dock
-Published: 2026-11-09T20:54:02+00:00
-Score: 88
+URL: https://github.com/hyperionaidev/smolmaxxing
+Published: 2026-11-12T15:23:10+00:00
+Score: 415
 
-AWS emulator
+Show HN: My $300 embroidery machine needed a subscription, so I built my own app
 Source: Hacker News
 Category: technology
-URL: https://github.com/aws/aws-emulator
-Published: 2026-11-11T18:21:38+00:00
-Score: 915
+URL: https://github.com/simpsoka/zigzag
+Published: 2026-11-12T17:02:42+00:00
+Score: 625
 
-Tim Peters has died
+Rust 1.100
 Source: Hacker News
 Category: technology
-URL: https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028
-Published: 2026-11-11T07:03:17+00:00
-Score: 1326
+URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0
+Published: 2026-11-12T18:39:05+00:00
+Score: 779
 
-A live tree of systemd jobs on the boot console
+Jensen Huang resigns
 Source: Hacker News
 Category: technology
-URL: https://codeberg.org/wvhulle/bootvine
-Published: 2026-11-09T13:02:44+00:00
-Score: 230
-
-Jane Street: Socratic Tutor
-Source: Hacker News
-Category: technology
-URL: https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md
-Published: 2026-11-10T10:18:22+00:00
-Score: 482
-
-Emacs in the Age of Magic
-Source: Hacker News RSS
-Category: technology
-URL: https://commandlinesystems.com/magic.txt
-Published: 2026-11-11T20:26:32+00:00
-
-Article URL: https://commandlinesystems.com/magic.txt Comments URL: https://news.ycombinator.com/item?id=50458208 Points: 281 # Comments: 129
-
-United Airlines bans AI agents from booking flights on behalf of travelers
-Source: Hacker News RSS
-Category: technology
-URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights
-Published: 2026-11-11T21:24:35+00:00
-
-Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 619 # Comments: 637
-
-Lock Your GitHub Actions
-Source: Hacker News RSS
-Category: technology
-URL: https://hugovk.dev/blog/2026/lock-github-actions
-Published: 2026-11-11T22:16:41+00:00
-
-Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 307 # Comments: 60
-
-Nvidia is preparing to oust Jensen Huang
-Source: Hacker News RSS
-Category: technology
-URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad
-Published: 2026-11-11T22:31:06+00:00
-
-Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 1184 # Comments: 1572
-
-93% of paint splatters are valid Perl programs (2019)
-Source: Hacker News RSS
-Category: technology
-URL: https://www.mcmillen.dev/sigbovik
-Published: 2026-11-11T22:34:23+00:00
-
-Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 516 # Comments: 66
-
-Critical RCE Vulnerability in Apache HTTP Server
-Source: Hacker News RSS
-Category: technology
-URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability
-Published: 2026-11-12T02:11:11+00:00
-
-Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 301 # Comments: 141
-
-I'm Working on a FOSS Linux Pinbal Simulation Engine
-Source: Hacker News RSS
-Category: technology
-URL: https://www.getlazarus.org/forums/topic/17
-Published: 2026-11-12T05:49:34+00:00
-
-Article URL: https://www.getlazarus.org/forums/topic/17/ Comments URL: https://news.ycombinator.com/item?id=50463540 Points: 90 # Comments: 33
-
-Why Writing Correct Software Is Hard
-Source: Hacker News RSS
-Category: technology
-URL: https://pron.github.io/posts/correctness-and-complexity
-Published: 2026-11-12T10:28:26+00:00
-
-Article URL: https://pron.github.io/posts/correctness-and-complexity Comments URL: https://news.ycombinator.com/item?id=50465352 Points: 202 # Comments: 84
-
-Researchers discover rare star system that emits radio signals every 8 minutes
-Source: Hacker News RSS
-Category: technology
-URL: https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes
-Published: 2026-11-12T10:46:20+00:00
-
-Article URL: https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/ Comments URL: https://news.ycombinator.com/item?id=50465453 Points: 53 # Comments: 17
-
-Anthropic IPO
-Source: Hacker News RSS
-Category: technology
-URL: https://ipo.anthropic.com/us
-Published: 2026-11-12T11:46:41+00:00
-
-Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 284 # Comments: 317
-
-NVIDIA Announces CEO Transition
-Source: Hacker News RSS
-Category: technology
-URL: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
+URL: https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f
 Published: 2026-11-12T13:52:29+00:00
+Score: 3764
 
-Article URL: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 799 # Comments: 592
-
-Jensen Huang resigns as Nvidia CEO immediately
+Gemini 4 Hydrogen and Orchestrator
 Source: Hacker News RSS
 Category: technology
-URL: https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12
-Published: 2026-11-12T13:56:11+00:00
+URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity
+Published: 2026-11-12T18:52:01+00:00
 
-Article URL: https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/ Comments URL: https://news.ycombinator.com/item?id=50467132 Points: 233 # Comments: 109
+Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 455 # Comments: 140
 
-Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal
+Dwarf planet candidate appears which takes roughly 280 years to orbit our sun
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bbc.co.uk/news/live/c6zjry11v8w1t
-Published: 2026-11-12T13:56:38+00:00
+URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857
+Published: 2026-11-12T19:05:33+00:00
 
-Article URL: https://www.bbc.co.uk/news/live/c6zjry11v8w1t Comments URL: https://news.ycombinator.com/item?id=50467139 Points: 109 # Comments: 49
+Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/ Comments URL: https://news.ycombinator.com/item?id=50472490 Points: 345 # Comments: 147
 
-Nvidia CEO Jensen Huang resigns after reports of extramarital relationships
+Former Nvidia CEO Huang had a relationship with a second employee, sources say
 Source: Hacker News RSS
 Category: technology
-URL: https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402
-Published: 2026-11-12T14:00:54+00:00
+URL: https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12
+Published: 2026-11-12T19:51:33+00:00
 
-Article URL: https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402 Comments URL: https://news.ycombinator.com/item?id=50467191 Points: 40 # Comments: 12
+https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 352 # Comments: 387
 
-Jane Street – Our software engineering interviews are changing (a little)
+Foundation Models framework
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little
-Published: 2026-11-12T14:05:28+00:00
+URL: https://developer.apple.com/foundation-models-framework
+Published: 2026-11-12T21:13:26+00:00
 
-Article URL: https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/ Comments URL: https://news.ycombinator.com/item?id=50467297 Points: 25 # Comments: 11
+Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 239 # Comments: 33
 
-Electric Ship Batteries Promise Compact, Cooler Power
+Reverse Engineering My Coway Air Purifier to Ditch the Cloud
 Source: Hacker News RSS
 Category: technology
-URL: https://spectrum.ieee.org/electric-ship-batteries
-Published: 2026-11-12T14:06:03+00:00
+URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud
+Published: 2026-11-12T22:03:09+00:00
 
-Article URL: https://spectrum.ieee.org/electric-ship-batteries Comments URL: https://news.ycombinator.com/item?id=50467305 Points: 8 # Comments: 0
+Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 21 # Comments: 2
 
-Libreagi – Save OSS Models
+Edge0-145B: Frontier AI Capabilities on Your Own Computer
 Source: Hacker News RSS
 Category: technology
-URL: https://libreagi.com/
-Published: 2026-11-12T14:11:58+00:00
+URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
+Published: 2026-11-12T23:06:17+00:00
 
-Article URL: https://libreagi.com/ Comments URL: https://news.ycombinator.com/item?id=50467439 Points: 16 # Comments: 7
+Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 295 # Comments: 87
 
-Talking Zen 6 with Mike Clark at AMD In-Depth
+Brave Search API now accepts agentic payments via the x402 protocol
 Source: Hacker News RSS
 Category: technology
-URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at
-Published: 2026-11-12T14:12:37+00:00
+URL: https://brave.com/blog/search-api-agentic-payments
+Published: 2026-11-13T03:08:08+00:00
 
-Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 24 # Comments: 0
+Article URL: https://brave.com/blog/search-api-agentic-payments/ Comments URL: https://news.ycombinator.com/item?id=50477649 Points: 183 # Comments: 102
 
-Abandoned Quake 4 expansion finished by modders and now playable
+Switcher (2004)
 Source: Hacker News RSS
 Category: technology
-URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64
-Published: 2026-11-12T14:18:49+00:00
+URL: https://folklore.org/Switcher.html
+Published: 2026-11-13T03:14:59+00:00
 
-Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 23 # Comments: 4
+Article URL: https://folklore.org/Switcher.html Comments URL: https://news.ycombinator.com/item?id=50477714 Points: 112 # Comments: 35
 
-PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released
+IceWM
 Source: Hacker News RSS
 Category: technology
-URL: https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442
-Published: 2026-11-12T14:25:23+00:00
+URL: https://ice-wm.org/
+Published: 2026-11-13T04:54:53+00:00
 
-Article URL: https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/ Comments URL: https://news.ycombinator.com/item?id=50467763 Points: 11 # Comments: 0
+Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 272 # Comments: 140
+
+Global Microsoft Outage
+Source: Hacker News RSS
+Category: technology
+URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk
+Published: 2026-11-13T06:18:23+00:00
+
+Article URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk Comments URL: https://news.ycombinator.com/item?id=50479098 Points: 230 # Comments: 138
+
+The Dawn of the Data Intelligence Engineer
+Source: Hacker News RSS
+Category: technology
+URL: https://motherduck.com/blog/the-data-intelligence-engineer
+Published: 2026-11-13T09:08:18+00:00
+
+Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 79 # Comments: 60
+
+Elevated errors on claude.ai, Claude Code, and platform.claude.com
+Source: Hacker News RSS
+Category: technology
+URL: https://status.claude.com/incidents/nn11wk485zfn
+Published: 2026-11-13T10:18:13+00:00
+
+Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 339 # Comments: 298
+
+Claude Is Down
+Source: Hacker News RSS
+Category: technology
+URL: https://status.claude.com/history
+Published: 2026-11-13T10:20:09+00:00
+
+Article URL: https://status.claude.com/history Comments URL: https://news.ycombinator.com/item?id=50481220 Points: 167 # Comments: 140
+
+AI Is Destroying the Trust Between Writers and Readers
+Source: Hacker News RSS
+Category: technology
+URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391
+Published: 2026-11-13T11:13:46+00:00
+
+Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 39 # Comments: 4
+
+Doomsday: Friday, 13 November, A.D. 2026 (1960)
+Source: Hacker News RSS
+Category: technology
+URL: https://www.science.org/doi/10.1126/science.132.3436.1291
+Published: 2026-11-13T12:10:24+00:00
+
+Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291 Comments URL: https://news.ycombinator.com/item?id=50482379 Points: 203 # Comments: 125
+
+Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy
+Source: Hacker News RSS
+Category: technology
+URL: https://github.com/Christ10-8/reflota
+Published: 2026-11-13T12:17:52+00:00
+
+Article URL: https://github.com/Christ10-8/reflota Comments URL: https://news.ycombinator.com/item?id=50482455 Points: 8 # Comments: 0
+
+The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]
+Source: Hacker News RSS
+Category: technology
+URL: https://www.youtube.com/watch?v=YYU_geUwQoA
+Published: 2026-11-13T13:45:06+00:00
+
+Article URL: https://www.youtube.com/watch?v=YYU_geUwQoA Comments URL: https://news.ycombinator.com/item?id=50483391 Points: 5 # Comments: 0
+
+Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims
+Source: Hacker News RSS
+Category: technology
+URL: https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest
+Published: 2026-11-13T13:51:27+00:00
+
+Article URL: https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest Comments URL: https://news.ycombinator.com/item?id=50483480 Points: 110 # Comments: 81
+
+US test reactor cleared for operations
+Source: Hacker News RSS
+Category: technology
+URL: https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations
+Published: 2026-11-13T13:54:49+00:00
+
+Article URL: https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations Comments URL: https://news.ycombinator.com/item?id=50483533 Points: 7 # Comments: 1
+
+Building collapses in Brooklyn with 8 people dead so far
+Source: Hacker News RSS
+Category: technology
+URL: https://www.nytimes.com/live/2026/11/12/nyregion/building-collapse-nyc-brooklyn
+Published: 2026-11-13T13:55:32+00:00
+
+Article URL: https://www.nytimes.com/live/2026/11/12/nyregion/building-collapse-nyc-brooklyn Comments URL: https://news.ycombinator.com/item?id=50483546 Points: 13 # Comments: 2
