@@ -1,9 +1,9 @@
-ChromeDevTools / chrome-devtools-mcp
+martin-olivier / airgorah
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/ChromeDevTools/chrome-devtools-mcp
+URL: https://github.com/martin-olivier/airgorah
 
-Chrome DevTools for coding agents
+A WiFi security auditing software
 
 Likely7 / Veyra-NRVideo
 Source: GitHub Trending
@@ -12,40 +12,12 @@ URL: https://github.com/Likely7/Veyra-NRVideo
 
 Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
 
-tailscale / tailcat
+Tencent / LoopForge
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/tailscale/tailcat
+URL: https://github.com/Tencent/LoopForge
 
-like netcat, but over Tailscale's data plane, without Tailscale's control plane
-
-tradermonty / claude-trading-skills
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/tradermonty/claude-trading-skills
-
-Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
-
-block / buzz
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/block/buzz
-
-A hive mind communication platform
-
-louislam / uptime-kuma
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/louislam/uptime-kuma
-
-A fancy self-hosted monitoring tool
-
-backnotprop / plannotator
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/backnotprop/plannotator
-
-The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
+Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
 
 we-promise / sure
 Source: GitHub Trending
@@ -54,26 +26,47 @@ URL: https://github.com/we-promise/sure
 
 The personal finance app for everyone (by everyone)
 
-ZhuLinsen / daily_stock_analysis
+louislam / uptime-kuma
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/ZhuLinsen/daily_stock_analysis
+URL: https://github.com/louislam/uptime-kuma
 
-LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+A fancy self-hosted monitoring tool
 
-openai / codex-security
+JuliusBrussee / caveman
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/openai/codex-security
+URL: https://github.com/JuliusBrussee/caveman
 
-OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
-GoogleChrome / modern-web-guidance-src
+ashhart / TensorFold
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/GoogleChrome/modern-web-guidance-src
+URL: https://github.com/ashhart/TensorFold
 
-Keep your coding agent up to date with the latest web best practices
+LLM Inference Engine for Metal, CUDA and Vulkan.
+
+ag-ui-protocol / ag-ui
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ag-ui-protocol/ag-ui
+
+AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+
+dream-num / univer
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/dream-num/univer
+
+Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+
+QwenLM / qwen-code
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/QwenLM/qwen-code
+
+An open-source AI coding agent that lives in your terminal.
 
 alibaba / open-code-review
 Source: GitHub Trending
@@ -82,197 +75,232 @@ URL: https://github.com/alibaba/open-code-review
 
 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
-Service degradation on Microsoft 365
+ChromeDevTools / chrome-devtools-mcp
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ChromeDevTools/chrome-devtools-mcp
+
+Chrome DevTools for coding agents
+
+tradermonty / claude-trading-skills
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/tradermonty/claude-trading-skills
+
+Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
+
+GoogleChrome / modern-web-guidance-src
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/GoogleChrome/modern-web-guidance-src
+
+Keep your coding agent up to date with the latest web best practices
+
+backnotprop / plannotator
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/backnotprop/plannotator
+
+The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
+
+Service Crew Discovers Rare Yellow Burbot in Oswego Harbor
 Source: Hacker News
 Category: technology
-URL: https://status.cloud.microsoft/
-Published: 2026-11-12T18:20:48+00:00
-Score: 1055
+URL: https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor
+Published: 2026-11-11T15:47:43+00:00
+Score: 13
 
-I'm making LLMs work on small and old devices
+The curious case of the north-east arrow
 Source: Hacker News
 Category: technology
-URL: https://github.com/hyperionaidev/smolmaxxing
-Published: 2026-11-12T15:23:10+00:00
-Score: 415
+URL: https://arsh.zip/posts/north-east-arrow
+Published: 2026-11-12T12:14:20+00:00
+Score: 14
 
-Show HN: My $300 embroidery machine needed a subscription, so I built my own app
+Tech Companies Are Trying to Shift the Concept of Privacy (Again)
 Source: Hacker News
 Category: technology
-URL: https://github.com/simpsoka/zigzag
-Published: 2026-11-12T17:02:42+00:00
-Score: 625
+URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again
+Published: 2026-11-14T12:45:45+00:00
+Score: 16
 
-Rust 1.100
+Let's Write a PostScript Interpreter
 Source: Hacker News
 Category: technology
-URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0
-Published: 2026-11-12T18:39:05+00:00
-Score: 779
+URL: https://beyondloom.com/blog/postscript.html
+Published: 2026-11-13T05:12:56+00:00
+Score: 19
 
-Jensen Huang resigns
+Generative AI uses more energy on non-English text
 Source: Hacker News
 Category: technology
-URL: https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f
-Published: 2026-11-12T13:52:29+00:00
-Score: 3764
+URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text
+Published: 2026-11-10T15:07:28+00:00
+Score: 5
 
-Gemini 4 Hydrogen and Orchestrator
+Why get an expensive Pi when I have an old phone?
+Source: Hacker News
+Category: technology
+URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone
+Published: 2026-11-10T14:16:05+00:00
+Score: 189
+
+Minnesota guitarist's "palmfrets" invention strikes a new chord
 Source: Hacker News RSS
 Category: technology
-URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity
-Published: 2026-11-12T18:52:01+00:00
+URL: https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord
+Published: 2026-11-13T15:08:07+00:00
 
-Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 455 # Comments: 140
+https://palmfrets.com/ Comments URL: https://news.ycombinator.com/item?id=50484650 Points: 183 # Comments: 104
 
-Dwarf planet candidate appears which takes roughly 280 years to orbit our sun
+Jonathan Blow – If AI solved coding, why is my software still the same? [video]
 Source: Hacker News RSS
 Category: technology
-URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857
-Published: 2026-11-12T19:05:33+00:00
+URL: https://www.youtube.com/watch?v=IRK8h67ol7Q
+Published: 2026-11-13T15:08:44+00:00
 
-Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/ Comments URL: https://news.ycombinator.com/item?id=50472490 Points: 345 # Comments: 147
+Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 351 # Comments: 472
 
-Former Nvidia CEO Huang had a relationship with a second employee, sources say
+After 600 experiments, here's what I discovered about JEPA world models
 Source: Hacker News RSS
 Category: technology
-URL: https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12
-Published: 2026-11-12T19:51:33+00:00
+URL: https://haddyalchaer.com/jepa
+Published: 2026-11-13T17:55:28+00:00
 
-https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 352 # Comments: 387
+Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 273 # Comments: 45
 
-Foundation Models framework
+Show HN: Isometric SF – A pixel-art map of the SF Bay Area
 Source: Hacker News RSS
 Category: technology
-URL: https://developer.apple.com/foundation-models-framework
-Published: 2026-11-12T21:13:26+00:00
+URL: https://isometricsf.com/
+Published: 2026-11-13T17:58:37+00:00
 
-Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 239 # Comments: 33
+Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley. The technicals involve using Nano Banana 2 to train a Qwen-Image-Edit 2511 LoRA which is used to prototype the style and generation methods. For final map I used Qwen to train a Klein 4B LoRA which reproduced the style at 1/4 of the cost. More details in the blog post. Let me know what you think! I really enjoyed this process of fine-tuning smaller open source models. If I did the map with Nano Banana 2 it would have cost around 7k USD! Credit for the idea goes to Isometric NYC. Comments URL: https://news.ycombinator.com/item?id=50487228 Points: 225 # Comments: 72
 
-Reverse Engineering My Coway Air Purifier to Ditch the Cloud
+FM-1 Workbench
 Source: Hacker News RSS
 Category: technology
-URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud
-Published: 2026-11-12T22:03:09+00:00
+URL: https://open.m-vave.com/fm1-workbench
+Published: 2026-11-13T19:14:02+00:00
 
-Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 21 # Comments: 2
+Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 244 # Comments: 159
 
-Edge0-145B: Frontier AI Capabilities on Your Own Computer
+Perplexity Decider v1.3: Training, eval, and use cases
 Source: Hacker News RSS
 Category: technology
-URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
-Published: 2026-11-12T23:06:17+00:00
+URL: https://www.perplexity.ai/hub/blog/perplexity-decider
+Published: 2026-11-13T19:24:47+00:00
 
-Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 295 # Comments: 87
+Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 138 # Comments: 25
 
-Brave Search API now accepts agentic payments via the x402 protocol
+Found: A protein that drives ageing without unleashing inflammation
 Source: Hacker News RSS
 Category: technology
-URL: https://brave.com/blog/search-api-agentic-payments
-Published: 2026-11-13T03:08:08+00:00
+URL: https://www.nature.com/articles/d41586-026-03638-3
+Published: 2026-11-13T19:25:21+00:00
 
-Article URL: https://brave.com/blog/search-api-agentic-payments/ Comments URL: https://news.ycombinator.com/item?id=50477649 Points: 183 # Comments: 102
+Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 213 # Comments: 50
 
-Switcher (2004)
+Live-migration support in FreeBSD and bhyve coming
 Source: Hacker News RSS
 Category: technology
-URL: https://folklore.org/Switcher.html
-Published: 2026-11-13T03:14:59+00:00
+URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc
+Published: 2026-11-13T19:58:42+00:00
 
-Article URL: https://folklore.org/Switcher.html Comments URL: https://news.ycombinator.com/item?id=50477714 Points: 112 # Comments: 35
+Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 119 # Comments: 29
 
-IceWM
+FAA issues national ground stop – lifted 4.5 hours later
 Source: Hacker News RSS
 Category: technology
-URL: https://ice-wm.org/
-Published: 2026-11-13T04:54:53+00:00
+URL: https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247
+Published: 2026-11-13T21:05:53+00:00
 
-Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 272 # Comments: 140
+https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1577 # Comments: 1203
 
-Global Microsoft Outage
+Live airband on all frequencies from KORS. Victoria, CA also ground stopped
 Source: Hacker News RSS
 Category: technology
-URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk
-Published: 2026-11-13T06:18:23+00:00
+URL: https://orcasairband.com/
+Published: 2026-11-13T22:04:24+00:00
 
-Article URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk Comments URL: https://news.ycombinator.com/item?id=50479098 Points: 230 # Comments: 138
+Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 278 # Comments: 65
 
-The Dawn of the Data Intelligence Engineer
+How Not to Build a Music Player
 Source: Hacker News RSS
 Category: technology
-URL: https://motherduck.com/blog/the-data-intelligence-engineer
-Published: 2026-11-13T09:08:18+00:00
+URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player
+Published: 2026-11-13T23:04:30+00:00
 
-Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 79 # Comments: 60
+Article URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player/ Comments URL: https://news.ycombinator.com/item?id=50491400 Points: 134 # Comments: 59
 
-Elevated errors on claude.ai, Claude Code, and platform.claude.com
+Terminal borders that don't cost a cell
 Source: Hacker News RSS
 Category: technology
-URL: https://status.claude.com/incidents/nn11wk485zfn
-Published: 2026-11-13T10:18:13+00:00
+URL: https://www.joshka.net/cell-borders
+Published: 2026-11-13T23:06:40+00:00
 
-Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 339 # Comments: 298
+Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 314 # Comments: 139
 
-Claude Is Down
+Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop
 Source: Hacker News RSS
 Category: technology
-URL: https://status.claude.com/history
-Published: 2026-11-13T10:20:09+00:00
+URL: https://grounds.top/
+Published: 2026-11-13T23:17:39+00:00
 
-Article URL: https://status.claude.com/history Comments URL: https://news.ycombinator.com/item?id=50481220 Points: 167 # Comments: 140
+Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 167 # Comments: 23
 
-AI Is Destroying the Trust Between Writers and Readers
+What happened to 3Com?
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391
-Published: 2026-11-13T11:13:46+00:00
+URL: https://dfarq.homeip.net/what-happened-to-3com
+Published: 2026-11-13T23:48:59+00:00
 
-Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 39 # Comments: 4
+Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 166 # Comments: 90
 
-Doomsday: Friday, 13 November, A.D. 2026 (1960)
+Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update
 Source: Hacker News RSS
 Category: technology
-URL: https://www.science.org/doi/10.1126/science.132.3436.1291
-Published: 2026-11-13T12:10:24+00:00
+URL: https://unsloth.ai/docs/models/qwen3.8
+Published: 2026-11-14T00:06:04+00:00
 
-Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291 Comments URL: https://news.ycombinator.com/item?id=50482379 Points: 203 # Comments: 125
+Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 184 # Comments: 51
 
-Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy
+Amtrak booking system experiencing major issues amid nationwide FAA ground stop
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/Christ10-8/reflota
-Published: 2026-11-13T12:17:52+00:00
+URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026
+Published: 2026-11-14T00:52:29+00:00
 
-Article URL: https://github.com/Christ10-8/reflota Comments URL: https://news.ycombinator.com/item?id=50482455 Points: 8 # Comments: 0
+Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 173 # Comments: 63
 
-The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]
+Elephants found to be increasingly isolated leading to fractured social networks
 Source: Hacker News RSS
 Category: technology
-URL: https://www.youtube.com/watch?v=YYU_geUwQoA
-Published: 2026-11-13T13:45:06+00:00
+URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks
+Published: 2026-11-14T02:02:42+00:00
 
-Article URL: https://www.youtube.com/watch?v=YYU_geUwQoA Comments URL: https://news.ycombinator.com/item?id=50483391 Points: 5 # Comments: 0
+Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 152 # Comments: 34
 
-Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims
+Ggml v1.0.0
 Source: Hacker News RSS
 Category: technology
-URL: https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest
-Published: 2026-11-13T13:51:27+00:00
+URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0
+Published: 2026-11-14T02:28:29+00:00
 
-Article URL: https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest Comments URL: https://news.ycombinator.com/item?id=50483480 Points: 110 # Comments: 81
+Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 310 # Comments: 50
 
-US test reactor cleared for operations
+Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
 Source: Hacker News RSS
 Category: technology
-URL: https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations
-Published: 2026-11-13T13:54:49+00:00
+URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus
+Published: 2026-11-14T02:52:59+00:00
 
-Article URL: https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations Comments URL: https://news.ycombinator.com/item?id=50483533 Points: 7 # Comments: 1
+Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 743 # Comments: 433
 
-Building collapses in Brooklyn with 8 people dead so far
+Monkey Island: all 13 versions side by side
 Source: Hacker News RSS
 Category: technology
-URL: https://www.nytimes.com/live/2026/11/12/nyregion/building-collapse-nyc-brooklyn
-Published: 2026-11-13T13:55:32+00:00
+URL: https://monkeyisland.pages.dev/
+Published: 2026-11-14T04:23:30+00:00
 
-Article URL: https://www.nytimes.com/live/2026/11/12/nyregion/building-collapse-nyc-brooklyn Comments URL: https://news.ycombinator.com/item?id=50483546 Points: 13 # Comments: 2
+Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 235 # Comments: 75
