@@ -1,0 +1,81 @@
+{
+  "topic": "Https Points News.ycombinator.com",
+  "topic_key": "https-points-news.ycombinator.com",
+  "confidence": 84.52,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 75.09,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 94.52,
+  "evidence": [
+    {
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "publisher": "magazine.sebastianraschka.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-11-15T13:59:20.878971+00:00"
+    },
+    {
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "publisher": "www.nytimes.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-15T13:59:21.342486+00:00"
+    },
+    {
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "publisher": "space.stackexchange.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-15T13:59:21.408169+00:00"
+    },
+    {
+      "title": "Book list for streetfighting computer scientists",
+      "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+      "publisher": "nick-black.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-15T13:59:21.809469+00:00"
+    },
+    {
+      "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "publisher": "netbsd.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-11-15T13:59:22.138455+00:00"
+    },
+    {
+      "title": "Kiri \u2013 The Modern Container Runtime",
+      "url": "https://runkiri.com/",
+      "publisher": "runkiri.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-15T13:59:22.319390+00:00"
+    }
+  ]
+}

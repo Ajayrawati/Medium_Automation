@@ -1,86 +1,9 @@
-martin-olivier / airgorah
+NVIDIA / SkillEvaluator
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/martin-olivier/airgorah
+URL: https://github.com/NVIDIA/SkillEvaluator
 
-A WiFi security auditing software
-
-Likely7 / Veyra-NRVideo
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Likely7/Veyra-NRVideo
-
-Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
-
-Tencent / LoopForge
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Tencent/LoopForge
-
-Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
-
-we-promise / sure
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/we-promise/sure
-
-The personal finance app for everyone (by everyone)
-
-louislam / uptime-kuma
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/louislam/uptime-kuma
-
-A fancy self-hosted monitoring tool
-
-JuliusBrussee / caveman
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/JuliusBrussee/caveman
-
-🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-
-ashhart / TensorFold
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ashhart/TensorFold
-
-LLM Inference Engine for Metal, CUDA and Vulkan.
-
-ag-ui-protocol / ag-ui
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ag-ui-protocol/ag-ui
-
-AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-
-dream-num / univer
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/dream-num/univer
-
-Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
-
-QwenLM / qwen-code
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/QwenLM/qwen-code
-
-An open-source AI coding agent that lives in your terminal.
-
-alibaba / open-code-review
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/alibaba/open-code-review
-
-Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-
-ChromeDevTools / chrome-devtools-mcp
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ChromeDevTools/chrome-devtools-mcp
-
-Chrome DevTools for coding agents
+Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
 
 tradermonty / claude-trading-skills
 Source: GitHub Trending
@@ -96,6 +19,41 @@ URL: https://github.com/GoogleChrome/modern-web-guidance-src
 
 Keep your coding agent up to date with the latest web best practices
 
+elementalsouls / Claude-BugHunter
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/elementalsouls/Claude-BugHunter
+
+A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+
+ggml-org / ggml
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ggml-org/ggml
+
+Tensor library for machine learning
+
+Tencent / LoopForge
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/Tencent/LoopForge
+
+Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
+
+alibaba / open-code-review
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/alibaba/open-code-review
+
+Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+ChromeDevTools / chrome-devtools-mcp
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/ChromeDevTools/chrome-devtools-mcp
+
+Chrome DevTools for coding agents
+
 backnotprop / plannotator
 Source: GitHub Trending
 Category: technology
@@ -103,204 +61,239 @@ URL: https://github.com/backnotprop/plannotator
 
 The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
-Service Crew Discovers Rare Yellow Burbot in Oswego Harbor
-Source: Hacker News
+google-labs-code / stitch-skills
+Source: GitHub Trending
 Category: technology
-URL: https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor
-Published: 2026-11-11T15:47:43+00:00
-Score: 13
+URL: https://github.com/google-labs-code/stitch-skills
 
-The curious case of the north-east arrow
-Source: Hacker News
-Category: technology
-URL: https://arsh.zip/posts/north-east-arrow
-Published: 2026-11-12T12:14:20+00:00
-Score: 14
+A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
-Tech Companies Are Trying to Shift the Concept of Privacy (Again)
-Source: Hacker News
+ag-ui-protocol / ag-ui
+Source: GitHub Trending
 Category: technology
-URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again
-Published: 2026-11-14T12:45:45+00:00
-Score: 16
+URL: https://github.com/ag-ui-protocol/ag-ui
 
-Let's Write a PostScript Interpreter
-Source: Hacker News
-Category: technology
-URL: https://beyondloom.com/blog/postscript.html
-Published: 2026-11-13T05:12:56+00:00
-Score: 19
+AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
-Generative AI uses more energy on non-English text
+dream-num / univer
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/dream-num/univer
+
+Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+
+The Evolving Story of How Chemistry Became Biology
 Source: Hacker News
 Category: technology
-URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text
-Published: 2026-11-10T15:07:28+00:00
-Score: 5
+URL: https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112
+Published: 2026-11-13T11:55:19+00:00
+Score: 63
 
 Why get an expensive Pi when I have an old phone?
 Source: Hacker News
 Category: technology
 URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone
 Published: 2026-11-10T14:16:05+00:00
-Score: 189
+Score: 582
 
-Minnesota guitarist's "palmfrets" invention strikes a new chord
+Show HN: Carton Clock – A working pendulum clock made from empty drink cartons
+Source: Hacker News
+Category: technology
+URL: https://www.niklasroy.com/carton-clock
+Published: 2026-11-13T12:00:18+00:00
+Score: 20
+
+Open-Source HF Communications for Remote Communities and Experimenters
+Source: Hacker News
+Category: technology
+URL: https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters
+Published: 2026-11-11T11:11:22+00:00
+Score: 37
+
+Handwritten 200-year-old dismissal notice found on roof tile
+Source: Hacker News
+Category: technology
+URL: https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o
+Published: 2026-11-12T21:27:01+00:00
+Score: 35
+
+What thousands of conversations look like inside a language model
+Source: Hacker News
+Category: technology
+URL: https://operator0x.com/field-notes/qwen-conversation-state-space
+Published: 2026-11-13T10:26:01+00:00
+Score: 17
+
+Chasing an audio artifact on power loss
+Source: Hacker News
+Category: technology
+URL: https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss
+Published: 2026-11-12T23:11:25+00:00
+Score: 9
+
+Strictly monotonic timestamps and gapless sequences in Rust
+Source: Hacker News
+Category: technology
+URL: https://tsoracle.rs/
+Published: 2026-11-13T10:04:37+00:00
+Score: 18
+
+500 Lines or Less A 3D Modeller
 Source: Hacker News RSS
 Category: technology
-URL: https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord
-Published: 2026-11-13T15:08:07+00:00
+URL: https://aosabook.org/en/500L/a-3d-modeller.html
+Published: 2026-11-13T13:47:42+00:00
 
-https://palmfrets.com/ Comments URL: https://news.ycombinator.com/item?id=50484650 Points: 183 # Comments: 104
+Article URL: https://aosabook.org/en/500L/a-3d-modeller.html Comments URL: https://news.ycombinator.com/item?id=50483431 Points: 77 # Comments: 11
 
-Jonathan Blow – If AI solved coding, why is my software still the same? [video]
+Semicircle Packing
 Source: Hacker News RSS
 Category: technology
-URL: https://www.youtube.com/watch?v=IRK8h67ol7Q
-Published: 2026-11-13T15:08:44+00:00
+URL: https://rorz.io/writing/semicircle-packing
+Published: 2026-11-13T14:42:57+00:00
 
-Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 351 # Comments: 472
+Article URL: https://rorz.io/writing/semicircle-packing Comments URL: https://news.ycombinator.com/item?id=50484234 Points: 52 # Comments: 4
 
-After 600 experiments, here's what I discovered about JEPA world models
+Project Zero will disclose vulnerabilities 90 days after reporting
 Source: Hacker News RSS
 Category: technology
-URL: https://haddyalchaer.com/jepa
-Published: 2026-11-13T17:55:28+00:00
+URL: https://projectzero.google/2026/11/disclosure-policy.html
+Published: 2026-11-14T11:13:17+00:00
 
-Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 273 # Comments: 45
+Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 281 # Comments: 162
 
-Show HN: Isometric SF – A pixel-art map of the SF Bay Area
+Advancing science and engineering with Antigravity's /teamwork
 Source: Hacker News RSS
 Category: technology
-URL: https://isometricsf.com/
-Published: 2026-11-13T17:58:37+00:00
+URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature
+Published: 2026-11-14T13:20:43+00:00
 
-Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley. The technicals involve using Nano Banana 2 to train a Qwen-Image-Edit 2511 LoRA which is used to prototype the style and generation methods. For final map I used Qwen to train a Klein 4B LoRA which reproduced the style at 1/4 of the cost. More details in the blog post. Let me know what you think! I really enjoyed this process of fine-tuning smaller open source models. If I did the map with Nano Banana 2 it would have cost around 7k USD! Credit for the idea goes to Isometric NYC. Comments URL: https://news.ycombinator.com/item?id=50487228 Points: 225 # Comments: 72
+Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 207 # Comments: 49
 
-FM-1 Workbench
+KDE: The documentary [video]
 Source: Hacker News RSS
 Category: technology
-URL: https://open.m-vave.com/fm1-workbench
-Published: 2026-11-13T19:14:02+00:00
+URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c
+Published: 2026-11-14T13:43:28+00:00
 
-Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 244 # Comments: 159
+Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 523 # Comments: 116
 
-Perplexity Decider v1.3: Training, eval, and use cases
+Show HN: DeepSeek V3 in ~200 lines of pure Jax
 Source: Hacker News RSS
 Category: technology
-URL: https://www.perplexity.ai/hub/blog/perplexity-decider
-Published: 2026-11-13T19:24:47+00:00
+URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax
+Published: 2026-11-14T15:04:15+00:00
 
-Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 138 # Comments: 25
+Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 250 # Comments: 23
 
-Found: A protein that drives ageing without unleashing inflammation
+PyPI's redesigned project pages with clearer security signals are now live
 Source: Hacker News RSS
 Category: technology
-URL: https://www.nature.com/articles/d41586-026-03638-3
-Published: 2026-11-13T19:25:21+00:00
+URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete
+Published: 2026-11-14T15:40:52+00:00
 
-Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 213 # Comments: 50
+Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 257 # Comments: 112
 
-Live-migration support in FreeBSD and bhyve coming
+Lovable apps expose passport details and more than 200K private messages
 Source: Hacker News RSS
 Category: technology
-URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc
-Published: 2026-11-13T19:58:42+00:00
+URL: https://www.crissyfield.de/research/lovable-en
+Published: 2026-11-14T17:43:10+00:00
 
-Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 119 # Comments: 29
+Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 891 # Comments: 340
 
-FAA issues national ground stop – lifted 4.5 hours later
+A family tree of software job titles
 Source: Hacker News RSS
 Category: technology
-URL: https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247
-Published: 2026-11-13T21:05:53+00:00
+URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles
+Published: 2026-11-14T17:45:19+00:00
 
-https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1577 # Comments: 1203
+Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 358 # Comments: 182
 
-Live airband on all frequencies from KORS. Victoria, CA also ground stopped
+SpaceX catches the Starship to end Flight 15
 Source: Hacker News RSS
 Category: technology
-URL: https://orcasairband.com/
-Published: 2026-11-13T22:04:24+00:00
+URL: https://www.spacex.com/launches/starship-flight-15
+Published: 2026-11-14T21:22:24+00:00
 
-Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 278 # Comments: 65
+https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1378 # Comments: 918
 
-How Not to Build a Music Player
+How did Woz write the Apple 1 BASIC before building the computer?
 Source: Hacker News RSS
 Category: technology
-URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player
-Published: 2026-11-13T23:04:30+00:00
+URL: https://retrocomputing.stackexchange.com/questions/17957
+Published: 2026-11-14T22:22:49+00:00
 
-Article URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player/ Comments URL: https://news.ycombinator.com/item?id=50491400 Points: 134 # Comments: 59
+Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 250 # Comments: 130
 
-Terminal borders that don't cost a cell
+Court denies motion to dismiss DRAM price fixing case
 Source: Hacker News RSS
 Category: technology
-URL: https://www.joshka.net/cell-borders
-Published: 2026-11-13T23:06:40+00:00
+URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal
+Published: 2026-11-15T01:18:36+00:00
 
-Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 314 # Comments: 139
+Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 282 # Comments: 108
 
-Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop
+We're Asking an Appeals Court to Require a Warrant for ALPR Searches
 Source: Hacker News RSS
 Category: technology
-URL: https://grounds.top/
-Published: 2026-11-13T23:17:39+00:00
+URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches
+Published: 2026-11-15T02:00:54+00:00
 
-Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 167 # Comments: 23
+Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 274 # Comments: 74
 
-What happened to 3Com?
+My favourite modern NES games
 Source: Hacker News RSS
 Category: technology
-URL: https://dfarq.homeip.net/what-happened-to-3com
-Published: 2026-11-13T23:48:59+00:00
+URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games
+Published: 2026-11-15T02:41:25+00:00
 
-Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 166 # Comments: 90
+Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/ Comments URL: https://news.ycombinator.com/item?id=50503465 Points: 134 # Comments: 13
 
-Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update
+Kiri – The Modern Container Runtime
 Source: Hacker News RSS
 Category: technology
-URL: https://unsloth.ai/docs/models/qwen3.8
-Published: 2026-11-14T00:06:04+00:00
+URL: https://runkiri.com/
+Published: 2026-11-15T04:40:41+00:00
 
-Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 184 # Comments: 51
+Article URL: https://runkiri.com/ Comments URL: https://news.ycombinator.com/item?id=50504077 Points: 70 # Comments: 32
 
-Amtrak booking system experiencing major issues amid nationwide FAA ground stop
+Disk encryption on NetBSD – achieving secrecy
 Source: Hacker News RSS
 Category: technology
-URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026
-Published: 2026-11-14T00:52:29+00:00
+URL: https://netbsd.org/~nia/disk-encrypt
+Published: 2026-11-15T05:29:54+00:00
 
-Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 173 # Comments: 63
+Article URL: https://netbsd.org/~nia/disk-encrypt/ Comments URL: https://news.ycombinator.com/item?id=50504277 Points: 60 # Comments: 13
 
-Elephants found to be increasingly isolated leading to fractured social networks
+Book list for streetfighting computer scientists
 Source: Hacker News RSS
 Category: technology
-URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks
-Published: 2026-11-14T02:02:42+00:00
+URL: https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists
+Published: 2026-11-15T07:08:50+00:00
 
-Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 152 # Comments: 34
+Article URL: https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists Comments URL: https://news.ycombinator.com/item?id=50504718 Points: 60 # Comments: 20
 
-Ggml v1.0.0
+Why did some Apollo missions carry a grenade launcher?
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0
-Published: 2026-11-14T02:28:29+00:00
+URL: https://space.stackexchange.com/questions/37775
+Published: 2026-11-15T09:06:43+00:00
 
-Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 310 # Comments: 50
+Article URL: https://space.stackexchange.com/questions/37775 Comments URL: https://news.ycombinator.com/item?id=50505271 Points: 92 # Comments: 59
 
-Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
+Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business
 Source: Hacker News RSS
 Category: technology
-URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus
-Published: 2026-11-14T02:52:59+00:00
+URL: https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html
+Published: 2026-11-15T11:40:51+00:00
 
-Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 743 # Comments: 433
+Article URL: https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 41 # Comments: 11
 
-Monkey Island: all 13 versions side by side
+Understanding Positional Embeddings in Modern LLMs
 Source: Hacker News RSS
 Category: technology
-URL: https://monkeyisland.pages.dev/
-Published: 2026-11-14T04:23:30+00:00
+URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings
+Published: 2026-11-15T12:14:06+00:00
 
-Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 235 # Comments: 75
+Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 8 # Comments: 0
