@@ -1,0 +1,81 @@
+{
+  "topic": "Article Points Item",
+  "topic_key": "article-points-item",
+  "confidence": 85.08,
+  "score_breakdown": {
+    "source_quality": 65.2,
+    "corroboration": 100.0,
+    "recency": 77.58,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.08,
+  "evidence": [
+    {
+      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+      "url": "https://visualbasic.world/",
+      "publisher": "visualbasic.world",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-17T16:05:51.217297+00:00"
+    },
+    {
+      "title": "Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags",
+      "url": "https://github.com/plabayo/venndb",
+      "publisher": "github.com",
+      "source": "Hacker News",
+      "reliability": 0.6,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-11-17T16:05:51.414468+00:00"
+    },
+    {
+      "title": "A.I. Just Blew Up a Key Tenet of Computer Science",
+      "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
+      "publisher": "www.nytimes.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-17T16:05:51.716508+00:00"
+    },
+    {
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "url": "https://alloyhtml.com/example.html",
+      "publisher": "alloyhtml.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-17T16:05:52.018136+00:00"
+    },
+    {
+      "title": "A US Federal Women's Prison Became a \"Rape Club\"",
+      "url": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
+      "publisher": "www.propublica.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-17T16:05:52.791545+00:00"
+    },
+    {
+      "title": "Pentagon fails 9th financial audit in a row",
+      "url": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
+      "publisher": "thehill.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-17T16:05:52.860575+00:00"
+    }
+  ]
+}
