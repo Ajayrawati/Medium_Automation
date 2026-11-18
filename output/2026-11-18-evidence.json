@@ -1,0 +1,81 @@
+{
+  "topic": "Https News.ycombinator.com Comments",
+  "topic_key": "https-news.ycombinator.com-comments",
+  "confidence": 84.61,
+  "score_breakdown": {
+    "source_quality": 65.77,
+    "corroboration": 100.0,
+    "recency": 74.4,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 94.61,
+  "evidence": [
+    {
+      "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "publisher": "www.wiz.io",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-18T15:43:35.137365+00:00"
+    },
+    {
+      "title": "The x86 CPU: From 4004 to 486",
+      "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+      "publisher": "pikuma.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-11-18T15:43:36.057439+00:00"
+    },
+    {
+      "title": "A Primer on Fourier Series",
+      "url": "https://arxiv.org/abs/2510.18203",
+      "publisher": "arxiv.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-18T15:43:36.203955+00:00"
+    },
+    {
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "publisher": "www.cam.ac.uk",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-18T15:43:36.384042+00:00"
+    },
+    {
+      "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+      "publisher": "www.sciencedaily.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-18T15:43:36.672509+00:00"
+    },
+    {
+      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+      "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+      "publisher": "www.sas.upenn.edu",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-18T15:43:37.003633+00:00"
+    }
+  ]
+}

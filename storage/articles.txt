@@ -1,16 +1,30 @@
-google-research / paper-orchestra
+punkpeye / awesome-mcp-servers
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/google-research/paper-orchestra
+URL: https://github.com/punkpeye/awesome-mcp-servers
 
-PaperOrchestra is a multi-agent framework for automated AI research paper writing.
+A collection of MCP servers.
 
-jingyaogong / minimind
+solidjs / solid
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/jingyaogong/minimind
+URL: https://github.com/solidjs/solid
 
-🧠 Train a 64M-parameter LLM from scratch in just 2h!
+A declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+n8n-io / n8n
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/n8n-io/n8n
+
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+DeanChensj / jiangshan-map
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/DeanChensj/jiangshan-map
+
+江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
 
 affaan-m / ECC
 Source: GitHub Trending
@@ -19,27 +33,6 @@ URL: https://github.com/affaan-m/ECC
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-sveltejs / svelte
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/sveltejs/svelte
-
-web development for the rest of us
-
-backnotprop / plannotator
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/backnotprop/plannotator
-
-The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
-
-ag-ui-protocol / ag-ui
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/ag-ui-protocol/ag-ui
-
-AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-
 obra / superpowers
 Source: GitHub Trending
 Category: technology
@@ -47,12 +40,33 @@ URL: https://github.com/obra/superpowers
 
 An agentic skills framework & software development methodology that works.
 
-cursor / plugins
+openvinotoolkit / openvino
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/cursor/plugins
+URL: https://github.com/openvinotoolkit/openvino
 
-Cursor plugin specification and official plugins
+OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+
+appwrite / appwrite
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/appwrite/appwrite
+
+The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
+
+jquery / jquery
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/jquery/jquery
+
+jQuery JavaScript Library
+
+sveltejs / svelte
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/sveltejs/svelte
+
+web development for the rest of us
 
 google-labs-code / stitch-skills
 Source: GitHub Trending
@@ -61,33 +75,40 @@ URL: https://github.com/google-labs-code/stitch-skills
 
 A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
+google-research / paper-orchestra
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/google-research/paper-orchestra
+
+PaperOrchestra is a multi-agent framework for automated AI research paper writing.
+
+astral-sh / uv
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/astral-sh/uv
+
+An extremely fast Python package and project manager, written in Rust.
+
+nvm-sh / nvm
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/nvm-sh/nvm
+
+Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+
+NVIDIA / SkillEvaluator
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/NVIDIA/SkillEvaluator
+
+Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+
 getarcaneapp / arcane
 Source: GitHub Trending
 Category: technology
 URL: https://github.com/getarcaneapp/arcane
 
 Modern Docker Management, Designed for Everyone
-
-dream-num / univer
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/dream-num/univer
-
-Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
-
-Tencent / LoopForge
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/Tencent/LoopForge
-
-Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
-
-alibaba / open-code-review
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/alibaba/open-code-review
-
-Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
 mvanhorn / last30days-skill
 Source: GitHub Trending
@@ -96,6 +117,20 @@ URL: https://github.com/mvanhorn/last30days-skill
 
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
+HKUDS / CLI-Anything
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/HKUDS/CLI-Anything
+
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+
+cursor / plugins
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/cursor/plugins
+
+Cursor plugin specification and official plugins
+
 elementalsouls / Claude-BugHunter
 Source: GitHub Trending
 Category: technology
@@ -103,218 +138,197 @@ URL: https://github.com/elementalsouls/Claude-BugHunter
 
 A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
-Nimony: A New Compiler for Nim
-Source: Hacker News
-Category: technology
-URL: https://nimony.org/
-Published: 2026-11-16T01:05:22+00:00
-Score: 136
-
-Too Many Stadiums with Roofs
-Source: Hacker News
-Category: technology
-URL: https://sharptext.net/2026/too-many-stadiums-with-roofs
-Published: 2026-11-14T15:12:39+00:00
-Score: 29
-
-Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags
-Source: Hacker News
-Category: technology
-URL: https://github.com/plabayo/venndb
-Published: 2026-11-16T09:17:37+00:00
-Score: 21
-
-Turbo Pascal Compiler Written in Turbo Pascal
-Source: Hacker News
-Category: technology
-URL: https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal
-Published: 2026-11-15T18:40:57+00:00
-Score: 62
-
 Highly classified US national security communications network goes down
 Source: Hacker News
 Category: technology
 URL: https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down
 Published: 2026-11-17T15:38:28+00:00
-Score: 27
+Score: 651
 
-Rows vs. Columns: How different are they, really?
+Nvidia stopped disclosing Singapore sales as revenues hit $104B
 Source: Hacker News
 Category: technology
-URL: https://spiraldb.com/blog/rows-vs-columns
-Published: 2026-11-12T17:04:41+00:00
-Score: 88
+URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf
+Published: 2026-11-17T17:12:06+00:00
+Score: 636
 
-VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012
+IPv6 delegation, an unusually subtle failure mode
 Source: Hacker News
 Category: technology
-URL: https://visualbasic.world/
-Published: 2026-11-15T23:08:30+00:00
-Score: 155
+URL: https://savyasacheejha.com/posts/why-odhcpd
+Published: 2026-11-15T18:06:13+00:00
+Score: 46
 
-First Photos of the Poles of a Rod-Shaped Bacterium
+When AI Knows More Than It Can Offer
 Source: Hacker News
 Category: technology
-URL: https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664
-Published: 2026-11-16T15:02:20+00:00
-Score: 45
+URL: https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e
+Published: 2026-11-15T15:59:23+00:00
+Score: 50
 
-Jiff 1.0: A datetime library for Rust
+A Perfect SimCity
+Source: Hacker News
+Category: technology
+URL: https://www.jeffquast.com/post/a-perfect-simcity
+Published: 2026-11-15T05:54:22+00:00
+Score: 150
+
+Java4Shell: RCE in OpenJDK when processing Base64
 Source: Hacker News RSS
 Category: technology
-URL: https://burntsushi.net/jiff
-Published: 2026-11-16T16:53:39+00:00
+URL: https://calif.io/java4shell
+Published: 2026-11-17T21:11:28+00:00
 
-Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 418 # Comments: 91
+Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 1087 # Comments: 292
 
-Grazing sheep in fields with solar arrays
+Harvard researchers find AI coding agents shifted the bottleneck to code review
 Source: Hacker News RSS
 Category: technology
-URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains
-Published: 2026-11-16T17:27:46+00:00
+URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review
+Published: 2026-11-17T21:16:12+00:00
 
-Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 310 # Comments: 312
+Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 270 # Comments: 360
 
-Chemistry is Actually Geometry
+Quad9's withdrawal from France: A canary in the coal mine
 Source: Hacker News RSS
 Category: technology
-URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry
-Published: 2026-11-16T20:22:18+00:00
+URL: https://blog.cloudflare.com/quad9-withdrawal-from-france
+Published: 2026-11-17T22:13:34+00:00
 
-Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 291 # Comments: 125
+Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 829 # Comments: 377
 
-Carnegie Mellon is putting computer science courses on YouTube for free
+Microsoft's ONNX Runtime has disappeared from GitHub
 Source: Hacker News RSS
 Category: technology
-URL: https://www.cs.cmu.edu/learn
-Published: 2026-11-16T20:43:36+00:00
+URL: https://github.com/microsoft/onnxruntime
+Published: 2026-11-17T23:18:49+00:00
 
-Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 1988 # Comments: 268
+Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 410 # Comments: 82
 
-Comcast's "fiber-powered Wi-Fi" is cable, AT&T says in false advertising case
+Archive Team is archiving the Apple Support Community
 Source: Hacker News RSS
 Category: technology
-URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says
-Published: 2026-11-16T20:48:08+00:00
+URL: https://wiki.archiveteam.org/index.php/Apple_Discussions
+Published: 2026-11-17T23:32:58+00:00
 
-Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 207 # Comments: 176
+Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 245 # Comments: 99
 
-BugMeNot has closed
+Google's AI answers reducing search traffic by 40%
 Source: Hacker News RSS
 Category: technology
-URL: https://www.bugmenot.com/
-Published: 2026-11-16T21:32:17+00:00
+URL: https://revscope.co/blog/search-seo-geo-2026
+Published: 2026-11-18T00:17:58+00:00
 
-Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 656 # Comments: 295
+Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 613 # Comments: 456
 
-Optimizely compromised, served malware on Zoom, GitLab
+ID.me terms required for IRS sign-in
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely
-Published: 2026-11-16T23:00:34+00:00
+URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in
+Published: 2026-11-18T00:51:45+00:00
 
-Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 522 # Comments: 207
+Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 436 # Comments: 227
 
-Why 3dfx 1 cards had such a washed out color output?
+Claude was trained on protein sequences at scale
 Source: Hacker News RSS
 Category: technology
-URL: https://twitter.com/id_aa_carmack/status/2122478083319992513
-Published: 2026-11-17T00:16:24+00:00
+URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences
+Published: 2026-11-18T03:47:43+00:00
 
-Article URL: https://twitter.com/id_aa_carmack/status/2122478083319992513 Comments URL: https://news.ycombinator.com/item?id=50525575 Points: 231 # Comments: 81
+Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 124 # Comments: 56
 
-If an App Asks for Full Disk Access or System and App Protection Override
+Why is Gemini 4 Carbon taking so long?
 Source: Hacker News RSS
 Category: technology
-URL: https://support.apple.com/en-us/149699
-Published: 2026-11-17T02:17:04+00:00
+URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long
+Published: 2026-11-18T04:14:04+00:00
 
-Article URL: https://support.apple.com/en-us/149699 Comments URL: https://news.ycombinator.com/item?id=50526560 Points: 192 # Comments: 101
+Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 213 # Comments: 105
 
-How the Claude Code team thinks about verification
+AI is killing All About Berlin
 Source: Hacker News RSS
 Category: technology
-URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification
-Published: 2026-11-17T10:20:40+00:00
+URL: https://nicolasbouliane.com/blog/death-by-ai
+Published: 2026-11-18T06:47:26+00:00
 
-Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/ Comments URL: https://news.ycombinator.com/item?id=50529612 Points: 120 # Comments: 124
+Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 644 # Comments: 592
 
-New Evidence Shows School Phone Bans Are Gradually Improving Test Scores
+Energy-Based Reasoners: 385x more efficient inference
 Source: Hacker News RSS
 Category: technology
-URL: https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html
-Published: 2026-11-17T11:45:51+00:00
+URL: https://energy-based-reasoners.github.io/
+Published: 2026-11-18T09:29:32+00:00
 
-Article URL: https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html Comments URL: https://news.ycombinator.com/item?id=50530163 Points: 595 # Comments: 304
+Article URL: https://energy-based-reasoners.github.io/ Comments URL: https://news.ycombinator.com/item?id=50543989 Points: 213 # Comments: 29
 
-S. Korea to send nationwide emergency alerts over college entrance exam cheating
+Show HN: Type Fighter 2
 Source: Hacker News RSS
 Category: technology
-URL: https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e
-Published: 2026-11-17T14:00:47+00:00
+URL: https://typefighter2.com/
+Published: 2026-11-18T11:11:53+00:00
 
-Article URL: https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e Comments URL: https://news.ycombinator.com/item?id=50531484 Points: 48 # Comments: 50
+Type Fighter II is an arcade inspired game for people learning to touch type. Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard. Comments URL: https://news.ycombinator.com/item?id=50544821 Points: 64 # Comments: 26
 
-Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns
+Evidence (YC S21) Is Hiring
 Source: Hacker News RSS
 Category: technology
-URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns
-Published: 2026-11-17T14:19:59+00:00
+URL: https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead
+Published: 2026-11-18T12:00:16+00:00
 
-Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 103 # Comments: 95
+Article URL: https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead Comments URL: https://news.ycombinator.com/item?id=50545238 Points: 0 # Comments: 0
 
-Loopholes Are for Assholes
+Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy
 Source: Hacker News RSS
 Category: technology
-URL: https://actsofvolition.com/2026/11/loopholes-are-for-assholes
-Published: 2026-11-17T14:20:32+00:00
+URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking
+Published: 2026-11-18T13:18:02+00:00
 
-Article URL: https://actsofvolition.com/2026/11/loopholes-are-for-assholes/ Comments URL: https://news.ycombinator.com/item?id=50531761 Points: 66 # Comments: 27
+Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/ Comments URL: https://news.ycombinator.com/item?id=50545958 Points: 241 # Comments: 49
 
-We don't need more apps. We need better open source
+Can Peer Review Survive AI-Generated Text? [pdf]
 Source: Hacker News RSS
 Category: technology
-URL: https://jordankrueger.com/blog/better-open-source-not-more-apps
-Published: 2026-11-17T14:45:36+00:00
+URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf
+Published: 2026-11-18T13:51:03+00:00
 
-Article URL: https://jordankrueger.com/blog/better-open-source-not-more-apps/ Comments URL: https://news.ycombinator.com/item?id=50532086 Points: 148 # Comments: 67
+Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 49 # Comments: 50
 
-In 27,280 coding agent runs, 64% of inference spend went to runs that failed
+Energy drinks linked to 11 times more reports of cardiac arrest
 Source: Hacker News RSS
 Category: technology
-URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1
-Published: 2026-11-17T14:53:43+00:00
+URL: https://www.sciencedaily.com/releases/2026/11/261110042543.htm
+Published: 2026-11-18T14:03:37+00:00
 
-Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/ Comments URL: https://news.ycombinator.com/item?id=50532191 Points: 8 # Comments: 2
+Article URL: https://www.sciencedaily.com/releases/2026/11/261110042543.htm Comments URL: https://news.ycombinator.com/item?id=50546465 Points: 48 # Comments: 24
 
-Pentagon fails 9th financial audit in a row
+'Human' Is Cambridge Dictionary's Word of the Year 2026
 Source: Hacker News RSS
 Category: technology
-URL: https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit
-Published: 2026-11-17T15:02:53+00:00
+URL: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026
+Published: 2026-11-18T14:43:52+00:00
 
-Article URL: https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/ Comments URL: https://news.ycombinator.com/item?id=50532315 Points: 42 # Comments: 23
+Article URL: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026 Comments URL: https://news.ycombinator.com/item?id=50546914 Points: 52 # Comments: 19
 
-A US Federal Women's Prison Became a "Rape Club"
+A Primer on Fourier Series
 Source: Hacker News RSS
 Category: technology
-URL: https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop
-Published: 2026-11-17T15:03:25+00:00
+URL: https://arxiv.org/abs/2510.18203
+Published: 2026-11-18T14:44:33+00:00
 
-Article URL: https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop Comments URL: https://news.ycombinator.com/item?id=50532322 Points: 44 # Comments: 6
+Article URL: https://arxiv.org/abs/2510.18203 Comments URL: https://news.ycombinator.com/item?id=50546922 Points: 4 # Comments: 0
 
-Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off
+The x86 CPU: From 4004 to 486
 Source: Hacker News RSS
 Category: technology
-URL: https://alloyhtml.com/example.html
-Published: 2026-11-17T15:07:09+00:00
+URL: https://pikuma.com/blog/history-of-x86-4004-to-486
+Published: 2026-11-18T14:47:53+00:00
 
-Article URL: https://alloyhtml.com/example.html Comments URL: https://news.ycombinator.com/item?id=50532385 Points: 23 # Comments: 3
+Article URL: https://pikuma.com/blog/history-of-x86-4004-to-486 Comments URL: https://news.ycombinator.com/item?id=50546967 Points: 7 # Comments: 0
 
-A.I. Just Blew Up a Key Tenet of Computer Science
+Pre-auth RCE in Nginx HTTP/2 handling
 Source: Hacker News RSS
 Category: technology
-URL: https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html
-Published: 2026-11-17T15:33:48+00:00
+URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
+Published: 2026-11-18T15:19:55+00:00
 
-Article URL: https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html Comments URL: https://news.ycombinator.com/item?id=50532786 Points: 11 # Comments: 4
+Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 17 # Comments: 3
