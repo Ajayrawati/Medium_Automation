@@ -1,72 +1,37 @@
-punkpeye / awesome-mcp-servers
+zhouxiaoka / autoclip
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/punkpeye/awesome-mcp-servers
+URL: https://github.com/zhouxiaoka/autoclip
 
-A collection of MCP servers.
+AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
 
-solidjs / solid
+XiaoYouChR / Ghost-Downloader-3
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/solidjs/solid
+URL: https://github.com/XiaoYouChR/Ghost-Downloader-3
 
-A declarative, efficient, and flexible JavaScript library for building user interfaces.
+The only downloader you need. 下载器的集大成者。
 
-n8n-io / n8n
+toeverything / AFFiNE
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/n8n-io/n8n
+URL: https://github.com/toeverything/AFFiNE
 
-Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 
-DeanChensj / jiangshan-map
+Tracer-Cloud / opensre
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/DeanChensj/jiangshan-map
+URL: https://github.com/Tracer-Cloud/opensre
 
-江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
+The open-source agent for CI/CD reliability.
 
-affaan-m / ECC
+mjmirza / app-store-compliance
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/affaan-m/ECC
+URL: https://github.com/mjmirza/app-store-compliance
 
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-obra / superpowers
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/obra/superpowers
-
-An agentic skills framework & software development methodology that works.
-
-openvinotoolkit / openvino
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/openvinotoolkit/openvino
-
-OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-
-appwrite / appwrite
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/appwrite/appwrite
-
-The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
-
-jquery / jquery
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/jquery/jquery
-
-jQuery JavaScript Library
-
-sveltejs / svelte
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/sveltejs/svelte
-
-web development for the rest of us
+Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
 
 google-labs-code / stitch-skills
 Source: GitHub Trending
@@ -75,41 +40,6 @@ URL: https://github.com/google-labs-code/stitch-skills
 
 A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
-google-research / paper-orchestra
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/google-research/paper-orchestra
-
-PaperOrchestra is a multi-agent framework for automated AI research paper writing.
-
-astral-sh / uv
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/astral-sh/uv
-
-An extremely fast Python package and project manager, written in Rust.
-
-nvm-sh / nvm
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/nvm-sh/nvm
-
-Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-
-NVIDIA / SkillEvaluator
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/NVIDIA/SkillEvaluator
-
-Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
-
-getarcaneapp / arcane
-Source: GitHub Trending
-Category: technology
-URL: https://github.com/getarcaneapp/arcane
-
-Modern Docker Management, Designed for Everyone
-
 mvanhorn / last30days-skill
 Source: GitHub Trending
 Category: technology
@@ -117,12 +47,33 @@ URL: https://github.com/mvanhorn/last30days-skill
 
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
-HKUDS / CLI-Anything
+cathrynlavery / diagram-design
 Source: GitHub Trending
 Category: technology
-URL: https://github.com/HKUDS/CLI-Anything
+URL: https://github.com/cathrynlavery/diagram-design
 
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+
+openvinotoolkit / openvino
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/openvinotoolkit/openvino
+
+OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+
+nginx / nginx
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/nginx/nginx
+
+The official NGINX Open Source repository.
+
+firecrawl / firecrawl
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/firecrawl/firecrawl
+
+Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
 
 cursor / plugins
 Source: GitHub Trending
@@ -131,6 +82,27 @@ URL: https://github.com/cursor/plugins
 
 Cursor plugin specification and official plugins
 
+jingyaogong / minimind
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/jingyaogong/minimind
+
+🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
+
+HKUDS / CLI-Anything
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/HKUDS/CLI-Anything
+
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+
+obra / superpowers
+Source: GitHub Trending
+Category: technology
+URL: https://github.com/obra/superpowers
+
+An agentic skills framework & software development methodology that works.
+
 elementalsouls / Claude-BugHunter
 Source: GitHub Trending
 Category: technology
@@ -138,197 +110,190 @@ URL: https://github.com/elementalsouls/Claude-BugHunter
 
 A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
-Highly classified US national security communications network goes down
+C's designated initializers give us named arguments
 Source: Hacker News
 Category: technology
-URL: https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down
-Published: 2026-11-17T15:38:28+00:00
-Score: 651
+URL: https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c
+Published: 2026-11-18T09:49:49+00:00
+Score: 36
 
-Nvidia stopped disclosing Singapore sales as revenues hit $104B
+Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)
 Source: Hacker News
 Category: technology
-URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf
-Published: 2026-11-17T17:12:06+00:00
-Score: 636
+URL: https://thedataexchange.media/pete-warden-moonshine
+Published: 2026-11-19T15:38:12+00:00
+Score: 4
 
-IPv6 delegation, an unusually subtle failure mode
+Nintendo takes Picofly firmware down from GitHub [video]
 Source: Hacker News
 Category: technology
-URL: https://savyasacheejha.com/posts/why-odhcpd
-Published: 2026-11-15T18:06:13+00:00
-Score: 46
+URL: https://www.youtube.com/watch?v=-TLCGUpoD6c
+Published: 2026-11-18T14:56:04+00:00
+Score: 134
 
-When AI Knows More Than It Can Offer
+Garage Door Spam
 Source: Hacker News
 Category: technology
-URL: https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e
-Published: 2026-11-15T15:59:23+00:00
-Score: 50
+URL: https://blog.harrison.page/garage-door-spam
+Published: 2026-11-16T16:13:36+00:00
+Score: 351
 
-A Perfect SimCity
-Source: Hacker News
-Category: technology
-URL: https://www.jeffquast.com/post/a-perfect-simcity
-Published: 2026-11-15T05:54:22+00:00
-Score: 150
-
-Java4Shell: RCE in OpenJDK when processing Base64
+We taught robots to carve marble sculptures
 Source: Hacker News RSS
 Category: technology
-URL: https://calif.io/java4shell
-Published: 2026-11-17T21:11:28+00:00
+URL: https://eleanorwiesler.com/blog/robotic-stone-carving
+Published: 2026-11-18T17:03:53+00:00
 
-Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 1087 # Comments: 292
+Article URL: https://eleanorwiesler.com/blog/robotic-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50548808 Points: 78 # Comments: 56
 
-Harvard researchers find AI coding agents shifted the bottleneck to code review
+Gemini 4 Neon
 Source: Hacker News RSS
 Category: technology
-URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review
-Published: 2026-11-17T21:16:12+00:00
+URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon
+Published: 2026-11-18T21:34:07+00:00
 
-Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 270 # Comments: 360
+Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 935 # Comments: 726
 
-Quad9's withdrawal from France: A canary in the coal mine
+Anthropic prices initial public offering
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.cloudflare.com/quad9-withdrawal-from-france
-Published: 2026-11-17T22:13:34+00:00
+URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering
+Published: 2026-11-18T23:30:09+00:00
 
-Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 829 # Comments: 377
+Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 345 # Comments: 647
 
-Microsoft's ONNX Runtime has disappeared from GitHub
+Multiple vulnerabilities in Regexp and String case conversion
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/microsoft/onnxruntime
-Published: 2026-11-17T23:18:49+00:00
+URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string
+Published: 2026-11-18T23:52:50+00:00
 
-Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 410 # Comments: 82
+Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 310 # Comments: 115
 
-Archive Team is archiving the Apple Support Community
+Ruby2ßhell: Pre-authentication RCE on stock Rails
 Source: Hacker News RSS
 Category: technology
-URL: https://wiki.archiveteam.org/index.php/Apple_Discussions
-Published: 2026-11-17T23:32:58+00:00
+URL: https://verialabs.com/ruby2shell
+Published: 2026-11-19T05:09:11+00:00
 
-Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 245 # Comments: 99
+Article URL: https://verialabs.com/ruby2shell/ Comments URL: https://news.ycombinator.com/item?id=50556287 Points: 275 # Comments: 106
 
-Google's AI answers reducing search traffic by 40%
+15M web servers on one VM – smoltcp, DPDK, AF_XDP
 Source: Hacker News RSS
 Category: technology
-URL: https://revscope.co/blog/search-seo-geo-2026
-Published: 2026-11-18T00:17:58+00:00
+URL: https://kapteko.com/15-million-webservers
+Published: 2026-11-19T05:56:36+00:00
 
-Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 613 # Comments: 456
+Article URL: https://kapteko.com/15-million-webservers/ Comments URL: https://news.ycombinator.com/item?id=50556533 Points: 269 # Comments: 32
 
-ID.me terms required for IRS sign-in
+Distributed, high-performance blob storage on SQLite
 Source: Hacker News RSS
 Category: technology
-URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in
-Published: 2026-11-18T00:51:45+00:00
+URL: https://zerodha.tech/blog/high-performance-distributed-blob-storage
+Published: 2026-11-19T08:39:45+00:00
 
-Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 436 # Comments: 227
+Article URL: https://zerodha.tech/blog/high-performance-distributed-blob-storage/ Comments URL: https://news.ycombinator.com/item?id=50557537 Points: 159 # Comments: 38
 
-Claude was trained on protein sequences at scale
+Do not buy RAM, compress
 Source: Hacker News RSS
 Category: technology
-URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences
-Published: 2026-11-18T03:47:43+00:00
+URL: https://curiousbits.nl/blog/do-not-buy-ram-compress
+Published: 2026-11-19T08:56:47+00:00
 
-Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 124 # Comments: 56
+Article URL: https://curiousbits.nl/blog/do-not-buy-ram-compress/ Comments URL: https://news.ycombinator.com/item?id=50557661 Points: 69 # Comments: 66
 
-Why is Gemini 4 Carbon taking so long?
+SSD prices will start going down the second half of next year
 Source: Hacker News RSS
 Category: technology
-URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long
-Published: 2026-11-18T04:14:04+00:00
+URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html
+Published: 2026-11-19T09:05:34+00:00
 
-Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 213 # Comments: 105
+Article URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html Comments URL: https://news.ycombinator.com/item?id=50557716 Points: 201 # Comments: 170
 
-AI is killing All About Berlin
+What's New in PHP 8.6
 Source: Hacker News RSS
 Category: technology
-URL: https://nicolasbouliane.com/blog/death-by-ai
-Published: 2026-11-18T06:47:26+00:00
+URL: https://www.php.net/releases/8.6/en.php
+Published: 2026-11-19T09:27:15+00:00
 
-Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 644 # Comments: 592
+Article URL: https://www.php.net/releases/8.6/en.php Comments URL: https://news.ycombinator.com/item?id=50557870 Points: 178 # Comments: 91
 
-Energy-Based Reasoners: 385x more efficient inference
+How the European Commission rolled out Matrix to more than 40k staff
 Source: Hacker News RSS
 Category: technology
-URL: https://energy-based-reasoners.github.io/
-Published: 2026-11-18T09:29:32+00:00
+URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff
+Published: 2026-11-19T10:58:29+00:00
 
-Article URL: https://energy-based-reasoners.github.io/ Comments URL: https://news.ycombinator.com/item?id=50543989 Points: 213 # Comments: 29
+Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ Comments URL: https://news.ycombinator.com/item?id=50558533 Points: 403 # Comments: 207
 
-Show HN: Type Fighter 2
+Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2
 Source: Hacker News RSS
 Category: technology
-URL: https://typefighter2.com/
-Published: 2026-11-18T11:11:53+00:00
+URL: https://contralabs.com/frontierdesign
+Published: 2026-11-19T11:03:20+00:00
 
-Type Fighter II is an arcade inspired game for people learning to touch type. Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard. Comments URL: https://news.ycombinator.com/item?id=50544821 Points: 64 # Comments: 26
+Article URL: https://contralabs.com/frontierdesign Comments URL: https://news.ycombinator.com/item?id=50558559 Points: 82 # Comments: 29
 
-Evidence (YC S21) Is Hiring
+Someone reported java4shell bug in September 2026
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead
-Published: 2026-11-18T12:00:16+00:00
+URL: https://github.com/openjdk/jdk/pull/32781
+Published: 2026-11-19T11:47:03+00:00
 
-Article URL: https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead Comments URL: https://news.ycombinator.com/item?id=50545238 Points: 0 # Comments: 0
+Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 90 # Comments: 19
 
-Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy
+Unblockable communication with gravity – Science Advances
 Source: Hacker News RSS
 Category: technology
-URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking
-Published: 2026-11-18T13:18:02+00:00
+URL: https://www.science.org/doi/10.1126/sciadv.aee0802
+Published: 2026-11-19T12:22:00+00:00
 
-Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/ Comments URL: https://news.ycombinator.com/item?id=50545958 Points: 241 # Comments: 49
+Article URL: https://www.science.org/doi/10.1126/sciadv.aee0802 Comments URL: https://news.ycombinator.com/item?id=50559179 Points: 37 # Comments: 13
 
-Can Peer Review Survive AI-Generated Text? [pdf]
+Making 8-page foldable zines from a single A4 sheet in the browser
 Source: Hacker News RSS
 Category: technology
-URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf
-Published: 2026-11-18T13:51:03+00:00
+URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app
+Published: 2026-11-19T13:18:11+00:00
 
-Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 49 # Comments: 50
+Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 73 # Comments: 21
 
-Energy drinks linked to 11 times more reports of cardiac arrest
+Show HN: Foolscap – a writing app that reads your book and never writes for you
 Source: Hacker News RSS
 Category: technology
-URL: https://www.sciencedaily.com/releases/2026/11/261110042543.htm
-Published: 2026-11-18T14:03:37+00:00
+URL: https://foolscap.works/
+Published: 2026-11-19T13:21:20+00:00
 
-Article URL: https://www.sciencedaily.com/releases/2026/11/261110042543.htm Comments URL: https://news.ycombinator.com/item?id=50546465 Points: 48 # Comments: 24
+People are scared of their ability to write and think atrophying, so I wondered: what if I built something that enhanced human creativity instead of destroying it by doing the thinking and writing for people? Foolscap is the result, or at least the first version of that idea that's fleshed out enough to share here. It reads as you write and picks out the structure: characters, ideas, threads, what's left hanging. You can respond to what it picks out, so there's a dialectic between the system and you as the writer. There's also an agent on the side, plugged into the same system, so you can ask about your book and fire off actions through conversation. It never writes into your work. The system can also follow theorems and proofs and string together their dependencies, but I haven't made that a focus yet. There's no Lean support, for example. If anyone's interested in that, I'd love to hear it. I want to build this by iterating with the people who use it: a tool that uses AI not to bypass the creative process, but to bring new tools to it. There's a free tier, and if you email hello@foolscap.works I'll send you a code for 50% off. This is my first product, so feedback of any kind is welcome. Thanks, David Comments URL: https://news.ycombinator.com/item?id=50559749 Points: 62 # Comments: 28
 
-'Human' Is Cambridge Dictionary's Word of the Year 2026
+OpenAI still has a WebRTC Problem
 Source: Hacker News RSS
 Category: technology
-URL: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026
-Published: 2026-11-18T14:43:52+00:00
+URL: https://moq.dev/blog/webrtc-is-still-the-problem
+Published: 2026-11-19T14:20:08+00:00
 
-Article URL: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026 Comments URL: https://news.ycombinator.com/item?id=50546914 Points: 52 # Comments: 19
+Article URL: https://moq.dev/blog/webrtc-is-still-the-problem/ Comments URL: https://news.ycombinator.com/item?id=50560461 Points: 31 # Comments: 3
 
-A Primer on Fourier Series
+Germany and Austria Call for European Control of TikTok
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2510.18203
-Published: 2026-11-18T14:44:33+00:00
+URL: https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok
+Published: 2026-11-19T14:44:50+00:00
 
-Article URL: https://arxiv.org/abs/2510.18203 Comments URL: https://news.ycombinator.com/item?id=50546922 Points: 4 # Comments: 0
+Article URL: https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/ Comments URL: https://news.ycombinator.com/item?id=50560795 Points: 38 # Comments: 9
 
-The x86 CPU: From 4004 to 486
+Everything you need to survive and rebuild society
 Source: Hacker News RSS
 Category: technology
-URL: https://pikuma.com/blog/history-of-x86-4004-to-486
-Published: 2026-11-18T14:47:53+00:00
+URL: https://lastbook.org/
+Published: 2026-11-19T14:47:18+00:00
 
-Article URL: https://pikuma.com/blog/history-of-x86-4004-to-486 Comments URL: https://news.ycombinator.com/item?id=50546967 Points: 7 # Comments: 0
+Article URL: https://lastbook.org/ Comments URL: https://news.ycombinator.com/item?id=50560822 Points: 3 # Comments: 0
 
-Pre-auth RCE in Nginx HTTP/2 handling
+Cooling buildings is overtaking heating them as an energy need, IEA says
 Source: Hacker News RSS
 Category: technology
-URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
-Published: 2026-11-18T15:19:55+00:00
+URL: https://maccus.fr/en/cooling-overtaking-heating
+Published: 2026-11-19T14:57:14+00:00
 
-Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 17 # Comments: 3
+Article URL: https://maccus.fr/en/cooling-overtaking-heating/ Comments URL: https://news.ycombinator.com/item?id=50560955 Points: 4 # Comments: 0

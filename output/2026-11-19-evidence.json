@@ -1,0 +1,81 @@
+{
+  "topic": "Https Points Url",
+  "topic_key": "https-points-url",
+  "confidence": 86.91,
+  "score_breakdown": {
+    "source_quality": 65.25,
+    "corroboration": 100.0,
+    "recency": 86.69,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.91,
+  "evidence": [
+    {
+      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+      "url": "https://maccus.fr/en/cooling-overtaking-heating/",
+      "publisher": "maccus.fr",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-19T15:48:52.930593+00:00"
+    },
+    {
+      "title": "Everything you need to survive and rebuild society",
+      "url": "https://lastbook.org/",
+      "publisher": "lastbook.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-19T15:48:53.010007+00:00"
+    },
+    {
+      "title": "Germany and Austria Call for European Control of TikTok",
+      "url": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/",
+      "publisher": "www.techcentral.ie",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-19T15:48:53.337170+00:00"
+    },
+    {
+      "title": "OpenAI still has a WebRTC Problem",
+      "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+      "publisher": "moq.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-19T15:48:53.577041+00:00"
+    },
+    {
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "publisher": "krthr.co",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-19T15:48:53.839931+00:00"
+    },
+    {
+      "title": "Unblockable communication with gravity \u2013 Science Advances",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "publisher": "www.science.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-19T15:48:54.062704+00:00"
+    }
+  ]
+}
