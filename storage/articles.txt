@@ -110,190 +110,211 @@ URL: https://github.com/elementalsouls/Claude-BugHunter
 
 A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
-C's designated initializers give us named arguments
+µ-Wire – USB on an ATtiny 10
 Source: Hacker News
 Category: technology
-URL: https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c
-Published: 2026-11-18T09:49:49+00:00
-Score: 36
+URL: https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10
+Published: 2026-11-18T13:02:08+00:00
+Score: 84
 
-Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)
+I can’t believe it’s 1!
 Source: Hacker News
 Category: technology
-URL: https://thedataexchange.media/pete-warden-moonshine
-Published: 2026-11-19T15:38:12+00:00
-Score: 4
+URL: https://aperiodical.com/2026/11/i-cant-believe-its-1
+Published: 2026-11-16T19:07:13+00:00
+Score: 30
 
-Nintendo takes Picofly firmware down from GitHub [video]
+Show HN: Tinnitus frequency finder and audio notch tool
 Source: Hacker News
 Category: technology
-URL: https://www.youtube.com/watch?v=-TLCGUpoD6c
-Published: 2026-11-18T14:56:04+00:00
-Score: 134
+URL: https://trynotched.com/find
+Published: 2026-11-18T03:40:01+00:00
+Score: 93
 
-Garage Door Spam
+The G1 Garbage Collector
 Source: Hacker News
 Category: technology
-URL: https://blog.harrison.page/garage-door-spam
-Published: 2026-11-16T16:13:36+00:00
-Score: 351
+URL: https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview
+Published: 2026-11-17T04:29:07+00:00
+Score: 14
 
-We taught robots to carve marble sculptures
+Show HN: Fast deterministic natural language search for OpenStreetMap data
+Source: Hacker News
+Category: technology
+URL: https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich
+Published: 2026-11-19T15:16:02+00:00
+Score: 75
+
+Floppy3.5: A portable 3.5-inch floppy WiFi NAS
+Source: Hacker News
+Category: technology
+URL: https://github.com/bigcrimping/floppy3.5
+Published: 2026-11-19T14:29:49+00:00
+Score: 64
+
+Show HN: I made an audio-to-MIDI model 60x more efficient
+Source: Hacker News
+Category: technology
+URL: https://kobi.music/research/dettato
+Published: 2026-11-17T01:03:05+00:00
+Score: 71
+
+Vint Cerf on why TCP/IP was never patented
 Source: Hacker News RSS
 Category: technology
-URL: https://eleanorwiesler.com/blog/robotic-stone-carving
-Published: 2026-11-18T17:03:53+00:00
+URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never
+Published: 2026-11-20T01:06:12+00:00
 
-Article URL: https://eleanorwiesler.com/blog/robotic-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50548808 Points: 78 # Comments: 56
+Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never Comments URL: https://news.ycombinator.com/item?id=50568861 Points: 138 # Comments: 70
 
-Gemini 4 Neon
+OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon
-Published: 2026-11-18T21:34:07+00:00
+URL: https://github.com/openssl/openssl/pull/33652
+Published: 2026-11-20T02:01:09+00:00
 
-Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 935 # Comments: 726
+Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 322 # Comments: 273
 
-Anthropic prices initial public offering
+Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup
 Source: Hacker News RSS
 Category: technology
-URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering
-Published: 2026-11-18T23:30:09+00:00
+URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat
+Published: 2026-11-20T02:43:49+00:00
 
-Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 345 # Comments: 647
+Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ Comments URL: https://news.ycombinator.com/item?id=50569516 Points: 150 # Comments: 26
 
-Multiple vulnerabilities in Regexp and String case conversion
+What Comes After AGI?
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string
-Published: 2026-11-18T23:52:50+00:00
+URL: https://institute.deepmind.com/essays/what-comes-after-agi
+Published: 2026-11-20T02:44:13+00:00
 
-Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 310 # Comments: 115
+Article URL: https://institute.deepmind.com/essays/what-comes-after-agi/ Comments URL: https://news.ycombinator.com/item?id=50569519 Points: 120 # Comments: 227
 
-Ruby2ßhell: Pre-authentication RCE on stock Rails
+PostgreSQL 19
 Source: Hacker News RSS
 Category: technology
-URL: https://verialabs.com/ruby2shell
-Published: 2026-11-19T05:09:11+00:00
+URL: https://www.postgresql.org/docs/release/19.0
+Published: 2026-11-20T03:45:45+00:00
 
-Article URL: https://verialabs.com/ruby2shell/ Comments URL: https://news.ycombinator.com/item?id=50556287 Points: 275 # Comments: 106
+Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 305 # Comments: 18
 
-15M web servers on one VM – smoltcp, DPDK, AF_XDP
+FFmpeg 9.1 'Gauss'
 Source: Hacker News RSS
 Category: technology
-URL: https://kapteko.com/15-million-webservers
-Published: 2026-11-19T05:56:36+00:00
+URL: https://ffmpeg.org/download.html
+Published: 2026-11-20T04:02:39+00:00
 
-Article URL: https://kapteko.com/15-million-webservers/ Comments URL: https://news.ycombinator.com/item?id=50556533 Points: 269 # Comments: 32
+Article URL: https://ffmpeg.org/download.html#release_9.1 Comments URL: https://news.ycombinator.com/item?id=50569998 Points: 225 # Comments: 32
 
-Distributed, high-performance blob storage on SQLite
+Jujutsu Primer
 Source: Hacker News RSS
 Category: technology
-URL: https://zerodha.tech/blog/high-performance-distributed-blob-storage
-Published: 2026-11-19T08:39:45+00:00
+URL: https://ethanlowman.com/posts/jj-primer
+Published: 2026-11-20T05:46:01+00:00
 
-Article URL: https://zerodha.tech/blog/high-performance-distributed-blob-storage/ Comments URL: https://news.ycombinator.com/item?id=50557537 Points: 159 # Comments: 38
+Article URL: https://ethanlowman.com/posts/jj-primer/ Comments URL: https://news.ycombinator.com/item?id=50570628 Points: 182 # Comments: 118
 
-Do not buy RAM, compress
+"I can tell you wrote this yourself"
 Source: Hacker News RSS
 Category: technology
-URL: https://curiousbits.nl/blog/do-not-buy-ram-compress
-Published: 2026-11-19T08:56:47+00:00
+URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself
+Published: 2026-11-20T07:13:21+00:00
 
-Article URL: https://curiousbits.nl/blog/do-not-buy-ram-compress/ Comments URL: https://news.ycombinator.com/item?id=50557661 Points: 69 # Comments: 66
+Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 314 # Comments: 298
 
-SSD prices will start going down the second half of next year
+Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)
 Source: Hacker News RSS
 Category: technology
-URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html
-Published: 2026-11-19T09:05:34+00:00
+URL: https://ecohustler.com/article/one-corporation-to-pollute-them-all
+Published: 2026-11-20T09:13:09+00:00
 
-Article URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html Comments URL: https://news.ycombinator.com/item?id=50557716 Points: 201 # Comments: 170
+Article URL: https://ecohustler.com/article/one-corporation-to-pollute-them-all/ Comments URL: https://news.ycombinator.com/item?id=50572116 Points: 318 # Comments: 182
 
-What's New in PHP 8.6
+Signal Is Serious About Protecting Your Privacy
 Source: Hacker News RSS
 Category: technology
-URL: https://www.php.net/releases/8.6/en.php
-Published: 2026-11-19T09:27:15+00:00
+URL: https://signal.org/blog/protecting-your-privacy
+Published: 2026-11-20T09:42:16+00:00
 
-Article URL: https://www.php.net/releases/8.6/en.php Comments URL: https://news.ycombinator.com/item?id=50557870 Points: 178 # Comments: 91
+Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 108 # Comments: 34
 
-How the European Commission rolled out Matrix to more than 40k staff
+If you can't explain something in simple terms, you don't understand it (2017)
 Source: Hacker News RSS
 Category: technology
-URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff
-Published: 2026-11-19T10:58:29+00:00
+URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
+Published: 2026-11-20T09:43:19+00:00
 
-Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ Comments URL: https://news.ycombinator.com/item?id=50558533 Points: 403 # Comments: 207
+Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it Comments URL: https://news.ycombinator.com/item?id=50572355 Points: 290 # Comments: 175
 
-Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2
+UK fridges secured from hackers
 Source: Hacker News RSS
 Category: technology
-URL: https://contralabs.com/frontierdesign
-Published: 2026-11-19T11:03:20+00:00
+URL: https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o
+Published: 2026-11-20T09:52:20+00:00
 
-Article URL: https://contralabs.com/frontierdesign Comments URL: https://news.ycombinator.com/item?id=50558559 Points: 82 # Comments: 29
+https://www.pentestpartners.com/security-blog/the-fridge-hac... Comments URL: https://news.ycombinator.com/item?id=50572430 Points: 101 # Comments: 91
 
-Someone reported java4shell bug in September 2026
+What people are building, discovered through new domains
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/openjdk/jdk/pull/32781
-Published: 2026-11-19T11:47:03+00:00
+URL: https://startups.novumsignals.com/
+Published: 2026-11-20T09:54:33+00:00
 
-Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 90 # Comments: 19
+Article URL: https://startups.novumsignals.com/ Comments URL: https://news.ycombinator.com/item?id=50572448 Points: 95 # Comments: 43
 
-Unblockable communication with gravity – Science Advances
+Frostbite: A new CPU architecture discovered, designed and verified by AI
 Source: Hacker News RSS
 Category: technology
-URL: https://www.science.org/doi/10.1126/sciadv.aee0802
-Published: 2026-11-19T12:22:00+00:00
+URL: https://architectlabs.com/blog/frostbite
+Published: 2026-11-20T10:01:41+00:00
 
-Article URL: https://www.science.org/doi/10.1126/sciadv.aee0802 Comments URL: https://news.ycombinator.com/item?id=50559179 Points: 37 # Comments: 13
+Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 367 # Comments: 239
 
-Making 8-page foldable zines from a single A4 sheet in the browser
+The Making of Oxygene
 Source: Hacker News RSS
 Category: technology
-URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app
-Published: 2026-11-19T13:18:11+00:00
+URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene
+Published: 2026-11-20T10:41:10+00:00
 
-Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 73 # Comments: 21
+Article URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene Comments URL: https://news.ycombinator.com/item?id=50572822 Points: 105 # Comments: 40
 
-Show HN: Foolscap – a writing app that reads your book and never writes for you
+Epic Games Turns to AI Coding for the Unreal Engine
 Source: Hacker News RSS
 Category: technology
-URL: https://foolscap.works/
-Published: 2026-11-19T13:21:20+00:00
+URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai
+Published: 2026-11-20T12:16:36+00:00
 
-People are scared of their ability to write and think atrophying, so I wondered: what if I built something that enhanced human creativity instead of destroying it by doing the thinking and writing for people? Foolscap is the result, or at least the first version of that idea that's fleshed out enough to share here. It reads as you write and picks out the structure: characters, ideas, threads, what's left hanging. You can respond to what it picks out, so there's a dialectic between the system and you as the writer. There's also an agent on the side, plugged into the same system, so you can ask about your book and fire off actions through conversation. It never writes into your work. The system can also follow theorems and proofs and string together their dependencies, but I haven't made that a focus yet. There's no Lean support, for example. If anyone's interested in that, I'd love to hear it. I want to build this by iterating with the people who use it: a tool that uses AI not to bypass the creative process, but to bring new tools to it. There's a free tier, and if you email hello@foolscap.works I'll send you a code for 50% off. This is my first product, so feedback of any kind is welcome. Thanks, David Comments URL: https://news.ycombinator.com/item?id=50559749 Points: 62 # Comments: 28
+Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 37 # Comments: 34
 
-OpenAI still has a WebRTC Problem
+If you stop writing code, you also get worse at reviewing it
 Source: Hacker News RSS
 Category: technology
-URL: https://moq.dev/blog/webrtc-is-still-the-problem
-Published: 2026-11-19T14:20:08+00:00
+URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it
+Published: 2026-11-20T12:41:38+00:00
 
-Article URL: https://moq.dev/blog/webrtc-is-still-the-problem/ Comments URL: https://news.ycombinator.com/item?id=50560461 Points: 31 # Comments: 3
+Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/ Comments URL: https://news.ycombinator.com/item?id=50573886 Points: 83 # Comments: 21
 
-Germany and Austria Call for European Control of TikTok
+Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off
 Source: Hacker News RSS
 Category: technology
-URL: https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok
-Published: 2026-11-19T14:44:50+00:00
+URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off
+Published: 2026-11-20T13:29:59+00:00
 
-Article URL: https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/ Comments URL: https://news.ycombinator.com/item?id=50560795 Points: 38 # Comments: 9
+Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 63 # Comments: 32
 
-Everything you need to survive and rebuild society
+Anthropic employee claims general proof of the Riemann Hypothesis [pdf]
 Source: Hacker News RSS
 Category: technology
-URL: https://lastbook.org/
-Published: 2026-11-19T14:47:18+00:00
+URL: https://alpo.ge/remark.pdf
+Published: 2026-11-20T14:16:21+00:00
 
-Article URL: https://lastbook.org/ Comments URL: https://news.ycombinator.com/item?id=50560822 Points: 3 # Comments: 0
+Article URL: https://alpo.ge/remark.pdf Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 411 # Comments: 175
 
-Cooling buildings is overtaking heating them as an energy need, IEA says
+Why there are still no non-WebKit browsers on iOS
 Source: Hacker News RSS
 Category: technology
-URL: https://maccus.fr/en/cooling-overtaking-heating
-Published: 2026-11-19T14:57:14+00:00
+URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules
+Published: 2026-11-20T15:03:31+00:00
 
-Article URL: https://maccus.fr/en/cooling-overtaking-heating/ Comments URL: https://news.ycombinator.com/item?id=50560955 Points: 4 # Comments: 0
+Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 8 # Comments: 0
