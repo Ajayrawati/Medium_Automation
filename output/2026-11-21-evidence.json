@@ -1,0 +1,81 @@
+{
+  "topic": "News.ycombinator.com Url Points",
+  "topic_key": "news.ycombinator.com-url-points",
+  "confidence": 85.68,
+  "score_breakdown": {
+    "source_quality": 64.75,
+    "corroboration": 100.0,
+    "recency": 81.27,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 95.68,
+  "evidence": [
+    {
+      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "publisher": "www.science.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-21T14:42:50.505724+00:00"
+    },
+    {
+      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+      "url": "https://simple-bench.com/",
+      "publisher": "simple-bench.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-21T14:42:50.623997+00:00"
+    },
+    {
+      "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
+      "publisher": "www.bloomberg.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-21T14:42:50.813036+00:00"
+    },
+    {
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "publisher": "blog.tymscar.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": true,
+      "collected_at": "2026-11-21T14:42:50.919354+00:00"
+    },
+    {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "publisher": "www.bbc.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-21T14:42:51.055827+00:00"
+    },
+    {
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "publisher": "lists.gnupg.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-21T14:42:52.195866+00:00"
+    }
+  ]
+}
