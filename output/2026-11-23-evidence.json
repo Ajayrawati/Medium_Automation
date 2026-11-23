@@ -1,0 +1,81 @@
+{
+  "topic": "Https Url Comments",
+  "topic_key": "https-url-comments",
+  "confidence": 86.21,
+  "score_breakdown": {
+    "source_quality": 65.24,
+    "corroboration": 100.0,
+    "recency": 83.19,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.21,
+  "evidence": [
+    {
+      "title": "Kagi Mail is here (Public Beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "publisher": "blog.kagi.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-23T18:16:15.973673+00:00"
+    },
+    {
+      "title": "EasyPost (YC S13) Is Hiring",
+      "url": "https://www.easypost.com/careers/",
+      "publisher": "www.easypost.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-23T18:16:16.187110+00:00"
+    },
+    {
+      "title": "Ladybird Is Now in Alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "publisher": "ladybird.org",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-23T18:16:16.298662+00:00"
+    },
+    {
+      "title": "One man's quest to end daylight savings",
+      "url": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
+      "publisher": "www.newyorker.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-23T18:16:16.566449+00:00"
+    },
+    {
+      "title": "Cyberleek posted the GTA 6 Xbox build executable",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+      "publisher": "www.reddit.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-23T18:16:16.694688+00:00"
+    },
+    {
+      "title": "Building a wireless network adapter for the Super Nintendo",
+      "url": "https://boland.dev/snet/",
+      "publisher": "boland.dev",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-23T18:16:16.910627+00:00"
+    }
+  ]
+}

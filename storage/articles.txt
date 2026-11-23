@@ -52,7 +52,7 @@ Source: GitHub Trending
 Category: technology
 URL: https://github.com/cathrynlavery/diagram-design
 
-Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
 openvinotoolkit / openvino
 Source: GitHub Trending
@@ -110,211 +110,204 @@ URL: https://github.com/elementalsouls/Claude-BugHunter
 
 A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
-Field Mice on Drugs
+Elixir HLS makes FPGA circuits from functions written in Elixir
 Source: Hacker News
 Category: technology
-URL: https://ambrook.com/offrange/livestock/field-mice-on-drugs
-Published: 2026-11-20T12:40:06+00:00
-Score: 10
+URL: https://github.com/elixir-hls/elixir-hls
+Published: 2026-11-21T00:47:57+00:00
+Score: 127
 
-Celliad – a daily Excel game (French)
+MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash
 Source: Hacker News
 Category: technology
-URL: https://celliad.com/
-Published: 2026-11-19T22:37:16+00:00
-Score: 4
+URL: https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash
+Published: 2026-11-21T10:14:11+00:00
+Score: 75
 
-If tiny 'primordial' black holes exist
+Let's Meet in the Middle
 Source: Hacker News
 Category: technology
-URL: https://phys.org/news/2026-11-tiny-primordial-black-holes.html
-Published: 2026-11-20T03:37:41+00:00
-Score: 49
+URL: https://george.mand.is/2026/11/lets-meet-in-the-middle
+Published: 2026-11-20T16:41:54+00:00
+Score: 33
 
-String Art Font (2017)
+Show HN: Drive around my village in 3D
 Source: Hacker News
 Category: technology
-URL: https://erikdemaine.org/fonts/stringart
-Published: 2026-11-18T17:42:57+00:00
-Score: 13
+URL: https://cherwellvalleymotorclub.app/
+Published: 2026-11-20T13:32:42+00:00
+Score: 54
 
-Self-hosted library branch over public web OPDS
+What's the difference between an integer and a pointer? (2018)
 Source: Hacker News
 Category: technology
-URL: https://joinmayberry.com/
-Published: 2026-11-19T21:15:47+00:00
-Score: 50
+URL: https://blog.regehr.org/archives/1621
+Published: 2026-11-21T08:49:14+00:00
+Score: 76
 
-Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'
+Spacecraft reaches Mercury on second-ever mission to enter its orbit
 Source: Hacker News
 Category: technology
-URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib
-Published: 2026-11-20T21:03:12+00:00
-Score: 1160
+URL: https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo
+Published: 2026-11-21T09:14:02+00:00
+Score: 141
 
-A real Linux kernel, compiled to WebAssembly
-Source: Hacker News
-Category: technology
-URL: https://github.com/pithings/unkernel
-Published: 2026-11-17T16:35:46+00:00
-Score: 150
-
-Getting the mind to steer the body to steer you
+Was software just always too complex for humans?
 Source: Hacker News RSS
 Category: technology
-URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body
-Published: 2026-11-20T22:11:05+00:00
+URL: https://anil.recoil.org/notes/software-too-complex-for-humans
+Published: 2026-11-22T17:32:41+00:00
 
-Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 336 # Comments: 118
+Article URL: https://anil.recoil.org/notes/software-too-complex-for-humans Comments URL: https://news.ycombinator.com/item?id=50601823 Points: 71 # Comments: 93
 
-My monitor was cutting my download speed by 75%
+The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.tymscar.com/posts/studiodisplayethernet
-Published: 2026-11-21T10:36:32+00:00
+URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife
+Published: 2026-11-22T19:10:34+00:00
 
-Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 624 # Comments: 291
+Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 616 # Comments: 347
 
-Detonating a pile of lead azide
+Assume People Are Not Interested in Your Blog Post
 Source: Hacker News RSS
 Category: technology
-URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really
-Published: 2026-11-21T13:23:14+00:00
+URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post
+Published: 2026-11-22T19:41:30+00:00
 
-Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 650 # Comments: 401
+Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 301 # Comments: 146
 
-Lean verification of the Riemann Hypothesis
+A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth
 Source: Hacker News RSS
 Category: technology
-URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis
-Published: 2026-11-21T14:36:45+00:00
+URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
+Published: 2026-11-22T21:01:16+00:00
 
-Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1115 # Comments: 928
+Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 685 # Comments: 278
 
-Inkling-2-Mini in 5.4 GB Memory
+Free alternative TV network built from the Internet Archive's forgotten videos
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/ShinMegamiBoson/lookatmyquant
-Published: 2026-11-21T18:02:19+00:00
+URL: https://spelunkr.tv/
+Published: 2026-11-23T01:13:51+00:00
 
-Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 503 # Comments: 126
+Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 808 # Comments: 146
 
-Upload2Shell (CVE-2026-125396)
+Treemap of the Riemann Hypothesis Lean Proof
 Source: Hacker News RSS
 Category: technology
-URL: https://pwn.ai/upload2shell
-Published: 2026-11-21T18:29:29+00:00
+URL: https://pengowray.github.io/riemann-zeta-proof-visualizer
+Published: 2026-11-23T01:50:23+00:00
 
-Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 134 # Comments: 65
+Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/ Comments URL: https://news.ycombinator.com/item?id=50606499 Points: 172 # Comments: 70
 
-Pandex – Official European Law for AI Agents, over MCP
+XNU Linux: Full OS X GUI Userspace on Linux
 Source: Hacker News RSS
 Category: technology
-URL: https://www.pandex.io/
-Published: 2026-11-21T20:47:41+00:00
+URL: https://github.com/AFK-surf/xnulinux
+Published: 2026-11-23T03:49:24+00:00
 
-Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 116 # Comments: 29
+Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 540 # Comments: 223
 
-Advice for the next 100 Rust GUIs
+Yes, 17M lines of Lean is a lot
 Source: Hacker News RSS
 Category: technology
-URL: https://linebender.org/blog/next-100-guis
-Published: 2026-11-21T21:17:53+00:00
+URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot
+Published: 2026-11-23T05:00:49+00:00
 
-Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 212 # Comments: 95
+Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 227 # Comments: 287
 
-PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors
+Don't keep your SSH keys on disk
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/sebaandrada-cell/PcapAnalyzer
-Published: 2026-11-21T22:09:58+00:00
+URL: https://jola.dev/posts/you-cant-afford-ssh-keys-disk
+Published: 2026-11-23T09:55:38+00:00
 
-Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 134 # Comments: 19
+Article URL: https://jola.dev/posts/you-cant-afford-ssh-keys-disk Comments URL: https://news.ycombinator.com/item?id=50609579 Points: 62 # Comments: 49
 
-Sandwich Simulator
+GLM-5.4: Toward Generalized Coding with Our First Loop Transformer
 Source: Hacker News RSS
 Category: technology
-URL: https://stulle.app/
-Published: 2026-11-22T00:07:59+00:00
+URL: https://z.ai/blog/glm-5.4
+Published: 2026-11-23T10:06:43+00:00
 
-Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 372 # Comments: 134
+Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 802 # Comments: 287
 
-The Mythology of Conscious AI
+Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor
 Source: Hacker News RSS
 Category: technology
-URL: https://www.noemamag.com/the-mythology-of-conscious-ai
-Published: 2026-11-22T02:10:02+00:00
+URL: https://github.com/os6/nospeaker
+Published: 2026-11-23T11:31:54+00:00
 
-Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 100 # Comments: 245
+Article URL: https://github.com/os6/nospeaker Comments URL: https://news.ycombinator.com/item?id=50610318 Points: 163 # Comments: 85
 
-Data Processing Incidents on Inference Providers
+The next circle of security hell
 Source: Hacker News RSS
 Category: technology
-URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers
-Published: 2026-11-22T02:14:14+00:00
+URL: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell
+Published: 2026-11-23T11:34:16+00:00
 
-Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 215 # Comments: 72
+Article URL: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/ Comments URL: https://news.ycombinator.com/item?id=50610334 Points: 167 # Comments: 83
 
-Toyota, Nissan, and Honda to standardize parts to lower costs
+Win4wine – Run Windows Shell as the Linux Desktop on Wine
 Source: Hacker News RSS
 Category: technology
-URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs
-Published: 2026-11-22T04:04:56+00:00
+URL: https://github.com/mikuta0407/win4wine
+Published: 2026-11-23T12:28:11+00:00
 
-Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 767 # Comments: 460
+Article URL: https://github.com/mikuta0407/win4wine Comments URL: https://news.ycombinator.com/item?id=50610743 Points: 138 # Comments: 79
 
-Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow
+Nvidia Reinstates Jensen Huang as CEO
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/EL4CTEO/fast-anything
-Published: 2026-11-22T04:10:09+00:00
+URL: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+Published: 2026-11-23T14:00:18+00:00
 
-Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 90 # Comments: 65
+https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 903 # Comments: 2032
 
-Show HN: The Riemann Proof Handbook
+Building a wireless network adapter for the Super Nintendo
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/tamnd/riemann-handbook
-Published: 2026-11-22T05:46:30+00:00
+URL: https://boland.dev/snet
+Published: 2026-11-23T14:16:37+00:00
 
-Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 74 # Comments: 46
+Article URL: https://boland.dev/snet/ Comments URL: https://news.ycombinator.com/item?id=50611861 Points: 34 # Comments: 7
 
-Notes on the discrete Fourier transform (DFT)
+Cyberleek posted the GTA 6 Xbox build executable
 Source: Hacker News RSS
 Category: technology
-URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft
-Published: 2026-11-22T06:52:25+00:00
+URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable
+Published: 2026-11-23T14:49:44+00:00
 
-Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 51 # Comments: 5
+Article URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/ Comments URL: https://news.ycombinator.com/item?id=50612686 Points: 94 # Comments: 58
 
-87% of the Anthropic power will come from gas and 11% from coal in 2028
+One man's quest to end daylight savings
 Source: Hacker News RSS
 Category: technology
-URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power
-Published: 2026-11-22T08:57:34+00:00
+URL: https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings
+Published: 2026-11-23T15:28:41+00:00
 
-Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 304 # Comments: 415
+Article URL: https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings Comments URL: https://news.ycombinator.com/item?id=50613465 Points: 37 # Comments: 54
 
-Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator
+Ladybird Is Now in Alpha
 Source: Hacker News RSS
 Category: technology
-URL: https://simonwillison.net/2026/Nov/21/muru
-Published: 2026-11-22T09:57:01+00:00
+URL: https://ladybird.org/posts/alpha
+Published: 2026-11-23T16:13:12+00:00
 
-Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 20 # Comments: 0
+Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 526 # Comments: 139
 
-Prisons get OK to jam contraband phones
+EasyPost (YC S13) Is Hiring
 Source: Hacker News RSS
 Category: technology
-URL: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too
-Published: 2026-11-22T13:00:52+00:00
+URL: https://www.easypost.com/careers
+Published: 2026-11-23T17:00:05+00:00
 
-Article URL: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/ Comments URL: https://news.ycombinator.com/item?id=50599313 Points: 23 # Comments: 22
+Article URL: https://www.easypost.com/careers/ Comments URL: https://news.ycombinator.com/item?id=50615161 Points: 0 # Comments: 0
 
-Blackberry releases secure browser for Windows
+Kagi Mail is here (Public Beta)
 Source: Hacker News RSS
 Category: technology
-URL: https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows
-Published: 2026-11-22T13:46:12+00:00
+URL: https://blog.kagi.com/kagi-mail-public-beta
+Published: 2026-11-23T17:17:01+00:00
 
-Article URL: https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows Comments URL: https://news.ycombinator.com/item?id=50599667 Points: 9 # Comments: 4
+Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 55 # Comments: 22
