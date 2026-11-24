@@ -1,0 +1,81 @@
+{
+  "topic": "News.ycombinator.com Item Url",
+  "topic_key": "news.ycombinator.com-item-url",
+  "confidence": 87.52,
+  "score_breakdown": {
+    "source_quality": 65.0,
+    "corroboration": 100.0,
+    "recency": 90.12,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.52,
+  "evidence": [
+    {
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "publisher": "jobs.ashbyhq.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-24T17:51:01.229802+00:00"
+    },
+    {
+      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "publisher": "www.greynoise.io",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-24T17:51:01.464276+00:00"
+    },
+    {
+      "title": "Jetty Pro",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "publisher": "hypercritical.co",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-24T17:51:01.551338+00:00"
+    },
+    {
+      "title": "How to Make a Lovable City",
+      "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+      "publisher": "www.worksinprogress.news",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-24T17:51:01.753162+00:00"
+    },
+    {
+      "title": "Tidal bans AI-generated music",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "publisher": "variety.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-24T17:51:01.925517+00:00"
+    },
+    {
+      "title": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+      "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
+      "publisher": "www.upi.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-24T17:51:02.046198+00:00"
+    }
+  ]
+}

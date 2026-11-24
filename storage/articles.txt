@@ -108,206 +108,206 @@ Source: GitHub Trending
 Category: technology
 URL: https://github.com/elementalsouls/Claude-BugHunter
 
-A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
-Elixir HLS makes FPGA circuits from functions written in Elixir
+An anti-slavery sugar bowl (2024)
 Source: Hacker News
 Category: technology
-URL: https://github.com/elixir-hls/elixir-hls
-Published: 2026-11-21T00:47:57+00:00
-Score: 127
+URL: https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl
+Published: 2026-11-22T10:12:22+00:00
+Score: 95
 
-MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash
+Stalwart is now a drop-in replacement for Microsoft Exchange
 Source: Hacker News
 Category: technology
-URL: https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash
-Published: 2026-11-21T10:14:11+00:00
+URL: https://stalw.art/blog/microsoft-exchange-replacement
+Published: 2026-11-23T22:32:29+00:00
+Score: 649
+
+How a Mechanical Watch Keeps Time (Interactive 3D)
+Source: Hacker News
+Category: technology
+URL: https://martincmartin.github.io/slidev-stem/watches/article/1
+Published: 2026-11-22T13:21:25+00:00
+Score: 137
+
+SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance
+Source: Hacker News
+Category: technology
+URL: https://dl.acm.org/doi/10.1145/3828523.3857112
+Published: 2026-11-23T06:54:08+00:00
+Score: 42
+
+Gnomon: Git for Postgres Data
+Source: Hacker News
+Category: technology
+URL: https://gnomon.bitsinfra.com/
+Published: 2026-11-23T14:03:38+00:00
+Score: 15
+
+Mechanical Pencil: Spray Bottle
+Source: Hacker News
+Category: technology
+URL: https://mechanical-pencil.com/products/spray-bottle
+Published: 2026-11-22T11:16:30+00:00
 Score: 75
 
-Let's Meet in the Middle
-Source: Hacker News
-Category: technology
-URL: https://george.mand.is/2026/11/lets-meet-in-the-middle
-Published: 2026-11-20T16:41:54+00:00
-Score: 33
-
-Show HN: Drive around my village in 3D
-Source: Hacker News
-Category: technology
-URL: https://cherwellvalleymotorclub.app/
-Published: 2026-11-20T13:32:42+00:00
-Score: 54
-
-What's the difference between an integer and a pointer? (2018)
-Source: Hacker News
-Category: technology
-URL: https://blog.regehr.org/archives/1621
-Published: 2026-11-21T08:49:14+00:00
-Score: 76
-
-Spacecraft reaches Mercury on second-ever mission to enter its orbit
-Source: Hacker News
-Category: technology
-URL: https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo
-Published: 2026-11-21T09:14:02+00:00
-Score: 141
-
-Was software just always too complex for humans?
+GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school
 Source: Hacker News RSS
 Category: technology
-URL: https://anil.recoil.org/notes/software-too-complex-for-humans
-Published: 2026-11-22T17:32:41+00:00
+URL: https://github.com/ItsNotRexed/Leonida/issues
+Published: 2026-11-24T02:08:09+00:00
 
-Article URL: https://anil.recoil.org/notes/software-too-complex-for-humans Comments URL: https://news.ycombinator.com/item?id=50601823 Points: 71 # Comments: 93
+Previous thread: Leonida – PC Recompilation of the Xbox Version of GTA 6 - https://news.ycombinator.com/item?id=50595168 Comments URL: https://news.ycombinator.com/item?id=50622638 Points: 259 # Comments: 423
 
-The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife
+New York Bans Subscription and Post-Purchase Fees on Cars
 Source: Hacker News RSS
 Category: technology
-URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife
-Published: 2026-11-22T19:10:34+00:00
+URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription
+Published: 2026-11-24T02:27:02+00:00
 
-Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 616 # Comments: 347
+Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription Comments URL: https://news.ycombinator.com/item?id=50622774 Points: 701 # Comments: 335
 
-Assume People Are Not Interested in Your Blog Post
+Declare is a UI language for you and your AI
 Source: Hacker News RSS
 Category: technology
-URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post
-Published: 2026-11-22T19:41:30+00:00
+URL: https://davidtemkin.github.io/declarelang
+Published: 2026-11-24T02:36:56+00:00
 
-Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 301 # Comments: 146
+Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 93 # Comments: 70
 
-A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth
+Drone Maps of Salvage Yards
 Source: Hacker News RSS
 Category: technology
-URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
-Published: 2026-11-22T21:01:16+00:00
+URL: https://salvageyarddrone.wordpress.com/
+Published: 2026-11-24T04:00:28+00:00
 
-Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 685 # Comments: 278
+Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 155 # Comments: 61
 
-Free alternative TV network built from the Internet Archive's forgotten videos
+AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years
 Source: Hacker News RSS
 Category: technology
-URL: https://spelunkr.tv/
-Published: 2026-11-23T01:13:51+00:00
+URL: https://www.phoronix.com/review/amd-epyc-9006-7601
+Published: 2026-11-24T05:15:22+00:00
 
-Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 808 # Comments: 146
+Article URL: https://www.phoronix.com/review/amd-epyc-9006-7601 Comments URL: https://news.ycombinator.com/item?id=50624061 Points: 194 # Comments: 98
 
-Treemap of the Riemann Hypothesis Lean Proof
+2035 came early
 Source: Hacker News RSS
 Category: technology
-URL: https://pengowray.github.io/riemann-zeta-proof-visualizer
-Published: 2026-11-23T01:50:23+00:00
+URL: https://fzakaria.com/2026/11/23/2035-came-early
+Published: 2026-11-24T06:30:33+00:00
 
-Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/ Comments URL: https://news.ycombinator.com/item?id=50606499 Points: 172 # Comments: 70
+Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 779 # Comments: 292
 
-XNU Linux: Full OS X GUI Userspace on Linux
+Quad9 pulled their DNS service from France
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/AFK-surf/xnulinux
-Published: 2026-11-23T03:49:24+00:00
+URL: https://quad9.net/news/blog/quad9-service-deactivation-in-france
+Published: 2026-11-24T08:33:14+00:00
 
-Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 540 # Comments: 223
+Article URL: https://quad9.net/news/blog/quad9-service-deactivation-in-france/ Comments URL: https://news.ycombinator.com/item?id=50625384 Points: 196 # Comments: 98
 
-Yes, 17M lines of Lean is a lot
+Just a Few Bugs
 Source: Hacker News RSS
 Category: technology
-URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot
-Published: 2026-11-23T05:00:49+00:00
+URL: https://www.justafewbugs.xyz/
+Published: 2026-11-24T09:47:59+00:00
 
-Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 227 # Comments: 287
+Article URL: https://www.justafewbugs.xyz/ Comments URL: https://news.ycombinator.com/item?id=50625953 Points: 107 # Comments: 36
 
-Don't keep your SSH keys on disk
+Worshipping at the altar of Brendan Gregg
 Source: Hacker News RSS
 Category: technology
-URL: https://jola.dev/posts/you-cant-afford-ssh-keys-disk
-Published: 2026-11-23T09:55:38+00:00
+URL: https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg
+Published: 2026-11-24T10:50:14+00:00
 
-Article URL: https://jola.dev/posts/you-cant-afford-ssh-keys-disk Comments URL: https://news.ycombinator.com/item?id=50609579 Points: 62 # Comments: 49
+Article URL: https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg Comments URL: https://news.ycombinator.com/item?id=50626413 Points: 170 # Comments: 28
 
-GLM-5.4: Toward Generalized Coding with Our First Loop Transformer
+LLM agents work for their parent companies, not for you
 Source: Hacker News RSS
 Category: technology
-URL: https://z.ai/blog/glm-5.4
-Published: 2026-11-23T10:06:43+00:00
+URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you
+Published: 2026-11-24T12:40:15+00:00
 
-Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 802 # Comments: 287
+Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 630 # Comments: 261
 
-Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor
+Splitting USB-C: USB 3 and USB 2 on One Port
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/os6/nospeaker
-Published: 2026-11-23T11:31:54+00:00
+URL: https://www.frankchiarulli.com/blog/splitting-usb-c
+Published: 2026-11-24T14:54:10+00:00
 
-Article URL: https://github.com/os6/nospeaker Comments URL: https://news.ycombinator.com/item?id=50610318 Points: 163 # Comments: 85
+Article URL: https://www.frankchiarulli.com/blog/splitting-usb-c/ Comments URL: https://news.ycombinator.com/item?id=50629106 Points: 36 # Comments: 13
 
-The next circle of security hell
+A training engine for your local model, using your idle compute
 Source: Hacker News RSS
 Category: technology
-URL: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell
-Published: 2026-11-23T11:34:16+00:00
+URL: https://github.com/sous-labs/songe
+Published: 2026-11-24T15:03:40+00:00
 
-Article URL: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/ Comments URL: https://news.ycombinator.com/item?id=50610334 Points: 167 # Comments: 83
+Article URL: https://github.com/sous-labs/songe Comments URL: https://news.ycombinator.com/item?id=50629231 Points: 52 # Comments: 5
 
-Win4wine – Run Windows Shell as the Linux Desktop on Wine
+The KL Divergence Is Never Negative, Except in PyTorch
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/mikuta0407/win4wine
-Published: 2026-11-23T12:28:11+00:00
+URL: https://arxiv.org/abs/2611.30835
+Published: 2026-11-24T15:50:22+00:00
 
-Article URL: https://github.com/mikuta0407/win4wine Comments URL: https://news.ycombinator.com/item?id=50610743 Points: 138 # Comments: 79
+Article URL: https://arxiv.org/abs/2611.30835 Comments URL: https://news.ycombinator.com/item?id=50629962 Points: 26 # Comments: 4
 
-Nvidia Reinstates Jensen Huang as CEO
+Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban
 Source: Hacker News RSS
 Category: technology
-URL: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
-Published: 2026-11-23T14:00:18+00:00
+URL: https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063
+Published: 2026-11-24T16:08:29+00:00
 
-https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 903 # Comments: 2032
+Article URL: https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/ Comments URL: https://news.ycombinator.com/item?id=50630245 Points: 43 # Comments: 24
 
-Building a wireless network adapter for the Super Nintendo
+Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage
 Source: Hacker News RSS
 Category: technology
-URL: https://boland.dev/snet
-Published: 2026-11-23T14:16:37+00:00
+URL: https://masondata.ai/
+Published: 2026-11-24T16:11:52+00:00
 
-Article URL: https://boland.dev/snet/ Comments URL: https://news.ycombinator.com/item?id=50611861 Points: 34 # Comments: 7
+Hi HN! TLDR: we’ve built an open-source drop-in replacement for a postgres read-replica, powered by duckdb’s columnar compute engine. It’s very fast. And it looks like postgres. So, this started out as: let’s just connect Clickhouse to our postgres dbs and throw our analytics queries at it instead. That will speed everything up. But we quickly found that 1) Clickhouse comes with quite the learning curve (engine optimisation) to make it fast (we needed something we could easily drop in to any customer’s postgres scenario), and 2) we had underestimated how different clickhouse’s SQL syntax was to postgres. Don’t get me wrong: we love Clickhouse (it’s ridiculously fast if you know what queries to expect), it just didn’t work for our ad-hoc postgres workloads. So we went searching for alternatives that were 1) more plug-and-play and 2) looked a lot more like postgres. We dismissed a bunch based on desk research alone: - pg_mooncake (seems to have stalled since data bricks bought them) - pg_duckdb (seems to offer fast queries, or fresh data, but not both - we needed both) - materialize/risingwave/readyset (like Clickhouse, they require knowing the query shapes upfront - not ideal for ad-hoc workloads) - firebolt (license makes it challenging to offer to our customers) - redshift / alloydb / etc (we wanted something cloud-provider agnostic) And we shortlisted 3: - pg_clickhouse (Postgres extension that parses SQL in Postgres and pushes the work down to ClickHouse) - cedarDB (closed-source, Postgres-compatible analytical database) - duckdb (open-source, embedded columnar analytics engine with a Postgres-like SQL dialect) We needed to know how they would perform on real postgres queries, so we took a backlog of 5,410 (hand-written) queries (chosen because they had been slow to execute against postgres) from 159 real postgres databases. We then generated synthetic data (dynamically using the schemas from those 159 databases) to fill 159 local databases so we could run the experiment. We then spun up the 3 short-listed tools locally, and ran each of the 5,410 queries against both postgres and the 3 tools, and compared the results: - pg_clickhouse (matched postgres 59.4% of the time, refused 39.9% of the queries and was “wrong” 0.8% of the time). - cedarDB (matched postgres 88.1% of the time, refused 8% of the queries and was “wrong” 3.9% of the time). - duckdb (matched postgres 84.1% of the time, refused 14.3% of the queries and was “wrong” 1.6% of the time). Matched meant they returned exactly the same result as postgres. Refused meant they returned an error message (usually telling you some syntax isn’t recognised). And “wrong” meant they didn’t return the same results as postgres. I appreciate that arguably postgres may be the one that is wrong in some cases - but for our use case, we considered postgres the golden source of truth. So, both duckdb and cedardb performed pretty well (correctly handled more than 80% of the postgres queries we threw at it), out-of-the box. But we really still wanted to try and cover that long-tail. We chose duckdb as its open-source license would allow us to easily work on the long tail to get the postgres SQL parity we wanted. So, Mason (linked above), is what we built, powered by duckdb, which now matches postgres on 96% of our 5,410 queries, plus hundreds of other queries that we added, testing it with Metabase, Grafana, Superset, DBeaver and Trevor.io. For the remaining 4%, it errors with a nice clear message telling you how to rewrite your SQL. We’d love your feedback on what we’ve built. Useful? How can we make it better? Comments URL: https://news.ycombinator.com/item?id=50630294 Points: 7 # Comments: 0
 
-Cyberleek posted the GTA 6 Xbox build executable
+Tidal bans AI-generated music
 Source: Hacker News RSS
 Category: technology
-URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable
-Published: 2026-11-23T14:49:44+00:00
+URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924
+Published: 2026-11-24T16:12:38+00:00
 
-Article URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/ Comments URL: https://news.ycombinator.com/item?id=50612686 Points: 94 # Comments: 58
+Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 207 # Comments: 171
 
-One man's quest to end daylight savings
+How to Make a Lovable City
 Source: Hacker News RSS
 Category: technology
-URL: https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings
-Published: 2026-11-23T15:28:41+00:00
+URL: https://www.worksinprogress.news/p/how-to-make-a-lovable-city
+Published: 2026-11-24T16:19:55+00:00
 
-Article URL: https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings Comments URL: https://news.ycombinator.com/item?id=50613465 Points: 37 # Comments: 54
+Article URL: https://www.worksinprogress.news/p/how-to-make-a-lovable-city Comments URL: https://news.ycombinator.com/item?id=50630423 Points: 25 # Comments: 2
 
-Ladybird Is Now in Alpha
+Jetty Pro
 Source: Hacker News RSS
 Category: technology
-URL: https://ladybird.org/posts/alpha
-Published: 2026-11-23T16:13:12+00:00
+URL: http://hypercritical.co/2026/11/23/jetty-pro
+Published: 2026-11-24T16:23:02+00:00
 
-Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 526 # Comments: 139
+Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 75 # Comments: 25
 
-EasyPost (YC S13) Is Hiring
+Cyberattack campaign compromising Check Point servers across 22 organizations
 Source: Hacker News RSS
 Category: technology
-URL: https://www.easypost.com/careers
-Published: 2026-11-23T17:00:05+00:00
+URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign
+Published: 2026-11-24T16:32:17+00:00
 
-Article URL: https://www.easypost.com/careers/ Comments URL: https://news.ycombinator.com/item?id=50615161 Points: 0 # Comments: 0
+Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 100 # Comments: 39
 
-Kagi Mail is here (Public Beta)
+Weave (YC W25) is hiring ML, AI, product, & design engineers
 Source: Hacker News RSS
 Category: technology
-URL: https://blog.kagi.com/kagi-mail-public-beta
-Published: 2026-11-23T17:17:01+00:00
+URL: https://jobs.ashbyhq.com/weave-os
+Published: 2026-11-24T17:00:55+00:00
 
-Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 55 # Comments: 22
+Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50631041 Points: 0 # Comments: 0
