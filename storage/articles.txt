@@ -31,7 +31,7 @@ Source: GitHub Trending
 Category: technology
 URL: https://github.com/mjmirza/app-store-compliance
 
-Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
+Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
 
 google-labs-code / stitch-skills
 Source: GitHub Trending
@@ -110,204 +110,197 @@ URL: https://github.com/elementalsouls/Claude-BugHunter
 
 A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
-An anti-slavery sugar bowl (2024)
+A Clock Made of Branches
 Source: Hacker News
 Category: technology
-URL: https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl
-Published: 2026-11-22T10:12:22+00:00
-Score: 95
+URL: https://fzakaria.com/2026/11/01/a-clock-made-of-branches
+Published: 2026-11-24T14:20:08+00:00
+Score: 5
 
-Stalwart is now a drop-in replacement for Microsoft Exchange
+Getting old Java phones online again
 Source: Hacker News
 Category: technology
-URL: https://stalw.art/blog/microsoft-exchange-replacement
-Published: 2026-11-23T22:32:29+00:00
-Score: 649
+URL: https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html
+Published: 2026-11-24T13:14:37+00:00
+Score: 139
 
-How a Mechanical Watch Keeps Time (Interactive 3D)
+The short age of dragon riders
 Source: Hacker News
 Category: technology
-URL: https://martincmartin.github.io/slidev-stem/watches/article/1
-Published: 2026-11-22T13:21:25+00:00
-Score: 137
+URL: https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders
+Published: 2026-11-23T05:33:34+00:00
+Score: 207
 
-SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance
+Pinocchio at 200: a tale of hunger, greed and Italy's culinary history
 Source: Hacker News
 Category: technology
-URL: https://dl.acm.org/doi/10.1145/3828523.3857112
-Published: 2026-11-23T06:54:08+00:00
-Score: 42
+URL: https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069
+Published: 2026-11-24T09:06:47+00:00
+Score: 40
 
-Gnomon: Git for Postgres Data
+Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs
 Source: Hacker News
 Category: technology
-URL: https://gnomon.bitsinfra.com/
-Published: 2026-11-23T14:03:38+00:00
-Score: 15
+URL: https://jayd.ml/2026/11/14/rockbox-on-yp3.html
+Published: 2026-11-24T06:22:36+00:00
+Score: 59
 
-Mechanical Pencil: Spray Bottle
-Source: Hacker News
-Category: technology
-URL: https://mechanical-pencil.com/products/spray-bottle
-Published: 2026-11-22T11:16:30+00:00
-Score: 75
-
-GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school
+Ternary Bonsai 2.5 27B
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/ItsNotRexed/Leonida/issues
-Published: 2026-11-24T02:08:09+00:00
+URL: https://prismml.com/news/bonsai-2-5-27b
+Published: 2026-11-24T20:08:03+00:00
 
-Previous thread: Leonida – PC Recompilation of the Xbox Version of GTA 6 - https://news.ycombinator.com/item?id=50595168 Comments URL: https://news.ycombinator.com/item?id=50622638 Points: 259 # Comments: 423
+Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 511 # Comments: 162
 
-New York Bans Subscription and Post-Purchase Fees on Cars
+Launch HN: Versine (YC F26) – MCP to send and receive money
 Source: Hacker News RSS
 Category: technology
-URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription
-Published: 2026-11-24T02:27:02+00:00
+URL: https://news.ycombinator.com/item?id=50634426
+Published: 2026-11-24T20:44:15+00:00
 
-Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription Comments URL: https://news.ycombinator.com/item?id=50622774 Points: 701 # Comments: 335
+Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon. Versine is an MCP that sits in front of a wallet with a balance. With it, your agent can do things like: - Send money to someone with your approval (via passkey in our app) - Send and request money to/from up to 100 people at once - Send money to people without a Versine account (they cash out to their bank in 2 mins) - Pay people without your explicit approval to trusted contacts (you can set this) Here’s a demo: https://youtube.com/shorts/Q9X7zioEqi0 We started working on this because assistants are frustratingly hands-off when it comes to finance and money movement. You can have your assistant go through a receipt and map out all the amounts owed taking care of splitting the subtotal, taxes, tips, but at the end of it the assistant hands back work to you when you have to go out and make the Venmo transfer. Our current solution is oriented towards power users: those who want to automate everything through their agent use us to split dinners, group trips, or settle poker ledgers. We see ourselves unlocking more value for the general consumer as 1. More people turn into power users of agents, and 2. We expand to a more complete banking solution: deposits, transfers, wires, everything you can (and more) do with your bank offered as an MCP. Behind the scenes, each user has a self-custodial stablecoin wallet storing USDC on Base. With self-custodial wallets, users own their keys, meaning money can’t be sent without their approval. Interestingly, we were almost forced into this solution because we had around 4 weeks to build this product (after a pivot), and traditional fiat with a partner bank would have caused far too many regulatory and compliance slowdowns. Because of that, the only fast option that remained was using stablecoin wallets. It also ensures we aren't a Money Services Business (MSB) since we don’t hold control or access to the user’s funds. Each call to the wallet creates what we call one-time or recurring standing permissions. For a one-time payment, your agent makes an MCP call, and you receive a notification in our mobile app. Once you swipe up in the app and approve with a passkey (or your device’s biometric method), we create a one-time permission that instructs your wallet to send $X to your recipient’s address. Trusted contacts let your agent send money to people that you’ve previously authorized without explicit passkey approval. Generally, these are people that you’d trust to send your money back even if your agent made a mistake. We’re also able to support sending money to someone off Versine using claim forwarding, where the user authorizes us to forward a specific amount to a future address (which we create once we verify a recipient's OTP). Param worked on scaling vector search at Databricks and harness evals at Glean. Harshith worked on core Stripe Connect fee-processing infrastructure and built an AWS Fargate autoscaler at Amazon. Vishnu worked on intent-based agent testing infrastructure at Amazon. None of us were experienced in stablecoin or crypto infra before working on Versine but our distributed systems experience has helped us a lot. We'd love for you guys to try it! It's available on iOS and Android and as an MCP on ChatGPT and Claude. We also support a public MCP and REST API for other agents. Please let us know how you find it and if it works as you'd hoped! https://versine.com Comments URL: https://news.ycombinator.com/item?id=50634426 Points: 99 # Comments: 93
 
-Declare is a UI language for you and your AI
+GPT-6 models demonstrate intrinsic protein-design capabilities
 Source: Hacker News RSS
 Category: technology
-URL: https://davidtemkin.github.io/declarelang
-Published: 2026-11-24T02:36:56+00:00
+URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
+Published: 2026-11-24T21:02:22+00:00
 
-Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 93 # Comments: 70
+Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 334 # Comments: 92
 
-Drone Maps of Salvage Yards
+Predicting LoRA size for any dataset
 Source: Hacker News RSS
 Category: technology
-URL: https://salvageyarddrone.wordpress.com/
-Published: 2026-11-24T04:00:28+00:00
+URL: https://engram.com/blog/lora-size
+Published: 2026-11-24T22:34:29+00:00
 
-Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 155 # Comments: 61
+Article URL: https://engram.com/blog/lora-size Comments URL: https://news.ycombinator.com/item?id=50635783 Points: 23 # Comments: 0
 
-AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years
+PenGPT: A Generative Transformer for Handwriting and Sketches
 Source: Hacker News RSS
 Category: technology
-URL: https://www.phoronix.com/review/amd-epyc-9006-7601
-Published: 2026-11-24T05:15:22+00:00
+URL: https://greydanus.github.io/2026/11/12/pengpt
+Published: 2026-11-25T00:54:49+00:00
 
-Article URL: https://www.phoronix.com/review/amd-epyc-9006-7601 Comments URL: https://news.ycombinator.com/item?id=50624061 Points: 194 # Comments: 98
+Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 360 # Comments: 63
 
-2035 came early
+Matrix Multiplication is Θ(n^2.25) [pdf]
 Source: Hacker News RSS
 Category: technology
-URL: https://fzakaria.com/2026/11/23/2035-came-early
-Published: 2026-11-24T06:30:33+00:00
+URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
+Published: 2026-11-25T01:19:26+00:00
 
-Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 779 # Comments: 292
+Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 878 # Comments: 491
 
-Quad9 pulled their DNS service from France
+Models Can Communicate via Inference Servers Despite Being Sandboxed
 Source: Hacker News RSS
 Category: technology
-URL: https://quad9.net/news/blog/quad9-service-deactivation-in-france
-Published: 2026-11-24T08:33:14+00:00
+URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being
+Published: 2026-11-25T02:34:21+00:00
 
-Article URL: https://quad9.net/news/blog/quad9-service-deactivation-in-france/ Comments URL: https://news.ycombinator.com/item?id=50625384 Points: 196 # Comments: 98
+Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being Comments URL: https://news.ycombinator.com/item?id=50637686 Points: 384 # Comments: 161
 
-Just a Few Bugs
+Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native
 Source: Hacker News RSS
 Category: technology
-URL: https://www.justafewbugs.xyz/
-Published: 2026-11-24T09:47:59+00:00
+URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit
+Published: 2026-11-25T03:04:37+00:00
 
-Article URL: https://www.justafewbugs.xyz/ Comments URL: https://news.ycombinator.com/item?id=50625953 Points: 107 # Comments: 36
+Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit Comments URL: https://news.ycombinator.com/item?id=50637890 Points: 365 # Comments: 129
 
-Worshipping at the altar of Brendan Gregg
+Button Sounds – collection of professionally-recorded button clicks and presses
 Source: Hacker News RSS
 Category: technology
-URL: https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg
-Published: 2026-11-24T10:50:14+00:00
+URL: https://buttons.joshwcomeau.com/
+Published: 2026-11-25T03:23:07+00:00
 
-Article URL: https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg Comments URL: https://news.ycombinator.com/item?id=50626413 Points: 170 # Comments: 28
+Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 699 # Comments: 113
 
-LLM agents work for their parent companies, not for you
+Marginalia Search, Money, C++, Rust, AI, Stuff
 Source: Hacker News RSS
 Category: technology
-URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you
-Published: 2026-11-24T12:40:15+00:00
+URL: https://www.marginalia.nu/log/a_141_marginalia_update
+Published: 2026-11-25T03:47:42+00:00
 
-Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 630 # Comments: 261
+Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 200 # Comments: 78
 
-Splitting USB-C: USB 3 and USB 2 on One Port
+Taking over US Treasury subdomains for $3 each
 Source: Hacker News RSS
 Category: technology
-URL: https://www.frankchiarulli.com/blog/splitting-usb-c
-Published: 2026-11-24T14:54:10+00:00
+URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each
+Published: 2026-11-25T04:27:55+00:00
 
-Article URL: https://www.frankchiarulli.com/blog/splitting-usb-c/ Comments URL: https://news.ycombinator.com/item?id=50629106 Points: 36 # Comments: 13
+Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each Comments URL: https://news.ycombinator.com/item?id=50638478 Points: 188 # Comments: 38
 
-A training engine for your local model, using your idle compute
+Show HN: Old Nvidia and ATI tech demos, running again in the browser
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/sous-labs/songe
-Published: 2026-11-24T15:03:40+00:00
+URL: https://gpu-demo-gallery.pages.dev/
+Published: 2026-11-25T04:31:48+00:00
 
-Article URL: https://github.com/sous-labs/songe Comments URL: https://news.ycombinator.com/item?id=50629231 Points: 52 # Comments: 5
+Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 272 # Comments: 60
 
-The KL Divergence Is Never Negative, Except in PyTorch
+Windows Loudness Equalization, reverse-engineered and ported to PipeWire
 Source: Hacker News RSS
 Category: technology
-URL: https://arxiv.org/abs/2611.30835
-Published: 2026-11-24T15:50:22+00:00
+URL: https://github.com/xoxorwr/pw-loudness-eq
+Published: 2026-11-25T11:34:25+00:00
 
-Article URL: https://arxiv.org/abs/2611.30835 Comments URL: https://news.ycombinator.com/item?id=50629962 Points: 26 # Comments: 4
+Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 234 # Comments: 129
 
-Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban
+Hazel (YC W24) Is Hiring a Product Designer
 Source: Hacker News RSS
 Category: technology
-URL: https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063
-Published: 2026-11-24T16:08:29+00:00
+URL: https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract
+Published: 2026-11-25T12:00:34+00:00
 
-Article URL: https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/ Comments URL: https://news.ycombinator.com/item?id=50630245 Points: 43 # Comments: 24
+Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract Comments URL: https://news.ycombinator.com/item?id=50641323 Points: 0 # Comments: 0
 
-Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage
+Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More
 Source: Hacker News RSS
 Category: technology
-URL: https://masondata.ai/
-Published: 2026-11-24T16:11:52+00:00
+URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers
+Published: 2026-11-25T13:33:07+00:00
 
-Hi HN! TLDR: we’ve built an open-source drop-in replacement for a postgres read-replica, powered by duckdb’s columnar compute engine. It’s very fast. And it looks like postgres. So, this started out as: let’s just connect Clickhouse to our postgres dbs and throw our analytics queries at it instead. That will speed everything up. But we quickly found that 1) Clickhouse comes with quite the learning curve (engine optimisation) to make it fast (we needed something we could easily drop in to any customer’s postgres scenario), and 2) we had underestimated how different clickhouse’s SQL syntax was to postgres. Don’t get me wrong: we love Clickhouse (it’s ridiculously fast if you know what queries to expect), it just didn’t work for our ad-hoc postgres workloads. So we went searching for alternatives that were 1) more plug-and-play and 2) looked a lot more like postgres. We dismissed a bunch based on desk research alone: - pg_mooncake (seems to have stalled since data bricks bought them) - pg_duckdb (seems to offer fast queries, or fresh data, but not both - we needed both) - materialize/risingwave/readyset (like Clickhouse, they require knowing the query shapes upfront - not ideal for ad-hoc workloads) - firebolt (license makes it challenging to offer to our customers) - redshift / alloydb / etc (we wanted something cloud-provider agnostic) And we shortlisted 3: - pg_clickhouse (Postgres extension that parses SQL in Postgres and pushes the work down to ClickHouse) - cedarDB (closed-source, Postgres-compatible analytical database) - duckdb (open-source, embedded columnar analytics engine with a Postgres-like SQL dialect) We needed to know how they would perform on real postgres queries, so we took a backlog of 5,410 (hand-written) queries (chosen because they had been slow to execute against postgres) from 159 real postgres databases. We then generated synthetic data (dynamically using the schemas from those 159 databases) to fill 159 local databases so we could run the experiment. We then spun up the 3 short-listed tools locally, and ran each of the 5,410 queries against both postgres and the 3 tools, and compared the results: - pg_clickhouse (matched postgres 59.4% of the time, refused 39.9% of the queries and was “wrong” 0.8% of the time). - cedarDB (matched postgres 88.1% of the time, refused 8% of the queries and was “wrong” 3.9% of the time). - duckdb (matched postgres 84.1% of the time, refused 14.3% of the queries and was “wrong” 1.6% of the time). Matched meant they returned exactly the same result as postgres. Refused meant they returned an error message (usually telling you some syntax isn’t recognised). And “wrong” meant they didn’t return the same results as postgres. I appreciate that arguably postgres may be the one that is wrong in some cases - but for our use case, we considered postgres the golden source of truth. So, both duckdb and cedardb performed pretty well (correctly handled more than 80% of the postgres queries we threw at it), out-of-the box. But we really still wanted to try and cover that long-tail. We chose duckdb as its open-source license would allow us to easily work on the long tail to get the postgres SQL parity we wanted. So, Mason (linked above), is what we built, powered by duckdb, which now matches postgres on 96% of our 5,410 queries, plus hundreds of other queries that we added, testing it with Metabase, Grafana, Superset, DBeaver and Trevor.io. For the remaining 4%, it errors with a nice clear message telling you how to rewrite your SQL. We’d love your feedback on what we’ve built. Useful? How can we make it better? Comments URL: https://news.ycombinator.com/item?id=50630294 Points: 7 # Comments: 0
+Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 256 # Comments: 213
 
-Tidal bans AI-generated music
+U.S. jury convicts Huawei of fraud, Iran sanctions violations
 Source: Hacker News RSS
 Category: technology
-URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924
-Published: 2026-11-24T16:12:38+00:00
+URL: https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204
+Published: 2026-11-25T14:12:29+00:00
 
-Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 207 # Comments: 171
+Article URL: https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/ Comments URL: https://news.ycombinator.com/item?id=50642496 Points: 133 # Comments: 136
 
-How to Make a Lovable City
+I checked Clojure's core with Lean and found unreported bugs
 Source: Hacker News RSS
 Category: technology
-URL: https://www.worksinprogress.news/p/how-to-make-a-lovable-city
-Published: 2026-11-24T16:19:55+00:00
+URL: https://s.conao3.com/blog/2026/e4f733
+Published: 2026-11-25T14:56:52+00:00
 
-Article URL: https://www.worksinprogress.news/p/how-to-make-a-lovable-city Comments URL: https://news.ycombinator.com/item?id=50630423 Points: 25 # Comments: 2
+Article URL: https://s.conao3.com/blog/2026/e4f733 Comments URL: https://news.ycombinator.com/item?id=50642939 Points: 21 # Comments: 3
 
-Jetty Pro
+Rumors swirling that labs might have cracked Factoring in P
 Source: Hacker News RSS
 Category: technology
-URL: http://hypercritical.co/2026/11/23/jetty-pro
-Published: 2026-11-24T16:23:02+00:00
+URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to
+Published: 2026-11-25T15:08:44+00:00
 
-Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 75 # Comments: 25
+Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50643065 Points: 166 # Comments: 113
 
-Cyberattack campaign compromising Check Point servers across 22 organizations
+A few questions for the guy who went snorkeling in a Home Depot retention pond
 Source: Hacker News RSS
 Category: technology
-URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign
-Published: 2026-11-24T16:32:17+00:00
+URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts
+Published: 2026-11-25T15:14:32+00:00
 
-Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 100 # Comments: 39
+Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 197 # Comments: 57
 
-Weave (YC W25) is hiring ML, AI, product, & design engineers
+Investigating degraded experiences across GitHub products
 Source: Hacker News RSS
 Category: technology
-URL: https://jobs.ashbyhq.com/weave-os
-Published: 2026-11-24T17:00:55+00:00
+URL: https://www.githubstatus.com/incidents/qn8mfv6q5hlx
+Published: 2026-11-25T15:59:23+00:00
 
-Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50631041 Points: 0 # Comments: 0
+Article URL: https://www.githubstatus.com/incidents/qn8mfv6q5hlx Comments URL: https://news.ycombinator.com/item?id=50643720 Points: 96 # Comments: 52
