@@ -1,0 +1,81 @@
+{
+  "topic": "Https News.ycombinator.com Item",
+  "topic_key": "https-news.ycombinator.com-item",
+  "confidence": 86.15,
+  "score_breakdown": {
+    "source_quality": 65.25,
+    "corroboration": 100.0,
+    "recency": 82.88,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 96.15,
+  "evidence": [
+    {
+      "title": "Kagi Watch",
+      "url": "https://kagi.com/watch",
+      "publisher": "kagi.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-26T16:58:15.462133+00:00"
+    },
+    {
+      "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+      "url": "https://news.ycombinator.com/item?id=50656763",
+      "publisher": "news.ycombinator.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-26T16:58:15.732205+00:00"
+    },
+    {
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "url": "https://michidk.github.io/sidebyside/",
+      "publisher": "michidk.github.io",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-26T16:58:15.786345+00:00"
+    },
+    {
+      "title": "45\u00b0C inlets just killed the chiller. Most people haven't noticed yet",
+      "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+      "publisher": "www.theregister.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-26T16:58:16.303005+00:00"
+    },
+    {
+      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "publisher": "nextcloud.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-26T16:58:17.221077+00:00"
+    },
+    {
+      "title": "Intel One Mono font",
+      "url": "https://github.com/intel/intel-one-mono",
+      "publisher": "github.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-26T16:58:17.762218+00:00"
+    }
+  ]
+}

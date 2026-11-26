@@ -3,7 +3,7 @@ Source: GitHub Trending
 Category: technology
 URL: https://github.com/zhouxiaoka/autoclip
 
-AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
+AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。
 
 XiaoYouChR / Ghost-Downloader-3
 Source: GitHub Trending
@@ -31,7 +31,7 @@ Source: GitHub Trending
 Category: technology
 URL: https://github.com/mjmirza/app-store-compliance
 
-Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
+Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
 
 google-labs-code / stitch-skills
 Source: GitHub Trending
@@ -108,199 +108,213 @@ Source: GitHub Trending
 Category: technology
 URL: https://github.com/elementalsouls/Claude-BugHunter
 
-A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
-A Clock Made of Branches
+GPT-6.2 Astra is the first model to beat Googlers' code golf records
 Source: Hacker News
 Category: technology
-URL: https://fzakaria.com/2026/11/01/a-clock-made-of-branches
-Published: 2026-11-24T14:20:08+00:00
+URL: https://bjin.github.io/go-codegolf-benchmark
+Published: 2026-11-22T16:44:48+00:00
+Score: 437
+
+What VP ≠ VNP Means (In 3 Minutes)
+Source: Hacker News
+Category: technology
+URL: https://www.friedgil.com/vpvnp
+Published: 2026-11-24T10:56:56+00:00
+Score: 196
+
+The Engineering of Smartphone Cameras
+Source: Hacker News
+Category: technology
+URL: https://www.pencilofrays.com/smartphone-lens
+Published: 2026-11-25T17:20:14+00:00
 Score: 5
 
-Getting old Java phones online again
+Discovery of curse ritual in trash dump surprises Egyptologist
 Source: Hacker News
 Category: technology
-URL: https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html
-Published: 2026-11-24T13:14:37+00:00
-Score: 139
-
-The short age of dragon riders
-Source: Hacker News
-Category: technology
-URL: https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders
-Published: 2026-11-23T05:33:34+00:00
-Score: 207
-
-Pinocchio at 200: a tale of hunger, greed and Italy's culinary history
-Source: Hacker News
-Category: technology
-URL: https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069
-Published: 2026-11-24T09:06:47+00:00
-Score: 40
-
-Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs
-Source: Hacker News
-Category: technology
-URL: https://jayd.ml/2026/11/14/rockbox-on-yp3.html
-Published: 2026-11-24T06:22:36+00:00
+URL: https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html
+Published: 2026-11-23T21:18:49+00:00
 Score: 59
 
-Ternary Bonsai 2.5 27B
+1Password Security Incident
+Source: Hacker News
+Category: technology
+URL: https://1password.com/blog/update-on-nov-2026-security-incident
+Published: 2026-11-25T17:18:26+00:00
+Score: 1586
+
+Curiosity Is No Solo Act
+Source: Hacker News
+Category: technology
+URL: https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act
+Published: 2026-11-25T00:37:07+00:00
+Score: 54
+
+Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening
+Source: Hacker News
+Category: technology
+URL: https://scottaaronson.blog/?p=10379
+Published: 2026-11-25T19:11:27+00:00
+Score: 1838
+
+Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server
 Source: Hacker News RSS
 Category: technology
-URL: https://prismml.com/news/bonsai-2-5-27b
-Published: 2026-11-24T20:08:03+00:00
+URL: https://opensec.in/blog/nfs2root-cve-2026-99362
+Published: 2026-11-25T20:35:50+00:00
 
-Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 511 # Comments: 162
+Article URL: https://opensec.in/blog/nfs2root-cve-2026-99362 Comments URL: https://news.ycombinator.com/item?id=50647161 Points: 191 # Comments: 80
 
-Launch HN: Versine (YC F26) – MCP to send and receive money
+Slow Ubuntu security response times
 Source: Hacker News RSS
 Category: technology
-URL: https://news.ycombinator.com/item?id=50634426
-Published: 2026-11-24T20:44:15+00:00
+URL: https://www.openwall.com/lists/oss-security/2026/11/25/9
+Published: 2026-11-25T20:38:00+00:00
 
-Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon. Versine is an MCP that sits in front of a wallet with a balance. With it, your agent can do things like: - Send money to someone with your approval (via passkey in our app) - Send and request money to/from up to 100 people at once - Send money to people without a Versine account (they cash out to their bank in 2 mins) - Pay people without your explicit approval to trusted contacts (you can set this) Here’s a demo: https://youtube.com/shorts/Q9X7zioEqi0 We started working on this because assistants are frustratingly hands-off when it comes to finance and money movement. You can have your assistant go through a receipt and map out all the amounts owed taking care of splitting the subtotal, taxes, tips, but at the end of it the assistant hands back work to you when you have to go out and make the Venmo transfer. Our current solution is oriented towards power users: those who want to automate everything through their agent use us to split dinners, group trips, or settle poker ledgers. We see ourselves unlocking more value for the general consumer as 1. More people turn into power users of agents, and 2. We expand to a more complete banking solution: deposits, transfers, wires, everything you can (and more) do with your bank offered as an MCP. Behind the scenes, each user has a self-custodial stablecoin wallet storing USDC on Base. With self-custodial wallets, users own their keys, meaning money can’t be sent without their approval. Interestingly, we were almost forced into this solution because we had around 4 weeks to build this product (after a pivot), and traditional fiat with a partner bank would have caused far too many regulatory and compliance slowdowns. Because of that, the only fast option that remained was using stablecoin wallets. It also ensures we aren't a Money Services Business (MSB) since we don’t hold control or access to the user’s funds. Each call to the wallet creates what we call one-time or recurring standing permissions. For a one-time payment, your agent makes an MCP call, and you receive a notification in our mobile app. Once you swipe up in the app and approve with a passkey (or your device’s biometric method), we create a one-time permission that instructs your wallet to send $X to your recipient’s address. Trusted contacts let your agent send money to people that you’ve previously authorized without explicit passkey approval. Generally, these are people that you’d trust to send your money back even if your agent made a mistake. We’re also able to support sending money to someone off Versine using claim forwarding, where the user authorizes us to forward a specific amount to a future address (which we create once we verify a recipient's OTP). Param worked on scaling vector search at Databricks and harness evals at Glean. Harshith worked on core Stripe Connect fee-processing infrastructure and built an AWS Fargate autoscaler at Amazon. Vishnu worked on intent-based agent testing infrastructure at Amazon. None of us were experienced in stablecoin or crypto infra before working on Versine but our distributed systems experience has helped us a lot. We'd love for you guys to try it! It's available on iOS and Android and as an MCP on ChatGPT and Claude. We also support a public MCP and REST API for other agents. Please let us know how you find it and if it works as you'd hoped! https://versine.com Comments URL: https://news.ycombinator.com/item?id=50634426 Points: 99 # Comments: 93
+Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 375 # Comments: 224
 
-GPT-6 models demonstrate intrinsic protein-design capabilities
+The New York Times warns photographers not to update Photoshop over AI features
 Source: Hacker News RSS
 Category: technology
-URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
-Published: 2026-11-24T21:02:22+00:00
+URL: https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
+Published: 2026-11-25T21:18:02+00:00
 
-Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 334 # Comments: 92
+https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 536 # Comments: 455
 
-Predicting LoRA size for any dataset
+Much shorter version of GRH Lean verification from Anthropic
 Source: Hacker News RSS
 Category: technology
-URL: https://engram.com/blog/lora-size
-Published: 2026-11-24T22:34:29+00:00
+URL: https://github.com/lsernau/grh-lean
+Published: 2026-11-25T21:48:10+00:00
 
-Article URL: https://engram.com/blog/lora-size Comments URL: https://news.ycombinator.com/item?id=50635783 Points: 23 # Comments: 0
+Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 512 # Comments: 327
 
-PenGPT: A Generative Transformer for Handwriting and Sketches
+Bare Metal Qwen
 Source: Hacker News RSS
 Category: technology
-URL: https://greydanus.github.io/2026/11/12/pengpt
-Published: 2026-11-25T00:54:49+00:00
+URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os
+Published: 2026-11-25T22:15:34+00:00
 
-Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 360 # Comments: 63
+Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 213 # Comments: 52
 
-Matrix Multiplication is Θ(n^2.25) [pdf]
+Collection of preserved UI style guides
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
-Published: 2026-11-25T01:19:26+00:00
+URL: https://aresluna.org/ui-style-guides
+Published: 2026-11-26T00:40:00+00:00
 
-Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 878 # Comments: 491
+Article URL: https://aresluna.org/ui-style-guides/ Comments URL: https://news.ycombinator.com/item?id=50649834 Points: 334 # Comments: 64
 
-Models Can Communicate via Inference Servers Despite Being Sandboxed
+Tell HN: Lots of Ask HNs again
 Source: Hacker News RSS
 Category: technology
-URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being
-Published: 2026-11-25T02:34:21+00:00
+URL: https://news.ycombinator.com/item?id=50649864
+Published: 2026-11-26T00:43:34+00:00
 
-Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being Comments URL: https://news.ycombinator.com/item?id=50637686 Points: 384 # Comments: 161
+There have been questions about why the /ask page ( https://news.ycombinator.com/ask ) was running dry of Ask HNs - e.g.: Ask HN: Why is Ask HN only showing me 14 posts? - https://news.ycombinator.com/item?id=49984484 - Oct 2026 (47 comments) Ask HN: Why is pagination gone on "Ask HN", and showing only 19 items? - https://news.ycombinator.com/item?id=50280719 - Oct 2026 (3 comments) I believe I found the problem. The pool of stories for https://news.ycombinator.com/ask has traditionally been drawn from the ranked stories list from which we generate the frontpage. That list is restricted to the top 1500 ranked submissions, and it seems the % of submissions which are text posts (i.e. no linked URL) had declined enough to starve the Ask HN feed. The solution is to compute a separate list of ranked Ask HNs. p.s. "Ask HN" is the conventional name but it means text posts. The title can also start with "Tell HN" or nothing in particular. They're just posts which were submitted without a URL. Comments URL: https://news.ycombinator.com/item?id=50649864 Points: 355 # Comments: 143
 
-Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native
+Minipg: PostgreSQL as a Single Executable
 Source: Hacker News RSS
 Category: technology
-URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit
-Published: 2026-11-25T03:04:37+00:00
+URL: https://progrium.github.io/minipg
+Published: 2026-11-26T03:00:48+00:00
 
-Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit Comments URL: https://news.ycombinator.com/item?id=50637890 Points: 365 # Comments: 129
+Article URL: https://progrium.github.io/minipg/ Comments URL: https://news.ycombinator.com/item?id=50650892 Points: 239 # Comments: 35
 
-Button Sounds – collection of professionally-recorded button clicks and presses
+Unconditional Integer Factorization in Subexponential Time
 Source: Hacker News RSS
 Category: technology
-URL: https://buttons.joshwcomeau.com/
-Published: 2026-11-25T03:23:07+00:00
+URL: https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization
+Published: 2026-11-26T04:59:56+00:00
 
-Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 699 # Comments: 113
+Article URL: https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization Comments URL: https://news.ycombinator.com/item?id=50651627 Points: 115 # Comments: 15
 
-Marginalia Search, Money, C++, Rust, AI, Stuff
+Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years
 Source: Hacker News RSS
 Category: technology
-URL: https://www.marginalia.nu/log/a_141_marginalia_update
-Published: 2026-11-25T03:47:42+00:00
+URL: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix
+Published: 2026-11-26T05:12:59+00:00
 
-Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 200 # Comments: 78
+Article URL: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/ Comments URL: https://news.ycombinator.com/item?id=50651719 Points: 195 # Comments: 41
 
-Taking over US Treasury subdomains for $3 each
+An algebraic quantization of gravity from the null cone
 Source: Hacker News RSS
 Category: technology
-URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each
-Published: 2026-11-25T04:27:55+00:00
+URL: https://arxiv.org/abs/2611.34924
+Published: 2026-11-26T05:37:51+00:00
 
-Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each Comments URL: https://news.ycombinator.com/item?id=50638478 Points: 188 # Comments: 38
+Article URL: https://arxiv.org/abs/2611.34924 Comments URL: https://news.ycombinator.com/item?id=50651863 Points: 128 # Comments: 36
 
-Show HN: Old Nvidia and ATI tech demos, running again in the browser
+Moat: Your OpenRouter Replacement
 Source: Hacker News RSS
 Category: technology
-URL: https://gpu-demo-gallery.pages.dev/
-Published: 2026-11-25T04:31:48+00:00
+URL: https://commandcode.ai/moat
+Published: 2026-11-26T06:32:48+00:00
 
-Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 272 # Comments: 60
+Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 168 # Comments: 103
 
-Windows Loudness Equalization, reverse-engineered and ported to PipeWire
+Intel One Mono font
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/xoxorwr/pw-loudness-eq
-Published: 2026-11-25T11:34:25+00:00
+URL: https://github.com/intel/intel-one-mono
+Published: 2026-11-26T10:11:01+00:00
 
-Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 234 # Comments: 129
+Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 318 # Comments: 191
 
-Hazel (YC W24) Is Hiring a Product Designer
+Euro-Office comes to your desktop with the Nextcloud Office Desktop app
 Source: Hacker News RSS
 Category: technology
-URL: https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract
-Published: 2026-11-25T12:00:34+00:00
+URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app
+Published: 2026-11-26T11:50:49+00:00
 
-Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract Comments URL: https://news.ycombinator.com/item?id=50641323 Points: 0 # Comments: 0
+Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 308 # Comments: 128
 
-Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More
+Head of Software Engineering – NOX Metals
 Source: Hacker News RSS
 Category: technology
-URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers
-Published: 2026-11-25T13:33:07+00:00
+URL: https://news.ycombinator.com/item?id=50654353
+Published: 2026-11-26T12:00:00+00:00
 
-Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 256 # Comments: 213
+Comments URL: https://news.ycombinator.com/item?id=50654353 Points: 0 # Comments: 0
 
-U.S. jury convicts Huawei of fraud, Iran sanctions violations
+45°C inlets just killed the chiller. Most people haven't noticed yet
 Source: Hacker News RSS
 Category: technology
-URL: https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204
-Published: 2026-11-25T14:12:29+00:00
+URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831
+Published: 2026-11-26T13:48:11+00:00
 
-Article URL: https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/ Comments URL: https://news.ycombinator.com/item?id=50642496 Points: 133 # Comments: 136
+Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831 Comments URL: https://news.ycombinator.com/item?id=50655278 Points: 131 # Comments: 60
 
-I checked Clojure's core with Lean and found unreported bugs
+Tell HN: Happy Thanksgiving
 Source: Hacker News RSS
 Category: technology
-URL: https://s.conao3.com/blog/2026/e4f733
-Published: 2026-11-25T14:56:52+00:00
+URL: https://news.ycombinator.com/item?id=50655664
+Published: 2026-11-26T14:26:54+00:00
 
-Article URL: https://s.conao3.com/blog/2026/e4f733 Comments URL: https://news.ycombinator.com/item?id=50642939 Points: 21 # Comments: 3
+Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 313 # Comments: 88
 
-Rumors swirling that labs might have cracked Factoring in P
+Show HN: Three Linux VMs in a browser tab, each running a different browser
 Source: Hacker News RSS
 Category: technology
-URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to
-Published: 2026-11-25T15:08:44+00:00
+URL: https://michidk.github.io/sidebyside
+Published: 2026-11-26T15:00:06+00:00
 
-Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50643065 Points: 166 # Comments: 113
+Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 21 # Comments: 7
 
-A few questions for the guy who went snorkeling in a Home Depot retention pond
+Ask HN: Any courses/products by indie makers worth getting today?
 Source: Hacker News RSS
 Category: technology
-URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts
-Published: 2026-11-25T15:14:32+00:00
+URL: https://news.ycombinator.com/item?id=50656763
+Published: 2026-11-26T16:16:41+00:00
 
-Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 197 # Comments: 57
+Though I am not a JS dev, I got threejs-journey (no affiliation with the creator) last year on a whim, enjoyed it. Any courses/products/books etc that you recommend, specifically from Indie makers? Not interested in big promotions like Udemy, Datacamp etc Comments URL: https://news.ycombinator.com/item?id=50656763 Points: 15 # Comments: 6
 
-Investigating degraded experiences across GitHub products
+Kagi Watch
 Source: Hacker News RSS
 Category: technology
-URL: https://www.githubstatus.com/incidents/qn8mfv6q5hlx
-Published: 2026-11-25T15:59:23+00:00
+URL: https://kagi.com/watch
+Published: 2026-11-26T16:28:54+00:00
 
-Article URL: https://www.githubstatus.com/incidents/qn8mfv6q5hlx Comments URL: https://news.ycombinator.com/item?id=50643720 Points: 96 # Comments: 52
+Article URL: https://kagi.com/watch Comments URL: https://news.ycombinator.com/item?id=50656862 Points: 20 # Comments: 19
