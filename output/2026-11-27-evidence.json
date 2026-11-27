@@ -1,0 +1,81 @@
+{
+  "topic": "Https Url News.ycombinator.com",
+  "topic_key": "https-url-news.ycombinator.com",
+  "confidence": 87.3,
+  "score_breakdown": {
+    "source_quality": 65.24,
+    "corroboration": 100.0,
+    "recency": 88.64,
+    "relevance": 100.0,
+    "momentum": 100.0
+  },
+  "final_vote": 97.3,
+  "evidence": [
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "publisher": "www.infohawk.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-27T16:43:56.069032+00:00"
+    },
+    {
+      "title": "False Computer-Checked Proofs",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "publisher": "cr.yp.to",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-27T16:43:56.502977+00:00"
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "publisher": "generativehistory.substack.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "source-summary",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-27T16:43:56.614112+00:00"
+    },
+    {
+      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "publisher": "bouncemarket.minhanhday.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-27T16:43:56.847832+00:00"
+    },
+    {
+      "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+      "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+      "publisher": "thequantuminsider.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-27T16:43:57.005888+00:00"
+    },
+    {
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "url": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+      "publisher": "www.bbc.com",
+      "source": "Hacker News RSS",
+      "reliability": 0.65,
+      "corroborated": true,
+      "retrieval_status": "rechecked",
+      "has_code_snippet": false,
+      "collected_at": "2026-11-27T16:43:57.179214+00:00"
+    }
+  ]
+}

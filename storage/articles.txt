@@ -110,211 +110,204 @@ URL: https://github.com/elementalsouls/Claude-BugHunter
 
 A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
-GPT-6.2 Astra is the first model to beat Googlers' code golf records
+Intel One Mono font (2023)
 Source: Hacker News
-Category: technology
-URL: https://bjin.github.io/go-codegolf-benchmark
-Published: 2026-11-22T16:44:48+00:00
-Score: 437
-
-What VP ≠ VNP Means (In 3 Minutes)
-Source: Hacker News
-Category: technology
-URL: https://www.friedgil.com/vpvnp
-Published: 2026-11-24T10:56:56+00:00
-Score: 196
-
-The Engineering of Smartphone Cameras
-Source: Hacker News
-Category: technology
-URL: https://www.pencilofrays.com/smartphone-lens
-Published: 2026-11-25T17:20:14+00:00
-Score: 5
-
-Discovery of curse ritual in trash dump surprises Egyptologist
-Source: Hacker News
-Category: technology
-URL: https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html
-Published: 2026-11-23T21:18:49+00:00
-Score: 59
-
-1Password Security Incident
-Source: Hacker News
-Category: technology
-URL: https://1password.com/blog/update-on-nov-2026-security-incident
-Published: 2026-11-25T17:18:26+00:00
-Score: 1586
-
-Curiosity Is No Solo Act
-Source: Hacker News
-Category: technology
-URL: https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act
-Published: 2026-11-25T00:37:07+00:00
-Score: 54
-
-Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening
-Source: Hacker News
-Category: technology
-URL: https://scottaaronson.blog/?p=10379
-Published: 2026-11-25T19:11:27+00:00
-Score: 1838
-
-Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server
-Source: Hacker News RSS
-Category: technology
-URL: https://opensec.in/blog/nfs2root-cve-2026-99362
-Published: 2026-11-25T20:35:50+00:00
-
-Article URL: https://opensec.in/blog/nfs2root-cve-2026-99362 Comments URL: https://news.ycombinator.com/item?id=50647161 Points: 191 # Comments: 80
-
-Slow Ubuntu security response times
-Source: Hacker News RSS
-Category: technology
-URL: https://www.openwall.com/lists/oss-security/2026/11/25/9
-Published: 2026-11-25T20:38:00+00:00
-
-Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 375 # Comments: 224
-
-The New York Times warns photographers not to update Photoshop over AI features
-Source: Hacker News RSS
-Category: technology
-URL: https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
-Published: 2026-11-25T21:18:02+00:00
-
-https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 536 # Comments: 455
-
-Much shorter version of GRH Lean verification from Anthropic
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/lsernau/grh-lean
-Published: 2026-11-25T21:48:10+00:00
-
-Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 512 # Comments: 327
-
-Bare Metal Qwen
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os
-Published: 2026-11-25T22:15:34+00:00
-
-Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 213 # Comments: 52
-
-Collection of preserved UI style guides
-Source: Hacker News RSS
-Category: technology
-URL: https://aresluna.org/ui-style-guides
-Published: 2026-11-26T00:40:00+00:00
-
-Article URL: https://aresluna.org/ui-style-guides/ Comments URL: https://news.ycombinator.com/item?id=50649834 Points: 334 # Comments: 64
-
-Tell HN: Lots of Ask HNs again
-Source: Hacker News RSS
-Category: technology
-URL: https://news.ycombinator.com/item?id=50649864
-Published: 2026-11-26T00:43:34+00:00
-
-There have been questions about why the /ask page ( https://news.ycombinator.com/ask ) was running dry of Ask HNs - e.g.: Ask HN: Why is Ask HN only showing me 14 posts? - https://news.ycombinator.com/item?id=49984484 - Oct 2026 (47 comments) Ask HN: Why is pagination gone on "Ask HN", and showing only 19 items? - https://news.ycombinator.com/item?id=50280719 - Oct 2026 (3 comments) I believe I found the problem. The pool of stories for https://news.ycombinator.com/ask has traditionally been drawn from the ranked stories list from which we generate the frontpage. That list is restricted to the top 1500 ranked submissions, and it seems the % of submissions which are text posts (i.e. no linked URL) had declined enough to starve the Ask HN feed. The solution is to compute a separate list of ranked Ask HNs. p.s. "Ask HN" is the conventional name but it means text posts. The title can also start with "Tell HN" or nothing in particular. They're just posts which were submitted without a URL. Comments URL: https://news.ycombinator.com/item?id=50649864 Points: 355 # Comments: 143
-
-Minipg: PostgreSQL as a Single Executable
-Source: Hacker News RSS
-Category: technology
-URL: https://progrium.github.io/minipg
-Published: 2026-11-26T03:00:48+00:00
-
-Article URL: https://progrium.github.io/minipg/ Comments URL: https://news.ycombinator.com/item?id=50650892 Points: 239 # Comments: 35
-
-Unconditional Integer Factorization in Subexponential Time
-Source: Hacker News RSS
-Category: technology
-URL: https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization
-Published: 2026-11-26T04:59:56+00:00
-
-Article URL: https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization Comments URL: https://news.ycombinator.com/item?id=50651627 Points: 115 # Comments: 15
-
-Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years
-Source: Hacker News RSS
-Category: technology
-URL: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix
-Published: 2026-11-26T05:12:59+00:00
-
-Article URL: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/ Comments URL: https://news.ycombinator.com/item?id=50651719 Points: 195 # Comments: 41
-
-An algebraic quantization of gravity from the null cone
-Source: Hacker News RSS
-Category: technology
-URL: https://arxiv.org/abs/2611.34924
-Published: 2026-11-26T05:37:51+00:00
-
-Article URL: https://arxiv.org/abs/2611.34924 Comments URL: https://news.ycombinator.com/item?id=50651863 Points: 128 # Comments: 36
-
-Moat: Your OpenRouter Replacement
-Source: Hacker News RSS
-Category: technology
-URL: https://commandcode.ai/moat
-Published: 2026-11-26T06:32:48+00:00
-
-Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 168 # Comments: 103
-
-Intel One Mono font
-Source: Hacker News RSS
 Category: technology
 URL: https://github.com/intel/intel-one-mono
 Published: 2026-11-26T10:11:01+00:00
+Score: 564
 
-Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 318 # Comments: 191
+CTO of 'RansomwareHelp' indicted for wire fraud
+Source: Hacker News
+Category: technology
+URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud
+Published: 2026-11-26T17:47:45+00:00
+Score: 318
 
-Euro-Office comes to your desktop with the Nextcloud Office Desktop app
+AMD-specific fork of llama.cpp
+Source: Hacker News
+Category: technology
+URL: https://devnull.land/amd-specific-llama-cpp
+Published: 2026-11-26T17:11:29+00:00
+Score: 415
+
+YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays
+Source: Hacker News
+Category: technology
+URL: https://github.com/antonpictures/youtube-punisher
+Published: 2026-11-26T17:36:47+00:00
+Score: 492
+
+Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
+Source: Hacker News
+Category: technology
+URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan
+Published: 2026-11-26T21:08:05+00:00
+Score: 465
+
+First images of the impact of DART asteroid deflection experiment
+Source: Hacker News
+Category: technology
+URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup
+Published: 2026-11-26T17:24:37+00:00
+Score: 97
+
+AI made self-hosting fun again
 Source: Hacker News RSS
 Category: technology
-URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app
-Published: 2026-11-26T11:50:49+00:00
+URL: https://janlukas.blog/posts/ai-self-hosting
+Published: 2026-11-26T21:47:45+00:00
 
-Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 308 # Comments: 128
+Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 945 # Comments: 457
 
-Head of Software Engineering – NOX Metals
+Hard Drive pricing has gotten bad
 Source: Hacker News RSS
 Category: technology
-URL: https://news.ycombinator.com/item?id=50654353
-Published: 2026-11-26T12:00:00+00:00
+URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up
+Published: 2026-11-27T01:13:49+00:00
 
-Comments URL: https://news.ycombinator.com/item?id=50654353 Points: 0 # Comments: 0
+Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 490 # Comments: 423
 
-45°C inlets just killed the chiller. Most people haven't noticed yet
+The Cutthroat Business of Shipwrecks
 Source: Hacker News RSS
 Category: technology
-URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831
-Published: 2026-11-26T13:48:11+00:00
+URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks
+Published: 2026-11-27T01:21:49+00:00
 
-Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831 Comments URL: https://news.ycombinator.com/item?id=50655278 Points: 131 # Comments: 60
+Article URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/ Comments URL: https://news.ycombinator.com/item?id=50661705 Points: 55 # Comments: 13
 
-Tell HN: Happy Thanksgiving
+Buy Nothing Day – Friday November 27th 2026
 Source: Hacker News RSS
 Category: technology
-URL: https://news.ycombinator.com/item?id=50655664
-Published: 2026-11-26T14:26:54+00:00
+URL: https://www.buynothingday.co.uk/
+Published: 2026-11-27T05:52:42+00:00
 
-Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 313 # Comments: 88
+Article URL: https://www.buynothingday.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50663261 Points: 267 # Comments: 81
 
-Show HN: Three Linux VMs in a browser tab, each running a different browser
+The group chat where your AI talks behind your back
 Source: Hacker News RSS
 Category: technology
-URL: https://michidk.github.io/sidebyside
-Published: 2026-11-26T15:00:06+00:00
+URL: https://construct22.com/
+Published: 2026-11-27T06:44:34+00:00
 
-Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 21 # Comments: 7
+Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 535 # Comments: 236
 
-Ask HN: Any courses/products by indie makers worth getting today?
+Claude sabotaging ML research tasks?
 Source: Hacker News RSS
 Category: technology
-URL: https://news.ycombinator.com/item?id=50656763
-Published: 2026-11-26T16:16:41+00:00
+URL: https://twitter.com/RealAstropulse/status/2126119408997466389
+Published: 2026-11-27T08:28:08+00:00
 
-Though I am not a JS dev, I got threejs-journey (no affiliation with the creator) last year on a whim, enjoyed it. Any courses/products/books etc that you recommend, specifically from Indie makers? Not interested in big promotions like Udemy, Datacamp etc Comments URL: https://news.ycombinator.com/item?id=50656763 Points: 15 # Comments: 6
+Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 237 # Comments: 133
 
-Kagi Watch
+Pimalaya goes stable: Himalaya v3 and the pimdir standard
 Source: Hacker News RSS
 Category: technology
-URL: https://kagi.com/watch
-Published: 2026-11-26T16:28:54+00:00
+URL: https://blog.pimalaya.org/pimalaya-goes-stable
+Published: 2026-11-27T09:50:02+00:00
 
-Article URL: https://kagi.com/watch Comments URL: https://news.ycombinator.com/item?id=50656862 Points: 20 # Comments: 19
+Article URL: https://blog.pimalaya.org/pimalaya-goes-stable/ Comments URL: https://news.ycombinator.com/item?id=50664931 Points: 19 # Comments: 0
+
+AI on brink of making online security useless, mathematicians fear
+Source: Hacker News RSS
+Category: technology
+URL: https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8
+Published: 2026-11-27T11:09:04+00:00
+
+https://archive.ph/4hRp8 Comments URL: https://news.ycombinator.com/item?id=50665488 Points: 77 # Comments: 94
+
+Kimi for Science: More scientific ideas, made possible
+Source: Hacker News RSS
+Category: technology
+URL: https://www.kimi.ai/news/kimi-for-science-program
+Published: 2026-11-27T12:03:11+00:00
+
+Article URL: https://www.kimi.ai/news/kimi-for-science-program Comments URL: https://news.ycombinator.com/item?id=50665920 Points: 127 # Comments: 87
+
+A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]
+Source: Hacker News RSS
+Category: technology
+URL: https://eprint.iacr.org/2026/3020.pdf
+Published: 2026-11-27T12:08:51+00:00
+
+Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 163 # Comments: 73
+
+New York and California age gating rules go into effect in the new year
+Source: Hacker News RSS
+Category: technology
+URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year
+Published: 2026-11-27T12:43:40+00:00
+
+Article URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year Comments URL: https://news.ycombinator.com/item?id=50666279 Points: 104 # Comments: 124
+
+US Air Force's cloud computing platform hacked
+Source: Hacker News RSS
+Category: technology
+URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163
+Published: 2026-11-27T12:54:11+00:00
+
+Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 163 # Comments: 90
+
+Mental Health Resources and Political Engagement
+Source: Hacker News RSS
+Category: technology
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219
+Published: 2026-11-27T13:01:02+00:00
+
+Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219 Comments URL: https://news.ycombinator.com/item?id=50666436 Points: 88 # Comments: 157
+
+Making a 3D fantasy map like a 16th-Century atlas
+Source: Hacker News RSS
+Category: technology
+URL: https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas
+Published: 2026-11-27T14:02:52+00:00
+
+Article URL: https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas Comments URL: https://news.ycombinator.com/item?id=50667062 Points: 11 # Comments: 0
+
+Norse Atlantic suspends all flights as it faces potential collapse
+Source: Hacker News RSS
+Category: technology
+URL: https://www.bbc.com/news/articles/c9kgmd0ldy0lo
+Published: 2026-11-27T14:09:44+00:00
+
+Article URL: https://www.bbc.com/news/articles/c9kgmd0ldy0lo Comments URL: https://news.ycombinator.com/item?id=50667143 Points: 38 # Comments: 29
+
+Stanford Physicist Uses AI to Tackle Quantum Gravity Problem
+Source: Hacker News RSS
+Category: technology
+URL: https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem
+Published: 2026-11-27T14:55:57+00:00
+
+Article URL: https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/ Comments URL: https://news.ycombinator.com/item?id=50667664 Points: 19 # Comments: 6
+
+Show HN: bouncemarket – a live prediction market game for a bouncing ball
+Source: Hacker News RSS
+Category: technology
+URL: https://bouncemarket.minhanhday.com/
+Published: 2026-11-27T15:01:50+00:00
+
+a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome. There's some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they're not too hard to beat -- it's when the market is full of real people that it gets tricky. Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not. Comments URL: https://news.ycombinator.com/item?id=50667726 Points: 132 # Comments: 41
+
+GPT 6.2 Astra Solves a Historical Mystery
+Source: Hacker News RSS
+Category: technology
+URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical
+Published: 2026-11-27T15:03:17+00:00
+
+Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 66 # Comments: 30
+
+False Computer-Checked Proofs
+Source: Hacker News RSS
+Category: technology
+URL: https://cr.yp.to/proofs/falseccp.html
+Published: 2026-11-27T15:26:09+00:00
+
+Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 26 # Comments: 4
+
+Credit card skimming scripts using WebRTC found on popular shopping sites
+Source: Hacker News RSS
+Category: technology
+URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer
+Published: 2026-11-27T15:40:31+00:00
+
+Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 36 # Comments: 9
